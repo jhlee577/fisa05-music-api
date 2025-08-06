@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Summer  
-> 아티스트: **DmytroMusic**  
-> 앨범: _Milestones_  
+## 🎧 Rain~雨降りの休日  
+> 아티스트: **Ballad Maker**  
+> 앨범: _Ride to the Rhythm_  
 
-🔍 검색 키워드: `acoustic+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/acoustic-summer/1762310169?i=1762310287&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/b6/df/23b6df7d-6d1b-0c9c-94fa-f9842f4a15d8/mzaf_15652613694169982581.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain-%E9%9B%A8%E9%99%8D%E3%82%8A%E3%81%AE%E4%BC%91%E6%97%A5/1799893590?i=1799893598&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/73/2c/65732c81-4c11-d654-f873-81144ea9df91/mzaf_15546983919626286541.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/7c/e6/967ce6dc-17d5-5804-2408-bc92f595243f/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/88/bb/6288bb1f-ab43-dd55-da17-ff8efd8c802f/4582649590662.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-06 07:01:23 (UTC)
+⏳ 업데이트 시간: 2025-08-06 08:05:31 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
