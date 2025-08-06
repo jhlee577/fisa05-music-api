@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 WHITE NIGHT  
-> 아티스트: **TAEYANG**  
-> 앨범: _WHITE NIGHT_  
+## 🎧 A Summer Song (Japanese Version)  
+> 아티스트: **エミ・マイヤー & THE SHANGHAI RESTORATION PROJECT**  
+> 앨범: _A Summer Song_  
 
-🔍 검색 키워드: `kpop+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/white-night/1271987373?i=1271987374&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/9f/0f/e59f0fe0-a108-d618-2406-963466d3efbb/mzaf_9189706886690302133.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/a-summer-song-japanese-version/370087228?i=370087283&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/4d/21/854d213c-836a-7986-b2b4-ad0aced983ff/mzaf_9297629720191727921.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ed/8f/34/ed8f3494-5cd2-5e67-0ba0-e9428649568f/TAEYANG_WHITENIGHT_COVER.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/67/e4/2167e4dc-1be6-8f83-049b-6c2feb4187a9/mzi.kambymsb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-06 09:33:16 (UTC)
+⏳ 업데이트 시간: 2025-08-06 10:29:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
