@@ -2,8 +2,12 @@ name: update-music
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 매 시간 실행
+    - cron: '0 * * * *'  # 매 시간 정각에 실행 (UTC)
   workflow_dispatch:
+
+# ✅ Push 권한을 위해 필요
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -26,7 +30,41 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md daily_song.json
           git commit -m "🎵 음악 추천 업데이트" || echo "No changes to commit"
-          git push
+          git pull --rebase origin main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+
+
+# name: update-music
+
+# on:
+#   schedule:
+#     - cron: '0 * * * *'  # 매 시간 실행
+#   workflow_dispatch:
+
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+
+#       - name: Set up Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: '3.11'
+
+#       - name: Install dependencies
+#         run: pip install requests
+
+#       - name: Run music script
+#         run: python get_music.py
+
+#       - name: Commit and push
+#         run: |
+#           git config --global user.name "github-actions[bot]"
+#           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+#           git add README.md
+#           git commit -m "🎵 음악 추천 업데이트" || echo "No changes to commit"
+#           git push
 
