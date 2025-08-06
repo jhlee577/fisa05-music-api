@@ -35,7 +35,7 @@ def get_random_song():
         results = response.json().get("results", [])
 
         if not results:
-            return None, country, keyword
+            return None
 
         song = random.choice(results)
 
@@ -53,10 +53,9 @@ def get_random_song():
 
     except requests.RequestException as e:
         print("API 요청 오류:", e)
-        return None, country, keyword
+        return None
 
 def load_cached_song():
-    """캐시된 곡이 있으면 불러오기"""
     today = datetime.now().strftime("%Y-%m-%d")
     if os.path.exists(CACHE_PATH):
         with open(CACHE_PATH, "r", encoding="utf-8") as f:
@@ -66,14 +65,13 @@ def load_cached_song():
     return None
 
 def save_song_cache(song):
-    """추천 곡을 json 파일에 저장"""
     with open(CACHE_PATH, "w", encoding="utf-8") as f:
         json.dump(song, f, ensure_ascii=False, indent=2)
 
 def update_readme():
     song = load_cached_song()
     if not song:
-        song, _, _ = get_random_song()
+        song = get_random_song()
         if song:
             save_song_cache(song)
 
@@ -119,6 +117,7 @@ def update_readme():
 
 if __name__ == "__main__":
     update_readme()
+
 
 
 # import requests

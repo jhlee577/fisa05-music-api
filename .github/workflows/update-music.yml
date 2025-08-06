@@ -2,10 +2,9 @@ name: update-music
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 매 시간 정각에 실행 (UTC)
+    - cron: '0 * * * *'  # 매 시간 정각
   workflow_dispatch:
 
-# ✅ Push 권한을 위해 필요
 permissions:
   contents: write
 
@@ -30,9 +29,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add README.md daily_song.json
           git commit -m "🎵 음악 추천 업데이트" || echo "No changes to commit"
-          git pull --rebase origin main
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
 
 
