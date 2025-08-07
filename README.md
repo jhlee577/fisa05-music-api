@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Your eyes tell  
-> 아티스트: **BTS**  
-> 앨범: _MAP OF THE SOUL : 7 ~ THE JOURNEY ~_  
+## 🎧 O Come All Ye Faithful / O Holy Night (Instrumental)  
+> 아티스트: **Trans-Siberian Orchestra**  
+> 앨범: _Christmas Eve and Other Stories_  
 
-🔍 검색 키워드: `kpop+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/your-eyes-tell/1517969553?i=1517969731&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/ea/53/6bea538d-2b71-ed94-3609-02bf38b17fd8/mzaf_15569783749848704825.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/o-come-all-ye-faithful-o-holy-night-instrumental/206345419?i=206345424&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/aa/02/ffaa023a-b3be-32a0-c59c-08a041000198/mzaf_4484105541898166335.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/a4/81/89a481e5-2784-70d6-8404-3642871ca493/20UMGIM44782.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/7c/f4/e07cf4d8-8fbf-96df-ae7a-6a25c8583256/mzi.sxqwkjew.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-07 09:32:26 (UTC)
+⏳ 업데이트 시간: 2025-08-07 10:28:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
