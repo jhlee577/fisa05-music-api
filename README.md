@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Supreme  
-> 아티스트: **Lofi Masters, Lofi Sad, Lumi-Lofi & Nesyu Beats**  
-> 앨범: _Evil (Instrumental)_  
+## 🎧 Sad-Eyed Lady of the Lowlands  
+> 아티스트: **Bob Dylan**  
+> 앨범: _Blonde On Blonde_  
 
-🔍 검색 키워드: `lofi+sad`  
+🔍 검색 키워드: `rock+sad`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/supreme/1462819606?i=1462819889&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ea/53/89/ea5389a2-115e-61d7-dffd-b91f83666e49/mzaf_1196675407796529803.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-eyed-lady-of-the-lowlands/178049863?i=178052481&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/8a/71/738a7138-b6b3-6312-30c0-f08868df942c/mzaf_8330999083037683566.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0d/8a/76/0d8a7621-9f07-9793-2b7c-7bbce4dc467d/018736733796_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/9d/bf/209dbf58-f698-7181-33de-0c29480beba0/074640084126.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-07 07:30:08 (UTC)
+⏳ 업데이트 시간: 2025-08-07 08:36:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
