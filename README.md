@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 The Sad Cafe  
-> 아티스트: **Eagles**  
-> 앨범: _The Very Best of Eagles_  
+## 🎧 Pop Love (feat. Badseoungboy)  
+> 아티스트: **Syouma**  
+> 앨범: _Pop Love (feat. Badseoungboy) - Single_  
 
-🔍 검색 키워드: `rock+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/the-sad-cafe/636866317?i=636867081&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cd/dd/80/cddd8047-01d0-4669-3fac-e2d86a4df2ee/mzaf_12021427791007890586.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/pop-love-feat-badseoungboy/1605366498?i=1605366501&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bb/92/0c/bb920c16-c1e7-3c7e-0fa9-22e1a710cede/mzaf_9252653662353180878.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/90/0d/88900ddb-b23e-c1e6-8147-20eb92340076/081227397128.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/65/a2/2165a292-a703-6b80-bae6-ff46af32862e/859757811519_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-10 13:33:03 (UTC)
+⏳ 업데이트 시간: 2025-08-10 14:22:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
