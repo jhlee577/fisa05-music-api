@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Rain  
-> 아티스트: **UncleL**  
-> 앨범: _Wave Machine_  
+## 🎧 Sleep through the Night  
+> 아티스트: **Sleep Music Lullabies**  
+> 앨범: _Sleep Music - 101 Sleep Songs_  
 
-🔍 검색 키워드: `jazz+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/jazz-rain/1526907698?i=1526907726&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/1a/00/59/1a00592e-4d4d-c842-9a92-5f49ffec63ef/mzaf_4747285187481534569.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sleep-through-the-night/474724970?i=474725067&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/6b/09/8a6b0905-e8c3-9134-b5e7-58fb96c0ba72/mzaf_16243648350860865040.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/e8/f8/40e8f811-310a-cd92-2873-20043f3400b9/5059580242244_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/8f/d7/91/8fd791c9-49a1-3296-4ad9-a517633fd8de/dj.tbqhwref.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-10 18:33:24 (UTC)
+⏳ 업데이트 시간: 2025-08-10 19:19:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
