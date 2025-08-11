@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 True love, await  
-> 아티스트: **Jazz night**  
-> 앨범: _True love, await - Single_  
+## 🎧 Acoustic summer  
+> 아티스트: **Francesco De Luca & Alessandro Forti**  
+> 앨범: _Acoustic traditions & travel (Colonna sonora originale del programma Tv "Geo & Geo")_  
 
-🔍 검색 키워드: `jazz+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/true-love-await/1820813684?i=1820813685&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/34/e2/c734e22c-06a3-eaee-ed58-576e652ad855/mzaf_9822702410994129939.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/acoustic-summer/1820045902?i=1820045925&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/6f/33/876f3359-7551-6012-fd2e-4f4d228a16b6/mzaf_15679547312458471634.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/c5/6a/93c56a4d-81a1-4731-31a7-d92699c37fcd/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/fe/ac/81feac23-9c9c-5b3a-548b-4b118f44b1a1/3616556690021.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-10 23:23:36 (UTC)
+⏳ 업데이트 시간: 2025-08-11 02:11:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
