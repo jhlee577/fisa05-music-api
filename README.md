@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad of the Sad Young Men  
-> 아티스트: **Roberta Flack**  
-> 앨범: _First Take_  
+## 🎧 Amada  
+> 아티스트: **Acoustic Dream**  
+> 앨범: _Acoustic Dream_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad-of-the-sad-young-men/355178034?i=355178163&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0d/da/e2/0ddae2c1-7ec6-76c4-c923-39e1e639efab/mzaf_16202265707734381597.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/amada/49584517?i=49584396&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/Music/6c/6c/4f/mzm.njgtwnmj.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/56/1e/a2561e44-40f2-c839-f36f-38da586885a8/mzi.mkfiotkx.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m03/d09/h17/s05.wlwnfxxu.tif/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-11 09:31:36 (UTC)
+⏳ 업데이트 시간: 2025-08-11 10:29:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
