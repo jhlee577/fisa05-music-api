@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad Piano Music (Sad Songs)  
-> 아티스트: **Sad Piano Music Collective**  
-> 앨범: _Sad Songs_  
+## 🎧 Celebrate (feat. Sun Ahn, IV & FR:EDEN)  
+> 아티스트: **Andnew & Dream Hackers**  
+> 앨범: _KEM - EP_  
 
-🔍 검색 키워드: `instrumental+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-piano-music-sad-songs/500014858?i=500014859&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a6/8e/b1/a68eb1c3-a00b-8a9c-2c7f-39ecfd73a57e/mzaf_4071078164784878814.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/celebrate-feat-sun-ahn-iv-fr-eden/1570080102?i=1570080109&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4c/9d/8c/4c9d8c35-aa9f-4292-a837-cdf4b747855f/mzaf_126074410254419276.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/cf/67/99/mzi.dphtpdxi.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ed/7e/98ed7e26-895f-2d39-f3a8-98fc9fe12311/KEM.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-12 22:23:25 (UTC)
+⏳ 업데이트 시간: 2025-08-12 23:23:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
