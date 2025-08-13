@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 After Night  
-> 아티스트: **MXMS**  
-> 앨범: _Funeral Pop I - EP_  
+## 🎧 Last Sad Song (feat. Krizz Kaliko)  
+> 아티스트: **Tech N9ne**  
+> 앨범: _The Lost Scripts of K.O.D. - EP_  
 
-🔍 검색 키워드: `rock+night`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `hiphop+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/after-night/1471554983?i=1471555254&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/37/3e/52/373e52e2-1a6b-854e-a905-51563a3ad105/mzaf_1161714864322929968.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/last-sad-song-feat-krizz-kaliko/719343008?i=719343020&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/2a/ea/f92aea9b-5d18-03ba-c9fe-f025a3a38743/mzaf_10870809715087280654.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/70/83/047083c3-b33d-f1c9-8c80-17d9792fafd7/5054526537491_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7b/f2/d0/7bf2d04f-c87c-6212-55c3-b091a9665d9e/00893981001742_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-13 19:19:45 (UTC)
+⏳ 업데이트 시간: 2025-08-13 20:27:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
