@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Leona Lewis**  
-> 앨범: _Echo (Deluxe Version)_  
+## 🎧 Anpanman  
+> 아티스트: **BTS**  
+> 앨범: _LOVE YOURSELF 結 'Answer'_  
 
-🔍 검색 키워드: `pop+happy`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy/339885409?i=339885664&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/f0/ae/72f0ae0c-a9b9-1a33-4698-e0c21466213f/mzaf_16840239949525686227.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/anpanman/1433320547?i=1433322598&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/23/fc/e3/23fce38d-7ae8-308d-1f21-181acc8ee88b/mzaf_11072929535172522142.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/01/db/ae/mzi.nghxllat.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/05/87/25/05872588-2962-ed0f-9eaa-aff9f1197dc5/18UMGIM53261.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-13 16:27:38 (UTC)
+⏳ 업데이트 시간: 2025-08-13 17:19:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
