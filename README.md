@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Wild Horses  
-> 아티스트: **Susan Boyle**  
-> 앨범: _I Dreamed a Dream_  
+## 🎧 I Didn't Stop Loving You Either  
+> 아티스트: **Lofi-Dream**  
+> 앨범: _I Couldn't Forget You Either_  
 
-🔍 검색 키워드: `pop+dream`  
+🔍 검색 키워드: `lofi+dream`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/wild-horses/337320441?i=337320506&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9a/34/8b/9a348b5a-d532-e477-1a15-4cf9f8efb28b/mzaf_15914761670706493354.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/i-didnt-stop-loving-you-either/1821271201?i=1821271206&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/06/89/7b0689b5-005a-c718-2b98-46ff0919bae5/mzaf_2556042147475788344.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/08/be/d108becc-73fb-40fe-b6f8-50eafda13d2b/mzi.xbamttah.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/f6/4a/3ff64a4b-cbd6-9589-2046-4f7590d19289/R0003E00002757.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-15 20:26:59 (UTC)
+⏳ 업데이트 시간: 2025-08-15 21:20:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
