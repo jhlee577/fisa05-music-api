@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Between Dreams  
-> 아티스트: **Lo-Fi Elements & LoFi Night**  
-> 앨범: _Between Dreams - Single_  
+## 🎧 Sweet Dreams (Are Made of This)  
+> 아티스트: **Eurythmics**  
+> 앨범: _Eurythmics: Greatest Hits_  
 
-🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rock+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/between-dreams/1819750785?i=1819750787&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/37/be/0d/37be0d43-de3a-0f2e-4068-a85f0c21c71a/mzaf_1235200284179594592.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/sweet-dreams-are-made-of-this/268544278?i=268544309&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/c7/91/c3c7916d-8726-2701-17e4-a51d408c8769/mzaf_8074767284946591004.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/9a/3f/fd9a3f20-de0b-9284-aa47-a52eec455d9e/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/f6/4c/96/f64c9659-adf6-3256-1193-9e02bc14cc3a/dj.qmleubcf.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-15 16:30:40 (UTC)
+⏳ 업데이트 시간: 2025-08-15 17:21:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
