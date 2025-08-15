@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 In Your Soul  
-> 아티스트: **Acoustic Hope**  
-> 앨범: _Acoustic Hope - EP_  
+## 🎧 Instrumental Night  
+> 아티스트: **Natural Sleep Blue Oasis**  
+> 앨범: _Prime New Age Music - Delta Sleep Isochronic Solutions 432 Hz_  
 
-🔍 검색 키워드: `acoustic+hope`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/in-your-soul/1506943854?i=1506943930&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/c1/bd/88/c1bd8857-9dba-7329-2107-4cf5ee129469/mzaf_16294348499488544180.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/instrumental-night/1360310978?i=1360312031&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e0/e5/6b/e0e56b39-eb1d-2bdb-3ca4-faf363a8ebda/mzaf_6955493010572880834.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/31/a2/80/31a280c3-8c93-7d2d-49e2-b9484f39b065/rls00092917.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/99/b0/49/99b049c1-d6e9-a5f8-b591-eed8e3018b3c/8033772914918.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-15 04:34:34 (UTC)
+⏳ 업데이트 시간: 2025-08-15 05:25:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
