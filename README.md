@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Night  
-> 아티스트: **Seattle Coffee Club**  
-> 앨범: _Lofi Study Sesh_  
+## 🎧 Sad Song  
+> 아티스트: **Christina Perri**  
+> 앨범: _Lovestrong. (Deluxe Version)_  
 
-🔍 검색 키워드: `acoustic+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rock+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/acoustic-night/1725102623?i=1725102638&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a3/6c/dd/a36cdd82-f8cf-5641-c3a9-99ba8ed1b782/mzaf_17202503755279818741.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-song/511578557?i=511578689&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/43/03/69430369-cb6e-74d6-7c3e-cfd59ec0663e/mzaf_15622316700272327136.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/fc/91/13fc919c-3759-7053-fab3-47aabee44531/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/68/29/45/6829455f-a4e0-1210-4a02-dbb4a94fac86/075679961983.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-16 11:18:28 (UTC)
+⏳ 업데이트 시간: 2025-08-16 12:47:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
