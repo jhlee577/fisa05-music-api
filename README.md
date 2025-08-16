@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Of The Southern Sea  
-> 아티스트: **Richard Durand**  
-> 앨범: _Trance 100 - Summer 2022_  
+## 🎧 Distant Seabird Calls  
+> 아티스트: **Lofi Rain, Lofi Sad & Lofi Hip Hop Beats**  
+> 앨범: _Vinyl Daydreams_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-of-the-southern-sea/1633474894?i=1633475309&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/95/70/d0/9570d06c-1db1-cd84-8a59-03626d1c655b/mzaf_17816441946691572698.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/distant-seabird-calls/1795332215?i=1795332413&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/27/88/d7/2788d7de-2240-a791-676a-339353b41dd5/mzaf_16239072251786559159.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d0/04/75/d004754a-6c3c-3a16-49a7-352ca3f55688/8718522379871.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/52/bf/4a52bfb5-92db-84c5-e230-5886f365f690/cover_10333082.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-16 22:22:24 (UTC)
+⏳ 업데이트 시간: 2025-08-16 23:21:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
