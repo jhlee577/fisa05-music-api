@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Mellow Flow  
-> 아티스트: **Lofi Rain, Lofi Sad & Lofi Hip Hop Beats**  
-> 앨범: _Vinyl Daydreams_  
+## 🎧 Velvet Care  
+> 아티스트: **Acoustic Love**  
+> 앨범: _Plucked Peace_  
 
-🔍 검색 키워드: `lofi+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/mellow-flow/1795332215?i=1795332218&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/1c/9b/261c9be7-c055-0781-9c29-39f20d48d42c/mzaf_10574037138977687993.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/velvet-care/1763317163?i=1763317186&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/d6/ba/9ad6ba7b-484d-4d29-d1fb-dc13d3afad2d/mzaf_10438130752725233614.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/52/bf/4a52bfb5-92db-84c5-e230-5886f365f690/cover_10333082.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/2b/be/352bbe8d-9b4b-f5e0-9d19-657345135066/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-17 22:23:13 (UTC)
+⏳ 업데이트 시간: 2025-08-17 23:23:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
