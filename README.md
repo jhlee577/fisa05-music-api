@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rocksummer  
-> 아티스트: **Ruslan Bashchenko Music**  
-> 앨범: _Rock_  
+## 🎧 Girls Talk Boys  
+> 아티스트: **5 Seconds of Summer**  
+> 앨범: _Ghostbusters (Original Motion Picture Soundtrack)_  
 
-🔍 검색 키워드: `rock+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+summer`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rocksummer/1706290974?i=1706290989&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ec/8c/27/ec8c27f9-fe75-9657-1347-364b2afc3caa/mzaf_12262723160805516528.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/girls-talk-boys/1127013560?i=1127014018&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/52/9c/99/529c9964-e951-9ff5-a7b7-c47b04e5a49e/mzaf_5674054831565512224.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/65/a0/7765a0a4-ffbb-a4e8-5ea8-0372dbe0160c/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/70/43/9a704362-976d-ec4b-0367-54d368cb0ef8/886445902204.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-17 03:56:23 (UTC)
+⏳ 업데이트 시간: 2025-08-17 04:38:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
