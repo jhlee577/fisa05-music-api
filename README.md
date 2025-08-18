@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Calm Meadow Trails  
-> 아티스트: **Lofi Rain, Lofi Sad & Lofi Hip Hop Beats**  
-> 앨범: _Vinyl Daydreams_  
+## 🎧 Hope I'm Around  
+> 아티스트: **Todd Rundgren**  
+> 앨범: _Runt. The Ballad of Todd Rundgren_  
 
-🔍 검색 키워드: `lofi+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `ballad+hope`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/calm-meadow-trails/1795332215?i=1795332421&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/8d/d2/458dd2b4-7690-29e8-de2e-af431add73e6/mzaf_16881923846494000899.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope-im-around/100982298?i=100982283&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/0c/2c/770c2c52-22c4-31ed-ed0a-5abaeead7d20/mzaf_12057883944849296420.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/52/bf/4a52bfb5-92db-84c5-e230-5886f365f690/cover_10333082.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/89/f6/61/89f66140-625d-4386-ee0a-fa9b40e9f1fb/081227086367.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-18 09:31:02 (UTC)
+⏳ 업데이트 시간: 2025-08-18 10:28:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
