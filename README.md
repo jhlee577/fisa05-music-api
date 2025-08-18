@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy People (with DJ Skit)  
-> 아티스트: **R. Kelly**  
-> 앨범: _Happy People / U Saved Me_  
+## 🎧 My Dear  
+> 아티스트: **YESUNG**  
+> 앨범: _Here I am - The 1st Mini Album_  
 
-🔍 검색 키워드: `rnb+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy-people-with-dj-skit/302811686?i=302811698&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/52/05/5c5205ae-30fb-081a-16a4-7364cd331f43/mzaf_11978430946891046567.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/my-dear/1103758202?i=1103758554&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/6e/63/3f6e63a9-f48f-92b5-67f3-c4880098d885/mzaf_6910999672937646172.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features/v4/fe/8f/6b/fe8f6b68-7d33-6c49-fd01-d61594e44089/dj.wpyxxhur.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/25/bd/c0/25bdc0fe-b3ce-1753-c1b8-8a3f12b82bdc/d1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-18 06:40:30 (UTC)
+⏳ 업데이트 시간: 2025-08-18 07:27:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
