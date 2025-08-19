@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad I Parken  
-> 아티스트: **Joakim Pedersen Trio**  
-> 앨범: _北欧スタイル -  ピアノ・ジャズ -_  
+## 🎧 Acoustic Happy  
+> 아티스트: **The Story Shop & Phil Larson**  
+> 앨범: _Meaningful Acoustic_  
 
-🔍 검색 키워드: `jazz+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `acoustic+happy`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sad-i-parken/312629681?i=312629757&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/5e/05/4d5e0577-a5ae-7efb-8e81-6a63d45771d8/mzaf_3131261874552765095.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/acoustic-happy/1647328011?i=1647328018&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/da/4b/4a/da4b4ae1-c5b4-9179-bbbf-e69d2ff4c212/mzaf_9660001520581656688.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/4a/94/6e/mzi.zxzowbcg.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/97/4d/2e/974d2ee6-d4ee-46c5-8f43-1dfe10c13388/198004627344.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-19 16:30:38 (UTC)
+⏳ 업데이트 시간: 2025-08-19 17:20:50 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
