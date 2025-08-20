@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 WONDER WHY? LOFI (BPM57.5)  
-> 아티스트: **LOFI LOVE**  
-> 앨범: _戦う極上のヒップホップ&ラップ・フリースタイル ビート集 ~MCバトル練習用~ Vol.6_  
+## 🎧 サマージャム ’95  
+> 아티스트: **スチャダラパー**  
+> 앨범: _5th WHEEL 2 the COACH_  
 
-🔍 검색 키워드: `lofi+love`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/wonder-why-lofi-bpm57-5/1648271552?i=1648271555&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/54/a7/9b/54a79b8e-d22a-683b-25ff-20742087fcab/mzaf_8035918462439905161.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%A0-95/720515615?i=720516986&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/13/38/31/133831da-5941-5faf-1a27-5e89f5c8342d/mzaf_10471632092580082367.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/be/7b/febe7bb1-a936-194a-7512-5948ac24bb08/859758767914_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/21/e3/5d21e3cb-9f73-6eb8-ccdf-e1c4c4c6294d/05099951464356.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-20 09:26:32 (UTC)
+⏳ 업데이트 시간: 2025-08-20 10:25:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
