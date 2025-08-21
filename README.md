@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy End  
-> 아티스트: **Ferris MC**  
-> 앨범: _Glück ohne Scherben_  
+## 🎧 Standing In the Rain  
+> 아티스트: **Action Bronson, Mark Ronson & Dan Auerbach**  
+> 앨범: _Suicide Squad: The Album_  
 
-🔍 검색 키워드: `hiphop+happy`  
+🔍 검색 키워드: `hiphop+rain`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-end/964995198?i=964995855&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6f/b6/81/6fb6819f-d1ab-0a80-da80-4d229f3fbc36/mzaf_13643444891337140915.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/standing-in-the-rain/1125281254?i=1125281490&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9a/75/cc/9a75cccd-1cba-9fa0-e81a-c6641a9839e1/mzaf_1446534812791833024.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/60/7c/9d/607c9d1d-4f53-33e1-af8f-d713222a2690/825646138371.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/76/c0/2f76c0c7-5aaf-eb97-2002-f40c9ecde722/075679910486.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-21 04:28:39 (UTC)
+⏳ 업데이트 시간: 2025-08-21 05:23:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
