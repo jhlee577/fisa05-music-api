@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Merry Christmas, Happy Holidays  
-> 아티스트: **Pentatonix**  
-> 앨범: _A Pentatonix Christmas_  
+## 🎧 Here I am  
+> 아티스트: **YESUNG**  
+> 앨범: _Here I am - The 1st Mini Album_  
 
-🔍 검색 키워드: `pop+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/merry-christmas-happy-holidays/1166722990?i=1166723978&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fa/0a/9f/fa0a9f6f-7e4e-afaa-7f61-fb1b604a8e79/mzaf_14219968926825425076.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/here-i-am/1103758202?i=1103758546&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f0/6e/37/f06e3784-34b7-1b22-11b6-52141a3ecd86/mzaf_637642322846836060.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/65/22/f2/6522f25d-8102-23bc-9b1e-8d0cc700f8ac/886446010434.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/25/bd/c0/25bdc0fe-b3ce-1753-c1b8-8a3f12b82bdc/d1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-21 19:19:03 (UTC)
+⏳ 업데이트 시간: 2025-08-21 20:25:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
