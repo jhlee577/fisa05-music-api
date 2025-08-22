@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Smile  
-> 아티스트: **Uncle Kracker**  
-> 앨범: _Happy Hour (Deluxe Version)_  
+## 🎧 アトラクトライト  
+> 아티스트: ***Luna**  
+> 앨범: _ラズライトの夢_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rock+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/smile/328436251?i=328436584&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3b/7c/bb/3b7cbb8b-89c6-c6d8-c718-3f56263fd9a2/mzaf_17778138524792161206.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%82%A2%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E3%83%A9%E3%82%A4%E3%83%88/1460366246?i=1460366255&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fb/c4/95/fbc4955f-d304-5d33-49ce-390595f53d03/mzaf_16324038447182767146.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/55/51/46555158-8e19-cee9-8b76-ae41ab7f30a0/mzi.wfokkqwr.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/19/8d/f2198dc0-6ce0-4e6f-1742-d1a9ba9584cb/4511820-94808.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-22 01:53:56 (UTC)
+⏳ 업데이트 시간: 2025-08-22 03:11:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
