@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hip Hop Hope  
-> 아티스트: **K-Praize**  
-> 앨범: _Kingdom Certified (Reinforced)_  
+## 🎧 Face Down  
+> 아티스트: **Damar Jackson & AD**  
+> 앨범: _RnB SUMMER - EP_  
 
-🔍 검색 키워드: `hiphop+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hip-hop-hope/369521253?i=369521415&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/40/18/a6/4018a67c-b937-904f-62af-97313104e8d6/mzaf_2656879013337807006.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/face-down/1645724108?i=1645724111&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c8/0b/b9/c80bb9f6-f7b0-5069-54ff-80a29d91d295/mzaf_10898195647471800755.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/d3/d5/6b/mzi.oayqlhmc.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e4/f6/93/e4f6931e-c857-ffbf-9bf1-a87769e03411/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-22 09:26:33 (UTC)
+⏳ 업데이트 시간: 2025-08-22 10:25:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
