@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Mystical Guide**  
-> 앨범: _The Truthfulness of Satya Yoga_  
+## 🎧 You should be sad (Acoustic)  
+> 아티스트: **Halsey**  
+> 앨범: _Vol. II_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/instrumental-night/1554670701?i=1554670935&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/a2/ec/f6/a2ecf6c8-4718-b30f-1765-a707f39f7bdb/mzaf_1574113188369288236.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/you-should-be-sad-acoustic/1533014923?i=1533015048&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d2/93/de/d293de8e-5ec3-3597-c9d4-8ba16ef8d03d/mzaf_5041434841437444788.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/8d/b8/4d8db889-63fe-fb42-d2c6-7baae4507832/024543380658_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/31/30/ef31309b-3858-0e14-5634-025975216432/19UMGIM75011.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-23 06:31:58 (UTC)
+⏳ 업데이트 시간: 2025-08-23 07:20:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
