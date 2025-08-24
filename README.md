@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lights  
-> 아티스트: **BTS**  
-> 앨범: _MAP OF THE SOUL : 7 ~ THE JOURNEY ~_  
+## 🎧 Ballad Rain  
+> 아티스트: **Gritty Rave Jazz Echo**  
+> 앨범: _Gritty Rave Jazz Echo_  
 
-🔍 검색 키워드: `hiphop+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/lights/1517969553?i=1517969730&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/70/d9/4d70d9f9-e38d-3b9b-b60d-9a2e71d86e61/mzaf_12630989729922422075.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/ballad-rain/1823584909?i=1823585034&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/ef/2c/1eef2cc8-de39-3436-57b5-3af255f6155c/mzaf_15672858652256761743.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/a4/81/89a481e5-2784-70d6-8404-3642871ca493/20UMGIM44782.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/06/75/21067586-5e1d-bfaa-4efc-77cf36c9f26d/14966400.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-24 20:24:42 (UTC)
+⏳ 업데이트 시간: 2025-08-24 21:20:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
