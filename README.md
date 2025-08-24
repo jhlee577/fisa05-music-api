@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Street for Eternity  
-> 아티스트: **Rock Night**  
-> 앨범: _Rock Is Life_  
+## 🎧 Pink Magic  
+> 아티스트: **YESUNG**  
+> 앨범: _Pink Magic - EP_  
 
-🔍 검색 키워드: `rock+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+happy`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/street-for-eternity/1625852119?i=1625853117&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3b/20/c8/3b20c8b6-0f15-3b1b-af01-7d94df67310c/mzaf_10074779166535535665.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/pink-magic/1468469467?i=1468469468&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/87/10/dc/8710dc92-411b-0861-e6c4-fc2ec00706af/mzaf_10158781374450157268.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e4/87/7a/e4877a6f-0af2-6236-78e4-1b4458a47f68/5063072193068_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f7/f9/26/f7f926a3-b6a5-cf14-4853-78c5861f79d8/Album_Cover_YESUNG_Pink_Magic.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-24 05:22:52 (UTC)
+⏳ 업데이트 시간: 2025-08-24 06:33:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
