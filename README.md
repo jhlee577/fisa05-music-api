@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Addictive  
-> 아티스트: **RnB Love**  
-> 앨범: _Rnb First Love_  
+## 🎧 Bad-Talk-Sad (이별드립)  
+> 아티스트: **ZE:A**  
+> 앨범: _ZE:A!_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/addictive/1671091984?i=1671091987&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c3/e0/18/c3e018aa-5c29-1636-468b-0c3644bba532/mzaf_14556811122571078853.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/bad-talk-sad-%EC%9D%B4%EB%B3%84%EB%93%9C%EB%A6%BD/392570408?i=392570416&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/74/ac/63/74ac63dd-2e08-b0e4-4a04-7a21c7e874f2/mzaf_6936692754376876866.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/80/60/eb806018-2824-282d-0023-75ba0296480f/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/6d/68/1a/mzi.zaxnabhc.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-26 22:21:31 (UTC)
+⏳ 업데이트 시간: 2025-08-26 23:20:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
