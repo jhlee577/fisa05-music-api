@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Crystal Snow  
-> 아티스트: **BTS**  
-> 앨범: _FACE YOURSELF_  
+## 🎧 Happy People  
+> 아티스트: **R. Kelly**  
+> 앨범: _The World's Greatest_  
 
-🔍 검색 키워드: `hiphop+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rnb+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/crystal-snow/1361622149?i=1361623732&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/f6/a2/f1f6a250-8a79-bde1-a54c-171380f309c5/mzaf_8867658426369245189.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy-people/471340801?i=471340808&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/e7/3d/6be73db2-6816-dcc0-88c4-aa69b4bc6e65/mzaf_3546544597601566355.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/49/f6/3a49f65b-600b-b220-beea-6917f2cda62b/00602567531531.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/a1/29/2e/a1292e27-1ba9-d71e-55bf-328182ef6ddb/dj.pykwzazp.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-26 15:25:08 (UTC)
+⏳ 업데이트 시간: 2025-08-26 16:29:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
