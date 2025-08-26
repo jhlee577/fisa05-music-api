@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Summer  
-> 아티스트: **Torquemada**  
-> 앨범: _Jazz Summer - Single_  
+## 🎧 Crystal Snow  
+> 아티스트: **BTS**  
+> 앨범: _FACE YOURSELF_  
 
-🔍 검색 키워드: `jazz+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-summer/1789092969?i=1789092972&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/f8/7d/25f87db8-99a4-e7fc-6857-1d62469baac5/mzaf_11456429688713590817.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/crystal-snow/1361622149?i=1361623732&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/f6/a2/f1f6a250-8a79-bde1-a54c-171380f309c5/mzaf_8867658426369245189.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/f6/69/93f669ab-4aa5-6fd8-6d61-70da5deff0a7/859796925659_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/49/f6/3a49f65b-600b-b220-beea-6917f2cda62b/00602567531531.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-26 14:22:36 (UTC)
+⏳ 업데이트 시간: 2025-08-26 15:25:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
