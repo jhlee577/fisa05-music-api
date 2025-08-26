@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Another Sad Love Song  
-> 아티스트: **Khalid**  
-> 앨범: _American Teen_  
+## 🎧 Jazz Summer  
+> 아티스트: **Torquemada**  
+> 앨범: _Jazz Summer - Single_  
 
-🔍 검색 키워드: `rnb+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/another-sad-love-song/1200868601?i=1200868876&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fa/3d/0f/fa3d0fba-fd5e-a938-656b-75da067d7e56/mzaf_7275685517888851670.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-summer/1789092969?i=1789092972&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/f8/7d/25f87db8-99a4-e7fc-6857-1d62469baac5/mzaf_11456429688713590817.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/45/5a/f8455a71-8307-aa9a-9c95-3d22efe0804f/886446326146.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/f6/69/93f669ab-4aa5-6fd8-6d61-70da5deff0a7/859796925659_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-26 13:35:38 (UTC)
+⏳ 업데이트 시간: 2025-08-26 14:22:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
