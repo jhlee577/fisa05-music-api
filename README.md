@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 J'arrête tout  
-> 아티스트: **Sowsow**  
-> 앨범: _Hip-Hop Love_  
+## 🎧 Frequencies Waveform  
+> 아티스트: **Acoustic Love**  
+> 앨범: _Acoustic Healing_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `acoustic+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/jarr%C3%AAte-tout/781423479?i=781423556&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6e/d3/9b/6ed39bc6-4d7f-f747-d9e7-45c10d71da07/mzaf_13926871720939856185.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/frequencies-waveform/1736075602?i=1736077909&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/87/d9/61/87d961b4-e244-8b14-84c8-8afe2c6ae387/mzaf_14672811811290240837.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/bc/55/40/bc5540ef-6696-6390-cf52-97f6f141ac5f/3700735803347.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/e3/bb/7ee3bb77-c9a7-e66b-9186-6316bf2a37df/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-27 18:31:51 (UTC)
+⏳ 업데이트 시간: 2025-08-27 19:18:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
