@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 The Thrill Is Gone / Django  
-> 아티스트: **Jeff Goldblum & The Mildred Snitzer Orchestra & Miley Cyrus**  
-> 앨범: _I Shouldn’t Be Telling You This_  
+## 🎧 Rock Sad (feat. Fxli)  
+> 아티스트: **Nvdie Flow**  
+> 앨범: _Rock Sad (feat. Fxli) - Single_  
 
-🔍 검색 키워드: `jazz+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rock+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/the-thrill-is-gone-django/1479180454?i=1479180469&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/79/c5/74/79c5742c-5990-7bfc-0bc4-72bfd794090d/mzaf_6431940539230649538.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/rock-sad-feat-fxli/1549321446?i=1549321449&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/76/11/f5/7611f5e2-341e-a107-8144-84f2fc891fe1/mzaf_3168283126639493853.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/5a/96/525a9686-f6f6-2603-32df-b8e545f9bf52/19UMGIM77895.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/15/97/40/15974016-ddf2-3a11-80d1-6de316284662/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-28 01:50:20 (UTC)
+⏳ 업데이트 시간: 2025-08-28 03:05:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
