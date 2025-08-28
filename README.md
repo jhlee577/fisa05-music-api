@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rock Sad (feat. Fxli)  
-> 아티스트: **Nvdie Flow**  
-> 앨범: _Rock Sad (feat. Fxli) - Single_  
+## 🎧 Wasted Hopes  
+> 아티스트: **Cool Chillout Zone**  
+> 앨범: _Lone and Solitary: 30 Sad Lofi Tracks to Listen to When Downhearted, There Is No Hope_  
 
-🔍 검색 키워드: `rock+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/rock-sad-feat-fxli/1549321446?i=1549321449&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/76/11/f5/7611f5e2-341e-a107-8144-84f2fc891fe1/mzaf_3168283126639493853.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/wasted-hopes/1708425234?i=1708425243&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a5/54/61/a554613f-e494-17d9-e1aa-449bc93ade1a/mzaf_3839321803362688918.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/15/97/40/15974016-ddf2-3a11-80d1-6de316284662/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/59/dc/b259dc31-5da8-4ffe-4e38-ddcfe536bc9a/5904195043789.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-28 03:05:26 (UTC)
+⏳ 업데이트 시간: 2025-08-28 04:27:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
