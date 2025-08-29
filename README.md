@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Birthday 5  
-> 아티스트: **Mr. Blue**  
-> 앨범: _Jingle, Tusch, Fanfare_  
+## 🎧 Shape of You  
+> 아티스트: **Ed Sheeran**  
+> 앨범: _÷ (Deluxe)_  
 
-🔍 검색 키워드: `instrumental+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `pop+love`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-birthday-5/1169573953?i=1169574204&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/c7/fb/2b/c7fb2bab-bb15-3794-9a19-718492a5feb7/mzaf_7805704015067999360.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/shape-of-you/1193701079?i=1193701392&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/e8/4b/8be84b71-0ca5-6158-b4a4-4cf9b647cb17/mzaf_15441264363599058572.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/d8/5f/56d85fac-2d5d-2365-fb25-aab356fd1eb9/5057302159139_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-29 03:05:14 (UTC)
+⏳ 업데이트 시간: 2025-08-29 04:28:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
