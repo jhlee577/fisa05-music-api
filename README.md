@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Shape of You  
-> 아티스트: **Ed Sheeran**  
-> 앨범: _÷ (Deluxe)_  
+## 🎧 After Night  
+> 아티스트: **MXMS**  
+> 앨범: _Funeral Pop I - EP_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/shape-of-you/1193701079?i=1193701392&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/e8/4b/8be84b71-0ca5-6158-b4a4-4cf9b647cb17/mzaf_15441264363599058572.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/after-night/1471554983?i=1471555254&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/37/3e/52/373e52e2-1a6b-854e-a905-51563a3ad105/mzaf_1161714864322929968.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/70/83/047083c3-b33d-f1c9-8c80-17d9792fafd7/5054526537491_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-29 04:28:02 (UTC)
+⏳ 업데이트 시간: 2025-08-29 05:22:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
