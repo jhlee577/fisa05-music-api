@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hip Hop Sad  
-> 아티스트: **Clouster B**  
-> 앨범: _Hip Hop & Rap - EP_  
+## 🎧 Soul Silhouette Serenade Lining Silver  
+> 아티스트: **Gossamer Rain Jazz Ballad**  
+> 앨범: _Gossamer Rain Jazz Ballad_  
 
-🔍 검색 키워드: `hiphop+sad`  
+🔍 검색 키워드: `ballad+rain`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hip-hop-sad/1732519490?i=1732519492&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f3/4e/38/f34e3815-0d90-d8af-c5eb-dcebbda4edcc/mzaf_5382283310998334095.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/soul-silhouette-serenade-lining-silver/1831435048?i=1831435160&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/d8/46/5bd84639-bb29-a600-e3df-2a93eb3f13bd/mzaf_15572239954954969031.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/19/78/ba/1978ba12-d78f-228b-a71e-da760033d151/0844577587249.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/2b/99/7a2b99ac-4255-47fe-ed42-3a8f8f4aa63a/15071800.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-30 01:44:44 (UTC)
+⏳ 업데이트 시간: 2025-08-30 02:58:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
