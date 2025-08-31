@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 O Holy Night  
-> 아티스트: **Céline Dion**  
-> 앨범: _21 Christmas Hits_  
+## 🎧 Wati By Night  
+> 아티스트: **Sexion d'Assaut**  
+> 앨범: _L'école des points vitaux_  
 
-🔍 검색 키워드: `ballad+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/o-holy-night/939846179?i=939846185&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/7d/0c/0b7d0ce9-bd64-1819-2187-eda858075db3/mzaf_17376796781116219326.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/wati-by-night/362286829?i=362286893&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cc/7a/da/cc7adacb-ad02-09d6-5500-270eef3b2476/mzaf_2940773228458338868.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/8d/6d/e4/8d6de4e9-35bf-792e-361a-7a0ec270a47f/886444911047.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/8c/94/00/mzi.smkgyzob.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-08-30 23:19:58 (UTC)
+⏳ 업데이트 시간: 2025-08-31 01:55:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
