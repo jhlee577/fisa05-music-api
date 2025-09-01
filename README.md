@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Fire and Rain  
-> 아티스트: **James Taylor**  
-> 앨범: _Greatest Hits, Vol. 1_  
+## 🎧 Winter Wonderland / Don't Worry Be Happy (feat. Tori Kelly)  
+> 아티스트: **Pentatonix**  
+> 앨범: _That's Christmas To Me_  
 
-🔍 검색 키워드: `pop+rain`  
+🔍 검색 키워드: `pop+happy`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/fire-and-rain/320083830?i=320083858&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a4/84/81/a484812e-6723-8daf-e500-b1a1671d3206/mzaf_9538283942214743628.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/winter-wonderland-dont-worry-be-happy-feat-tori-kelly/918377263?i=918377360&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7a/4e/43/7a4e4390-b570-0e5a-3304-b089a83845a2/mzaf_16062388357922528126.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/74/40/98744095-a46e-eccd-ab81-ec9789d884d4/mzi.modzlreh.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/f7/88/0f/f7880fb0-8087-de0f-c9b3-821a5d3733d7/886444686716.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-01 10:26:17 (UTC)
+⏳ 업데이트 시간: 2025-09-01 11:19:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
