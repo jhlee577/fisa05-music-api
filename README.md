@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Du Vieux Marché  
-> 아티스트: **Acoustic Dream**  
-> 앨범: _Acoustic Dream_  
+## 🎧 Acoustic Night  
+> 아티스트: **Ocean Bay Jazz**  
+> 앨범: _Rain Sounds Relaxing Guitar for Sleeping_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/du-vieux-march%C3%A9/49584517?i=49584374&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/Music/ed/e7/64/mzm.pnvqafux.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/acoustic-night/1564959542?i=1564959797&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b7/25/0c/b7250c4a-d723-073b-36b1-25ef5f0774cc/mzaf_12667805912525725848.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m03/d09/h17/s05.wlwnfxxu.tif/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/e2/1e/1be21e52-cc4b-f186-0101-ce9bf7b18961/5059805709668_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-01 04:32:34 (UTC)
+⏳ 업데이트 시간: 2025-09-01 05:24:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
