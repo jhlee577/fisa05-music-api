@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Piano Rain  
-> 아티스트: **Pop Rain**  
-> 앨범: _Rain and Nature Sounds for Relaxation, Meditation, Sleep, Study, Yoga, Serenity, Harmony and Therapy._  
+## 🎧 Country Sad Ballad Man (2012 Remaster)  
+> 아티스트: **Blur**  
+> 앨범: _Blur_  
 
-🔍 검색 키워드: `pop+rain`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/piano-rain/1038504469?i=1038504865&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/74/a4/13/74a41374-e678-9a8a-bf5f-20a10e5f2723/mzaf_453678027796966440.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/country-sad-ballad-man-2012-remaster/726416050?i=726416513&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/7d/92/f1/7d92f151-e1a6-30c2-9211-e89d0dbdb263/mzaf_12200743569315244517.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/42/b6/4142b67d-d058-7e02-e7b3-ba445a320e39/mzm.eblmhqec.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/73/cc/ed73cc61-8244-4f45-90fc-23ad8a3ee7e4/5099997227359.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-02 11:19:18 (UTC)
+⏳ 업데이트 시간: 2025-09-02 12:49:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
