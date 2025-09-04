@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love Ballad (feat. Jeffrey Osborne)  
-> 아티스트: **L.T.D.**  
-> 앨범: _L.T.D.: Greatest Hits_  
+## 🎧 Summer In the City  
+> 아티스트: **The Lovin' Spoonful**  
+> 앨범: _Hums of the Lovin' Spoonful (Remastered)_  
 
-🔍 검색 키워드: `ballad+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/love-ballad-feat-jeffrey-osborne/1440922695?i=1440922882&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8f/49/06/8f4906e0-cc48-e13d-3030-f5c191d15287/mzaf_14865172717086658892.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer-in-the-city/253681108?i=253681783&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/b0/bf/4db0bf7e-1ba3-9548-e71f-7245f6c63d8d/mzaf_8138049248948225360.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/df/b6/df/dfb6dfdb-1fb2-85b3-b654-8b957ca0779d/00731454052023.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/89/61/cc/8961ccce-113b-a100-ff17-1010f62de334/dj.agbyendu.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-04 20:24:31 (UTC)
+⏳ 업데이트 시간: 2025-09-04 21:20:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
