@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 love & hate  
-> 아티스트: **RIP SLYME**  
-> 앨범: _GOOD TIMES_  
+## 🎧 Sad Statue  
+> 아티스트: **System Of A Down**  
+> 앨범: _Mezmerize_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rock+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love-hate/382156587?i=382156855&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/68/20/e7/6820e768-3319-4336-35f8-496062d72696/mzaf_3210170244896820194.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-statue/187472331?i=187472780&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4e/de/89/4ede89ef-437a-1809-5962-062592a514aa/mzaf_16145654834954497419.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/18/63/ab18638a-d84b-480c-3437-b58c48f7a009/mzi.cthhjplc.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/65/6d/43/656d432b-e59c-361a-c3ad-2e6cccbf4b2d/827969064825.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-05 06:33:51 (UTC)
+⏳ 업데이트 시간: 2025-09-05 07:21:31 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
