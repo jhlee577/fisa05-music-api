@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 We All In This Together  
-> 아티스트: **이이언**  
-> 앨범: _바로 우리 - EP_  
+## 🎧 String Rate  
+> 아티스트: **Acoustic Love**  
+> 앨범: _Acoustic Healing_  
 
-🔍 검색 키워드: `kpop+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/we-all-in-this-together/1684409042?i=1684409044&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/95/3b/fe/953bfe5d-c6a7-968f-1d36-baa355f138d8/mzaf_10062653692783184694.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/string-rate/1736075602?i=1736076325&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/db/a8/72/dba872c5-90df-e008-d398-a6d4ecac1960/mzaf_5185876164681606760.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/38/88/433888f5-37a0-fd36-54d1-081b9c9588b6/cover_KM0017279_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/e3/bb/7ee3bb77-c9a7-e66b-9186-6316bf2a37df/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-06 21:17:55 (UTC)
+⏳ 업데이트 시간: 2025-09-06 22:19:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
