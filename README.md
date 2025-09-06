@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Pink Magic  
-> 아티스트: **YESUNG**  
-> 앨범: _Pink Magic - EP_  
+## 🎧 Sad Boy  
+> 아티스트: **G-Eazy**  
+> 앨범: _When It's Dark Out_  
 
-🔍 검색 키워드: `ballad+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/pink-magic/1468469467?i=1468469468&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/87/10/dc/8710dc92-411b-0861-e6c4-fc2ec00706af/mzaf_10158781374450157268.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sad-boy/1053579793?i=1053579809&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d6/b3/64/d6b3646b-d94e-0cf2-6963-b90a3021df86/mzaf_6090435728112687776.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f7/f9/26/f7f926a3-b6a5-cf14-4853-78c5861f79d8/Album_Cover_YESUNG_Pink_Magic.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/7f/35/097f3543-b9e7-89c3-bc31-4fac80b4bb44/dj.mmkpchtu.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-06 17:16:50 (UTC)
+⏳ 업데이트 시간: 2025-09-06 18:28:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
