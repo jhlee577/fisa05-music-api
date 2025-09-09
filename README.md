@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Summer  
-> 아티스트: **Arkei**  
-> 앨범: _Desde Casa_  
+## 🎧 Fa-Fa-Fa-Fa-Fa (Sad Song)  
+> 아티스트: **Otis Redding**  
+> 앨범: _The Very Best of Otis Redding_  
 
-🔍 검색 키워드: `lofi+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-summer/1635517752?i=1635517951&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ae/6d/f7/ae6df7c6-4a98-8253-55b5-7e27896832eb/mzaf_8758155277084492552.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/fa-fa-fa-fa-fa-sad-song/997088440?i=997088841&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e5/73/b8/e573b84c-c830-ea68-a233-227e50769033/mzaf_1702686864482837245.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3a/3b/42/3a3b42a9-32c8-cd2e-8609-a66181ebefc8/ff604577-ddd8-48f1-ba83-409b0dbcaabf.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/92/3e/f6/923ef641-d13b-c0ac-1271-332f74b17956/603497887217.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-09 08:31:38 (UTC)
+⏳ 업데이트 시간: 2025-09-09 09:26:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
