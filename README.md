@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Buzzing Gentle  
-> 아티스트: **Acoustic Love**  
-> 앨범: _Plucked Peace_  
+## 🎧 The Quiet Beats  
+> 아티스트: **Lofi Dream**  
+> 앨범: _Space Drink_  
 
-🔍 검색 키워드: `acoustic+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/buzzing-gentle/1767906499?i=1767907890&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/18/d9/1b18d913-2aa4-67fe-c31d-9b01153e811b/mzaf_14568207620301900453.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/the-quiet-beats/1791294205?i=1791294208&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/e4/07/92e4072a-64eb-32ca-10c3-23685a871c43/mzaf_9333620019015361007.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/d5/ae/0ed5ae69-6845-9b4d-5e09-5707d2933ba0/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/51/f5/2f51f572-2b7b-e99d-866e-67b7d96652aa/5063287448847.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-10 09:23:56 (UTC)
+⏳ 업데이트 시간: 2025-09-10 10:23:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
