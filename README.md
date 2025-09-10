@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Leona Lewis**  
-> 앨범: _Echo_  
+## 🎧 Everytime  
+> 아티스트: **Britney Spears**  
+> 앨범: _Sad Songs_  
 
-🔍 검색 키워드: `rnb+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/339299742?i=339299820&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b3/26/a5/b326a530-d28e-6be3-5eee-a4fa1503cbfb/mzaf_4232389083863379373.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/everytime/904438715?i=904443894&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/83/30/2a/83302a0b-4f95-695f-a700-8e4cb88dd2c1/mzaf_1583508262968311157.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/3a/24/d1/mzi.ovprnmpw.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/dd/3c/06dd3cb9-882f-7e81-d0b6-c009d65adc2f/886444772556.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-10 06:34:01 (UTC)
+⏳ 업데이트 시간: 2025-09-10 07:22:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
