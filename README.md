@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Man  
-> 아티스트: **Rock Night**  
-> 앨범: _Rock Is Life_  
+## 🎧 HOPE or PAIN (2021 Remastered Version)  
+> 아티스트: **浜崎あゆみ**  
+> 앨범: _A BALLADS 2_  
 
-🔍 검색 키워드: `rock+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `ballad+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/man/1625852119?i=1625853379&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/90/c8/f8/90c8f893-6f51-f628-5481-c74536da86dc/mzaf_16604872730893903486.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope-or-pain-2021-remastered-version/1559845742?i=1559845896&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/da/91/61/da91616b-f40e-bdec-6f62-9aa49e3fdd33/mzaf_4296337007078091582.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e4/87/7a/e4877a6f-0af2-6236-78e4-1b4458a47f68/5063072193068_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/04/3c/1c/043c1cec-b150-d733-921f-50886f190f36/ANTCD-A0000003908.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-11 20:20:48 (UTC)
+⏳ 업데이트 시간: 2025-09-11 21:19:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
