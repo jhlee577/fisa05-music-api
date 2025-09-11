@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Firework  
-> 아티스트: **ケイティ・ペリー**  
-> 앨범: _Teenage Dream_  
+## 🎧 I Couldn't Forget You Either  
+> 아티스트: **Lofi-Dream**  
+> 앨범: _I Couldn't Forget You Either_  
 
-🔍 검색 키워드: `rock+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/firework/716270039?i=716270352&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/75/fb/a0/75fba0d3-be84-679b-c993-4a60a499def8/mzaf_17741760425787033391.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/i-couldnt-forget-you-either/1821271201?i=1821271203&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/6c/f3/c26cf3e4-abca-bbe8-5c0c-f2bcab8eff47/mzaf_12780108610313695690.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cd/03/3e/cd033eb7-dc3b-eb31-edb6-8ce082cb8696/13UABIM57789.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/f6/4a/3ff64a4b-cbd6-9589-2046-4f7590d19289/R0003E00002757.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-11 22:20:01 (UTC)
+⏳ 업데이트 시간: 2025-09-11 23:20:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
