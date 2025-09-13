@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 『線香花火が落ちる前に』Fire in My Summer  
-> 아티스트: **YUI**  
-> 앨범: _夜風と線香花火のBallad_  
+## 🎧 Jazz Happy  
+> 아티스트: **Lionel Refson**  
+> 앨범: _Lionel's Eclectic Works, Vol. 2_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `jazz+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%E7%B7%9A%E9%A6%99%E8%8A%B1%E7%81%AB%E3%81%8C%E8%90%BD%E3%81%A1%E3%82%8B%E5%89%8D%E3%81%AB-fire-in-my-summer/1813760974?i=1813760975&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/fb/76/4efb76c7-efc8-0b69-55cd-f6286eda464e/mzaf_4959350022086179310.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-happy/1651706269?i=1651706280&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/2e/56/4e/2e564e1c-07e7-a994-26e2-b5c23cafa642/mzaf_16288218942678644491.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/76/4e/b0764e59-ad8f-752f-1657-a967b06c6dbe/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/05/1b/76051b8a-fe57-cff4-a425-7ef96117a798/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-13 10:20:27 (UTC)
+⏳ 업데이트 시간: 2025-09-13 11:16:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
