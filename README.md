@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Your eyes tell  
-> 아티스트: **BTS**  
-> 앨범: _MAP OF THE SOUL : 7 ~ THE JOURNEY ~_  
+## 🎧 Signs of Faith  
+> 아티스트: **Sad Ballad of Misanthropy**  
+> 앨범: _Obscure Sorrows - EP_  
 
-🔍 검색 키워드: `kpop+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+sad`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/your-eyes-tell/1517969553?i=1517969731&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/ea/53/6bea538d-2b71-ed94-3609-02bf38b17fd8/mzaf_15569783749848704825.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/signs-of-faith/1588418952?i=1588418953&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1c/03/ce/1c03ce75-47af-3070-126b-8d30a64fd312/mzaf_3877136780588712556.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/a4/81/89a481e5-2784-70d6-8404-3642871ca493/20UMGIM44782.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/98/0f/85980f55-8ded-3b47-a586-63bbfae1184b/198002313416.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-14 13:22:16 (UTC)
+⏳ 업데이트 시간: 2025-09-14 14:18:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
