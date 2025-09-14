@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Signs of Faith  
-> 아티스트: **Sad Ballad of Misanthropy**  
-> 앨범: _Obscure Sorrows - EP_  
+## 🎧 True love, await  
+> 아티스트: **Jazz night**  
+> 앨범: _True love, await - Single_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `jazz+night`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/signs-of-faith/1588418952?i=1588418953&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1c/03/ce/1c03ce75-47af-3070-126b-8d30a64fd312/mzaf_3877136780588712556.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/true-love-await/1820813684?i=1820813685&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/34/e2/c734e22c-06a3-eaee-ed58-576e652ad855/mzaf_9822702410994129939.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/98/0f/85980f55-8ded-3b47-a586-63bbfae1184b/198002313416.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/c5/6a/93c56a4d-81a1-4731-31a7-d92699c37fcd/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-14 14:18:04 (UTC)
+⏳ 업데이트 시간: 2025-09-14 15:19:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
