@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad of Vic Williams  
-> 아티스트: **Roy Bailey**  
-> 앨범: _Band of Hope_  
+## 🎧 Sonata  
+> 아티스트: **Lofi Dream**  
+> 앨범: _Space Drink_  
 
-🔍 검색 키워드: `ballad+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad-of-vic-williams/974929201?i=974929295&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/a8/bf/ca/a8bfca9f-f2d9-09fe-6986-e7eca017d62e/mzaf_773907118300928541.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/sonata/1791294205?i=1791294207&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/c9/07/b3c9079f-54a6-d407-3313-81b48784e1be/mzaf_9991648423490266570.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/6e/d3/5a/6ed35af2-babf-1a54-8ff7-2baa73cb5ece/5020393951227_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/51/f5/2f51f572-2b7b-e99d-866e-67b7d96652aa/5063287448847.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-17 12:49:09 (UTC)
+⏳ 업데이트 시간: 2025-09-17 13:30:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
