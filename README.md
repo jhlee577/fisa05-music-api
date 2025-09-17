@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Drunk in Love (feat. Jay Z)  
-> 아티스트: **Beyoncé**  
-> 앨범: _BEYONCÉ_  
+## 🎧 I wanna know (DJ G-SHOT edit) [feat. MoNa a.k.a Sad Girl & Jinmenusagi]  
+> 아티스트: **DJ G-Shot**  
+> 앨범: _I wanna know (DJ G-SHOT edit) [feat. MoNa a.k.a Sad Girl & Jinmenusagi] - Single_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/drunk-in-love-feat-jay-z/780330041?i=780330308&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/62/b8/3d/62b83d23-76b2-e662-3a05-0e7e9a8c1859/mzaf_17923547908440223776.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/i-wanna-know-dj-g-shot-edit-feat-mona-a-k-a-sad-girl-jinmenusagi/1200755333?i=1200755441&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fd/58/f4/fd58f40a-7b79-7597-3f09-61c979fed253/mzaf_7005777009328261330.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/dc/ca/29/dcca295f-851e-5faf-a3b4-030965fa80f2/dj.jyrlgxlq.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5e/04/70/5e0470f6-3741-92d3-f899-24cf233c00aa/859753379181_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-17 18:32:41 (UTC)
+⏳ 업데이트 시간: 2025-09-17 19:17:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
