@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Chill Bee (Lofi) [Bpm85]  
-> 아티스트: **LOFI LOVE**  
-> 앨범: _Hip-Hop & Rap Freestyle Beats Collection - For MC Battle Practice, Vol. 2_  
+## 🎧 I Can't Stand The Rain (Instrumental)  
+> 아티스트: **SuperM**  
+> 앨범: _SuperM - The 1st Mini Album_  
 
-🔍 검색 키워드: `lofi+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/chill-bee-lofi-bpm85/1648270306?i=1648270311&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/4b/22/8d/4b228d49-fde4-b604-9b9c-582ab06e05e1/mzaf_10246054978149883865.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/i-cant-stand-the-rain-instrumental/1477917587?i=1477917632&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/28/31/b2/2831b2e6-edc0-fcad-e764-08e532706977/mzaf_14621919994646383057.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/68/cf/89/68cf8919-5ef7-370e-9f31-9b5e86702ded/859758767853_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f0/47/69/f0476948-1859-8fb7-c0ea-94465871f540/19UMGIM77186.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-18 20:25:04 (UTC)
+⏳ 업데이트 시간: 2025-09-18 21:20:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
