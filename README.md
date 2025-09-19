@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HIP-HOP LOVE (feat. Mrs Bigs) [Special Version]  
-> 아티스트: **Escrow Bigs**  
-> 앨범: _Rozes - Single_  
+## 🎧 Don't Leave Me  
+> 아티스트: **BTS**  
+> 앨범: _FACE YOURSELF_  
 
-🔍 검색 키워드: `hiphop+love`  
+🔍 검색 키워드: `hiphop+hope`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hip-hop-love-feat-mrs-bigs-special-version/1657964895?i=1657965140&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/31/03/a3/3103a316-dc19-df96-7b88-2fd318674584/mzaf_15728612567728338195.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/dont-leave-me/1361622149?i=1361623726&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/08/b9/b1/08b9b1e2-22eb-dfcd-55f8-f377ccb104f9/mzaf_17114900555321856268.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/72/be/d2/72bed20e-61c7-798e-eaa2-0f349f539047/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/49/f6/3a49f65b-600b-b220-beea-6917f2cda62b/00602567531531.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-19 14:21:52 (UTC)
+⏳ 업데이트 시간: 2025-09-19 15:23:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
