@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 I'm Fine  
-> 아티스트: **BTS**  
-> 앨범: _LOVE YOURSELF 結 'Answer'_  
+## 🎧 Mama Lova (feat. Oxmo Puccino)  
+> 아티스트: **Kheops**  
+> 앨범: _Sad Hill_  
 
-🔍 검색 키워드: `kpop+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/im-fine/1433320547?i=1433321226&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ce/0d/5f/ce0d5f39-2c4e-b3ba-b48f-be473a4d6813/mzaf_10161926743355850938.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/mama-lova-feat-oxmo-puccino/697105751?i=697107096&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/6f/e7/8e6fe7d1-98bc-8bec-5bb1-9681d56cd6c2/mzaf_11786330227484700917.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/05/87/25/05872588-2962-ed0f-9eaa-aff9f1197dc5/18UMGIM53261.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/47/13/03/471303e9-b481-547d-9a04-8a0583889e7c/724384510855.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-20 15:20:27 (UTC)
+⏳ 업데이트 시간: 2025-09-20 16:24:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
