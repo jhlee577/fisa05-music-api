@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz = Happy  
-> 아티스트: **Jazz Is Life**  
-> 앨범: _Stress Free_  
+## 🎧 True heart  
+> 아티스트: **Jazz night**  
+> 앨범: _True heart - Single_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `jazz+night`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-happy/1691927915?i=1691928046&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ed/b3/b5/edb3b594-1e5e-22c0-6736-3f73f429819a/mzaf_11410373082343326550.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/true-heart/1820831166?i=1820831167&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/da/c5/29dac56c-1cea-4ee8-a764-38fa1c3044e3/mzaf_3894782681393200742.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0a/1c/d2/0a1cd2ae-e9af-1842-d0f5-6ba78b22d022/5063341444020_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/15/62/ad156264-25c2-67ef-d4a8-54343874f65e/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-20 09:20:55 (UTC)
+⏳ 업데이트 시간: 2025-09-20 10:21:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
