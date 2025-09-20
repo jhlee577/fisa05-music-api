@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love Song for No One  
-> 아티스트: **John Mayer**  
-> 앨범: _Room for Squares_  
+## 🎧 Jazz Dream (feat. Alan Farrington)  
+> 아티스트: **Sandro Gibellini, アレス・タヴォラッツィ & Mauro Beggio**  
+> 앨범: _Put On a Happy Face_  
 
-🔍 검색 키워드: `lofi+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/love-song-for-no-one/283699720?i=283699799&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/53/32/92/533292fc-9acc-2f23-ec1d-95c8adc5a121/mzaf_17727021591754986243.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/jazz-dream-feat-alan-farrington/379127997?i=379128777&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/e5/96/8f/e5968f51-0901-3f52-38a1-2d5f71a9da99/mzaf_5646098375056540961.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/01/40/0b014055-6f12-94f6-6be6-35bb27676253/mzi.tciowflu.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/2d/f0/b7/mzi.ghxembzu.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-20 07:19:27 (UTC)
+⏳ 업데이트 시간: 2025-09-20 08:27:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
