@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Dream (feat. Alan Farrington)  
-> 아티스트: **Sandro Gibellini, アレス・タヴォラッツィ & Mauro Beggio**  
-> 앨범: _Put On a Happy Face_  
+## 🎧 Jazz = Happy  
+> 아티스트: **Jazz Is Life**  
+> 앨범: _Stress Free_  
 
-🔍 검색 키워드: `jazz+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `jazz+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/jazz-dream-feat-alan-farrington/379127997?i=379128777&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/e5/96/8f/e5968f51-0901-3f52-38a1-2d5f71a9da99/mzaf_5646098375056540961.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-happy/1691927915?i=1691928046&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ed/b3/b5/edb3b594-1e5e-22c0-6736-3f73f429819a/mzaf_11410373082343326550.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/2d/f0/b7/mzi.ghxembzu.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0a/1c/d2/0a1cd2ae-e9af-1842-d0f5-6ba78b22d022/5063341444020_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-20 08:27:25 (UTC)
+⏳ 업데이트 시간: 2025-09-20 09:20:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
