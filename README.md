@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 ジャスティスインザボックス (instrumental)  
-> 아티스트: **back number**  
-> 앨범: _HAPPY BIRTHDAY - EP_  
+## 🎧 Mon amour pour elle  
+> 아티스트: **Souf, Nadjy, Tuesy & J-Reyzs**  
+> 앨범: _Hip-Hop Love_  
 
-🔍 검색 키워드: `instrumental+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B6%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-instrumental/1452746605?i=1452746766&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6d/2a/7f/6d2a7f12-1678-9825-fd77-7a487c8cbf80/mzaf_14094736155256776175.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/mon-amour-pour-elle/781423479?i=781423615&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/29/c0/de/29c0de14-bae8-3e2c-305a-76474c64e4f2/mzaf_12673003058573654034.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/68/0d/01/680d0123-4d55-a8aa-9a0e-7fdc2206ab14/00602577426117.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/bc/55/40/bc5540ef-6696-6390-cf52-97f6f141ac5f/3700735803347.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-21 05:21:16 (UTC)
+⏳ 업데이트 시간: 2025-09-21 06:32:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
