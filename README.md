@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Rain  
-> 아티스트: **deedparty**  
-> 앨범: _Dreamy Sunset_  
+## 🎧 Kill This Love  
+> 아티스트: **BLACKPINK**  
+> 앨범: _KILL THIS LOVE - EP_  
 
-🔍 검색 키워드: `jazz+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-rain/1813131914?i=1813132112&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/0a/3c/940a3cbc-78e3-8522-577c-6e0dbb29f402/mzaf_12063429221810809646.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/kill-this-love/1551479989?i=1551479992&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/10/8b/37108b15-6634-df07-dadf-f20f6525dceb/mzaf_3091360070584533991.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/f0/53/f6f05347-644a-934f-635c-185da96d3f87/191953446141.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/2a/db/d62adbe1-6994-581c-b3b2-aeacafa35c1d/19UMGIM30819.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-22 17:17:37 (UTC)
+⏳ 업데이트 시간: 2025-09-22 18:32:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
