@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Walking in the Rain  
-> 아티스트: **Sweet Baboo**  
-> 앨범: _The Boombox Ballads_  
+## 🎧 Sonata  
+> 아티스트: **Lofi Dream**  
+> 앨범: _Space Drink_  
 
-🔍 검색 키워드: `ballad+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/walking-in-the-rain/981061655?i=981061904&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/30/6e/fc/306efc46-ff7b-843c-f7c1-d16ee341e771/mzaf_8922915676173870477.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sonata/1791294205?i=1791294207&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/c9/07/b3c9079f-54a6-d407-3313-81b48784e1be/mzaf_9991648423490266570.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/9f/6d/92/9f6d9264-ddf6-f29b-8665-13f1d0bae55e/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/51/f5/2f51f572-2b7b-e99d-866e-67b7d96652aa/5063287448847.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-22 20:25:10 (UTC)
+⏳ 업데이트 시간: 2025-09-22 21:19:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
