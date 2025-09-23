@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 I Got 5 On It (feat. Michael Marshall)  
-> 아티스트: **Luniz**  
-> 앨범: _Operation Stackola_  
+## 🎧 BOOMBAYAH  
+> 아티스트: **BLACKPINK**  
+> 앨범: _SQUARE ONE - Single_  
 
-🔍 검색 키워드: `rnb+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/i-got-5-on-it-feat-michael-marshall/712330598?i=712330693&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/86/cf/da/86cfdab6-d0d1-67c5-140b-8afcc5d75a32/mzaf_2514611743246167573.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/boombayah/1315917456?i=1315917630&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/3b/89/a03b89a2-1820-96d9-8616-7aa42f79abba/mzaf_14904791120408388190.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/03/22/210322c7-493d-8193-1b2a-d742fe82d7ab/13UABIM51437.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/1f/06/661f06a5-a04a-be0a-8683-4ff5123bda1e/blackpink_fin0807.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-23 11:18:38 (UTC)
+⏳ 업데이트 시간: 2025-09-23 12:48:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
