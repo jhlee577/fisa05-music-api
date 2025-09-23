@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Rain  
-> 아티스트: **Lofi Coding Evolution**  
-> 앨범: _Lofi Study Vibes: Lo-Fi for Studying, Work Study Mix and Coding Session, Autumn Vibe_  
+## 🎧 Instrumental Love  
+> 아티스트: **Level 42**  
+> 앨범: _B-Sides_  
 
-🔍 검색 키워드: `lofi+rain`  
+🔍 검색 키워드: `instrumental+love`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-rain/1708349830?i=1708350032&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3c/0e/45/3c0e45ea-fd48-0b4e-60ea-8f8b6cd8a037/mzaf_5840517704810584831.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/instrumental-love/1631471029?i=1631471321&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/71/c5/fb/71c5fb59-0724-99cc-a6fa-873ed2f9b0d5/mzaf_16270745172035357250.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/ab/d0/54abd01b-e461-8de5-f828-2ce7096a10da/5904195953705.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/51/0f/7a510f78-9734-1e86-5e3c-44801846e09c/21UM1IM24575.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-23 20:25:42 (UTC)
+⏳ 업데이트 시간: 2025-09-23 21:19:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
