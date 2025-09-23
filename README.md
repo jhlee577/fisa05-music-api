@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Inexplicable (En Vivo)  
-> 아티스트: **Rockhope**  
-> 앨범: _Nunca Fallarás (En Vivo)_  
+## 🎧 Merry Christmas, Happy Holidays  
+> 아티스트: **Pentatonix**  
+> 앨범: _A Pentatonix Christmas_  
 
-🔍 검색 키워드: `rock+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/inexplicable-en-vivo/1273574763?i=1273574768&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/cf/d9/36/cfd93614-e3e1-70d0-db6f-3ba8e3a6963c/mzaf_6994551432325241548.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/merry-christmas-happy-holidays/1166722990?i=1166723978&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fa/0a/9f/fa0a9f6f-7e4e-afaa-7f61-fb1b604a8e79/mzaf_14219968926825425076.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e3/74/44/e374442d-94ac-6a3d-5132-73acb666e18e/191924161042.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/65/22/f2/6522f25d-8102-23bc-9b1e-8d0cc700f8ac/886446010434.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-23 08:30:39 (UTC)
+⏳ 업데이트 시간: 2025-09-23 09:24:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
