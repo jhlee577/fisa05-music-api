@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 雨に唄えば  
-> 아티스트: **ニューヨーク・ジャズ・トリオ**  
-> 앨범: _モダン・ジャズ名曲100選 全曲集_  
+## 🎧 Ballad Night (Solo Piano in C Major)  
+> 아티스트: **Kara Walker**  
+> 앨범: _Slow Reading with Easy Listening Tunes, Vol. 02_  
 
-🔍 검색 키워드: `jazz+rain`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E9%9B%A8%E3%81%AB%E5%94%84%E3%81%88%E3%81%B0/98252837?i=98244363&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/d0/48/95/d048959a-906e-b4bf-6089-f1256b61de2d/mzaf_8067919925219270473.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-night-solo-piano-in-c-major/1688648544?i=1688648627&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/16/70/85/1670859e-5ac7-90b8-9b6e-a06642557967/mzaf_8116856563843913177.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/60/b5/df/mzi.ejmibaup.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/6e/ba/d16ebad7-be66-086b-ef0e-cf2bb5e2f480/MAERTS355.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-24 22:20:51 (UTC)
+⏳ 업데이트 시간: 2025-09-24 23:20:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
