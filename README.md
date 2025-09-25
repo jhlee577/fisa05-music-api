@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Freaks Come Out At Night  
-> 아티스트: **Clairvoyant Sages & RnB Aku**  
-> 앨범: _Freaks Come Out At Night - Single_  
+## 🎧 Let You Down  
+> 아티스트: **NF**  
+> 앨범: _Perception_  
 
-🔍 검색 키워드: `rnb+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `hiphop+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/freaks-come-out-at-night/1631677373?i=1631677375&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f2/e8/25/f2e82535-d903-ce16-a5c0-9e9ff3640199/mzaf_11805867888566193796.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/let-you-down/1440848910?i=1440849363&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d3/55/f1/d355f1f2-3b71-47df-be95-bfaf0fcd94d8/mzaf_13148875253387640797.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/61/b1/ae/61b1ae47-dbc2-85e9-738d-5aa1749b702c/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/96/04/6e9604a8-3270-f86e-0c47-0127141545c3/17UM1IM17084.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-25 01:48:36 (UTC)
+⏳ 업데이트 시간: 2025-09-25 03:04:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
