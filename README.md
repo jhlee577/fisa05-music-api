@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Let You Down  
-> 아티스트: **NF**  
-> 앨범: _Perception_  
+## 🎧 BAD SAD AND MAD  
+> 아티스트: **BIBI**  
+> 앨범: _Life Is a Bi… - EP_  
 
-🔍 검색 키워드: `hiphop+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/let-you-down/1440848910?i=1440849363&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d3/55/f1/d355f1f2-3b71-47df-be95-bfaf0fcd94d8/mzaf_13148875253387640797.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/bad-sad-and-mad/1564737719?i=1564737722&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7f/a4/9d/7fa49da4-424e-94ec-e42a-bee8755f176c/mzaf_5905542530449137735.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/96/04/6e9604a8-3270-f86e-0c47-0127141545c3/17UM1IM17084.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/bd/b4/77bdb4ac-28e8-5dac-d78b-19f6b937804c/dj.xtthpwdr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-25 03:04:25 (UTC)
+⏳ 업데이트 시간: 2025-09-25 04:27:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
