@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Gray Paper  
-> 아티스트: **YESUNG**  
-> 앨범: _That Winter, the Wind Blows (Original TV Series Soundtrack), Pt. 1_  
+## 🎧 HAPPY  
+> 아티스트: **BUMP OF CHICKEN**  
+> 앨범: _COSMONAUT_  
 
-🔍 검색 키워드: `ballad+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/gray-paper/603856474?i=603856479&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/ff/49/45ff4978-5d77-fb99-808c-6aa6f341e16f/mzaf_16962660633730793778.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1464635447?i=1464635486&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/7b/54/cf7b54c6-a72f-58a1-76f1-94a3abb05119/mzaf_3187991589025156567.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/v4/41/34/35/41343527-abe5-6fc9-b6b2-4ec96350faf3/KM0001957-_OST_Part.1-0213.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a4/47/71/a4477114-1485-4a36-3c7a-be5befa1f21d/TFCC-86347WW.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-25 05:22:31 (UTC)
+⏳ 업데이트 시간: 2025-09-25 06:34:51 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
