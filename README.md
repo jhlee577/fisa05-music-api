@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Existentialism On Prom Night  
-> 아티스트: **Straylight Run**  
-> 앨범: _Straylight Run_  
+## 🎧 Hope  
+> 아티스트: **BoA**  
+> 앨범: _Forgive Me - The 3rd Mini Album - EP_  
 
-🔍 검색 키워드: `pop+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/existentialism-on-prom-night/1558587992?i=1558588758&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/1d/e1/6d/1de16dde-c7ec-9c82-a75e-128041a25cad/mzaf_9979417298575962180.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1654830351?i=1654830357&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/9c/be/bb9cbe1f-b11b-e5ef-801b-69580b43e8d2/mzaf_7208020217302305070.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/3a/60/603a609a-88f4-9b65-cd2f-5115f847e8d4/20CRGIM20035.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/9f/73/c99f734d-440b-bb14-6285-15f495a4346b/Digital_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-25 21:19:04 (UTC)
+⏳ 업데이트 시간: 2025-09-25 22:19:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
