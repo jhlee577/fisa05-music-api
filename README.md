@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad (Acoustic)  
-> 아티스트: **Noah Young**  
-> 앨범: _Sad (Acoustic) - Single_  
+## 🎧 LOVE. (FEAT. ZACARI.)  
+> 아티스트: **Kendrick Lamar**  
+> 앨범: _DAMN. COLLECTORS EDITION._  
 
-🔍 검색 키워드: `acoustic+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-acoustic/1409869930?i=1409870173&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/64/42/336442ec-e1e1-ce94-a433-b9e15cc2cc33/mzaf_10337951439706058329.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/love-feat-zacari/1440907513?i=1440907762&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0a/b5/3f/0ab53fc7-32a3-d0fe-bfb0-d3dc298807db/mzaf_7606855658621423387.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/45/b1/c1/45b1c1c1-b7ce-f935-ef45-26205e1dca4f/859727480080_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/94/28/36/94283609-93bb-db1c-e997-44e82c157e90/00602567261216.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-26 16:28:57 (UTC)
+⏳ 업데이트 시간: 2025-09-26 17:19:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
