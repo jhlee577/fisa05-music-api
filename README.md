@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 러시안 룰렛  
-> 아티스트: **레드벨벳**  
-> 앨범: _Russian Roulette - The 3rd Mini Album_  
+## 🎧 Forever In My Heart  
+> 아티스트: **Mehdi**  
+> 앨범: _Instrumental Dream_  
 
-🔍 검색 키워드: `kpop+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `instrumental+dream`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%9F%AC%EC%8B%9C%EC%95%88-%EB%A3%B0%EB%A0%9B/1151001050?i=1151001410&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/8d/29/138d2973-f729-2619-8fb9-6038b2c08f19/mzaf_4942114820204075052.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/forever-in-my-heart/329671856?i=329671886&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/e6/ce/45e6ce40-1967-9b79-74bd-e6847c63f50b/mzaf_13796333374802289012.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/37/87/e1378701-df90-f521-8afb-206a61def29d/rv_m03_digitalcover_4000x4000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/f1/4e/1c/mzi.qjkjzywf.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-26 01:47:50 (UTC)
+⏳ 업데이트 시간: 2025-09-26 03:03:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
