@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 La Vie En Rose  
-> 아티스트: **Laura Fygi**  
-> 앨범: _Jazz Love_  
+## 🎧 Lofi Night  
+> 아티스트: **Lofi Rain**  
+> 앨범: _Raindrops: Background Lofi_  
 
-🔍 검색 키워드: `jazz+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `lofi+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/la-vie-en-rose/1443202285?i=1443202363&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/79/56/ec/7956ec7b-b4b6-437f-5938-5ec802d3febd/mzaf_14632375815893236709.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-night/1766096936?i=1766097019&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/e0/89/d1e089d3-71c1-50bd-0577-ffad7d41aa98/mzaf_4411195603325134067.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/88/ff/23/88ff23eb-7e4b-6d36-0531-1b8ba934be94/00602557190823.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/1e/4e/b11e4e76-09aa-fe4b-f053-43312e67577e/cover_10316610.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-27 18:29:12 (UTC)
+⏳ 업데이트 시간: 2025-09-27 19:16:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
