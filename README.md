@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Halsoon**  
-> 앨범: _Rain - Single_  
+## 🎧 BGM for Holiday Music and Morning Cafes  
+> 아티스트: **FM STAR**  
+> 앨범: _Morning Jazz - Happy and Bright Morning_  
 
-🔍 검색 키워드: `hiphop+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `jazz+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1718305267?i=1718305274&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f5/e8/15/f5e81568-09d1-e4bd-1b68-141476f85cbc/mzaf_5719331952992016156.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/bgm-for-holiday-music-and-morning-cafes/1841836372?i=1841836377&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/e9/f4/dbe9f47e-c653-943b-6212-91030ddf3e2c/mzaf_16421738120539991256.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/24/dd/af24dd4e-f077-4990-e293-92b0963895b9/197190495799.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/f6/86/b1f6860d-3659-45fc-ffd1-7972e645af09/4550712860431_cover.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-27 20:22:40 (UTC)
+⏳ 업데이트 시간: 2025-09-27 21:18:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
