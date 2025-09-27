@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Night  
-> 아티스트: **Lofi Rain**  
-> 앨범: _Raindrops: Background Lofi_  
+## 🎧 Rain  
+> 아티스트: **Halsoon**  
+> 앨범: _Rain - Single_  
 
-🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `hiphop+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-night/1766096936?i=1766097019&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/e0/89/d1e089d3-71c1-50bd-0577-ffad7d41aa98/mzaf_4411195603325134067.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1718305267?i=1718305274&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f5/e8/15/f5e81568-09d1-e4bd-1b68-141476f85cbc/mzaf_5719331952992016156.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/1e/4e/b11e4e76-09aa-fe4b-f053-43312e67577e/cover_10316610.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/24/dd/af24dd4e-f077-4990-e293-92b0963895b9/197190495799.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-27 19:16:08 (UTC)
+⏳ 업데이트 시간: 2025-09-27 20:22:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
