@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Easy On Me  
-> 아티스트: **アデル**  
-> 앨범: _30_  
+## 🎧 Acoustic Night  
+> 아티스트: **Ocean Bay Jazz**  
+> 앨범: _Rain Sounds Relaxing Guitar for Sleeping_  
 
-🔍 검색 키워드: `acoustic+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/easy-on-me/1590035691?i=1590036021&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/75/28/56/75285676-dbce-d91d-7b36-070084a3546b/mzaf_5286200244455841527.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-night/1564959542?i=1564959797&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b7/25/0c/b7250c4a-d723-073b-36b1-25ef5f0774cc/mzaf_12667805912525725848.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/e2/1e/1be21e52-cc4b-f186-0101-ce9bf7b18961/5059805709668_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-27 12:41:48 (UTC)
+⏳ 업데이트 시간: 2025-09-27 13:23:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
