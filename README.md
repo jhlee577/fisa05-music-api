@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **Suzy & BAEKHYUN**  
-> 앨범: _Dream - Single_  
+## 🎧 Dance The Night Away  
+> 아티스트: **TWICE**  
+> 앨범: _Summer Nights_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/dream/1788004747?i=1788004748&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/00/df/0900df5b-b5a8-678f-f9c4-1ba1e0750419/mzaf_9051671708096557097.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/dance-the-night-away/1555401452?i=1555401454&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/e5/00/28e500e2-8f20-0385-f37b-84899a8384a0/mzaf_7117980557950201814.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/61/74/3761744e-2002-6740-4869-009d7ad42c13/8804775068294.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/8d/ae/5d8daec6-bf17-9220-6ffb-d69981dd4ef6/00602508874840_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-28 16:24:31 (UTC)
+⏳ 업데이트 시간: 2025-09-28 17:17:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
