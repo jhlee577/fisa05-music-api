@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Malia**  
-> 앨범: _The Garden of Eve_  
+## 🎧 ラヴ・オブ・マイ・ライフ(アン・オード・トゥ・ヒップ・ホップ) [feat. コモン]  
+> 아티스트: **エリカ・バドゥ**  
+> 앨범: _Hip-Hop Love Songs_  
 
-🔍 검색 키워드: `jazz+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1489381664?i=1489381666&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d5/9d/d6/d59dd6e9-0d9b-9e72-a2bd-56fcb047b930/mzaf_17295990423693925470.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%83%A9%E3%83%B4-%E3%82%AA%E3%83%96-%E3%83%9E%E3%82%A4-%E3%83%A9%E3%82%A4%E3%83%95-%E3%82%A2%E3%83%B3-%E3%82%AA%E3%83%BC%E3%83%89-%E3%83%88%E3%82%A5-%E3%83%92%E3%83%83%E3%83%97-%E3%83%9B%E3%83%83%E3%83%97-feat-%E3%82%B3%E3%83%A2%E3%83%B3/1608611295?i=1608611583&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/66/6c/3f666cfa-43fe-59b3-de52-273d4e94bee1/mzaf_5412288082614807095.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2e/2b/29/2e2b299d-b74f-71b0-ee6c-8ca271ef00ae/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c3/e2/c0/c3e2c077-2006-b87e-033f-c7dd978b7e07/22UMGIM12975.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-29 05:23:56 (UTC)
+⏳ 업데이트 시간: 2025-09-29 06:36:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
