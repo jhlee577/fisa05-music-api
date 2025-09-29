@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 ラヴ・オブ・マイ・ライフ(アン・オード・トゥ・ヒップ・ホップ) [feat. コモン]  
-> 아티스트: **エリカ・バドゥ**  
-> 앨범: _Hip-Hop Love Songs_  
+## 🎧 Lofi Love  
+> 아티스트: **ROGE**  
+> 앨범: _Lofi Love - Single_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%83%A9%E3%83%B4-%E3%82%AA%E3%83%96-%E3%83%9E%E3%82%A4-%E3%83%A9%E3%82%A4%E3%83%95-%E3%82%A2%E3%83%B3-%E3%82%AA%E3%83%BC%E3%83%89-%E3%83%88%E3%82%A5-%E3%83%92%E3%83%83%E3%83%97-%E3%83%9B%E3%83%83%E3%83%97-feat-%E3%82%B3%E3%83%A2%E3%83%B3/1608611295?i=1608611583&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/66/6c/3f666cfa-43fe-59b3-de52-273d4e94bee1/mzaf_5412288082614807095.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-love/1576699479?i=1576699490&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/48/31/59/48315969-ca0a-abf4-6fe0-4ad36a5438af/mzaf_5767895863940166380.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c3/e2/c0/c3e2c077-2006-b87e-033f-c7dd978b7e07/22UMGIM12975.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/12/65/07/1265077c-e8bd-596c-eca2-b29bf7171da3/5059863351014_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-29 06:36:22 (UTC)
+⏳ 업데이트 시간: 2025-09-29 07:23:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
