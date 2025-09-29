@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Jazz  
-> 아티스트: **Jazz Piano**  
-> 앨범: _Gold Notes: Chillout Jazz_  
+## 🎧 Rain  
+> 아티스트: **TAEYEON**  
+> 앨범: _Rain - SM STATION_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy-jazz/1781222995?i=1781223000&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/8d/c2/798dc26e-2400-1d07-ea8a-226136c635e8/mzaf_17832619847651831880.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/1080295545?i=1080296146&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/6e/96/586e9676-0a86-9374-44d2-6e290ce589c4/mzaf_8657459177787297495.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/fc/78/50fc7884-a08b-034a-7f7a-a504b00171b3/cover_10325990.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/19/25/b7192532-3aaf-135a-50be-154718cafadc/dj.axrvzqrv.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-29 01:50:57 (UTC)
+⏳ 업데이트 시간: 2025-09-29 03:07:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
