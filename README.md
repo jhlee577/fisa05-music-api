@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 rain  
-> 아티스트: **죠지**  
-> 앨범: _gimbap - EP_  
+## 🎧 Dream  
+> 아티스트: **Imagine Dragons**  
+> 앨범: _Smoke + Mirrors (Deluxe)_  
 
-🔍 검색 키워드: `kpop+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1762778777?i=1762779094&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/24/b3/7424b325-37b8-f1ae-2b64-291efc0b1140/mzaf_8541406086775088048.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/dream/1440831203?i=1440831435&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ab/b6/de/abb6debf-0f2e-45b3-724b-fceea67b9b9e/mzaf_9155939631419168160.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/40/f7/6a40f739-0217-c1e7-adfa-0c6ac1c841da/8800261899830_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/a8/b0/b3a8b05f-7dfe-f557-6147-57e74dfdbebe/15UMGIM53209.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-09-30 10:25:14 (UTC)
+⏳ 업데이트 시간: 2025-09-30 11:19:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
