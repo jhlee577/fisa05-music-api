@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Moods (Lofi Beat Sad)  
-> 아티스트: **lofi.sad, LBASS & Low fi Beats**  
-> 앨범: _MOODS (Lofi Beat Sad) - Single_  
+## 🎧 Hope (feat. Puff Daddy & Tei Shi)  
+> 아티스트: **Blood Orange**  
+> 앨범: _Negro Swan_  
 
-🔍 검색 키워드: `lofi+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rock+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/moods-lofi-beat-sad/1684409048?i=1684409049&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/c3/06/9ec30600-14ea-b489-4390-32b5a2348220/mzaf_9320590884348937911.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope-feat-puff-daddy-tei-shi/1413298173?i=1413299298&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f6/fa/bd/f6fabdfe-088e-0bce-5e9c-704a872dc9ba/mzaf_11291881254663832645.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/20/35/9e20355f-e997-b8f9-c701-90b164f039d2/cfe9b51b-932c-4d0e-a071-9e83994f3aaf.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/6b/2d/bf6b2df2-b0c7-bbfa-4a2b-59bb46c90d64/887828042166.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-01 07:23:06 (UTC)
+⏳ 업데이트 시간: 2025-10-01 08:31:16 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
