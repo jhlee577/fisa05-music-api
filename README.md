@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **LISA**  
-> 앨범: _Alter Ego_  
+## 🎧 Rain (feat. John Legend)  
+> 아티스트: **Common**  
+> 앨범: _Black America Again_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+rain`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/dream/1799316830?i=1799316851&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/ef/44/a7ef44ed-b7f4-613c-7da6-d091bf3cf0ed/mzaf_11834069797984983289.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain-feat-john-legend/1440895412?i=1440895558&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/19/c0/f7/19c0f775-f8d6-8c40-ee6e-08ce37d0fb7d/mzaf_8096007118849344768.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/f6/7f/88f67fd9-c010-e52a-d10e-f5781116b99a/196872937138.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/5f/87/4b5f87a9-b78d-42c0-d30e-ea8b203317d0/16UMGIM72494.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-02 05:21:25 (UTC)
+⏳ 업데이트 시간: 2025-10-02 06:33:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
