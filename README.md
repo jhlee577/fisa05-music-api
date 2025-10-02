@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 The Night We Met  
-> 아티스트: **Lord Huron**  
-> 앨범: _Strange Trails_  
+## 🎧 Rain  
+> 아티스트: **Simply Three**  
+> 앨범: _Undefined_  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `instrumental+rain`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/the-night-we-met/1806531135?i=1806531961&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/36/b7/4b36b739-1de7-e0ae-45da-9a66463127ac/mzaf_1821541347983595183.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/1536469686?i=1536469870&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/85/97/dd8597a0-d72a-7d2e-09c6-14ed13501e87/mzaf_4680434412132708712.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/98/47/4e9847f3-3f10-d645-a2a7-19052b9a2f78/859722644845_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-02 10:23:04 (UTC)
+⏳ 업데이트 시간: 2025-10-02 11:17:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
