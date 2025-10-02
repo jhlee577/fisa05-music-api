@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Love  
-> 아티스트: **Level 42**  
-> 앨범: _B-Sides_  
+## 🎧 The Night We Met  
+> 아티스트: **Lord Huron**  
+> 앨범: _Strange Trails_  
 
-🔍 검색 키워드: `instrumental+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `hiphop+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/instrumental-love/1631471029?i=1631471321&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/71/c5/fb/71c5fb59-0724-99cc-a6fa-873ed2f9b0d5/mzaf_16270745172035357250.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/the-night-we-met/1806531135?i=1806531961&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/36/b7/4b36b739-1de7-e0ae-45da-9a66463127ac/mzaf_1821541347983595183.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/51/0f/7a510f78-9734-1e86-5e3c-44801846e09c/21UM1IM24575.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-02 09:23:25 (UTC)
+⏳ 업데이트 시간: 2025-10-02 10:23:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
