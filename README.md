@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 시차 (feat. 로꼬 & 그레이)  
-> 아티스트: **우원재**  
-> 앨범: _시차 (feat. 로꼬 & 그레이) - Single_  
+## 🎧 LOVE (feat. TAEYANG)  
+> 아티스트: **PSY**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EC%8B%9C%EC%B0%A8-feat-%EB%A1%9C%EA%BC%AC-%EA%B7%B8%EB%A0%88%EC%9D%B4/1569744570?i=1569744573&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/d2/83/fad283f8-a11e-1f9f-b9bd-a49da836027f/mzaf_16055240665419299025.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/music-video/love-feat-taeyang/1260460412?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video116/v4/50/c0/12/50c01233-d43b-c9bf-c958-ab57aa2d4a75/mzvf_8594614822512321071.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/07/d9/f707d9a0-2769-1cfb-a4af-adac843f24bf/8809534467462_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video111/v4/86/6e/52/866e52da-f46d-4757-9b25-730161d00c0e/KRZ351700026.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-03 10:23:33 (UTC)
+⏳ 업데이트 시간: 2025-10-03 11:18:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
