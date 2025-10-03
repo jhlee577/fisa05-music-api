@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad  
-> 아티스트: **Son Nu**  
-> 앨범: _Happy Morning - Single_  
+## 🎧 LOVE  
+> 아티스트: **ソフィアン・パマール**  
+> 앨범: _LETTER_  
 
-🔍 검색 키워드: `ballad+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `ballad+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad/1777357588?i=1777357591&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/08/77/bf087723-e608-c4b3-0da7-09e3a7930bcc/mzaf_625630909874063431.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love/1594361606?i=1594362501&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/72/10/00/72100082-aa25-be32-e1b9-29fa8c3aacc2/mzaf_8022272526518482013.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/9e/28/179e28ea-2ea6-9e7d-45b9-dd2242bc884d/5059449197777.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/db/de/83dbde1e-1dfe-1c33-3139-a01b5a5f6003/5400863071349_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-03 15:22:43 (UTC)
+⏳ 업데이트 시간: 2025-10-03 16:28:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
