@@ -4,18 +4,18 @@
 추천 곡은...
 
 ## 🎧 Happy  
-> 아티스트: **GentleBeatz**  
-> 앨범: _Soul City_  
+> 아티스트: **Nao**  
+> 앨범: _For All We Know_  
 
-🔍 검색 키워드: `hiphop+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy/1446654496?i=1446654504&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/41/3f/91/413f9124-6ca5-2b98-24ef-084310da71cb/mzaf_17766385417430627875.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1114767580?i=1114767836&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/05/83/d8/0583d84b-1cd4-3e59-bed1-32647f69112e/mzaf_1278092313797617883.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/10/75/c9/1075c95d-6951-7f99-bf48-eec3071a6471/859729194794_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/ce/17/79ce17b6-0237-a4d0-e74a-ab5c44c692b1/886445711028.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-03 02:59:19 (UTC)
+⏳ 업데이트 시간: 2025-10-03 03:33:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
