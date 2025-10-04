@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **The Volunteers**  
-> 앨범: _The Volunteers_  
+## 🎧 Hope  
+> 아티스트: **Caleb Ely**  
+> 앨범: _Black Swan Club - EP_  
 
-🔍 검색 키워드: `kpop+summer`  
+🔍 검색 키워드: `pop+hope`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/summer/1569294418?i=1569294608&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/e6/e0/f3e6e096-6e4c-cb5b-a827-553b035aaad3/mzaf_13407501163592848995.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1832831182?i=1832831188&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/f9/f2/0ff9f279-7bc6-feb4-1f22-4461e045d1be/mzaf_6927887657680157791.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/28/8c/f9288c73-c42a-11d1-a4aa-83a7ce6e3c46/TheVolunteers_3000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/89/a0/f989a005-fc81-bf7d-5ce8-41a014f20b92/199502213527_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-04 19:15:58 (UTC)
+⏳ 업데이트 시간: 2025-10-04 20:22:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
