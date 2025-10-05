@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Demeanor (feat. Dua Lipa)  
-> 아티스트: **Pop Smoke**  
-> 앨범: _Faith (Deluxe)_  
+## 🎧 우산을 쓰고  
+> 아티스트: **로코베리**  
+> 앨범: _우산을 쓰고 - Single_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/demeanor-feat-dua-lipa/1843814170?i=1843814442&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/ac/2c/78ac2cb2-6238-ae22-7c32-137150daeab2/mzaf_17007927137971389531.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EC%9A%B0%EC%82%B0%EC%9D%84-%EC%93%B0%EA%B3%A0/1695099476?i=1695099602&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/27/b9/e4/27b9e412-534d-1c9a-c15f-f465ad3ed471/mzaf_11277051080374580861.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/9b/16/1d9b16a2-b83a-93cc-340d-7a5542adfe37/00602438688821_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/03/db/5d03db38-8369-4cc1-91ec-9a304ffbf6ef/5054197742767.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-05 04:25:38 (UTC)
+⏳ 업데이트 시간: 2025-10-05 05:20:23 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
