@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Careless Whisper  
-> 아티스트: **George Michael**  
-> 앨범: _Ladies & Gentlemen_  
+## 🎧 L'homme idéal  
+> 아티스트: **Sowsow**  
+> 앨범: _Hip-Hop Love_  
 
-🔍 검색 키워드: `ballad+sad`  
+🔍 검색 키워드: `hiphop+love`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/careless-whisper/429945575?i=429945616&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/eb/cd/4e/ebcd4ed4-9e4c-738e-f0a5-40dd091d3a01/mzaf_9752795156531835778.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lhomme-id%C3%A9al/781423479?i=781423624&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/4a/df/134adf2c-9a31-70e9-3632-e86d1ba7ffd5/mzaf_7314248203344881477.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/46/95/8946959a-e959-f22d-ced2-745feb799454/mzm.upagbaeg.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/bc/55/40/bc5540ef-6696-6390-cf52-97f6f141ac5f/3700735803347.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-05 20:22:34 (UTC)
+⏳ 업데이트 시간: 2025-10-05 21:18:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
