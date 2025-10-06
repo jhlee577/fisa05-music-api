@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 One Summer Morning  
-> 아티스트: **Cafe Music BGM Channel**  
-> 앨범: _Summer Jazz_  
+## 🎧 Instrumental Love  
+> 아티스트: **Jazzy Coffee, Cozy Coffee Shop & Relaxing Jazz Piano**  
+> 앨범: _Smooth Night Jazz_  
 
-🔍 검색 키워드: `jazz+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `instrumental+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/one-summer-morning/1519876736?i=1519876742&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2c/e5/9d/2ce59d0e-1a0d-4b7d-004a-4ee15678c2b4/mzaf_17980333378835154567.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/instrumental-love/1635123608?i=1635123609&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a6/65/f7/a665f75b-d0de-628f-6dd9-d984d8ba013e/mzaf_6296859381907437641.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/06/02/37/06023709-f4cb-e836-0926-c890d068c4ea/859740211548_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/66/e7/d766e76a-98e8-c9cb-54fd-1739f38e7872/5063112281984_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-06 16:28:59 (UTC)
+⏳ 업데이트 시간: 2025-10-06 17:20:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
