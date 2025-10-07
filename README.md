@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Cool for the Summer (Rock Version)  
-> 아티스트: **Demi Lovato**  
-> 앨범: _REVAMPED_  
+## 🎧 HAPPY  
+> 아티스트: **NF**  
+> 앨범: _HOPE_  
 
-🔍 검색 키워드: `rock+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/cool-for-the-summer-rock-version/1697368586?i=1697368602&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/cd/dd/77cdddef-715e-6541-80be-b97e2dd526a0/mzaf_1084351003912037610.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy/1670412644?i=1670413058&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/7d/f2/9e7df27c-e165-3603-12bc-855574ae07b0/mzaf_15244753975086973735.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/fd/31/7dfd3155-332e-c6d4-725e-b24a4eadd150/23UMGIM79570.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-07 16:29:06 (UTC)
+⏳ 업데이트 시간: 2025-10-07 17:20:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
