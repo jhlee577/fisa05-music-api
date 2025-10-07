@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Dido**  
-> 앨범: _Safe Trip Home_  
+## 🎧 Lofi Sad (Beat Instrumental)  
+> 아티스트: **LoFi Hip Hop**  
+> 앨범: _Lofi Hip Hop Radio_  
 
-🔍 검색 키워드: `rock+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer/293941006?i=293941023&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/46/e4/18/46e4188e-8290-7c98-b7c4-87657cdcae20/mzaf_446210649177580557.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-sad-beat-instrumental/1532440751?i=1532440771&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fa/25/18/fa251848-d807-4f22-de40-6a7bd705d185/mzaf_5491847325217377577.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/e7/df/69e7df49-6303-3729-4949-3d60709c2da6/888880742575.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/1a/67/cb1a6796-87b4-669e-dabc-b242e9a5e266/13232.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-07 07:22:27 (UTC)
+⏳ 업데이트 시간: 2025-10-07 08:31:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
