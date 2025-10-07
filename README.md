@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Drama  
-> 아티스트: **aespa**  
-> 앨범: _Drama - The 4th Mini Album_  
+## 🎧 KU LO SA - A COLORS SHOW  
+> 아티스트: **Oxlade**  
+> 앨범: _KU LO SA - A COLORS SHOW - Single_  
 
-🔍 검색 키워드: `rnb+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `hiphop+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/drama/1715939930?i=1715939931&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/81/94/e7/8194e75d-a406-1a51-f5c5-f9d16dc6770a/mzaf_9281646009353805493.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ku-lo-sa-a-colors-show/1628124903?i=1628125458&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/87/08/dd/8708dd5a-4259-1f95-eb82-aa84654ac927/mzaf_11998625770077535270.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/6c/c7/3c6cc7b9-5bff-e196-2751-665fa5705ab1/196589232137.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-07 03:00:33 (UTC)
+⏳ 업데이트 시간: 2025-10-07 04:27:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
