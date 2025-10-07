@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Demons  
-> 아티스트: **Imagine Dragons**  
-> 앨범: _Sad Pop_  
+## 🎧 Get You (feat. Kali Uchis)  
+> 아티스트: **Daniel Caesar**  
+> 앨범: _Freudian_  
 
-🔍 검색 키워드: `pop+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/demons/1606990068?i=1606992100&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/a1/5c/b5a15ce2-3337-5a8d-7d04-a73e2b1f9ff8/mzaf_15097013538268929454.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/get-you-feat-kali-uchis/1799080774?i=1799080775&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/64/7e/a2647e53-f16c-ec35-0b41-cf6a65ab69a2/mzaf_7427365009000821098.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c3/c0/bd/c3c0bd3a-fa8f-0143-95bc-421ba0708634/21UM1IM28282.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/cd/1a/b6cd1a5b-83af-a1e2-0ad7-ea530fcf2522/859722261219.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-07 19:18:24 (UTC)
+⏳ 업데이트 시간: 2025-10-07 20:24:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
