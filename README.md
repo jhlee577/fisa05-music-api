@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad Jazz (Instrumental)  
-> 아티스트: **Jazz Hop Nation**  
-> 앨범: _Jazzhop Chill Mix_  
+## 🎧 Ballad Love (Solo Piano)  
+> 아티스트: **Kara Walker**  
+> 앨범: _Soft Piano Music for Focus on Studying, Vol. 3_  
 
-🔍 검색 키워드: `jazz+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `ballad+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/sad-jazz-instrumental/1531940846?i=1531940847&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/0f/e3/450fe3aa-8e5a-8c07-bc5c-f225b5fe72ff/mzaf_11096241928727864227.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/ballad-love-solo-piano/1685673994?i=1685674280&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ae/f6/76/aef6768c-de5f-4949-46cb-9f5cabcbfea7/mzaf_1037271388621779734.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/f4/20/bff4201c-aeca-b816-3263-841abd8d2fbc/13119.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/8d/b8/328db8a4-8511-ec3a-e3d9-3ee10bf097d6/821555437680_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-07 11:18:43 (UTC)
+⏳ 업데이트 시간: 2025-10-07 12:49:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
