@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Temperature  
-> 아티스트: **Sean Paul**  
-> 앨범: _The Trinity_  
+## 🎧 Thinkin Bout You  
+> 아티스트: **Frank Ocean**  
+> 앨범: _channel ORANGE_  
 
-🔍 검색 키워드: `hiphop+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rock+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/temperature/80429921?i=80429794&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/c1/0a/5cc10a1a-7d18-cc64-1ee9-b628ffc7e2f8/mzaf_16216429513235284104.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/thinkin-bout-you/1440765580?i=1440766128&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8a/2c/35/8a2c35f6-ac70-560c-0a1c-516e105c6af8/mzaf_13522699475931524613.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6b/a9/89/6ba9895c-5aff-8be1-4ff9-9f88369077b1/dj.decwpjor.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-08 12:50:08 (UTC)
+⏳ 업데이트 시간: 2025-10-08 13:32:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
