@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **KIDZ BOP Kids**  
-> 앨범: _KIDZ BOP Greatest Hits!_  
+## 🎧 Summer!  
+> 아티스트: **수퍼비, UNEDUCATED KID, twlv & 유시온**  
+> 앨범: _Dingo X Yng & Rich Records (Part 2) - Single_  
 
-🔍 검색 키워드: `instrumental+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/1440955941?i=1440955945&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/d8/9c/d9d89cb0-aa95-1998-392b-42e88e8c3446/mzaf_11244568781105757068.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer/1691669645?i=1691669646&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/96/a7/35/96a73537-5b1b-9ef7-8455-7c418075a5f0/mzaf_17241369071326122725.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/8c/fb/1d8cfb5e-85f6-af07-f025-f039666ae41b/14CMGIM02845.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/dc/ac/97dcac1c-9c15-4e3a-9e59-aa86df523493/cover_KM0017698_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-08 06:35:04 (UTC)
+⏳ 업데이트 시간: 2025-10-08 07:21:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
