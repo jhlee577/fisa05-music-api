@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Feel My Love (Acoustic)  
-> 아티스트: **Glenn Travis**  
-> 앨범: _Feel My Love (Acoustic) - Single_  
+## 🎧 If Only for One Night  
+> 아티스트: **Luther Vandross**  
+> 앨범: _The Night I Fell In Love_  
 
-🔍 검색 키워드: `acoustic+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/feel-my-love-acoustic/1814622739?i=1814622740&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/8e/d5/098ed524-1c9f-6314-cc87-ccec097c8fd3/mzaf_12946184449295722425.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/if-only-for-one-night/197979799?i=197980923&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/26/2d/42262d60-cf09-0b0e-d905-4ee5af3fb026/mzaf_8790715624881279831.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/3f/96/c83f9610-0eaa-4be0-7701-8c803d6dba30/859733223466.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/dc/05/a5/dc05a500-07ca-e0b1-364b-40985eccafb0/dj.llupprdq.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-07 23:20:10 (UTC)
+⏳ 업데이트 시간: 2025-10-08 01:46:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
