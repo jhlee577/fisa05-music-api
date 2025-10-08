@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Golden  
-> 아티스트: **HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast**  
-> 앨범: _KPop Demon Hunters (Soundtrack from the Netflix Film)_  
+## 🎧 CPR  
+> 아티스트: **Summer Walker**  
+> 앨범: _Last Day of Summer_  
 
-🔍 검색 키워드: `kpop+sad`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rnb+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/golden/1820264137?i=1820264150&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/3d/36/e03d3641-fb63-8dd7-512f-807317a33d94/mzaf_4587856923046357769.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/cpr/1438765128?i=1438765140&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/ed/4b/dbed4b1b-f7b4-5700-4745-e28dce99213a/mzaf_6535597343132478680.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-08 19:18:10 (UTC)
+⏳ 업데이트 시간: 2025-10-08 20:25:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
