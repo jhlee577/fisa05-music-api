@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 GHOST TOWN  
-> 아티스트: **Benson Boone**  
-> 앨범: _GHOST TOWN - Single_  
+## 🎧 rain  
+> 아티스트: **죠지**  
+> 앨범: _gimbap - EP_  
 
-🔍 검색 키워드: `acoustic+sad`  
+🔍 검색 키워드: `pop+rain`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/ghost-town/1587414055?i=1587414059&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/48/d1/f848d1f0-1abc-a921-51b9-e25f6439f601/mzaf_9105259324038492747.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1762778777?i=1762779094&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/24/b3/7424b325-37b8-f1ae-2b64-291efc0b1140/mzaf_8541406086775088048.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/6e/88/bd6e88ac-9cda-84d2-8d36-e9b8837f2193/054391912718.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/40/f7/6a40f739-0217-c1e7-adfa-0c6ac1c841da/8800261899830_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-09 21:20:45 (UTC)
+⏳ 업데이트 시간: 2025-10-09 22:20:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
