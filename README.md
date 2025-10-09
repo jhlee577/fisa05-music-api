@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Dream  
-> 아티스트: **Sweet Babycane**  
-> 앨범: _Acoustic Dream - Sensual Acoustic Guitar to Relax Your Mind_  
+## 🎧 HOPE (With Kidd Keo)  
+> 아티스트: **Tale$ & Kidd Keo**  
+> 앨범: _HOPE (With Kidd Keo) - Single_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/acoustic-dream/1705230853?i=1705230854&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ba/17/17/ba171705-c0d7-5ad1-9e7b-9f1dd5c556fd/mzaf_6724650649430522735.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope-with-kidd-keo/1731956228?i=1731956229&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/40/d2/3a/40d23afb-b60c-2b85-6130-395490365a5b/mzaf_17063813474701472578.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/c5/d7/3bc5d755-8192-a9e4-7e96-ac7de21139e9/8052869221272.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/84/d4/34/84d43459-9fbd-9808-03f2-b338f5d6e913/0.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-09 17:20:55 (UTC)
+⏳ 업데이트 시간: 2025-10-09 18:33:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
