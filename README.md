@@ -4,18 +4,18 @@
 추천 곡은...
 
 ## 🎧 Acoustic Dream  
-> 아티스트: **어쿠스틱 디**  
-> 앨범: _Acoustic Dream - Single_  
+> 아티스트: **Sweet Babycane**  
+> 앨범: _Acoustic Dream - Sensual Acoustic Guitar to Relax Your Mind_  
 
 🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `KR`
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/acoustic-dream/1599201931?i=1599202195&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b1/39/0f/b1390ff6-8fbc-546a-3592-76fd21f33523/mzaf_18074599135576031564.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/acoustic-dream/1705230853?i=1705230854&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ba/17/17/ba171705-c0d7-5ad1-9e7b-9f1dd5c556fd/mzaf_6724650649430522735.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e6/17/3c/e6173c93-c41a-6e10-4a19-e1ed152c2ee1/8809856732484.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/c5/d7/3bc5d755-8192-a9e4-7e96-ac7de21139e9/8052869221272.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-09 16:31:14 (UTC)
+⏳ 업데이트 시간: 2025-10-09 17:20:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
