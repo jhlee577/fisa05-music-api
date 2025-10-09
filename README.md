@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Kouz1**  
-> 앨범: _AFROBOY - EP_  
+## 🎧 Hope  
+> 아티스트: **윤하**  
+> 앨범: _Supersonic_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love/1733461489?i=1733461494&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/44/ee/cc44eee3-4d73-8b25-fd14-e4a957ed1d10/mzaf_3666250222403076952.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1654839548?i=1654839781&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e4/af/df/e4afdf93-85d3-5f3d-debc-49a1955bd487/mzaf_10948774094044405559.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/66/f0/cd/66f0cd36-09a5-c5f0-6798-6916feff4d98/3617054266770.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e9/e0/62/e9e06219-6850-f55d-ee8e-c0a18cc6cd03/8809484115604_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-09 04:27:24 (UTC)
+⏳ 업데이트 시간: 2025-10-09 05:22:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
