@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Dream  
-> 아티스트: **Minoru Mukaiya**  
-> 앨범: _Tickle the Ivory_  
+## 🎧 Acoustic Love  
+> 아티스트: **Lesfm**  
+> 앨범: _Acoustic Love - Single_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-dream/1535035245?i=1535035727&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c8/7c/4b/c87c4bbc-05c1-f438-3d74-d50c995acf6e/mzaf_9918772770625236421.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/acoustic-love/1583108266?i=1583108267&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/50/fb/b7/50fbb7ee-5468-a508-1b58-bec05f46126a/mzaf_18135355224135810521.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/bb/08/04bb0837-591e-dbc6-5222-c3a3ded6630b/4560427431048.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/75/16/5b751655-c2be-736b-1825-f205917a6140/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-11 02:56:09 (UTC)
+⏳ 업데이트 시간: 2025-10-11 03:30:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
