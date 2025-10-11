@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Scott Hardware**  
-> 앨범: _Ballad of a Tryhard_  
+## 🎧 Hope (feat. Winona Oak)  
+> 아티스트: **The Chainsmokers**  
+> 앨범: _Sick Boy_  
 
-🔍 검색 키워드: `ballad+summer`  
+🔍 검색 키워드: `instrumental+hope`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer/1600429347?i=1600429350&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/50/0e/61/500e6181-3193-27cd-3937-f81f5c4a4167/mzaf_14865941970608907575.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope-feat-winona-oak/1445725433?i=1445725437&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/16/81/75168147-f054-e8b0-0943-fe59ebb6b01e/mzaf_17752006632324627956.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/d9/cb/9dd9cb1d-d893-8d9f-ca3b-082981dca2cc/196292337044.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/24/e1/6324e131-0034-4753-9cc6-ade1da39a4a8/886447471074.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-11 12:41:47 (UTC)
+⏳ 업데이트 시간: 2025-10-11 13:24:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
