@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 연애소설 (feat. 아이유)  
-> 아티스트: **에픽하이**  
-> 앨범: _WE'VE DONE SOMETHING WONDERFUL_  
+## 🎧 Summer  
+> 아티스트: **Joe Hisaishi & London Symphony Orchestra**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `hiphop+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EC%97%B0%EC%95%A0%EC%86%8C%EC%84%A4-feat-%EC%95%84%EC%9D%B4%EC%9C%A0/1299101327?i=1299101336&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/29/e7/99/29e79986-55c8-1867-79f7-ff24469a8df2/mzaf_1880348974543530121.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/music-video/summer/1495039274?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/a2/57/e4/a257e467-c9b7-961a-2bdf-ebf4d9f31367/mzvf_16888117456472645119.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/19/00/dd/1900dd2f-2d37-f089-8fc0-bb2c07a81802/COVER_fin_4000X4000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/0d/31/47/0d314759-66bd-d05e-dc23-75b77c519338/19UM1IM15508.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-10 23:19:35 (UTC)
+⏳ 업데이트 시간: 2025-10-11 01:43:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
