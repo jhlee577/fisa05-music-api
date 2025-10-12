@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 whenever you're gone  
-> 아티스트: **Khalid**  
-> 앨범: _after the sun goes down_  
+## 🎧 Get You (feat. Kali Uchis)  
+> 아티스트: **Daniel Caesar**  
+> 앨범: _Freudian_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/whenever-youre-gone/1844394976?i=1844395332&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/e6/13/23e613fe-6db7-3b7c-8383-190f0bc4cbd5/mzaf_15935818061415563466.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/get-you-feat-kali-uchis/1799080774?i=1799080775&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/64/7e/a2647e53-f16c-ec35-0b41-cf6a65ab69a2/mzaf_7427365009000821098.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/60/02/d060028d-d39c-2ea4-5af3-cc8b18fb14f8/196873591797.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/cd/1a/b6cd1a5b-83af-a1e2-0ad7-ea530fcf2522/859722261219.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-12 05:20:45 (UTC)
+⏳ 업데이트 시간: 2025-10-12 06:31:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
