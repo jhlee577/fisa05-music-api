@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sweet Dreams (Are Made of This)  
-> 아티스트: **Eurythmics**  
-> 앨범: _Sweet Dreams (Are Made of This) [Deluxe Edition]_  
+## 🎧 death bed (feat. beabadoobee) [coffee for your head]  
+> 아티스트: **Powfu**  
+> 앨범: _death bed (feat. beabadoobee) [coffee for your head] - Single_  
 
-🔍 검색 키워드: `ballad+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/sweet-dreams-are-made-of-this/207056852?i=207057617&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/33/72/78/337278b2-6ec6-ddbd-1d11-94e0c8ca3b22/mzaf_17096504411490598724.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/death-bed-feat-beabadoobee-coffee-for-your-head/1498128757?i=1498128769&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e9/4a/29/e94a295b-d16f-39b9-7d67-c0f075fead51/mzaf_14853064860961301572.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ad/d3/3d/add33dea-0a4d-9509-643b-939ba6735733/dj.vpugapfp.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/a9/36/8ba936f3-2d8b-1012-89cc-92f75eb76961/886448289180.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-12 20:23:24 (UTC)
+⏳ 업데이트 시간: 2025-10-12 21:18:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
