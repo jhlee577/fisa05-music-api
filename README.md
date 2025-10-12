@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM (Instrumental)  
-> 아티스트: **DK(디셈버)**  
-> 앨범: _Suits, Pt. 1 (Original Television Soundtrack) - Single_  
+## 🎧 Love  
+> 아티스트: **f(x)**  
+> 앨범: _Pinocchio - The 1st Album_  
 
-🔍 검색 키워드: `instrumental+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/dream-instrumental/1660005245?i=1660005556&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/66/d0/77/66d07788-0674-cbf3-8f30-6766c70cfe27/mzaf_3334571450751541048.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/love/854892507?i=854892546&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/83/60/698360cb-20d2-a3ef-929e-32ccf65784b3/mzaf_13790479094996739331.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ad/37/8e/ad378ebf-b148-5ed6-b93d-fb39557e1450/8809603541819_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/e3/00/b6/e300b69b-da35-47c5-2dbd-84713ac9b209/asset.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-12 13:24:56 (UTC)
+⏳ 업데이트 시간: 2025-10-12 14:18:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
