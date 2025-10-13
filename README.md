@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 The Heart Wants What It Wants  
-> 아티스트: **Selena Gomez**  
-> 앨범: _For You - EP_  
+## 🎧 Rain  
+> 아티스트: **Creed**  
+> 앨범: _Full Circle_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rock+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/the-heart-wants-what-it-wants/1442861663?i=1442861667&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ae/8d/36/ae8d36ab-24b8-b2a8-23b6-38d2ee542499/mzaf_12019101307901133438.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/1440788031?i=1440788242&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/01/f1/3701f11b-66c7-c0c6-eedc-cc90008b6fb5/mzaf_9966080295848785333.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/31/f4/4c/31f44cfe-865a-2c06-03ca-167c3500946e/15DMGIM06093.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/ac/03/abac03ff-1346-0874-8b6e-95dacc9d3868/00601501418723.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-13 20:25:44 (UTC)
+⏳ 업데이트 시간: 2025-10-13 21:20:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
