@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 99 Steps (feat. Kohjiya & Hana Hope)  
-> 아티스트: **STUTS**  
-> 앨범: _99 Steps - Single_  
+## 🎧 Hope (feat. Puff Daddy & Tei Shi)  
+> 아티스트: **Blood Orange**  
+> 앨범: _Negro Swan_  
 
-🔍 검색 키워드: `hiphop+happy`  
+🔍 검색 키워드: `rnb+hope`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/99-steps-feat-kohjiya-hana-hope/1807914002?i=1807914003&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f1/57/bc/f157bc89-92c5-6550-3bb3-ecd8a1a21ad6/mzaf_11566350358531812340.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope-feat-puff-daddy-tei-shi/1413298173?i=1413299298&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f6/fa/bd/f6fabdfe-088e-0bce-5e9c-704a872dc9ba/mzaf_11291881254663832645.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/be/39/e7be393f-238e-32ba-3abf-421bc99d4311/4580789707360.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/6b/2d/bf6b2df2-b0c7-bbfa-4a2b-59bb46c90d64/887828042166.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-14 05:21:57 (UTC)
+⏳ 업데이트 시간: 2025-10-14 06:34:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
