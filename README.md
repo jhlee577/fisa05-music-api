@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **박혜경**  
-> 앨범: _Feel Me_  
+## 🎧 Hope (feat. Winona Oak)  
+> 아티스트: **ザ・チェインスモーカーズ**  
+> 앨범: _Sick Boy_  
 
-🔍 검색 키워드: `pop+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1547856623?i=1547856630&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/40/d1/57/40d157d5-9648-1e4c-240e-8e5205a37d8c/mzaf_6690049996654553186.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope-feat-winona-oak/1445725433?i=1445725437&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/16/81/75168147-f054-e8b0-0943-fe59ebb6b01e/mzaf_17752006632324627956.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/ea/81/c2ea81f5-6d39-3432-0543-fc8396c438e7/191953103105.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/24/e1/6324e131-0034-4753-9cc6-ade1da39a4a8/886447471074.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-14 03:03:40 (UTC)
+⏳ 업데이트 시간: 2025-10-14 04:27:27 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
