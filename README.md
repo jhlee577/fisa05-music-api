@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad  
-> 아티스트: **Sonnet**  
-> 앨범: _The World of the Married, Pt. 3 (Original Television Soundtrack) - Single_  
+## 🎧 Freestyle Instru Rap  
+> 아티스트: **RN22**  
+> 앨범: _Instrumental Rap_  
 
-🔍 검색 키워드: `kpop+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sad/1721099463?i=1721099469&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/20/c2/9e20c2d3-6219-e0a2-d186-bbd0985ffe60/mzaf_18236076933167366430.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/freestyle-instru-rap/1577784652?i=1577784659&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/18/3d/a3/183da396-faab-dffb-fb7a-dbe1bacd1be3/mzaf_10727137623534655376.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/3c/40/943c4071-9daa-c289-56e7-5ce49c0379d9/8720205027825.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/66/d2/5d/66d25d0d-7940-8388-3ed2-7f95e9693aec/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-14 07:23:26 (UTC)
+⏳ 업데이트 시간: 2025-10-14 08:29:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
