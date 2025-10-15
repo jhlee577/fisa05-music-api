@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Dream  
-> 아티스트: **Belladonna**  
-> 앨범: _Soulful Architechtures_  
+## 🎧 Happy (Acoustic Version)  
+> 아티스트: **magicbox**  
+> 앨범: _Summer Beach Acoustic_  
 
-🔍 검색 키워드: `jazz+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `acoustic+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/jazz-dream/1472927256?i=1472927268&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/77/d1/a077d193-5441-a930-36ea-44f0f1b7ca36/mzaf_4624281112927666089.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy-acoustic-version/1131526782?i=1131526807&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3a/e5/e6/3ae5e6a9-5303-539f-94ec-8d4d921b4ff2/mzaf_16579014356298921201.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2e/94/d0/2e94d0b2-d103-6299-1729-44a9c6b201a8/8033237765178.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/41/8f/1c/418f1c95-c1e1-7540-80c5-11e74eb5e41a/summer-beach-acoustic_2.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-14 23:20:53 (UTC)
+⏳ 업데이트 시간: 2025-10-15 01:51:23 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
