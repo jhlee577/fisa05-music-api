@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM  
-> 아티스트: **SEVENTEEN**  
-> 앨범: _ALWAYS YOURS_  
+## 🎧 Jazz Rain  
+> 아티스트: **RyNea Soul**  
+> 앨범: _WOW Vol. 2_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `jazz+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream/1701948718?i=1701948886&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c8/71/5c/c8715ced-a5a7-7f13-f095-319a13cbe0ab/mzaf_7021265000991770422.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/jazz-rain/1822541118?i=1822541817&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/a9/cc/f6a9ccc8-e7b3-0f80-bb1f-f7dbe1649bd3/mzaf_15439849994083023914.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/ec/da/56ecdab5-26f1-1d03-31f1-c342bd55eba8/23UMGIM70496.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/a3/1e/31a31eff-571b-0917-c753-b4148b20df87/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-15 07:23:46 (UTC)
+⏳ 업데이트 시간: 2025-10-15 08:33:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
