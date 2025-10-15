@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Rain  
-> 아티스트: **RyNea Soul**  
-> 앨범: _WOW Vol. 2_  
+## 🎧 Ghetto Supastar (That Is What You Are)  
+> 아티스트: **Pras**  
+> 앨범: _Ghetto Supastar_  
 
-🔍 검색 키워드: `jazz+rain`  
+🔍 검색 키워드: `hiphop+summer`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/jazz-rain/1822541118?i=1822541817&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/a9/cc/f6a9ccc8-e7b3-0f80-bb1f-f7dbe1649bd3/mzaf_15439849994083023914.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ghetto-supastar-that-is-what-you-are/192950057?i=192950291&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/cd/01/58cd0125-7f0e-69a0-e94c-8e78c9cace33/mzaf_3873697045637433868.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/a3/1e/31a31eff-571b-0917-c753-b4148b20df87/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/4b/cc/654bcc23-12e1-a1af-86ea-383fd6933694/mzi.nsuedoag.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-15 17:20:55 (UTC)
+⏳ 업데이트 시간: 2025-10-15 18:34:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
