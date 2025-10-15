@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dance The Night Away  
-> 아티스트: **TWICE**  
-> 앨범: _Summer Nights_  
+## 🎧 Love  
+> 아티스트: **Lana Del Rey**  
+> 앨범: _Lust for Life_  
 
-🔍 검색 키워드: `kpop+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `pop+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/dance-the-night-away/1555401452?i=1555401454&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/e5/00/28e500e2-8f20-0385-f37b-84899a8384a0/mzaf_7117980557950201814.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love/1440899893?i=1440899958&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1d/71/65/1d71652e-392a-71ec-3ff0-71e2663b92e6/mzaf_18084598624687350460.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/8d/ae/5d8daec6-bf17-9220-6ffb-d69981dd4ef6/00602508874840_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fc/d3/81/fcd381c9-451f-0917-da01-06678a92b85c/17UMGIM90308.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-15 05:22:57 (UTC)
+⏳ 업데이트 시간: 2025-10-15 06:34:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
