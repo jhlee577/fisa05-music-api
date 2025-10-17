@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (Instrumental)  
-> 아티스트: **Piano Dreamers**  
-> 앨범: _Top 20 Hits May 2023 (Instrumental)_  
+## 🎧 DREAM  
+> 아티스트: **SEVENTEEN**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `instrumental+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-instrumental/1683938901?i=1683938917&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5b/0d/17/5b0d17fd-4a88-c310-80dd-269ed6f9af34/mzaf_10661923519760163376.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/dream/1652052237?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video122/v4/00/4b/2a/004b2ac4-8402-8d33-c2b8-82141a8af0fb/mzvf_6312713063347384860.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/72/10/55/72105508-b291-d6ee-0ff3-a4397b3930a7/789577239791.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-17 17:19:30 (UTC)
+⏳ 업데이트 시간: 2025-10-17 18:31:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
