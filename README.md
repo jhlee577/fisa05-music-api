@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Bcalm & Purrple Cat**  
-> 앨범: _Elements_  
+## 🎧 Summer  
+> 아티스트: **Kenya Vaun**  
+> 앨범: _Summer - Single_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1710124050?i=1710124061&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c6/07/3c/c6073c85-e06f-7329-dc09-0f0b41595a57/mzaf_2322420414972425522.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/summer/1678796056?i=1678796058&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/4f/04/4e/4f044ed6-d915-b5dc-9d33-9eec2bcfd5d3/mzaf_11596153873808037707.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/0f/36/be0f3691-19cf-df09-6a54-c9758dc8b931/5c385fb1-923f-4f2e-8e98-bd28c51e1556.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/1f/04/771f0419-8108-4497-0e85-f30cb21b3cd8/075679690920.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-17 22:20:53 (UTC)
+⏳ 업데이트 시간: 2025-10-17 23:19:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
