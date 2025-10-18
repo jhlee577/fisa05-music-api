@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Night  
-> 아티스트: **Tantra Lounge & Buddha Zen Spa**  
-> 앨범: _Soft Touch – Easy Listening Massage Music and Tantric Love Soundscapes_  
+## 🎧 The Night We Met  
+> 아티스트: **Lord Huron**  
+> 앨범: _Strange Trails_  
 
-🔍 검색 키워드: `jazz+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-night/1221928713?i=1221928796&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/76/67/e37667a9-d06a-4e5a-a834-2ea8e6741ede/mzaf_5440831868325841173.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/the-night-we-met/964394836?i=964395230&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c3/92/88/c39288c3-dfc9-cec7-228c-55cbf972e929/mzaf_2045207575339797448.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/dd/ed/eb/ddedeb53-cb8b-be94-7b5b-ee5adc9ea5d3/8033772870207.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/38/15/df/3815dfdc-a4d2-f8e8-beb3-4ee3be4252c2/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-18 15:20:15 (UTC)
+⏳ 업데이트 시간: 2025-10-18 16:26:16 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
