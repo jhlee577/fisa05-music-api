@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 JAZZ DREAM  
-> 아티스트: **DJ NAGASHIMA**  
-> 앨범: _HIHATT5TH - EP_  
+## 🎧 Ballad of a Badman  
+> 아티스트: **Tory Lanez**  
+> 앨범: _Alone At Prom_  
 
-🔍 검색 키워드: `jazz+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/jazz-dream/1535828480?i=1535828902&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2b/ed/9a/2bed9ac0-4723-ddd5-5630-cd612143becf/mzaf_14251571589561942766.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad-of-a-badman/1599009985?i=1599010276&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ed/52/2c/ed522cc7-b0d1-7b43-eccc-aae7f33cd7a1/mzaf_9361000986079095788.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a3/55/72/a35572c1-2ff0-db7f-37cb-4744df12c6d6/195497408412.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/c8/eb/16c8eb6d-fe23-fa03-5e43-9827972763d3/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-18 22:20:03 (UTC)
+⏳ 업데이트 시간: 2025-10-18 23:20:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
