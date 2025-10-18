@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Summer  
-> 아티스트: **Marlow Digs**  
-> 앨범: _Up in the Sky_  
+## 🎧 Easy On Me  
+> 아티스트: **Adele**  
+> 앨범: _30_  
 
-🔍 검색 키워드: `lofi+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/lofi-summer/1619209798?i=1619209800&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cf/11/60/cf116000-7d32-3d82-1506-c4da65617dba/mzaf_2046175726073319213.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/easy-on-me/1590035691?i=1590036021&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/75/28/56/75285676-dbce-d91d-7b36-070084a3546b/mzaf_5286200244455841527.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/06/28/09/06280906-d73d-139d-1200-cdde0f01f170/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-18 11:17:13 (UTC)
+⏳ 업데이트 시간: 2025-10-18 12:43:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
