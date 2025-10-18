@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 The Night We Met  
-> 아티스트: **Lord Huron**  
-> 앨범: _Strange Trails_  
+## 🎧 Hope  
+> 아티스트: **Laffey & Ornithology**  
+> 앨범: _After the Rain_  
 
-🔍 검색 키워드: `acoustic+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `lofi+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/the-night-we-met/964394836?i=964395230&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c3/92/88/c39288c3-dfc9-cec7-228c-55cbf972e929/mzaf_2045207575339797448.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope/1740519070?i=1740519073&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/89/5f/42895f42-8181-1e3c-af8c-501dc91cd190/mzaf_6813326167059019867.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/38/15/df/3815dfdc-a4d2-f8e8-beb3-4ee3be4252c2/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/64/76/53647672-e85e-4611-63a7-a96b8c2b8249/381b51fc-8850-47f8-b65d-2bd0b62eb5e9.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-18 16:26:16 (UTC)
+⏳ 업데이트 시간: 2025-10-18 17:17:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
