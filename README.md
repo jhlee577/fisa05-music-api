@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Kenya Vaun**  
-> 앨범: _Summer - Single_  
+## 🎧 Rain  
+> 아티스트: **SWV**  
+> 앨범: _Release Some Tension_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/summer/1678796056?i=1678796058&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/4f/04/4e/4f044ed6-d915-b5dc-9d33-9eec2bcfd5d3/mzaf_11596153873808037707.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/rain/253640878?i=253641178&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/1f/04/771f0419-8108-4497-0e85-f30cb21b3cd8/075679690920.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-17 23:19:46 (UTC)
+⏳ 업데이트 시간: 2025-10-18 01:44:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
