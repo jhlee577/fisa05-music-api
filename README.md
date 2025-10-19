@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Musiq Soulchild**  
-> 앨범: _Aijuswanaseing_  
+## 🎧 Happy Talk  
+> 아티스트: **엘라 피츠제럴드**  
+> 앨범: _Happy Jazz_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/love/1440921030?i=1440921200&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/ee/9c/ccee9c87-d249-e9fb-ab94-e4549536878a/mzaf_8982561300930686739.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy-talk/1378360070?i=1378360958&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/4a/bd/374abd47-75f0-654e-422b-784ccd174834/mzaf_9626103610847633495.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/43/32/fe433231-b094-83d7-63e4-0507e8b11b5e/06UMGIM08895.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b2/2a/f9/b22af9e9-41a5-d102-56af-297b2e76b359/9782278091027_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-19 21:19:14 (UTC)
+⏳ 업데이트 시간: 2025-10-19 22:20:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
