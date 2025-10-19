@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Superstition  
-> 아티스트: **Stevie Wonder**  
-> 앨범: _Talking Book_  
+## 🎧 sad!  
+> 아티스트: **noevdv & Dina Ayada**  
+> 앨범: _sad! - Single_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/superstition/1440808973?i=1440808985&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ff/a3/1a/ffa31a9f-8d91-68a8-e85c-cf8e74284079/mzaf_15951061299338017971.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad/1767073663?i=1767073664&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/3d/84/c53d844e-c304-d132-0151-a460248b16ac/mzaf_13006581152779973983.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/62/61/61/626161c0-f4d7-e6ff-8586-768340ef278f/00602537002382.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/55/47/275547d0-66c4-e96a-34b5-7d08146b8c74/44644.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-19 10:21:54 (UTC)
+⏳ 업데이트 시간: 2025-10-19 11:17:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
