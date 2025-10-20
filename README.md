@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Rain  
-> 아티스트: **RyNea Soul**  
-> 앨범: _WOW Vol. 2_  
+## 🎧 Lofi Summer  
+> 아티스트: **F1fty Beatz**  
+> 앨범: _Lofi Summer - Single_  
 
-🔍 검색 키워드: `jazz+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `lofi+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-rain/1822541118?i=1822541817&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/a9/cc/f6a9ccc8-e7b3-0f80-bb1f-f7dbe1649bd3/mzaf_15439849994083023914.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-summer/1630437410?i=1630437411&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/74/e8/aa/74e8aad9-cc00-1720-613f-87c87b7f666e/mzaf_2638734984403061137.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/a3/1e/31a31eff-571b-0917-c753-b4148b20df87/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/29/2b/2a/292b2a41-3ccd-0520-fa08-79f98c95b1d5/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-20 09:27:46 (UTC)
+⏳ 업데이트 시간: 2025-10-20 10:26:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
