@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Musiq Soulchild**  
-> 앨범: _Aijuswanaseing (Special Edition)_  
+## 🎧 Dream  
+> 아티스트: **Choi Cello**  
+> 앨범: _Dream - Single_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love/1452810391?i=1452810404&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/14/f0/a3/14f0a36d-9b6f-8756-b13d-d5eb2aba2fdf/mzaf_5505089568190602927.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream/1598851753?i=1598851756&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e8/02/27/e80227d5-c54f-8299-52e6-4a2e75d4089a/mzaf_607768825526138921.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/79/88/2b79888b-a4cb-5a56-0fc2-121f71704821/00602517464865.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/fc/ef/3efcef22-6601-af62-d83d-3682d47598f9/888272091595_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-20 21:21:03 (UTC)
+⏳ 업데이트 시간: 2025-10-20 22:21:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
