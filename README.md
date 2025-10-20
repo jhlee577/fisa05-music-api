@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **SWV**  
-> 앨범: _Release Some Tension_  
+## 🎧 Demain (Bigflo & Oli X Petit Biscuit)  
+> 아티스트: **Bigflo & Oli & Petit Biscuit**  
+> 앨범: _Demain (Bigflo & Oli X Petit Biscuit) - Single_  
 
-🔍 검색 키워드: `instrumental+rain`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/rain/253640878?i=253641178&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/demain-bigflo-oli-x-petit-biscuit/1402692632?i=1402692638&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d5/f1/36/d5f1362e-6adf-47cc-54e5-7a2fc9657d06/mzaf_17673241349417735411.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0b/52/d8/0b52d8f5-a150-1ed0-d0f4-94ee324a5d93/00602567856993.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-20 11:20:24 (UTC)
+⏳ 업데이트 시간: 2025-10-20 12:50:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
