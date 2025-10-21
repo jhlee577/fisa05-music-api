@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Every Breath You Take  
-> 아티스트: **The Police**  
-> 앨범: _The Very Best of Sting & The Police_  
+## 🎧 비  
+> 아티스트: **크나큰**  
+> 앨범: _GRAVITY, Completed (Repackage) - EP_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/every-breath-you-take/1440882817?i=1440882897&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/e9/f6/18e9f643-cbf8-6033-8a83-18556dbddf9f/mzaf_15885057754664676520.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%B9%84/1628268217?i=1628268385&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/26/34/56/2634560e-6e62-9910-a8e5-10a65e3ac7f9/mzaf_16864340596523171962.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ed/d9/ee/edd9ee9f-07f4-61cd-7ab2-ba5e3e56df1d/8809534466335_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-20 23:20:39 (UTC)
+⏳ 업데이트 시간: 2025-10-21 01:52:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
