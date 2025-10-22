@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rump Shaker  
-> 아티스트: **Wreckx-n-Effect**  
-> 앨범: _Hard or Smooth_  
+## 🎧 Ballad Love (Solo Piano)  
+> 아티스트: **Kara Walker**  
+> 앨범: _Soft Piano Tunes for Focus on Reading, Vol. 05_  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/rump-shaker/1443198372?i=1443198388&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/cb/4d/2fcb4d90-ce16-7b2b-5cfd-16e6d8eec72b/mzaf_10850939282467021562.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/ballad-love-solo-piano/1685132748?i=1685132840&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3a/9d/a5/3a9da521-ed5a-0ed5-2f09-c83e4a411b77/mzaf_11791569501279529550.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0a/8a/3e/0a8a3ebf-6d72-04eb-8ade-3368721e9724/06UMGIM02257.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/3e/42/8b3e4286-51a9-e03f-f5d9-7c18611f535c/MAERTS340.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-22 04:28:15 (UTC)
+⏳ 업데이트 시간: 2025-10-22 05:23:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
