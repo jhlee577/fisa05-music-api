@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (From "Despicable Me 2")  
-> 아티스트: **Pharrell Williams**  
-> 앨범: _Unknown Album_  
+## 🎧 Lofi Love (Mixed)  
+> 아티스트: **Rhy & Smoodmood**  
+> 앨범: _himood Lofi Mix 004: Deep Focus (DJ Mix)_  
 
-🔍 검색 키워드: `kpop+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/happy-from-despicable-me-2/793299815?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-love-mixed/1711884939?i=1711885331&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d1/fc/29/d1fc29cb-6579-1d80-a91d-e15852d5d665/mzaf_3013100850096631780.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/61/ed/6c61ed78-4de0-0e93-2f9c-efc8089aab3f/e6b36036-f0a9-4e3e-9ed3-36208c74c082.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-22 16:32:05 (UTC)
+⏳ 업데이트 시간: 2025-10-22 17:20:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
