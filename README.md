@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Come Back to Earth  
-> 아티스트: **Mac Miller**  
-> 앨범: _Swimming_  
+## 🎧 Summer  
+> 아티스트: **The Hunna**  
+> 앨범: _Dare_  
 
-🔍 검색 키워드: `hiphop+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rock+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/come-back-to-earth/1408996052?i=1408996053&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c3/24/6b/c3246b0d-5868-fa62-811d-065054c3dffb/mzaf_11923786879779444720.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer/1634078245?i=1634078615&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/16/93/16/1693168d-8a95-3e82-9808-2a76ceda2e0d/mzaf_10412487914349123736.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/38/b5/e338b529-da3f-b4b9-b8f9-1fae428e7a23/093624905899.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/61/82/e561821d-189e-f772-adf6-4364ad9cb790/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-23 17:20:43 (UTC)
+⏳ 업데이트 시간: 2025-10-23 18:34:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
