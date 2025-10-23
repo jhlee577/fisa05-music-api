@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Summer  
-> 아티스트: **The Aether & Mindeliq**  
-> 앨범: _Lofi Summer - Single_  
+## 🎧 비  
+> 아티스트: **홍이삭**  
+> 앨범: _있을게 - Single_  
 
-🔍 검색 키워드: `lofi+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `acoustic+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-summer/1515205652?i=1515205653&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/32/9e/82329edf-08df-de12-7213-ba063c44b921/mzaf_9713425367532512484.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%B9%84/1698673672?i=1698673674&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f5/35/b4/f535b42b-0017-ba33-0bd1-ba757757f8ed/mzaf_14280103071311440270.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/df/fb/71/dffb710f-1f6e-faef-fc49-ed363a69c505/018736325861_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ac/36/37/ac3637f7-b62d-68b7-45e8-fadb3f05c9dd/8809887737267.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-23 09:26:40 (UTC)
+⏳ 업데이트 시간: 2025-10-23 10:26:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
