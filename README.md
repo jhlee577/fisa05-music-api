@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 A Thousand Years  
-> 아티스트: **Christina Perri**  
-> 앨범: _Acoustic Summer_  
+## 🎧 Acoustic Love  
+> 아티스트: **Lesfm**  
+> 앨범: _Acoustic Love - Single_  
 
-🔍 검색 키워드: `acoustic+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/a-thousand-years/1805863699?i=1805864254&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/77/27/167727b0-9cee-f6fe-8c52-baae8f5cb8d7/mzaf_9813003635188050132.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/acoustic-love/1583108266?i=1583108267&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/50/fb/b7/50fbb7ee-5468-a508-1b58-bec05f46126a/mzaf_18135355224135810521.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/9c/78/309c78e0-c653-ef75-3e64-7bc5a7b37957/5059460387614.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/75/16/5b751655-c2be-736b-1825-f205917a6140/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-24 15:25:27 (UTC)
+⏳ 업데이트 시간: 2025-10-24 16:30:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
