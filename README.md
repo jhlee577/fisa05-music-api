@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Oliver Jensen**  
-> 앨범: _Lofi Summer_  
+## 🎧 Kaleidoscope Dream  
+> 아티스트: **Miguel**  
+> 앨범: _Kaleidoscope Dream_  
 
-🔍 검색 키워드: `lofi+summer`  
+🔍 검색 키워드: `rnb+dream`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/summer/1624125499?i=1624125503&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b1/2e/b6/b12eb6dd-082c-2d58-945c-88f57a94dba9/mzaf_2470973167093004022.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/kaleidoscope-dream/561709112?i=561709118&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/30/f8/d430f87c-55b9-a92c-17e3-2ffcce1536bb/mzaf_2517411318727659222.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/13/d9/fe/13d9fe3d-5954-d424-54c0-1bc1046792c8/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/56/ac/a156acb2-068e-a616-3e56-86ca656c14ce/886443632943.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-24 06:34:16 (UTC)
+⏳ 업데이트 시간: 2025-10-24 07:22:31 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
