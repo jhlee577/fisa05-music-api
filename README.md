@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Night (Solo Piano in C Major)  
-> 아티스트: **Kara Walker**  
-> 앨범: _Soulful Mellow Evening, Vol. 04_  
+## 🎧 Hope  
+> 아티스트: **Jack Johnson**  
+> 앨범: _Sleep Through the Static_  
 
-🔍 검색 키워드: `ballad+night`  
+🔍 검색 키워드: `acoustic+hope`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/ballad-night-solo-piano-in-c-major/1637612699?i=1637612838&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3e/e8/be/3ee8be0d-266d-cd3e-8361-df9810a601cc/mzaf_14571679472416523117.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1440854851?i=1440855235&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/fd/27/7bfd2723-0b8d-6d64-be48-e013a34b16bd/mzaf_1110710803148528693.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/17/0e/e5170e3d-da24-2326-a2e1-3a8592268a88/709401747438_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cb/62/f3/cb62f354-aee2-f04d-ef40-3573feda30d9/00602537869640.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-24 10:27:06 (UTC)
+⏳ 업데이트 시간: 2025-10-24 11:20:33 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
