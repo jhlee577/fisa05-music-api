@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (Acoustic Version)  
-> 아티스트: **magicbox**  
-> 앨범: _ACOUSTIC HOLIDAYS -Natural Morning Selection- (休日の爽やかな朝から聴きたい、洋楽ヒットのハッピー・アコースティックアレンジ集)_  
+## 🎧 Dream  
+> 아티스트: **Gideon Matthew**  
+> 앨범: _Dream - Single_  
 
-🔍 검색 키워드: `hiphop+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy-acoustic-version/1004519528?i=1004519530&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9f/1d/5d/9f1d5d57-60d1-ca5d-9a06-2b5cb1075477/mzaf_15606150217641545482.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/1538715443?i=1538715446&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ef/df/34/efdf3421-4be4-020c-ed48-913b2842a17a/mzaf_17268567034410008349.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/d5/41/83/d541838a-e766-ebc1-28bf-310ed4c84d9a/dj.kqaxwoaz.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/73/19/1c/73191ca1-a7ba-b11a-39f2-a2eb59e0062e/859743390301_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-25 08:27:25 (UTC)
+⏳ 업데이트 시간: 2025-10-25 09:21:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
