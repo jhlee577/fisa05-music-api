@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Arlo Parks**  
-> 앨범: _Collapsed in Sunbeams (Deluxe)_  
+## 🎧 That Summer (Instrumental)  
+> 아티스트: **Piano Dreamers**  
+> 앨범: _Piano Dreamers Perform Garth Brooks (Instrumental)_  
 
-🔍 검색 키워드: `rnb+hope`  
+🔍 검색 키워드: `instrumental+summer`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope/1535799044?i=1535799420&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/61/d9/c2/61d9c204-6afb-f7e1-d55a-7aa42a5f2e11/mzaf_12328735035716875413.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/that-summer-instrumental/1844744433?i=1844744730&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/f1/a5/c0f1a5f5-a882-0e2d-4ab7-71b17791bdc7/mzaf_9961648876013695481.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/49/f4/6c/49f46c00-590e-be57-502b-abf4d476e6f5/5400863041588_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/8c/cf/6d8ccff1-3a9f-bde6-2975-0c5b01f847c0/29535.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-24 23:21:15 (UTC)
+⏳ 업데이트 시간: 2025-10-25 01:48:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
