@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Naganori Sakakibara**  
-> 앨범: _Ballad of Rainbow - Cinema Songs on Guitar_  
+## 🎧 HAPPY  
+> 아티스트: **NF**  
+> 앨범: _HOPE_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/summer/1429508116?i=1429508267&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f5/d3/5b/f5d35bf3-a53e-b4b0-8393-74ed42994868/mzaf_18272707914627914641.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1670412644?i=1670413058&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/7d/f2/9e7df27c-e165-3603-12bc-855574ae07b0/mzaf_15244753975086973735.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/08/12/db0812a4-432a-b412-0d02-119c55b45ce8/DLDH-1899.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-26 05:22:07 (UTC)
+⏳ 업데이트 시간: 2025-10-26 06:33:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
