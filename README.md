@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sweet Dreams (Are Made of This)  
-> 아티스트: **Eurythmics**  
-> 앨범: _Sweet Dreams (Are Made of This) [Deluxe Edition]_  
+## 🎧 Summer Hate (feat. RAIN)  
+> 아티스트: **ZICO**  
+> 앨범: _Random Box - EP_  
 
-🔍 검색 키워드: `ballad+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sweet-dreams-are-made-of-this/207056852?i=207057617&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/33/72/78/337278b2-6ec6-ddbd-1d11-94e0c8ca3b22/mzaf_17096504411490598724.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer-hate-feat-rain/1520181977?i=1520181978&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/4d/1f/ff4d1fae-594b-2c84-735c-6d1665ba5e99/mzaf_12760202092153394534.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ad/d3/3d/add33dea-0a4d-9509-643b-939ba6735733/dj.vpugapfp.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/01/3f/81013ff5-59ab-f4a0-f295-06bb5656383a/dj.xsntovad.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-26 12:44:24 (UTC)
+⏳ 업데이트 시간: 2025-10-26 13:26:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
