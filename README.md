@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer Hate (feat. RAIN)  
-> 아티스트: **ZICO**  
-> 앨범: _Random Box - EP_  
+## 🎧 Speak Softly Love (Instrumental)  
+> 아티스트: **Box Tree Orchestra**  
+> 앨범: _Instrumental Love Songs for Classical Guitar_  
 
-🔍 검색 키워드: `kpop+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer-hate-feat-rain/1520181977?i=1520181978&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/4d/1f/ff4d1fae-594b-2c84-735c-6d1665ba5e99/mzaf_12760202092153394534.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/speak-softly-love-instrumental/600503038?i=600503796&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/27/6d/d0276d11-b7c6-a54c-8989-3b7a1f40af2b/mzaf_9283789463886878095.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/01/3f/81013ff5-59ab-f4a0-f295-06bb5656383a/dj.xsntovad.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/v4/38/f2/29/38f2296c-d729-b0ae-4535-6dee989cec91/887845583260.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-26 13:26:58 (UTC)
+⏳ 업데이트 시간: 2025-10-26 14:19:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
