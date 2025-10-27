@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Melodicb**  
-> 앨범: _Rain - Single_  
+## 🎧 Hope  
+> 아티스트: **BoA**  
+> 앨범: _Only One_  
 
-🔍 검색 키워드: `hiphop+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/1716261893?i=1716261894&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/98/e3/2498e30f-50fd-8bd5-5579-29a4be334521/mzaf_15816061181479012174.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/854900899?i=854900909&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/1f/7f/4d1f7f79-a1fb-6b98-fcbd-fb81a472372b/mzaf_18041874159674599179.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/f3/d9/d9f3d9bb-5c56-8011-6250-c4afa745fc85/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3e/ff/e8/3effe8d3-c71a-312f-9b0f-e132579d4c31/asset.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-27 11:20:50 (UTC)
+⏳ 업데이트 시간: 2025-10-27 12:52:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
