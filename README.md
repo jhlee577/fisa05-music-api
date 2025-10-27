@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Queen of Rain  
-> 아티스트: **Roxette**  
-> 앨범: _The Ballad Hits_  
+## 🎧 Hope  
+> 아티스트: **Gaëtan Roussel**  
+> 앨범: _Trafic_  
 
-🔍 검색 키워드: `ballad+rain`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/queen-of-rain/697409230?i=697409458&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/48/32/394832ad-053a-e875-e993-455a83589c71/mzaf_2838987869029041287.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope/1455382180?i=1455382183&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b2/bb/bb/b2bbbbf6-5909-1982-ec02-891bca626b6a/mzaf_3410462338766015709.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/5c/80/2f/5c802fa2-a600-5b85-2ecc-fe00cdf6d010/dj.wllrpyre.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bc/9c/67/bc9c675b-9237-9d55-2d42-9938ef33903b/00602577585128.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-27 06:38:54 (UTC)
+⏳ 업데이트 시간: 2025-10-27 07:23:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
