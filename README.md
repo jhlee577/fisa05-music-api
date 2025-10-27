@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Night (Solo Piano in C Major)  
-> 아티스트: **Kara Walker**  
-> 앨범: _Slow Reading with Easy Listening Tunes, Vol. 02_  
+## 🎧 Rain  
+> 아티스트: **BTS**  
+> 앨범: _DARK&WILD_  
 
-🔍 검색 키워드: `ballad+night`  
+🔍 검색 키워드: `rnb+rain`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-night-solo-piano-in-c-major/1688648544?i=1688648627&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/16/70/85/1670859e-5ac7-90b8-9b6e-a06642557967/mzaf_8116856563843913177.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/1597016856?i=1597017220&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/8f/1f/788f1f30-4ef1-6636-254d-eeb4d8c410b7/mzaf_10455926999264557055.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/6e/ba/d16ebad7-be66-086b-ef0e-cf2bb5e2f480/MAERTS355.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/39/97/f2399713-b036-7ef2-fb4f-8c1454569c66/8804775056895_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-27 02:01:59 (UTC)
+⏳ 업데이트 시간: 2025-10-27 03:53:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
