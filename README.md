@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Love (Jazz Hip Hop Instrumental)  
-> 아티스트: **Jazz Hop Nation**  
-> 앨범: _Morning Coffee Commute_  
+## 🎧 Sad (Jazz Cover)  
+> 아티스트: **G-Clef da Mad Komposa**  
+> 앨범: _I'm the Sax Plug!_  
 
-🔍 검색 키워드: `jazz+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `jazz+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/jazz-love-jazz-hip-hop-instrumental/1531948892?i=1531949512&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/4e/24/bd4e24d1-4ead-5937-0fd2-db504f7a97a6/mzaf_10627178022987105237.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-jazz-cover/1427094055?i=1427094650&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/85/60/a6/8560a622-efd0-417f-d4f0-1b4175f00bc1/mzaf_7427975526099833325.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9d/1e/1a9d1e28-54a5-6de8-76fa-df2117f18a1e/13139.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/2c/57/e4/2c57e411-5462-c98e-a932-173a2e3bd29a/686647325708.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-29 11:20:52 (UTC)
+⏳ 업데이트 시간: 2025-10-29 12:52:50 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
