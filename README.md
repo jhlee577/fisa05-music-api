@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Holistic World & Relaxation Guru**  
-> 앨범: _Fantastic Dreams: Relaxing Sleep Music, Relaxing Ambient Music, Songs for Sleep, Quiet Night, Sleep Aid_  
+## 🎧 Where Is My Love (I Got a Fear, In My Blood)  
+> 아티스트: **lofi.sad**  
+> 앨범: _Where Is My Love (I Got a Fear, In My Blood) - Single_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/instrumental-night/1316076909?i=1316077985&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/69/39/cc/6939cc03-746e-da0f-2014-7258691ae9c2/mzaf_7322432554703047198.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/where-is-my-love-i-got-a-fear-in-my-blood/1596731184?i=1596731185&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ae/64/44/ae644462-27fb-00d4-1e80-3e401f811420/mzaf_13105301470363254385.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/8c/99/998c99ae-86d7-c17a-119e-e2f4a08a6071/8033772907378.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/b7/de/c4b7de5c-beec-1e31-0cfa-626d5f7311e5/196513605181_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-29 21:21:58 (UTC)
+⏳ 업데이트 시간: 2025-10-29 22:22:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
