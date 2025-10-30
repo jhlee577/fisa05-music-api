@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **sitting duck & Mondo Loops**  
-> 앨범: _Wonderland Chapter II_  
+## 🎧 DREAM (feat. G.CUE, “E”qual & Kalassy Nikoff)  
+> 아티스트: **DJ RYOW**  
+> 앨범: _DRIVE MY DREAMS_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope/1710112619?i=1710112624&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/09/dd/36/09dd3661-cbdd-a9d7-fd81-1535e854310a/mzaf_2669154111818046608.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream-feat-g-cue-e-qual-kalassy-nikoff/1736053959?i=1736054540&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/12/1c/3d121c9c-f68c-67f3-0352-8ba58cf900d7/mzaf_5858933032375809326.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/b0/ce/7db0cefb-b90f-c299-0c25-0efb069ff1b2/289ac4c4-8fa5-4aeb-8996-d6a0d7968b29.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/58/86/a258863f-ba90-f860-7c18-310662da6d52/4582174314597_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-30 04:27:51 (UTC)
+⏳ 업데이트 시간: 2025-10-30 05:23:33 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
