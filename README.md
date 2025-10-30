@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 LOVE (a secret visitor) [feat. parkjiyoon]  
-> 아티스트: **황소윤**  
-> 앨범: _Episode1 : Love_  
+## 🎧 Californication  
+> 아티스트: **Red Hot Chili Peppers**  
+> 앨범: _Rock Summer_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rock+summer`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love-a-secret-visitor-feat-parkjiyoon/1802841525?i=1802841686&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/dc/22/03dc2247-b070-35ae-59a5-0c09fb9a5a0a/mzaf_16699395212974317545.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/californication/1627799583?i=1627800014&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/55/c0/f8/55c0f85c-afcb-ab56-e919-ba36b65ff29b/mzaf_17955226627840345651.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/21/90/8f2190c5-0ac0-7d39-2f70-9bb64ef48fc4/8809900758132.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/39/e8/66/39e866b3-1041-e2e7-dec4-d4099b04ad75/5059460139800.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-30 11:20:05 (UTC)
+⏳ 업데이트 시간: 2025-10-30 12:51:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
