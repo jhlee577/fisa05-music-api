@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM (feat. G.CUE, “E”qual & Kalassy Nikoff)  
-> 아티스트: **DJ RYOW**  
-> 앨범: _DRIVE MY DREAMS_  
+## 🎧 연애소설 (feat. 아이유)  
+> 아티스트: **에픽하이**  
+> 앨범: _WE'VE DONE SOMETHING WONDERFUL_  
 
-🔍 검색 키워드: `rnb+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream-feat-g-cue-e-qual-kalassy-nikoff/1736053959?i=1736054540&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/12/1c/3d121c9c-f68c-67f3-0352-8ba58cf900d7/mzaf_5858933032375809326.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EC%97%B0%EC%95%A0%EC%86%8C%EC%84%A4-feat-%EC%95%84%EC%9D%B4%EC%9C%A0/1299101327?i=1299101336&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/29/e7/99/29e79986-55c8-1867-79f7-ff24469a8df2/mzaf_1880348974543530121.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/58/86/a258863f-ba90-f860-7c18-310662da6d52/4582174314597_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/19/00/dd/1900dd2f-2d37-f089-8fc0-bb2c07a81802/COVER_fin_4000X4000.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-30 05:23:33 (UTC)
+⏳ 업데이트 시간: 2025-10-30 06:35:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
