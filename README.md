@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer (feat. Louis Rei)  
-> 아티스트: **Vibbar**  
-> 앨범: _Four Seasons - EP_  
+## 🎧 HOPE  
+> 아티스트: **NF**  
+> 앨범: _HOPE_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+hope`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer-feat-louis-rei/1731012704?i=1731013218&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/91/ee/e2/91eee225-6920-d04a-3a8e-ca7502ea441d/mzaf_14795954848663536569.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1670412644?i=1670412645&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/41/64/d8/4164d8c6-934f-dab4-d091-cf84bddf06a1/mzaf_14539574139523582854.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b3/19/35/b319352e-9feb-ffb7-3bec-f5ddd201e207/5063413875325_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-31 12:50:32 (UTC)
+⏳ 업데이트 시간: 2025-10-31 13:33:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
