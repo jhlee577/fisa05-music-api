@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM  
-> 아티스트: **SEVENTEEN**  
-> 앨범: _Unknown Album_  
+## 🎧 Happy (Acoustic Piano Version)  
+> 아티스트: **The Piano Man**  
+> 앨범: _Ultimate Acoustic Chart Hits On Piano_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/music-video/dream/1652052237?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/d5/f3/d3/d5f3d3e7-2b26-5318-72ab-6fb9c93ce467/mzvf_18431944048556971312.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-acoustic-piano-version/854428359?i=854428437&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/5e/14/365e14b7-9df3-9f7a-3595-f6cbea55740f/mzaf_14789766068571250343.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/4b/58/694b5848-524d-c521-66ba-10e30e9878a3/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-31 18:34:57 (UTC)
+⏳ 업데이트 시간: 2025-10-31 19:17:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
