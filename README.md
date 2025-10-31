@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rush Hour (Feat. j-hope of BTS)  
-> 아티스트: **Crush**  
-> 앨범: _Rush Hour (feat. j-hope) - Single_  
+## 🎧 Hope  
+> 아티스트: **James Bay**  
+> 앨범: _Changes All The Time_  
 
-🔍 검색 키워드: `rnb+hope`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rush-hour-feat-j-hope-of-bts/1698676528?i=1698676531&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6e/7a/92/6e7a9255-4c63-9621-50b4-3f08904ee1a5/mzaf_12218227715858523994.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/1754655336?i=1754655590&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/29/52/c52952d0-4d77-ce43-058d-1812d83de174/mzaf_16085823543582032114.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/7f/e4/c17fe487-3766-9698-d823-915e43d5d6e6/8809887700209.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/fa/25/28fa2578-94df-41c0-07c7-26c280155b39/24UMGIM70291.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-10-31 03:14:20 (UTC)
+⏳ 업데이트 시간: 2025-10-31 04:29:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
