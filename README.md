@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 lofi dream  
-> 아티스트: **Captain Fathands**  
-> 앨범: _lofi dream - Single_  
+## 🎧 Somebody to Love (Pop #5/ Chart Debut: 4/1/67)  
+> 아티스트: **Jefferson Airplane**  
+> 앨범: _The Essential Jefferson Airplane_  
 
-🔍 검색 키워드: `lofi+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-dream/1787514585?i=1787514586&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/b7/e2/7bb7e26c-24ea-1695-a082-595d9686f9f7/mzaf_11102140818500694665.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/somebody-to-love-pop-5-chart-debut-4-1-67/261203160?i=261203209&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/44/54/95/4454952a-062b-8973-5350-83605daccef3/mzaf_6219360177167514792.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/40/34/d8403423-0d27-3637-20bb-11fec1b635c8/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/f3/c1/53/mzi.asgwwlzm.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-01 06:32:36 (UTC)
+⏳ 업데이트 시간: 2025-11-01 07:19:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
