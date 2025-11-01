@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Rain  
-> 아티스트: **Cafe Music BGM Channel**  
-> 앨범: _Autumn Jazz_  
+## 🎧 Summer  
+> 아티스트: **SØLYS**  
+> 앨범: _Summer - Single_  
 
-🔍 검색 키워드: `jazz+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-rain/1438107410?i=1438107704&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/9b/9d/eb9b9d1d-ebd6-6b6d-a742-3b10515c5f51/mzaf_6490847920586333226.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer/1799699309?i=1799699310&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/ff/9e/b3ff9edb-ae18-3b81-ec37-15f35153009a/mzaf_3988303147880871096.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fa/f9/ad/faf9ad91-f8ad-995a-d8cc-b2a370a50764/859754494289_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/0a/ed/910aed15-735d-f7b4-76e6-b17946df6333/816872b0-8d0c-4ee6-bd9d-aad111d72a08.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-01 04:26:08 (UTC)
+⏳ 업데이트 시간: 2025-11-01 05:22:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
