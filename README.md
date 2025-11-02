@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 カシスオレンジ  
-> 아티스트: **Laughing Hick**  
-> 앨범: _DOPAMINE_  
+## 🎧 LOVE  
+> 아티스트: **몬스타엑스**  
+> 앨범: _SHAPE of LOVE - EP_  
 
-🔍 검색 키워드: `rock+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%82%AB%E3%82%B7%E3%82%B9%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8/1491105647?i=1491105654&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9b/b1/d0/9bb1d03d-922b-e0cc-2f7e-86bb40e0822a/mzaf_3053904319712623064.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love/1620105010?i=1620105012&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/35/2f/1d/352f1d43-e021-77b6-4f21-df4240509873/mzaf_806195484623411854.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b2/57/c0/b257c0f5-33ef-4a7b-c28e-2f795b5a07c9/DOPAMINE_2400_2400_2_72dpi.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ef/4f/ca/ef4fca9e-0fa0-c40e-9134-1760f2e01119/cover_KM0015103_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-02 17:18:41 (UTC)
+⏳ 업데이트 시간: 2025-11-02 18:29:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
