@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Rain  
-> 아티스트: **Sad Piano Music Collective**  
-> 앨범: _Sad Music for Sad Moments - Instrumental Mood Music and New Age Songs that Make you Cry with Rain Sound Effect_  
+## 🎧 Kill This Love  
+> 아티스트: **BLACKPINK**  
+> 앨범: _KILL THIS LOVE - EP_  
 
-🔍 검색 키워드: `instrumental+rain`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/instrumental-rain/926895111?i=926895223&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5d/e1/50/5de150a3-f0c3-7e61-b790-922339008105/mzaf_13686605608193734592.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/kill-this-love/1551479989?i=1551479992&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/10/8b/37108b15-6634-df07-dadf-f20f6525dceb/mzaf_3091360070584533991.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/b8/5c/7b/b85c7b79-8331-3aa0-7ca0-5f0aebcc12d7/Sad_Music_for_Sad_Moments.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/2a/db/d62adbe1-6994-581c-b3b2-aeacafa35c1d/19UMGIM30819.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-02 04:27:39 (UTC)
+⏳ 업데이트 시간: 2025-11-02 05:22:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
