@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Dream  
-> 아티스트: **Lounge Jazz**  
-> 앨범: _New Orleans Music_  
+## 🎧 Lofi Summer  
+> 아티스트: **lofi GVNG**  
+> 앨범: _Lofi Summer - Single_  
 
-🔍 검색 키워드: `jazz+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `lofi+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/jazz-dream/1792444055?i=1792444063&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/f6/af/7cf6afc7-c3e8-9582-881f-c40cfc305daa/mzaf_3296142816418220564.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-summer/1454029555?i=1454029586&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/d1/fe/1a/d1fe1aa3-46a2-3bd9-7b0a-346682d8ed2f/mzaf_7035286393530589529.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/5d/db/2a5ddbb6-6062-850a-5497-275a3ceaf000/8721253607762.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/8d/b6/638db6d8-313e-1cbe-c723-e738ef8d39db/5902898446104.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-02 08:26:45 (UTC)
+⏳ 업데이트 시간: 2025-11-02 09:20:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
