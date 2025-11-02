@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 If I Ain't Got You  
-> 아티스트: **アリシア・キーズ**  
-> 앨범: _The Diary of Alicia Keys_  
+## 🎧 I See You (Hip-Hop Mix)  
+> 아티스트: **Joseph William Morgan**  
+> 앨범: _Dead of Night (Hip-Hop Mixes) - EP_  
 
-🔍 검색 키워드: `rnb+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/if-i-aint-got-you/255342344?i=255343130&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7d/ff/22/7dff2255-7511-7d04-b074-5f07b9e2719d/mzaf_12396414123414647550.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/i-see-you-hip-hop-mix/1844302612?i=1844302623&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/3c/86/3a3c86cc-7498-a8fd-298d-e683c5c4e229/mzaf_2493755555081580948.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/07/c6/c207c6ee-e3f1-cad2-1259-69a3ebd08b5c/828765571227.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/ff/b0/91ffb0c0-da9a-a8c4-0f9c-50f3197598cb/198704773426_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-01 23:20:27 (UTC)
+⏳ 업데이트 시간: 2025-11-02 02:00:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
