@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 도깨비불  
-> 아티스트: **aespa**  
-> 앨범: _Girls - The 2nd Mini Album (Apple Music Edition)_  
+## 🎧 Acoustic Love (After 8 Mix)  
+> 아티스트: **Vladi Strecker**  
+> 앨범: _Late Night Grooves, Vol. 3 – Cosmopolitan Lounge Music_  
 
-🔍 검색 키워드: `rnb+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%8F%84%EA%B9%A8%EB%B9%84%EB%B6%88/1626752981?i=1626752986&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/84/8f/4f/848f4fb8-34f7-952a-5b58-5a8ddbfe0e41/mzaf_1226807611289797516.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/acoustic-love-after-8-mix/1166790309?i=1166790782&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/37/50/5d/37505d29-0876-8ad0-1f51-dd4944016b27/mzaf_7623596595032868842.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/7d/dd/c97ddd34-5962-8cf1-a55c-cf730d3069f5/888735941375.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/a7/35/95/a73595e2-27ec-399e-1e46-e7e347a2b384/4050486112823_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-03 17:22:02 (UTC)
+⏳ 업데이트 시간: 2025-11-03 18:33:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
