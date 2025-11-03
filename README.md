@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Where Is My Love (I Got a Fear, In My Blood)  
-> 아티스트: **lofi.sad**  
-> 앨범: _Where Is My Love (I Got a Fear, In My Blood) - Single_  
+## 🎧 Sans toi (feat. Fana)  
+> 아티스트: **Young Loyd Wallace**  
+> 앨범: _Hip-Hop Love_  
 
-🔍 검색 키워드: `lofi+sad`  
+🔍 검색 키워드: `hiphop+love`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/where-is-my-love-i-got-a-fear-in-my-blood/1596731184?i=1596731185&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ae/64/44/ae644462-27fb-00d4-1e80-3e401f811420/mzaf_13105301470363254385.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/sans-toi-feat-fana/781423479?i=781423633&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/d1/6a/d9d16a86-2e1b-db2a-dbd6-152f994f12a6/mzaf_1828652611786955215.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/b7/de/c4b7de5c-beec-1e31-0cfa-626d5f7311e5/196513605181_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/bc/55/40/bc5540ef-6696-6390-cf52-97f6f141ac5f/3700735803347.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-03 06:37:45 (UTC)
+⏳ 업데이트 시간: 2025-11-03 07:24:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
