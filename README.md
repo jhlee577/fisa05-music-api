@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sans toi (feat. Fana)  
-> 아티스트: **Young Loyd Wallace**  
-> 앨범: _Hip-Hop Love_  
+## 🎧 HAPPY  
+> 아티스트: **三代目 J Soul Brothers from EXILE TRIBE**  
+> 앨범: _HAPPY - Single_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/sans-toi-feat-fana/781423479?i=781423633&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/d1/6a/d9d16a86-2e1b-db2a-dbd6-152f994f12a6/mzaf_1828652611786955215.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1208389814?i=1208389837&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c8/c7/68/c8c7684f-134d-3525-064f-b3dfb076822f/mzaf_13611809731323556303.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/bc/55/40/bc5540ef-6696-6390-cf52-97f6f141ac5f/3700735803347.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/34/1f/cd/341fcd22-d197-1142-7cda-fcb876a236ba/RZCD-86294.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-03 07:24:03 (UTC)
+⏳ 업데이트 시간: 2025-11-03 08:34:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
