@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **TAEYEON**  
-> 앨범: _Happy - Single_  
+## 🎧 RnB Love  
+> 아티스트: **Tomeka Williams**  
+> 앨범: _Beautifully Complicated - EP_  
 
-🔍 검색 키워드: `kpop+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1501652967?i=1501652968&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/6a/e6/e36ae660-7221-2529-3735-183f1102be6b/mzaf_8897333369392200903.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rnb-love/1568994212?i=1568994344&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/b5/f8/39b5f8b3-c48e-178d-da47-5a44d6848dd1/mzaf_6881924906818479093.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/5a/a4/f85aa49a-17c6-303a-82bc-3684cc4c53c6/SMBiz_20200305_152527701.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/30/2a/67302a59-6022-a32a-e8b8-abc514e9b87f/859747992969_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-04 16:29:46 (UTC)
+⏳ 업데이트 시간: 2025-11-04 17:19:51 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
