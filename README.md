@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad @ Night  
-> 아티스트: **Krazy8**  
-> 앨범: _Krazywave: Summer (2/2) 2022_  
+## 🎧 Hope  
+> 아티스트: **sitting duck & Mondo Loops**  
+> 앨범: _Wonderland Chapter II_  
 
-🔍 검색 키워드: `ballad+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/ballad-night/1736848487?i=1736848492&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/6c/c1/9c6cc1d8-c9b6-5e96-5629-093dc77c98bd/mzaf_17605441796941045999.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1710112619?i=1710112624&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/09/dd/36/09dd3661-cbdd-a9d7-fd81-1535e854310a/mzaf_2669154111818046608.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/11/5b/43115bcd-33be-e1b1-69cf-8056b9d17b94/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/b0/ce/7db0cefb-b90f-c299-0c25-0efb069ff1b2/289ac4c4-8fa5-4aeb-8996-d6a0d7968b29.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-04 12:54:22 (UTC)
+⏳ 업데이트 시간: 2025-11-04 13:36:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
