@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Set Fire to the Rain  
-> 아티스트: **Adele**  
-> 앨범: _21_  
+## 🎧 SAD!  
+> 아티스트: **XXXTENTACION**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `rnb+rain`  
+🔍 검색 키워드: `rnb+sad`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/set-fire-to-the-rain/1544491232?i=1544491988&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/81/19/83/811983ba-173c-84f4-4058-fae8340abcdf/mzaf_13432775834568786807.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/sad/1407067992?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/b1/80/c5/b180c53d-06ce-62df-0ce6-028aade128e3/mzvf_5595941368422935315.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/bb/72/9c/bb729cf4-3b0d-ec07-114e-316fa700ac2d/00842812108747_00001.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-03 23:22:13 (UTC)
+⏳ 업데이트 시간: 2025-11-04 01:54:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
