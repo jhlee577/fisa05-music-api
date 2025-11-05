@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Night  
-> 아티스트: **Glo-Fi**  
-> 앨범: _Daydream Lofi Hiphop_  
+## 🎧 Happy  
+> 아티스트: **Cha Noeul**  
+> 앨범: _Happy - Single_  
 
-🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `hiphop+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-night/1764918623?i=1764918625&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/57/85/ed5785c0-de89-fb55-7d7b-11b88d4db564/mzaf_15422779122056451371.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1744282842?i=1744282843&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/5d/26/425d265d-732f-f092-e7bb-631b34fbf142/mzaf_10827291283139435524.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/d5/23/43d52368-0416-3b24-0a0d-b067867010f4/198595742846.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/f0/cf/1bf0cf96-dbb3-27d0-ad45-b7ab7bb34f52/8800250625440_cover.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-04 23:22:13 (UTC)
+⏳ 업데이트 시간: 2025-11-05 01:56:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
