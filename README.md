@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Sad  
-> 아티스트: **Sad Music**  
-> 앨범: _Lofi HipHop Beats To Sleep and Study To - Lofi Radio 247_  
+## 🎧 Lofi Summer  
+> 아티스트: **Marlow Digs**  
+> 앨범: _Up in the Sky_  
 
-🔍 검색 키워드: `lofi+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-sad/1596058086?i=1596058106&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f8/ec/cb/f8eccb28-dc01-1581-0aab-bc75093bbcf9/mzaf_18342706384585507100.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-summer/1619209798?i=1619209800&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cf/11/60/cf116000-7d32-3d82-1506-c4da65617dba/mzaf_2046175726073319213.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/35/a4/7735a4e8-0e03-600d-a175-d1a82b19a979/24343.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/06/28/09/06280906-d73d-139d-1200-cdde0f01f170/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-05 16:32:43 (UTC)
+⏳ 업데이트 시간: 2025-11-05 17:23:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
