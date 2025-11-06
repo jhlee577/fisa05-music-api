@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HAPPY  
-> 아티스트: **NF**  
-> 앨범: _HOPE_  
+## 🎧 Acoustic Dream  
+> 아티스트: **Delrady**  
+> 앨범: _Acoustic Dream - Single_  
 
-🔍 검색 키워드: `instrumental+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy/1670412644?i=1670413058&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/7d/f2/9e7df27c-e165-3603-12bc-855574ae07b0/mzaf_15244753975086973735.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/acoustic-dream/1718989704?i=1718989705&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/43/b3/2443b380-7e37-a57b-12c7-980da1d4a47d/mzaf_6936564266011837407.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/16/39/56163943-bc70-3cb6-ec8b-8ddfdf93ef82/00_Cover_Art.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-05 23:22:31 (UTC)
+⏳ 업데이트 시간: 2025-11-06 01:56:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
