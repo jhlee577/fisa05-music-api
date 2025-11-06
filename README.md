@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **Michael Bublé**  
-> 앨범: _Call Me Irresponsible_  
+## 🎧 Sad  
+> 아티스트: **Maroon 5**  
+> 앨범: _Overexposed_  
 
-🔍 검색 키워드: `rock+dream`  
+🔍 검색 키워드: `rock+sad`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/dream/668403779?i=668403912&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c2/bb/33/c2bb33c8-dc90-5ec1-b512-b20cc836aa3b/mzaf_16544557231333036980.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad/1440806722?i=1440806930&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b2/0a/59/b20a5953-394e-8b81-532f-d02a4452735d/mzaf_13064899432942873467.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/96/f2/fc/96f2fcfc-f465-977c-e4a1-9be06bba07f6/093624942801.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d3/b1/f9/d3b1f91c-f2c0-7cc8-97fb-035db64b0ab2/12UMGIM26179.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-06 20:27:15 (UTC)
+⏳ 업데이트 시간: 2025-11-06 21:21:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
