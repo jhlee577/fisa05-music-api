@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **yuhei miura & Kazuki Isogai**  
-> 앨범: _Hope - Single_  
+## 🎧 Summer  
+> 아티스트: **Marshmello**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/1545225336?i=1545225344&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ce/81/d9/ce81d91c-1d80-b709-e966-1a4ea6545b0c/mzaf_12472875205390009196.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/music-video/summer/1211720349?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/93/4c/72/934c727b-2a04-b4e5-4e07-5fa1826fb87a/mzvf_5761377996495456425.640x240.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/ab/b6/c8abb6f1-7eb2-8ee6-7301-658156bd6d35/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/49/1a/e6/491ae603-69a1-5eba-3fb7-fef4d91c2388/dj.zckxwdtr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-06 23:21:54 (UTC)
+⏳ 업데이트 시간: 2025-11-07 01:54:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
