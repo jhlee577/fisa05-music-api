@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad  
-> 아티스트: **Son Nu**  
-> 앨범: _Happy Morning - Single_  
+## 🎧 Hope  
+> 아티스트: **yuhei miura & Kazuki Isogai**  
+> 앨범: _Hope - Single_  
 
-🔍 검색 키워드: `ballad+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `hiphop+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/ballad/1777357588?i=1777357591&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/08/77/bf087723-e608-c4b3-0da7-09e3a7930bcc/mzaf_625630909874063431.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1545225336?i=1545225344&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ce/81/d9/ce81d91c-1d80-b709-e966-1a4ea6545b0c/mzaf_12472875205390009196.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/9e/28/179e28ea-2ea6-9e7d-45b9-dd2242bc884d/5059449197777.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/ab/b6/c8abb6f1-7eb2-8ee6-7301-658156bd6d35/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-07 12:50:28 (UTC)
+⏳ 업데이트 시간: 2025-11-07 13:31:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
