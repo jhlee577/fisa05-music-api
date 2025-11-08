@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Joe Hisaishi & London Symphony Orchestra**  
-> 앨범: _Unknown Album_  
+## 🎧 Get You (feat. Kali Uchis)  
+> 아티스트: **Daniel Caesar**  
+> 앨범: _Freudian_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/music-video/summer/1495039274?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/a2/57/e4/a257e467-c9b7-961a-2bdf-ebf4d9f31367/mzvf_16888117456472645119.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/get-you-feat-kali-uchis/1799080774?i=1799080775&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/64/7e/a2647e53-f16c-ec35-0b41-cf6a65ab69a2/mzaf_7427365009000821098.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/0d/31/47/0d314759-66bd-d05e-dc23-75b77c519338/19UM1IM15508.crop.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/cd/1a/b6cd1a5b-83af-a1e2-0ad7-ea530fcf2522/859722261219.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-08 03:06:37 (UTC)
+⏳ 업데이트 시간: 2025-11-08 04:27:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
