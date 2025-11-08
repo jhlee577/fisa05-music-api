@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream (Acoustic)  
-> 아티스트: **Bishop Briggs**  
-> 앨범: _Dream (Acoustic) - Single_  
+## 🎧 Dream  
+> 아티스트: **LISA**  
+> 앨범: _Alter Ego_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/dream-acoustic/1444600329?i=1444600512&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c0/b2/94/c0b2940c-7cb3-e467-284c-b74e529c2077/mzaf_7425091860379617626.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/dream/1799316830?i=1799316851&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/ef/44/a7ef44ed-b7f4-613c-7da6-d091bf3cf0ed/mzaf_11834069797984983289.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e6/dc/46/e6dc46aa-61a3-d9a3-b917-b77b9a6ff92f/00602567160984.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/f6/7f/88f67fd9-c010-e52a-d10e-f5781116b99a/196872937138.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-08 18:31:22 (UTC)
+⏳ 업데이트 시간: 2025-11-08 19:17:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
