@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **Amaranthe**  
-> 앨범: _Helix_  
+## 🎧 Summer  
+> 아티스트: **Joe Hisaishi & London Symphony Orchestra**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `rock+dream`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/dream/1660385884?i=1660386201&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2e/2d/82/2e2d825f-e359-06c7-ec9c-2e2e846ee561/mzaf_13273037783427573521.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/music-video/summer/1495039274?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/a2/57/e4/a257e467-c9b7-961a-2bdf-ebf4d9f31367/mzvf_16888117456472645119.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b7/50/c6/b750c64e-4395-0693-1a2b-69ea465c158d/5400863111656_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/0d/31/47/0d314759-66bd-d05e-dc23-75b77c519338/19UM1IM15508.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-08 01:48:45 (UTC)
+⏳ 업데이트 시간: 2025-11-08 03:06:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
