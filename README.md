@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 My Heart Will Go On (Love Theme from "Titanic")  
-> 아티스트: **Céline Dion**  
-> 앨범: _My Love - Essential Collection_  
+## 🎧 Purple Rain  
+> 아티스트: **Prince & The Revolution**  
+> 앨범: _Purple Rain (Deluxe Expanded Edition) [2015 Paisley Park Remaster]_  
 
-🔍 검색 키워드: `ballad+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `ballad+rain`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/my-heart-will-go-on-love-theme-from-titanic/479204871?i=479204873&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/82/41/e4824192-fccb-f240-be85-b85f064e6d65/mzaf_10380170408839198452.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/purple-rain/1229320468?i=1229320478&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f9/ef/24/f9ef2402-639a-9db9-ca35-019d8b4a4b05/mzaf_7849928153397799819.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/22/71/f82271b5-febd-23c2-8028-040760dda6f8/mzi.actfimaz.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/b6/79/c1b679f5-d59d-1b3e-62ab-514de20f06c6/093624912002.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-08 06:32:29 (UTC)
+⏳ 업데이트 시간: 2025-11-08 07:20:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
