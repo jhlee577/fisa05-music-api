@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love Love Love (feat. Jason Mraz)  
-> 아티스트: **Hope**  
-> 앨범: _Happy Acoustic_  
+## 🎧 Night Sail Ballad (Night Version) [feat. Jordy Chandra]  
+> 아티스트: **Beside Bed**  
+> 앨범: _Genshin Impact Relaxing Beside Bed Collection (feat. Jordy Chandra)_  
 
-🔍 검색 키워드: `acoustic+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `ballad+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love-love-love-feat-jason-mraz/1499840204?i=1499840633&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ea/0c/b9/ea0cb982-460b-f7e2-8828-c8f92f83649b/mzaf_14019146036185031923.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/night-sail-ballad-night-version-feat-jordy-chandra/1576410705?i=1576410708&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f7/a2/51/f7a25111-0ae9-6dcb-7591-5410bc19ba76/mzaf_3729655055755401600.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/49/6a/dc496a32-3111-c845-2f94-4a81467a5a22/5059460011090.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/06/3d/10063d62-85af-c975-d3e7-3b4104d66cb9/024543904090_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-09 16:26:36 (UTC)
+⏳ 업데이트 시간: 2025-11-09 17:18:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
