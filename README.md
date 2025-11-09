@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Spend It  
-> 아티스트: **Summer Walker**  
-> 앨범: _Spend It - Single_  
+## 🎧 Always Be My Baby  
+> 아티스트: **Mariah Carey**  
+> 앨범: _Daydream_  
 
-🔍 검색 키워드: `rnb+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/spend-it/1807357119?i=1807357120&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/d3/f8/afd3f8df-b705-18ab-567a-f49d2a64f43f/mzaf_8538474899272771474.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/always-be-my-baby/169962059?i=169962272&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/ef/1f/72ef1f42-626b-9c29-4187-e5bfa23e8bfe/mzaf_18285435883138168150.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/92/2b/b3922bff-9b5e-3b31-d4c7-d4a445681614/25UMGIM52419.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/78/4f/2c/784f2c84-b5ba-0e7e-58b1-715143b2f199/mzi.vippwwob.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-09 13:26:52 (UTC)
+⏳ 업데이트 시간: 2025-11-09 14:19:27 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
