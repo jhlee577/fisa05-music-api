@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Healing Guitar and Alpha Wave Effect Improve Your Sleep Quality With the Healing BGM "Serotonin" That Helps You Fall Into a Deep Sleep (Mori Tori for Sleep That Regulates the Autonomic Nervous System)  
-> 아티스트: **Sleepy Nuts**  
-> 앨범: _Cozy Forest Dreams_  
+## 🎧 Hope  
+> 아티스트: **알레프**  
+> 앨범: _Hope - Single_  
 
-🔍 검색 키워드: `instrumental+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+hope`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/healing-guitar-and-alpha-wave-effect-improve-your/1850659780?i=1850659940&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/35/6c/2a356c70-4ff6-7c8b-59fa-d04b40b03808/mzaf_6280890122203861631.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1574619022?i=1574619023&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8d/d4/29/8dd429a8-d058-28a7-7fb6-746077307d61/mzaf_9833031208224037513.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/f5/6b/f0f56b29-8b8d-c795-7aaf-a8e99be2db88/4550713455230_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/3a/14/f13a145f-6cb2-516e-385c-3f65aa4b3b40/8809784436140.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-09 23:20:33 (UTC)
+⏳ 업데이트 시간: 2025-11-10 02:00:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
