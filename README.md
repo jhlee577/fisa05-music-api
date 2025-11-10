@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Jazz  
-> 아티스트: **Luxury Grooves**  
-> 앨범: _Jazzy Chill House, Vol. 3_  
+## 🎧 Photograph  
+> 아티스트: **Ed Sheeran**  
+> 앨범: _x (Deluxe Edition)_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `pop+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy-jazz/702956722?i=702956921&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/70/b9/e1/70b9e129-3b01-7208-ab60-ff8fe106098c/mzaf_7959614192324813741.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/photograph/858512317?i=858512630&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/9e/81/3e9e8183-6e71-dcd0-05aa-83cb5d020fe8/mzaf_6767128908507599726.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b5/a3/bf/b5a3bf1f-7936-6e7e-93ab-75b1db6f4f2e/7640134120286_1448.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/58/a2/fa/58a2fa39-e090-78ae-ad6c-870ad1dfd276/dj.xcygdfkl.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-10 13:34:33 (UTC)
+⏳ 업데이트 시간: 2025-11-10 14:25:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
