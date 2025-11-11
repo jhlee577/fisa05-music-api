@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Before You Go  
-> 아티스트: **Lewis Capaldi**  
-> 앨범: _Divinely Uninspired To a Hellish Extent (Extended Edition)_  
+## 🎧 夏のように  
+> 아티스트: **白紫苑**  
+> 앨범: _夏のように - Single_  
 
-🔍 검색 키워드: `acoustic+sad`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/before-you-go/1485383702?i=1485384412&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e8/38/67/e83867a3-3a10-0037-7391-ce30aa1decba/mzaf_8806688621569737524.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E5%A4%8F%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB/1810619840?i=1810619844&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/ae/dd/5eaeddec-e445-1fc6-e1e0-8531a3e29835/mzaf_5231083837630227413.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/58/7c/9f587c97-f0e9-e335-d8e2-60b8e2d62bad/19UMGIM90850.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/2a/21/d42a2124-97cd-4cf7-e775-8a0bca0eced9/4550708110762_cover.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-11 20:27:05 (UTC)
+⏳ 업데이트 시간: 2025-11-11 21:21:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
