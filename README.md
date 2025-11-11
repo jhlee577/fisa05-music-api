@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 They Reminisce Over You (T.R.O.Y.)  
-> 아티스트: **Pete Rock & C.L. Smooth**  
-> 앨범: _Mecca and the Soul Brother_  
+## 🎧 Love  
+> 아티스트: **Kouz1**  
+> 앨범: _AFROBOY - EP_  
 
-🔍 검색 키워드: `hiphop+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/they-reminisce-over-you-t-r-o-y/217508870?i=217509668&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6c/1b/12/6c1b124b-db26-75d2-5cb1-f7a8ced528cd/mzaf_8895577076773702627.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love/1733461489?i=1733461494&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/44/ee/cc44eee3-4d73-8b25-fd14-e4a957ed1d10/mzaf_3666250222403076952.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f4/af/9e/f4af9e48-72fc-3a4b-eec2-3e49cc812f1f/mzi.fftpsysp.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/66/f0/cd/66f0cd36-09a5-c5f0-6798-6916feff4d98/3617054266770.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-11 13:33:49 (UTC)
+⏳ 업데이트 시간: 2025-11-11 14:26:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
