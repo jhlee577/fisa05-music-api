@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 夏のように  
-> 아티스트: **白紫苑**  
-> 앨범: _夏のように - Single_  
+## 🎧 Acoustic Dream  
+> 아티스트: **Delrady**  
+> 앨범: _Acoustic Dream - Single_  
 
-🔍 검색 키워드: `kpop+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E5%A4%8F%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB/1810619840?i=1810619844&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/ae/dd/5eaeddec-e445-1fc6-e1e0-8531a3e29835/mzaf_5231083837630227413.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/acoustic-dream/1718989704?i=1718989705&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/43/b3/2443b380-7e37-a57b-12c7-980da1d4a47d/mzaf_6936564266011837407.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/2a/21/d42a2124-97cd-4cf7-e775-8a0bca0eced9/4550708110762_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/16/39/56163943-bc70-3cb6-ec8b-8ddfdf93ef82/00_Cover_Art.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-11 21:21:41 (UTC)
+⏳ 업데이트 시간: 2025-11-11 22:23:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
