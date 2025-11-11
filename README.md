@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 SUMMER  
-> 아티스트: **THE CARTERS**  
-> 앨범: _EVERYTHING IS LOVE_  
+## 🎧 Rock Love  
+> 아티스트: **Steve Miller Band**  
+> 앨범: _Rock Love_  
 
-🔍 검색 키워드: `pop+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rock+love`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer/1400117883?i=1400118048&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/11/af/3c/11af3c9d-e058-8e52-1d75-ea9a8b21de35/mzaf_13022810628294418903.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/rock-love/1443223532?i=1443223967&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d6/3c/12/d63c1277-d28c-d018-e06c-294a489ebbff/mzaf_12493291819585216080.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/8c/81/bd8c8163-f785-b586-efe5-0615837284ea/886447179000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/cc/51/e3/cc51e37d-0c34-b737-ddde-c4157a5ee356/00602547847393.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-11 16:31:31 (UTC)
+⏳ 업데이트 시간: 2025-11-11 17:21:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
