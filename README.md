@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 꿈  
-> 아티스트: **Colde**  
-> 앨범: _이상주의_  
+## 🎧 Hope  
+> 아티스트: **James Bay**  
+> 앨범: _Changes All The Time_  
 
-🔍 검색 키워드: `rock+dream`  
+🔍 검색 키워드: `acoustic+hope`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%BF%88/1577873919?i=1577873923&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/8a/95/7f8a956d-9c8a-a1bf-8be1-512842afb7b1/mzaf_10658229851567494096.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1756790188?i=1756790192&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/cb/8f/b8cb8fb6-ebf0-71b7-588b-4e2224e7bb42/mzaf_15769880571067456017.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3e/50/c2/3e50c275-51a4-dfd3-f10a-bc3235aca73c/8804775156991.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/d5/bc/38d5bc12-684f-626d-81af-8ba9760c32af/24UMGIM70291.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-12 07:24:17 (UTC)
+⏳ 업데이트 시간: 2025-11-12 08:33:31 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
