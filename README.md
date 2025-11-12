@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **VINTER**  
-> 앨범: _Seasons_  
+## 🎧 HAPPY  
+> 아티스트: **BUMP OF CHICKEN**  
+> 앨범: _COSMONAUT_  
 
-🔍 검색 키워드: `pop+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rock+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer/1783344510?i=1783344995&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/00/e3/da00e33f-b053-410c-3dac-00898e013920/mzaf_16934404109823220782.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1464635447?i=1464635486&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/7b/54/cf7b54c6-a72f-58a1-76f1-94a3abb05119/mzaf_3187991589025156567.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/e1/16/dbe1160f-1a2d-52a7-af99-ff8751506020/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a4/47/71/a4477114-1485-4a36-3c7a-be5befa1f21d/TFCC-86347WW.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-12 14:26:20 (UTC)
+⏳ 업데이트 시간: 2025-11-12 15:28:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
