@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **GentleBeatz**  
-> 앨범: _Soul City_  
+## 🎧 Superstition  
+> 아티스트: **Stevie Wonder**  
+> 앨범: _Talking Book_  
 
-🔍 검색 키워드: `hiphop+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/1446654496?i=1446654504&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/41/3f/91/413f9124-6ca5-2b98-24ef-084310da71cb/mzaf_17766385417430627875.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/superstition/1440808973?i=1440808985&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ff/a3/1a/ffa31a9f-8d91-68a8-e85c-cf8e74284079/mzaf_15951061299338017971.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/10/75/c9/1075c95d-6951-7f99-bf48-eec3071a6471/859729194794_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/62/61/61/626161c0-f4d7-e6ff-8586-768340ef278f/00602537002382.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-13 19:19:35 (UTC)
+⏳ 업데이트 시간: 2025-11-13 20:27:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
