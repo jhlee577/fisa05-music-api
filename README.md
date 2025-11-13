@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 See You Again (feat. Charlie Puth)  
-> 아티스트: **Wiz Khalifa**  
-> 앨범: _Sad Pop_  
+## 🎧 Happy  
+> 아티스트: **Ashanti**  
+> 앨범: _Ashanti_  
 
-🔍 검색 키워드: `pop+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+happy`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/see-you-again-feat-charlie-puth/1600920973?i=1600921391&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5b/69/bf/5b69bf1b-44c0-5947-5b1d-f116400622a0/mzaf_8577991994434652441.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy/1444119785?i=1444119835&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/95/b3/3f/95b33f9b-a048-5f0c-07ee-566bcba00668/mzaf_6999857285878931481.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/fa/d5/a5fad517-8efe-bd51-60de-1e49fe536a4d/5059460112964.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/6d/7c/f66d7c88-329a-29c1-d756-11a6ea134d38/06UMGIM11498.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-13 04:29:48 (UTC)
+⏳ 업데이트 시간: 2025-11-13 05:25:16 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
