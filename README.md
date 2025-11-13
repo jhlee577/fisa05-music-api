@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 SUMMER !  
-> 아티스트: **차세대**  
-> 앨범: _HAEBICHI - EP_  
+## 🎧 Summer  
+> 아티스트: **XO-IQ**  
+> 앨범: _Make It Pop: Summer Splash (Music from the Original TV Series) - EP_  
 
-🔍 검색 키워드: `rock+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+summer`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer/1705362245?i=1705362247&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/be/b6/b7/beb6b73f-0827-4bff-3d7b-e0fdba06993b/mzaf_15826932032894224069.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/summer/1137717112?i=1137717331&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/44/56/cc/4456cc41-e228-9f8f-01f9-3b2bd8e8f439/mzaf_17019669698389224579.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/81/b5/7c81b55c-5bfa-27f5-187f-7229a4fc0e03/192641791550.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/14/9f/f1/149ff1de-c12c-f80a-d988-c5c3c7781488/190374968805.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-13 16:29:51 (UTC)
+⏳ 업데이트 시간: 2025-11-13 17:24:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
