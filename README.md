@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Love (Jazz Hip Hop Instrumental)  
-> 아티스트: **Jazz Hop Nation**  
-> 앨범: _Morning Coffee Commute_  
+## 🎧 Summer  
+> 아티스트: **Marshmello**  
+> 앨범: _Joytime_  
 
-🔍 검색 키워드: `jazz+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/jazz-love-jazz-hip-hop-instrumental/1531948892?i=1531949512&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/4e/24/bd4e24d1-4ead-5937-0fd2-db504f7a97a6/mzaf_10627178022987105237.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer/1072189405?i=1072189411&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bc/38/22/bc382203-d971-0a38-affe-135db79350bc/mzaf_5944074797487779607.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9d/1e/1a9d1e28-54a5-6de8-76fa-df2117f18a1e/13139.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/8e/f8/668ef8f0-53f1-56b8-9396-7923094b55f4/859716236469_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-14 14:24:27 (UTC)
+⏳ 업데이트 시간: 2025-11-14 15:22:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
