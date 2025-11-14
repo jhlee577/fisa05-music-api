@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad Background  
-> 아티스트: **Sentimental Piano Jazz Club**  
-> 앨범: _Melancholic Jazz: Sad Piano_  
+## 🎧 Hope  
+> 아티스트: **알레프**  
+> 앨범: _Hope - Single_  
 
-🔍 검색 키워드: `jazz+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-background/1310589477?i=1310590279&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d5/da/6a/d5da6a3a-0706-d4a5-54cc-072b34960fe0/mzaf_839476099838760001.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1574619022?i=1574619023&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8d/d4/29/8dd429a8-d058-28a7-7fb6-746077307d61/mzaf_9833031208224037513.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/49/18/85/491885e0-cf8c-fe94-5f28-b7ec1494f4a0/8184190933019.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/3a/14/f13a145f-6cb2-516e-385c-3f65aa4b3b40/8809784436140.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-14 06:36:42 (UTC)
+⏳ 업데이트 시간: 2025-11-14 07:24:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
