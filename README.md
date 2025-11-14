@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 夏のように  
-> 아티스트: **白紫苑**  
-> 앨범: _夏のように - Single_  
+## 🎧 Ballad of a Badman  
+> 아티스트: **Tory Lanez**  
+> 앨범: _Alone At Prom_  
 
-🔍 검색 키워드: `kpop+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E5%A4%8F%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB/1810619840?i=1810619844&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/ae/dd/5eaeddec-e445-1fc6-e1e0-8531a3e29835/mzaf_5231083837630227413.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/ballad-of-a-badman/1599009985?i=1599010276&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ed/52/2c/ed522cc7-b0d1-7b43-eccc-aae7f33cd7a1/mzaf_9361000986079095788.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/2a/21/d42a2124-97cd-4cf7-e775-8a0bca0eced9/4550708110762_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/c8/eb/16c8eb6d-fe23-fa03-5e43-9827972763d3/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-14 08:32:07 (UTC)
+⏳ 업데이트 시간: 2025-11-14 09:26:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
