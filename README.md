@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HAPPY  
-> 아티스트: **三代目 J SOUL BROTHERS from EXILE TRIBE**  
-> 앨범: _FUTURE_  
+## 🎧 Jazz Love (Jazz Hip Hop Instrumental)  
+> 아티스트: **Jazz Hop Nation**  
+> 앨범: _Morning Coffee Commute_  
 
-🔍 검색 키워드: `rnb+happy`  
+🔍 검색 키워드: `jazz+love`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1385502809?i=1385502815&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/a5/ff/40a5ff6a-a058-c270-3714-a0d40d29ddc5/mzaf_3209401279927847772.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/jazz-love-jazz-hip-hop-instrumental/1531948892?i=1531949512&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/4e/24/bd4e24d1-4ead-5937-0fd2-db504f7a97a6/mzaf_10627178022987105237.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/43/28/2e432864-f25b-285f-8d9c-91c91e77f60a/RZCD-86589.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9d/1e/1a9d1e28-54a5-6de8-76fa-df2117f18a1e/13139.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-14 13:33:05 (UTC)
+⏳ 업데이트 시간: 2025-11-14 14:24:27 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
