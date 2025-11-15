@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **イルマ**  
-> 앨범: _Yiruma 6th Album 'P.N.O.N.I' (The Original & the Very First Recording)_  
+## 🎧 Stressed Out  
+> 아티스트: **twenty one pilots**  
+> 앨범: _Blurryface_  
 
-🔍 검색 키워드: `kpop+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `pop+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1437484981?i=1437485292&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fc/e8/f6/fce8f66b-2d38-fe40-4613-f1669d7eeb34/mzaf_7774366209976249589.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/stressed-out/974485462?i=974485474&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/a0/d9/63a0d94f-a9f1-f34a-5fb1-7860fe6a5d94/mzaf_16239168264701956438.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/59/37/3b/59373bc1-1330-4819-30d9-d1a407d7b6e7/pioni_3000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/e2/89/8ee28904-0821-610d-5011-a61845f62756/075679926951.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-15 18:30:56 (UTC)
+⏳ 업데이트 시간: 2025-11-15 19:16:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
