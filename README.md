@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **WJSN**  
-> 앨범: _Happy Moment_  
+## 🎧 Rain  
+> 아티스트: **방탄소년단**  
+> 앨범: _DARK&WILD_  
 
-🔍 검색 키워드: `kpop+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `pop+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1245569324?i=1245569329&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/78/cf/fd/78cffdb6-e219-607f-5dc9-d02f237de9ab/mzaf_17665399622975105971.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1597016856?i=1597017220&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/8f/1f/788f1f30-4ef1-6636-254d-eeb4d8c410b7/mzaf_10455926999264557055.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/38/2b/2a382b49-11ef-a409-fa35-3e4261328792/cover-.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/39/97/f2399713-b036-7ef2-fb4f-8c1454569c66/8804775056895_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-15 14:20:13 (UTC)
+⏳ 업데이트 시간: 2025-11-15 15:21:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
