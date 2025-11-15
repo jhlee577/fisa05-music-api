@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **방탄소년단**  
-> 앨범: _DARK&WILD_  
+## 🎧 Hope  
+> 아티스트: **Alex G**  
+> 앨범: _House of Sugar_  
 
-🔍 검색 키워드: `pop+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rock+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1597016856?i=1597017220&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/8f/1f/788f1f30-4ef1-6636-254d-eeb4d8c410b7/mzaf_10455926999264557055.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1463899362?i=1463899364&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/99/8c/57/998c570d-6b48-317b-f4a9-d8164e628992/mzaf_18288590104098351366.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/39/97/f2399713-b036-7ef2-fb4f-8c1454569c66/8804775056895_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1d/4e/1d/1d4e1d01-4b29-b355-04bd-38577541b189/887828045167.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-15 15:21:36 (UTC)
+⏳ 업데이트 시간: 2025-11-15 16:26:50 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
