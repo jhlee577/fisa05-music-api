@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Sad  
-> 아티스트: **Lee Lofi**  
-> 앨범: _Lofi Sad - EP_  
+## 🎧 Acoustic Summer  
+> 아티스트: **Keita Matsuo**  
+> 앨범: _POPS, Vol. 397 -Instrumental BGM- by Audiostock_  
 
-🔍 검색 키워드: `lofi+sad`  
+🔍 검색 키워드: `acoustic+summer`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-sad/1775372745?i=1775372747&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/7e/29/c77e29d3-20f8-2f59-4fc5-fbcf55c16936/mzaf_7256417982747470422.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/acoustic-summer/1710099757?i=1710099921&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b9/ae/31/b9ae31d5-a660-5a20-f764-5cf7361c19bf/mzaf_17600827593137649482.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/b8/ef/aeb8efd3-6817-88ee-c596-7d496a32edd4/4582649342537.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/33/7e/14337e8f-6344-493b-25d0-682b3963c090/4580789585845.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-15 03:10:55 (UTC)
+⏳ 업데이트 시간: 2025-11-15 04:27:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
