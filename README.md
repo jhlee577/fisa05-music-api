@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Summer  
-> 아티스트: **The Aether & Mindeliq**  
-> 앨범: _Lofi Summer - Single_  
+## 🎧 Acoustic Dream  
+> 아티스트: **Gabriele Poso**  
+> 앨범: _From the Genuine World_  
 
-🔍 검색 키워드: `lofi+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-summer/1515205652?i=1515205653&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/32/9e/82329edf-08df-de12-7213-ba063c44b921/mzaf_9713425367532512484.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-dream/1783991230?i=1783991231&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/0c/57/980c575d-2d56-6066-b901-8839e2a2a9d3/mzaf_12495536789721664756.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/df/fb/71/dffb710f-1f6e-faef-fc49-ed363a69c505/018736325861_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/af/cd/61afcd0d-d58d-ec08-982d-f560eef4e492/826194176198.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-15 12:45:04 (UTC)
+⏳ 업데이트 시간: 2025-11-15 13:27:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
