@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Keyshia Cole**  
-> 앨범: _The Way It Is_  
+## 🎧 Dance The Night Away  
+> 아티스트: **TWICE**  
+> 앨범: _Summer Nights_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/love/1440667549?i=1440667557&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/ce/ee/ccceeea1-6fd4-ef98-6a24-eacc2c97875c/mzaf_6686723649282391494.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/dance-the-night-away/1555401452?i=1555401454&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/e5/00/28e500e2-8f20-0385-f37b-84899a8384a0/mzaf_7117980557950201814.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/8a/1e/b38a1ee4-c75f-26cd-ce84-6419cdbc819c/06UMGIM24715.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/8d/ae/5d8daec6-bf17-9220-6ffb-d69981dd4ef6/00602508874840_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-16 15:22:06 (UTC)
+⏳ 업데이트 시간: 2025-11-16 16:27:23 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
