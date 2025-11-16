@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rock Love  
-> 아티스트: **Lula Reed**  
-> 앨범: _Blue and Moody_  
+## 🎧 Waiting for the Miracle  
+> 아티스트: **Piano Jazz Calming Music Academy**  
+> 앨범: _Romantic Instrumental Piano Songs: Soft Backround, Sad Jazz Music, Dinner for Two in Romantic Restaurant & Sexy Nights_  
 
-🔍 검색 키워드: `rock+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `jazz+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rock-love/253495224?i=253497528&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview19/v4/27/71/b2/2771b20a-e634-aa73-e023-45bd59950a8c/mzaf_847950733981703185.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/waiting-for-the-miracle/1235058222?i=1235058238&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/28/a5/e1/28a5e109-a008-4129-7838-8312c7afa53d/mzaf_14163438174508691446.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/f2/10/dd/mzi.ckjalbfm.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/16/c8/c216c8d6-fff7-3cae-5978-12d714fe2e8a/8134130516864.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-16 13:27:22 (UTC)
+⏳ 업데이트 시간: 2025-11-16 14:20:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
