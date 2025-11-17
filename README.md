@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Love  
-> 아티스트: **lofi GVNG**  
-> 앨범: _Lofi Love - Single_  
+## 🎧 거리에서  
+> 아티스트: **성시경**  
+> 앨범: _The Ballads_  
 
-🔍 검색 키워드: `lofi+love`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/lofi-love/1451834085?i=1451834086&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/3c/7c/95/3c7c95ee-23d6-b1d8-2b18-84e102d433d7/mzaf_4169837426285322972.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%B1%B0%EB%A6%AC%EC%97%90%EC%84%9C/1543850903?i=1543850904&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7f/cb/ae/7fcbae10-e463-ca59-2094-81cf875e199e/mzaf_3664734411788512450.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/03/5e/04/035e0415-9923-2f0b-ea65-3f2a444453f0/5902898443172.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/7c/88/217c88ed-80bf-adfa-7cdf-a5c219daf9f7/8809784722939.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-17 15:28:12 (UTC)
+⏳ 업데이트 시간: 2025-11-17 16:33:51 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
