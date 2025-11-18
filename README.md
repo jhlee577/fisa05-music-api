@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Enchanted Love Lullaby (Piano & Orchestra Instrumental) - Sad Music Sentimental Melancholic Song  
-> 아티스트: **Sad Piano Music Instrumental Collective Australia**  
-> 앨범: _Enchanted Love Lullaby (Instrumental Piano & Orchestra) - Sad Music Sentimental Emotional Melancholy Songs - Single_  
+## 🎧 To. X  
+> 아티스트: **태연**  
+> 앨범: _To. X - The 5th Mini Album - EP_  
 
-🔍 검색 키워드: `instrumental+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/enchanted-love-lullaby-piano-orchestra-instrumental/1198265157?i=1198265170&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/46/9b/f8/469bf8ce-7d98-e80f-cd69-aac7ca5d804d/mzaf_13080348576011774417.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/to-x/1717568641?i=1717568642&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/97/47/da/9747daf7-ca2d-36ab-9379-6048398be273/mzaf_17458116814498446690.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/5d/d2/aa/5dd2aa43-c215-0248-95bc-746de61fb720/5057302478940_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c7/1b/47/c71b47c7-4ea1-4eb9-8825-cbe87f68b6fd/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-18 01:56:16 (UTC)
+⏳ 업데이트 시간: 2025-11-18 03:17:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
