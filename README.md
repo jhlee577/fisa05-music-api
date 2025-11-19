@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Arlo Parks**  
-> 앨범: _Collapsed in Sunbeams (Apple Music Edition)_  
+## 🎧 Lofi Night  
+> 아티스트: **Lofi DreamHop**  
+> 앨범: _Midnight Murmurs: Lounge Lofi Mix_  
 
-🔍 검색 키워드: `pop+hope`  
+🔍 검색 키워드: `lofi+night`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1550632003?i=1550632008&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/62/e8/e7/62e8e775-8998-4383-a049-d5e5f73993af/mzaf_8952419863441582769.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-night/1777881459?i=1777881730&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/5a/c0/8b5ac001-27b8-08b6-3bdd-f83fa8a59b89/mzaf_4331610600140003006.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a8/a2/2a/a8a22ae7-705d-5654-3aae-1e2076116028/5400863049539.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/40/2a/50402a97-9c7a-600d-cc42-1816ecce1044/cover_10323627.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-19 22:23:29 (UTC)
+⏳ 업데이트 시간: 2025-11-19 23:22:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
