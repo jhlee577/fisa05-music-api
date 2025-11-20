@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 빛  
-> 아티스트: **H.O.T.**  
-> 앨범: _Resurretion - The 3rd Album_  
+## 🎧 HOPE  
+> 아티스트: **Tenacious D**  
+> 앨범: _Post-Apocalypto_  
 
-🔍 검색 키워드: `kpop+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rock+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%EB%B9%9B/1060407199?i=1060407446&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/6a/71/eb6a7123-12be-402c-b9be-7e53336bbaac/mzaf_12725283332344095609.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/1434624186?i=1434624700&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8a/51/cb/8a51cb31-5dbe-c12f-2b8c-b3c5e1daa4db/mzaf_13873816154770601831.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/e1/56/c1/e156c126-7de0-6062-0c6b-00ae19e6cda3/hot_resurrection.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/02/f0/1b02f0c8-a21a-6e3e-f6b8-f5f728dc29b1/886447284117.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-20 21:22:17 (UTC)
+⏳ 업데이트 시간: 2025-11-20 22:21:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
