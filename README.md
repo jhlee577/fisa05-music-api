@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Mahal Ko o Mahal Ako  
-> 아티스트: **KZ Tandingan**  
-> 앨범: _Himig Handog P-Pop Love Songs (2014)_  
+## 🎧 Lofi Rain (Instrumental)  
+> 아티스트: **LoFi Hip Hop**  
+> 앨범: _Lo-Fi Beats & Treats - Volume 1_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/mahal-ko-o-mahal-ako/909694148?i=909694204&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/24/f9/cb/24f9cb9d-ce2b-bc83-44cd-a1bdcea51c34/mzaf_15039370110086813946.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-rain-instrumental/1458425011?i=1458425239&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/82/c5/d382c52e-cf1f-9bce-c0ed-5f8275b4502a/mzaf_17042829496390090352.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/5f/48/c1/5f48c128-5881-dcc5-2caf-6f5d23a167c2/Himig2014-Cd1500.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/36/a1/78/36a17861-b6af-2945-5a92-4a957da88ebe/3122.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-21 03:14:35 (UTC)
+⏳ 업데이트 시간: 2025-11-21 04:29:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
