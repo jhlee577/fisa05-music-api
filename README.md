@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **William Bell**  
-> 앨범: _William Bell: Collectors Edition "Greatest Hits"_  
+## 🎧 Dance The Night Away  
+> 아티스트: **TWICE**  
+> 앨범: _Summer Nights_  
 
-🔍 검색 키워드: `rnb+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+summer`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy/264697079?i=264697303&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/81/24/f0/8124f06f-36d2-a309-15ee-8b4b747491c5/mzaf_11161650598247274235.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/dance-the-night-away/1555401452?i=1555401454&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/e5/00/28e500e2-8f20-0385-f37b-84899a8384a0/mzaf_7117980557950201814.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/12/14/97/mzi.ktypyqic.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/8d/ae/5d8daec6-bf17-9220-6ffb-d69981dd4ef6/00602508874840_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-21 18:32:01 (UTC)
+⏳ 업데이트 시간: 2025-11-21 19:19:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
