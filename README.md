@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 What is Love?  
-> 아티스트: **TWICE**  
-> 앨범: _Summer Nights_  
+## 🎧 Lofi Rain  
+> 아티스트: **Silent Chills**  
+> 앨범: _Lofi Rain for Sleep_  
 
-🔍 검색 키워드: `kpop+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/what-is-love/1555401452?i=1555401611&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/87/6d/0a/876d0a3e-806e-024b-dafc-abdf58d77c4f/mzaf_8856307591222303999.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-rain/1576826891?i=1576826892&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fb/f7/b0/fbf7b0e2-f880-e0cc-a0bd-58cef2f91bfb/mzaf_6910556518126070206.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/8d/ae/5d8daec6-bf17-9220-6ffb-d69981dd4ef6/00602508874840_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/19/41/361941c4-52b0-6832-53a8-7478fc1fee38/cover_4062851631921.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-22 14:20:21 (UTC)
+⏳ 업데이트 시간: 2025-11-22 15:21:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
