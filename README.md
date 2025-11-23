@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sparks  
-> 아티스트: **Coldplay**  
-> 앨범: _Acoustic Summer_  
+## 🎧 All of Me  
+> 아티스트: **John Legend**  
+> 앨범: _Love in the Future (Expanded Edition)_  
 
-🔍 검색 키워드: `acoustic+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sparks/1805863699?i=1805864258&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/b8/7b/6bb87bfd-89c9-b9b1-f521-ffee62205270/mzaf_8279769659492523647.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/all-of-me/1441844369?i=1441844542&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/99/c1/e299c15b-d2af-3ac6-8404-47dfece3fbff/mzaf_7741965493973309922.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/9c/78/309c78e0-c653-ef75-3e64-7bc5a7b37957/5059460387614.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/71/b9/2271b906-85b3-06ee-e611-489b91df0b73/886444160742.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-23 08:30:15 (UTC)
+⏳ 업데이트 시간: 2025-11-23 09:23:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
