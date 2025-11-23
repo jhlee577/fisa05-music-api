@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 All of Me  
-> 아티스트: **John Legend**  
-> 앨범: _Love in the Future (Expanded Edition)_  
+## 🎧 Happy (Live)  
+> 아티스트: **Tasha Cobbs Leonard**  
+> 앨범: _Grace (Deluxe Edition) [Live]_  
 
-🔍 검색 키워드: `acoustic+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/all-of-me/1441844369?i=1441844542&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/99/c1/e299c15b-d2af-3ac6-8404-47dfece3fbff/mzaf_7741965493973309922.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy-live/715748651?i=715748736&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/f3/7f/a0f37f0f-e3c6-b66a-cf37-046ba6e6ac99/mzaf_17233546215639144804.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/71/b9/2271b906-85b3-06ee-e611-489b91df0b73/886444160742.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/38/96/95/3896956b-8e1d-d2e5-9836-c76155ec05c5/13UABIM04882.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-23 09:23:32 (UTC)
+⏳ 업데이트 시간: 2025-11-23 10:23:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
