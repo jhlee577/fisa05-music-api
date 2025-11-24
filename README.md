@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 NIGHT  
-> 아티스트: **Stray Kids**  
-> 앨범: _GIANT_  
+## 🎧 happy  
+> 아티스트: **BAEKHYUN**  
+> 앨범: _Do You Like Brahms? (Original Television Soundtrack) Pt. 11 - Single_  
 
-🔍 검색 키워드: `kpop+night`  
+🔍 검색 키워드: `kpop+happy`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/night/1777033478?i=1777033485&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/50/c0/2b50c0e8-0fcf-230b-2150-b22379eddea2/mzaf_5771443152839107821.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/1804666824?i=1804666826&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/3f/65/513f6573-9b70-4888-c119-5b9f7f09cc71/mzaf_1717901640355382813.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/c7/d7/fcc7d70e-ef18-1586-3269-d9881acbea9e/4547366717150.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/9e/0b/539e0bd1-7d00-6caf-3bc9-b03242b73418/cover_KM0011285_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-24 07:24:35 (UTC)
+⏳ 업데이트 시간: 2025-11-24 08:35:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
