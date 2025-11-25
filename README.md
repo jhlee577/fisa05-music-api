@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Thinking Out Loud  
-> 아티스트: **Ed Sheeran**  
-> 앨범: _x (Deluxe Edition)_  
+## 🎧 I Will Always Love You  
+> 아티스트: **Whitney Houston**  
+> 앨범: _The Bodyguard (Original Soundtrack Album)_  
 
-🔍 검색 키워드: `rock+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rnb+hope`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/thinking-out-loud/858517827?i=858517873&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/d9/66/7cd96639-9374-5969-37b5-83a7b1775be5/mzaf_1165825695056883885.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/i-will-always-love-you/388151892?i=388151901&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/c3/a8/20c3a895-af1d-f096-1e3e-ee903cd7414a/mzaf_3972309116730366010.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/99/ac/50/99ac5005-1706-b3ce-95f0-b58f2f373dc5/dj.sagclawj.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/f3/e9/82f3e968-8174-c5eb-7fc5-36384d050129/dj.mdauihuy.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-25 03:19:53 (UTC)
+⏳ 업데이트 시간: 2025-11-25 04:30:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
