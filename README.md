@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **수지 & 백현**  
-> 앨범: _Dream - Single_  
+## 🎧 Summer  
+> 아티스트: **Scott Bradlee's Postmodern Jukebox**  
+> 앨범: _Historical Misappropriation_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `jazz+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/dream/1788004747?i=1788004748&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/00/df/0900df5b-b5a8-678f-f9c4-1ba1e0750419/mzaf_9051671708096557097.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer/914637609?i=914637830&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/db/0a/5c/db0a5c6e-0308-cdbc-4a31-063d2941f639/mzaf_15385477925313769688.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/61/74/3761744e-2002-6740-4869-009d7ad42c13/8804775068294.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/84/c1/a6/84c1a613-e5f7-6bbf-2037-751fce74795a/dj.qbwflfub.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-27 15:26:18 (UTC)
+⏳ 업데이트 시간: 2025-11-27 16:31:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
