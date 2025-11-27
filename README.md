@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HAPPY  
-> 아티스트: **NF**  
-> 앨범: _HOPE_  
+## 🎧 LOVE DIVE  
+> 아티스트: **IVE**  
+> 앨범: _LOVE DIVE - Single_  
 
-🔍 검색 키워드: `instrumental+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy/1670412644?i=1670413058&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/7d/f2/9e7df27c-e165-3603-12bc-855574ae07b0/mzaf_15244753975086973735.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love-dive/1616804151?i=1616804152&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a3/f2/04/a3f20464-c068-fbc5-8f76-42f9947c1b61/mzaf_177491966313232028.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/67/f8/16/67f8164a-bfc2-f29b-e241-800426a968ef/cover_KM0015013_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-27 11:22:32 (UTC)
+⏳ 업데이트 시간: 2025-11-27 12:52:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
