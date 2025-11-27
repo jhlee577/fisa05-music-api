@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Every Breath You Take  
-> 아티스트: **The Police**  
-> 앨범: _The Very Best of Sting & The Police_  
+## 🎧 HOPE  
+> 아티스트: **NF**  
+> 앨범: _HOPE_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/every-breath-you-take/1440882817?i=1440882897&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/bc/5c/adbc5cab-2fc2-7cab-e420-fb48fbddfe26/mzaf_5803093446328326669.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1670412644?i=1670412645&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/41/64/d8/4164d8c6-934f-dab4-d091-cf84bddf06a1/mzaf_14539574139523582854.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-27 18:34:06 (UTC)
+⏳ 업데이트 시간: 2025-11-27 19:19:31 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
