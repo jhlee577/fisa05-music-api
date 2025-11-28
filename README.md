@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 One Love feat. MACCHO(OZROSAURUS)  
-> 아티스트: **SAY**  
-> 앨범: _One Love (Limited Edition)_  
+## 🎧 歌うたいのバラッド  
+> 아티스트: **斉藤和義**  
+> 앨범: _Because_  
 
-🔍 검색 키워드: `rnb+love`  
+🔍 검색 키워드: `ballad+happy`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/one-love-feat-maccho-ozrosaurus/720542245?i=720542992&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c8/78/6c/c8786c1c-93f6-14a5-dcb4-25dba86544a1/mzaf_15907651511307387130.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E6%AD%8C%E3%81%86%E3%81%9F%E3%81%84%E3%81%AE%E3%83%90%E3%83%A9%E3%83%83%E3%83%89/1281425801?i=1281425806&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/cb/aa/47/cbaa4702-3135-c246-c320-ed85bc2ba75c/mzaf_18002736103553163922.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/v4/46/0b/1a/460b1a33-6f01-b1e2-cd17-ac4cd38348eb/05099963343052.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d2/0e/85/d20e854b-865c-6c54-f4ac-a0500dbcef6a/VEATP-34575.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-28 15:25:25 (UTC)
+⏳ 업데이트 시간: 2025-11-28 16:30:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
