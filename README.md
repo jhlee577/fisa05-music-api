@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **JANNABI**  
-> 앨범: _Monkey Hotel_  
+## 🎧 Easy On Me  
+> 아티스트: **Adele**  
+> 앨범: _30_  
 
-🔍 검색 키워드: `kpop+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer/1140706507?i=1140706729&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/39/69/733969b6-045a-0b80-afe8-c8d78e26781e/mzaf_1405190762129625902.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/easy-on-me/1590035691?i=1590036021&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/75/28/56/75285676-dbce-d91d-7b36-070084a3546b/mzaf_5286200244455841527.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/d9/0b/30d90b00-84b7-4e9b-1452-823049e36d09/COVER-_JANNABI.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-28 06:38:06 (UTC)
+⏳ 업데이트 시간: 2025-11-28 07:24:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
