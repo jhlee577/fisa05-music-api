@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz (Bosanova)  
-> 아티스트: **Bossanova**  
-> 앨범: _Bossa Nova 2015 – Summer Nights Sensual Bossanova, Smooth Jazz, Sax, Trumpet & Piano Jazz Music_  
+## 🎧 Summer  
+> 아티스트: **Oliver Jensen**  
+> 앨범: _Lofi Summer_  
 
-🔍 검색 키워드: `jazz+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/jazz-bosanova/981963111?i=981963412&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6d/1f/02/6d1f02ef-95fc-f291-741d-df0997680e48/mzaf_15353376670241711919.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer/1624125499?i=1624125503&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b1/2e/b6/b12eb6dd-082c-2d58-945c-88f57a94dba9/mzaf_2470973167093004022.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/20/4a/aa204a11-74af-49df-5912-5d595585d06a/bossa_nova_2015.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/13/d9/fe/13d9fe3d-5954-d424-54c0-1bc1046792c8/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-28 08:34:17 (UTC)
+⏳ 업데이트 시간: 2025-11-28 09:26:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
