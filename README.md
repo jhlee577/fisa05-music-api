@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Brian Crain**  
-> 앨범: _Piano Opus (Bonus Track Version)_  
+## 🎧 Love  
+> 아티스트: **Musiq Soulchild**  
+> 앨범: _Aijuswanaseing_  
 
-🔍 검색 키워드: `instrumental+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer/1084539593?i=1084539654&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/28/a3/f3/28a3f328-ac5b-4e72-8500-f4062d6144b5/mzaf_6104303383411575687.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love/1440921030?i=1440921200&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/ee/9c/ccee9c87-d249-e9fb-ab94-e4549536878a/mzaf_8982561300930686739.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/91/7b/67917ba6-890e-8a1d-952a-447b246c86f6/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/43/32/fe433231-b094-83d7-63e4-0507e8b11b5e/06UMGIM08895.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-11-29 17:20:33 (UTC)
+⏳ 업데이트 시간: 2025-11-29 18:33:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
