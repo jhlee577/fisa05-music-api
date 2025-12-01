@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad  
-> 아티스트: **Sonnet**  
-> 앨범: _The World of the Married, Pt. 3 (Original Television Soundtrack) - Single_  
+## 🎧 Summer  
+> 아티스트: **Marshmello**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `kpop+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rock+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/sad/1721099463?i=1721099469&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/20/c2/9e20c2d3-6219-e0a2-d186-bbd0985ffe60/mzaf_18236076933167366430.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/music-video/summer/1211720349?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/93/4c/72/934c727b-2a04-b4e5-4e07-5fa1826fb87a/mzvf_5761377996495456425.640x240.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/3c/40/943c4071-9daa-c289-56e7-5ce49c0379d9/8720205027825.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/49/1a/e6/491ae603-69a1-5eba-3fb7-fef4d91c2388/dj.zckxwdtr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-01 22:23:49 (UTC)
+⏳ 업데이트 시간: 2025-12-01 23:23:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
