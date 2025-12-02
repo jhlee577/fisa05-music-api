@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 SAD! (Instrumental)  
-> 아티스트: **XXXTENTACION**  
-> 앨범: _? (Deluxe)_  
+## 🎧 DREAM (Korean Ver.)  
+> 아티스트: **SEVENTEEN**  
+> 앨범: _SEVENTEEN BEST ALBUM ‘17 IS RIGHT HERE’_  
 
-🔍 검색 키워드: `instrumental+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `pop+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad-instrumental/1474891456?i=1474891815&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/cb/df/43/cbdf43c3-80ae-8ffc-d617-40277aea8fd6/mzaf_4110932382915716391.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream-korean-ver/1742910872?i=1742911021&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dd/3d/6c/dd3d6cc2-e7f4-ffa7-bccf-a91c69b76d56/mzaf_7941769033736588711.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/49/bb/9349bb3b-317d-57c3-966a-71fa25247dc2/19UMGIM41705.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/fa/b9/a7fab907-4f64-45e8-076a-96bbb305a901/24UMGIM43598.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-02 18:39:57 (UTC)
+⏳ 업데이트 시간: 2025-12-02 19:23:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
