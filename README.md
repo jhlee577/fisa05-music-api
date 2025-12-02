@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (feat. ALEXANDER)  
-> 아티스트: **Psalm Trees**  
-> 앨범: _From Scratch (feat. ALEXANDER)_  
+## 🎧 Hope  
+> 아티스트: **No Spirit**  
+> 앨범: _Memories We Made_  
 
 🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `US`
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope-feat-alexander/1765339752?i=1765339757&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/69/2d/2c692d6b-2674-e74a-6e7a-6878fa72d358/mzaf_169238148386537252.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope/1710111718?i=1710111724&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/59/45/f6/5945f692-944b-d6a8-21bf-ac177707bc1e/mzaf_12352563721578804437.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/43/a7/b043a7a2-251a-0bc5-d723-f6094113e944/745051305109.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/f6/74/0ef6743d-2589-f9a2-45e1-2fccea972d2e/1aa759b6-5b64-477b-942a-315402c3f382.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-02 03:24:08 (UTC)
+⏳ 업데이트 시간: 2025-12-02 04:34:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
