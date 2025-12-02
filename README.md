@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Love (Jazz Hip Hop Instrumental)  
-> 아티스트: **Jazz Hop Nation**  
-> 앨범: _Morning Coffee Commute_  
+## 🎧 Hope (feat. ALEXANDER)  
+> 아티스트: **Psalm Trees**  
+> 앨범: _From Scratch (feat. ALEXANDER)_  
 
-🔍 검색 키워드: `jazz+love`  
+🔍 검색 키워드: `lofi+hope`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/jazz-love-jazz-hip-hop-instrumental/1531948892?i=1531949512&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/4e/24/bd4e24d1-4ead-5937-0fd2-db504f7a97a6/mzaf_10627178022987105237.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope-feat-alexander/1765339752?i=1765339757&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/69/2d/2c692d6b-2674-e74a-6e7a-6878fa72d358/mzaf_169238148386537252.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9d/1e/1a9d1e28-54a5-6de8-76fa-df2117f18a1e/13139.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/43/a7/b043a7a2-251a-0bc5-d723-f6094113e944/745051305109.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-02 01:59:22 (UTC)
+⏳ 업데이트 시간: 2025-12-02 03:24:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
