@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Love  
-> 아티스트: **Benytheproducer**  
-> 앨범: _Lofi Love - Single_  
+## 🎧 SAD! (Instrumental)  
+> 아티스트: **XXXTENTACION**  
+> 앨범: _? (Deluxe)_  
 
-🔍 검색 키워드: `lofi+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `instrumental+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-love/1565627989?i=1565627990&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/c5/93/8cc593fe-d6f4-5bae-cbc4-95c20b302305/mzaf_10616443935237831545.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad-instrumental/1474891456?i=1474891815&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/cb/df/43/cbdf43c3-80ae-8ffc-d617-40277aea8fd6/mzaf_4110932382915716391.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/fb/d5/aefbd5ff-83a9-ecef-29bd-fd0d25542d65/024543617471_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/49/bb/9349bb3b-317d-57c3-966a-71fa25247dc2/19UMGIM41705.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-02 17:27:22 (UTC)
+⏳ 업데이트 시간: 2025-12-02 18:39:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
