@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 모든 날, 모든 순간  
-> 아티스트: **폴킴**  
-> 앨범: _키스 먼저 할까요? (Original Television Soundtrack), Pt. 3 - Single_  
+## 🎧 밤  
+> 아티스트: **오존**  
+> 앨범: _co - EP_  
 
-🔍 검색 키워드: `rock+night`  
+🔍 검색 키워드: `pop+night`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%AA%A8%EB%93%A0-%EB%82%A0-%EB%AA%A8%EB%93%A0-%EC%88%9C%EA%B0%84/1360245436?i=1360245440&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b7/34/fb/b734fb92-9068-4e0f-9d15-e5551204bf93/mzaf_6455128854864856306.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%B0%A4/1567540416?i=1567540421&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fe/67/c9/fe67c956-4d8e-c2f4-1210-a5a0361663e8/mzaf_7733816294696192679.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/45/a5/fb45a5f3-e172-f3c7-05df-733d16c8fc31/OST3_A_Fin.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/81/85/01/81850103-f7bd-2eb0-ccec-e25f672929c9/O3ohn_co_3000.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-03 18:39:12 (UTC)
+⏳ 업데이트 시간: 2025-12-03 19:22:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
