@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Spend It  
-> 아티스트: **Summer Walker**  
-> 앨범: _Spend It - Single_  
+## 🎧 RnB Love  
+> 아티스트: **Truth Hurts**  
+> 앨범: _RnB Love - Single_  
 
-🔍 검색 키워드: `rnb+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/spend-it/1807357119?i=1807357120&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/d3/f8/afd3f8df-b705-18ab-567a-f49d2a64f43f/mzaf_8538474899272771474.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rnb-love/1702954876?i=1702954881&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/43/b1/a4/43b1a482-5812-42fd-7b1b-204ad487c04d/mzaf_269632130946907889.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/92/2b/b3922bff-9b5e-3b31-d4c7-d4a445681614/25UMGIM52419.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/39/e1/9a39e1e3-06eb-59cd-3f01-d9355efa2cb5/197189620249.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-03 04:33:39 (UTC)
+⏳ 업데이트 시간: 2025-12-03 05:25:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
