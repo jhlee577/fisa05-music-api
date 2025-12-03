@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 LoFi Happy  
-> 아티스트: **MorningTide Vibes Music**  
-> 앨범: _LoFi Happy - Single_  
+## 🎧 Big Energy (Remix) [feat. DJ Khaled]  
+> 아티스트: **Latto & Mariah Carey**  
+> 앨범: _Big Energy (Remix) [feat. DJ Khaled] - Single_  
 
-🔍 검색 키워드: `lofi+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `hiphop+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-happy/1815248123?i=1815248128&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/73/d2/1673d28f-8f36-264c-b547-3b5ad73c7021/mzaf_3717452411479025441.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/big-energy-remix-feat-dj-khaled/1616261250?i=1616261253&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/71/f7/56/71f756d6-4339-bf5b-8f07-7074bfed3778/mzaf_7523116082348621613.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/22/0c/a7220cc8-ac7c-b4df-cc1a-178ac35246cb/8721026048150_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9b/6f/83/9b6f83ae-16b8-e873-74fb-494e4340108f/886449924967.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-03 12:55:38 (UTC)
+⏳ 업데이트 시간: 2025-12-03 13:40:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
