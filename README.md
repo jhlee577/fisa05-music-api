@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 恋人ごっこ  
-> 아티스트: **マカロニえんぴつ**  
-> 앨범: _hope_  
+## 🎧 Instrumental Love  
+> 아티스트: **Jazzy Coffee, Cozy Coffee Shop & Relaxing Jazz Piano**  
+> 앨범: _Smooth Night Jazz_  
 
-🔍 검색 키워드: `rnb+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E6%81%8B%E4%BA%BA%E3%81%94%E3%81%A3%E3%81%93/1501480102?i=1501480114&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5b/c4/c5/5bc4c507-d389-f0d4-3c96-0bb07fc6ba15/mzaf_16193484158239531800.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/instrumental-love/1635123608?i=1635123609&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a6/65/f7/a665f75b-d0de-628f-6dd9-d984d8ba013e/mzaf_6296859381907437641.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/60/ab/e2/60abe255-cec0-5c47-7ba9-b49ee3b5b605/bigup13070357.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/66/e7/d766e76a-98e8-c9cb-54fd-1739f38e7872/5063112281984_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-04 08:35:45 (UTC)
+⏳ 업데이트 시간: 2025-12-04 09:30:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
