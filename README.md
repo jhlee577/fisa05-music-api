@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HaPpY (한)  
-> 아티스트: **Stray Kids & 한**  
-> 앨범: _SKZ-REPLAY_  
+## 🎧 Locked Away (feat. Adam Levine)  
+> 아티스트: **R. City**  
+> 앨범: _What Dreams Are Made Of_  
 
-🔍 검색 키워드: `pop+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy-%ED%95%9C/1658007364?i=1658007807&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c5/68/83/c568832b-3dfe-6aac-8d83-ba247cc3f0c9/mzaf_16702000248058098028.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/locked-away-feat-adam-levine/1031371160?i=1031371163&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/17/84/06178478-f04c-5c8a-a275-3343189a3c84/mzaf_2939757936273007052.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/cb/ef/85cbef02-60b4-8663-6f4f-951a74aca646/SKZ_REPLAY_Album_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/ef/93/89ef935b-8a7d-5c78-ba16-e02a82632913/dj.moqmmhzx.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-04 02:00:05 (UTC)
+⏳ 업데이트 시간: 2025-12-04 03:34:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
