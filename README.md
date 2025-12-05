@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 90's RnB Love  
-> 아티스트: **Superson1cs & Nez Myers**  
-> 앨범: _90's RnB Love - Single_  
+## 🎧 Jazz Dream  
+> 아티스트: **Belladonna**  
+> 앨범: _Jazz House Grooves (The Finest Jazzy Soulful Chill House Selection)_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/90s-rnb-love/1689898915?i=1689898916&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2e/81/75/2e81758a-3efd-67c8-6214-1994a753f417/mzaf_2135399456949245198.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/jazz-dream/1565607695?i=1565607740&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1a/75/fc/1a75fc07-4213-e8dc-add1-7e30f62eab60/mzaf_170316369825837274.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/6b/9a/fd6b9a54-2f28-ddab-1519-4bf61dd8f5a6/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/29/a6/4c29a66f-c070-852e-1751-ebf5c2b133a6/8056234423155.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-05 10:27:53 (UTC)
+⏳ 업데이트 시간: 2025-12-05 11:23:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
