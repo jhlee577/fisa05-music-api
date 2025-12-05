@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Night  
-> 아티스트: **H&J BGMC**  
-> 앨범: _Chill Tracks_  
+## 🎧 Ballad Summer  
+> 아티스트: **Gustavo Fidelli**  
+> 앨범: _Oriental Lunar_  
 
-🔍 검색 키워드: `jazz+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/jazz-night/1638265027?i=1638265028&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3e/62/9b/3e629b55-0228-c713-5756-f278d8efdcce/mzaf_8228456945379913977.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-summer/1806287769?i=1806287770&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/e6/69/6be669c0-bc01-4448-f38d-5face0a0af77/mzaf_16052418216629958274.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/26/61/e326613f-02bd-2af7-4a9d-6f5cadf7919f/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/c5/ef/6bc5efa0-6857-64c5-c0aa-462a2dd2f9a3/4065328645353.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-05 08:34:20 (UTC)
+⏳ 업데이트 시간: 2025-12-05 09:27:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
