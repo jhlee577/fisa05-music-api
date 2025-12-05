@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (feat. Puff Daddy & Tei Shi)  
-> 아티스트: **Blood Orange**  
-> 앨범: _Negro Swan_  
+## 🎧 Hope  
+> 아티스트: **NEFFEX**  
+> 앨범: _Hope - Single_  
 
-🔍 검색 키워드: `rock+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope-feat-puff-daddy-tei-shi/1413298173?i=1413299298&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/3a/c7/313ac7bb-1e2e-7c24-2c43-668f6a72ffa6/mzaf_13571762907207182798.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/1854961885?i=1854962133&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/bf/50/25bf5095-08aa-6711-d1b9-7730c5e1b06e/mzaf_15634568198670714061.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/98/ba/b498ba20-cef3-aef7-3327-280a981c8527/887828042166.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/28/0d/3e280dbd-8bb2-891a-af9a-d2648fa31326/859725929888.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-05 21:23:04 (UTC)
+⏳ 업데이트 시간: 2025-12-05 22:24:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
