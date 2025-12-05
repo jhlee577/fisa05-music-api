@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Summer  
-> 아티스트: **Gustavo Fidelli**  
-> 앨범: _Oriental Lunar_  
+## 🎧 90's RnB Love  
+> 아티스트: **Superson1cs & Nez Myers**  
+> 앨범: _90's RnB Love - Single_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-summer/1806287769?i=1806287770&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/e6/69/6be669c0-bc01-4448-f38d-5face0a0af77/mzaf_16052418216629958274.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/90s-rnb-love/1689898915?i=1689898916&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2e/81/75/2e81758a-3efd-67c8-6214-1994a753f417/mzaf_2135399456949245198.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/c5/ef/6bc5efa0-6857-64c5-c0aa-462a2dd2f9a3/4065328645353.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/6b/9a/fd6b9a54-2f28-ddab-1519-4bf61dd8f5a6/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-05 09:27:09 (UTC)
+⏳ 업데이트 시간: 2025-12-05 10:27:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
