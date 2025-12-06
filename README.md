@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Dream  
-> 아티스트: **Ralph Conde**  
-> 앨범: _Acoustic Dream - Single_  
+## 🎧 Hope  
+> 아티스트: **BIG-8**  
+> 앨범: _Heat_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `instrumental+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/acoustic-dream/1759937174?i=1759937364&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/14/e8/ff14e8c9-a3e0-b486-39e0-56f87e8f6c15/mzaf_107598627190606397.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1602762819?i=1602762820&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/06/20/6e/06206ece-a277-5a2f-5d05-cef8ae1a5bce/mzaf_9063505745756761382.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/53/8a/42538ad2-b640-9c2b-365e-a08231b1f318/859791780185_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/ad/15/5fad15f6-d484-34f4-c7e8-23a501fef3ff/859757767472_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-06 09:23:53 (UTC)
+⏳ 업데이트 시간: 2025-12-06 10:24:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
