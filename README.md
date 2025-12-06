@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Surface**  
-> 앨범: _Surface (Expanded Edition)_  
+## 🎧 Lofi Love  
+> 아티스트: **Benytheproducer**  
+> 앨범: _Lofi Love - Single_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `lofi+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/828341355?i=828341367&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/ad/6d/11ad6db8-06b0-c5bf-685c-677760d24f3a/mzaf_17601703800039811211.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-love/1565627989?i=1565627990&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/c5/93/8cc593fe-d6f4-5bae-cbc4-95c20b302305/mzaf_10616443935237831545.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/d4/ac/76d4ace7-227d-fcc8-8e50-dd038be2ac8c/886444355131.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/fb/d5/aefbd5ff-83a9-ecef-29bd-fd0d25542d65/024543617471_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-06 18:32:50 (UTC)
+⏳ 업데이트 시간: 2025-12-06 19:18:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
