@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **James Bay**  
-> 앨범: _Changes All The Time_  
+## 🎧 Easy On Me  
+> 아티스트: **Adele**  
+> 앨범: _30_  
 
-🔍 검색 키워드: `acoustic+hope`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1756790188?i=1756790192&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/cb/8f/b8cb8fb6-ebf0-71b7-588b-4e2224e7bb42/mzaf_15769880571067456017.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/easy-on-me/1590035691?i=1590036021&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/75/28/56/75285676-dbce-d91d-7b36-070084a3546b/mzaf_5286200244455841527.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/d5/bc/38d5bc12-684f-626d-81af-8ba9760c32af/24UMGIM70291.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-07 15:21:57 (UTC)
+⏳ 업데이트 시간: 2025-12-07 16:28:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
