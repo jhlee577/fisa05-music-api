@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Pretty Brown Eyes (Acoustic)  
-> 아티스트: **コーディー・シンプソン**  
-> 앨범: _Acoustic Night_  
+## 🎧 HAPPY  
+> 아티스트: **Anike**  
+> 앨범: _EXIT_  
 
-🔍 검색 키워드: `acoustic+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/pretty-brown-eyes-acoustic/1398992610?i=1398993097&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b6/68/0f/b6680fca-418c-4c84-9dd4-d0063663d038/mzaf_11067077716468748494.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy/1504149474?i=1504149478&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/b8/23/10b823cb-22c4-7008-da6f-1f80abde2693/mzaf_16936083544445805527.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/ea/4e/1eea4e48-205e-9631-8f14-2f985cd2e93c/842474181065.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/f9/ef/d3f9ef4a-aa1b-1692-147d-87d887097377/923.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-07 07:23:03 (UTC)
+⏳ 업데이트 시간: 2025-12-07 08:30:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
