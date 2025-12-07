@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 A Thousand Years  
-> 아티스트: **Christina Perri**  
-> 앨범: _Acoustic Summer_  
+## 🎧 Pretty Brown Eyes (Acoustic)  
+> 아티스트: **コーディー・シンプソン**  
+> 앨범: _Acoustic Night_  
 
-🔍 검색 키워드: `acoustic+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/a-thousand-years/1805863699?i=1805864254&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/77/27/167727b0-9cee-f6fe-8c52-baae8f5cb8d7/mzaf_9813003635188050132.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/pretty-brown-eyes-acoustic/1398992610?i=1398993097&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b6/68/0f/b6680fca-418c-4c84-9dd4-d0063663d038/mzaf_11067077716468748494.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/9c/78/309c78e0-c653-ef75-3e64-7bc5a7b37957/5059460387614.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/ea/4e/1eea4e48-205e-9631-8f14-2f985cd2e93c/842474181065.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-07 06:34:37 (UTC)
+⏳ 업데이트 시간: 2025-12-07 07:23:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
