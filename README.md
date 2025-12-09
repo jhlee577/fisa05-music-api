@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Yellow  
-> 아티스트: **Lofi Fruits Music & Chill Fruits Music**  
-> 앨범: _Lofi Sad Songs - EP_  
+## 🎧 Someone You Loved  
+> 아티스트: **Lewis Capaldi**  
+> 앨범: _Divinely Uninspired To A Hellish Extent_  
 
-🔍 검색 키워드: `lofi+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `acoustic+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/yellow/1566152138?i=1566152139&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f0/1a/ba/f01abaf7-e549-68e5-b754-400b9800bc19/mzaf_7141005301361707424.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/someone-you-loved/1452618876?i=1452619054&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/9f/bc/569fbc34-5046-4a7d-3ed2-0683637b7331/mzaf_5110455365245686939.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/c4/7b/f1c47b85-7487-8fc1-8d70-da79259f1b9a/190296718533.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/d7/8f/92d78fb1-df3d-049e-c81d-7022808b151f/19UMGIM02973.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-09 14:28:36 (UTC)
+⏳ 업데이트 시간: 2025-12-09 15:30:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
