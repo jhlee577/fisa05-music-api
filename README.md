@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **민채**  
-> 앨범: _Shine On Me_  
+## 🎧 Happy Lofi  
+> 아티스트: **lofi hip hop radio**  
+> 앨범: _Lofi Beats To Chill To_  
 
-🔍 검색 키워드: `jazz+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `lofi+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/983434786?i=983434792&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bb/2d/fb/bb2dfb84-9a2e-5853-526d-c8d3f81f64eb/mzaf_8864722001843476765.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy-lofi/1591846962?i=1591846980&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/c0/ba/79c0ba52-e160-8532-f638-25aeff051464/mzaf_3696969232518199902.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/44/e2/7e44e238-c164-d491-bb3b-95695e385ce9/8809445290760_Jacket.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/91/e8/6d/91e86d19-8e63-bb27-fc44-a33a28c8e37b/23431.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-10 03:57:05 (UTC)
+⏳ 업데이트 시간: 2025-12-10 04:39:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
