@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love Love Love (feat. Jason Mraz)  
-> 아티스트: **Hope**  
-> 앨범: _Love Acoustic_  
+## 🎧 Ballad Night (Solo Piano in C Major)  
+> 아티스트: **Kara Walker**  
+> 앨범: _Slow Reading with Easy Listening Tunes, Vol. 02_  
 
-🔍 검색 키워드: `acoustic+love`  
+🔍 검색 키워드: `ballad+night`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love-love-love-feat-jason-mraz/1136029651?i=1136029857&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/08/04/14080424-b677-0fe1-6db1-48e800af5c77/mzaf_7565728439060456050.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/ballad-night-solo-piano-in-c-major/1688648544?i=1688648627&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/16/70/85/1670859e-5ac7-90b8-9b6e-a06642557967/mzaf_8116856563843913177.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/b3/73/66/b37366bd-f572-3878-3f60-f53e7dc66f78/825646469161.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/6e/ba/d16ebad7-be66-086b-ef0e-cf2bb5e2f480/MAERTS355.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-10 08:35:49 (UTC)
+⏳ 업데이트 시간: 2025-12-10 09:30:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
