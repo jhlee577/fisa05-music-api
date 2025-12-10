@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **Imagine Dragons**  
-> 앨범: _Smoke + Mirrors (Deluxe)_  
+## 🎧 レイン  
+> 아티스트: **シド**  
+> 앨범: _レイン - Single_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+rain`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/dream/1440831203?i=1440831435&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ab/b6/de/abb6debf-0f2e-45b3-724b-fceea67b9b9e/mzaf_9155939631419168160.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%83%AC%E3%82%A4%E3%83%B3/1536381418?i=1536381419&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/89/88/34898819-87dc-96f8-f150-171536fe9795/mzaf_6330886071901157978.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/a8/b0/b3a8b05f-7dfe-f557-6147-57e74dfdbebe/15UMGIM53209.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/66/59/3a/66593ad9-1f8a-035c-f8c5-86769e93782e/jacket_KSCL01597B00Z_550.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-10 14:28:42 (UTC)
+⏳ 업데이트 시간: 2025-12-10 15:30:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
