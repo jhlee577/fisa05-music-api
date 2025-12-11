@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 when the party's over  
-> 아티스트: **Billie Eilish**  
-> 앨범: _WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?_  
+## 🎧 Ballad Love (Solo Piano)  
+> 아티스트: **Kara Walker**  
+> 앨범: _Soft Piano Music for Focus on Studying, Vol. 3_  
 
-🔍 검색 키워드: `pop+sad`  
+🔍 검색 키워드: `ballad+love`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/when-the-partys-over/1450695723?i=1450695872&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/0a/9d/ad0a9dfa-a690-dd7e-6865-b4ac2aed28f3/mzaf_17333094145686918224.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/ballad-love-solo-piano/1685673994?i=1685674280&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ae/f6/76/aef6768c-de5f-4949-46cb-9f5cabcbfea7/mzaf_1037271388621779734.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/8d/b8/328db8a4-8511-ec3a-e3d9-3ee10bf097d6/821555437680_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-11 04:40:58 (UTC)
+⏳ 업데이트 시간: 2025-12-11 05:28:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
