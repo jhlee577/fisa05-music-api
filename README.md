@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Love (Solo Piano)  
-> 아티스트: **Kara Walker**  
-> 앨범: _Soft Piano Music for Focus on Studying, Vol. 3_  
+## 🎧 밤  
+> 아티스트: **정인**  
+> 앨범: _사랑의 경도 - EP_  
 
-🔍 검색 키워드: `ballad+love`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/ballad-love-solo-piano/1685673994?i=1685674280&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ae/f6/76/aef6768c-de5f-4949-46cb-9f5cabcbfea7/mzaf_1037271388621779734.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%B0%A4/1721136372?i=1721136909&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ac/1b/82/ac1b8299-7998-1379-7d0a-114f8089d709/mzaf_16220537320549653506.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/8d/b8/328db8a4-8511-ec3a-e3d9-3ee10bf097d6/821555437680_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/09/05/5f090572-f530-068f-7ce1-d929ccb89aec/888272127447_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-11 05:28:08 (UTC)
+⏳ 업데이트 시간: 2025-12-11 06:41:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
