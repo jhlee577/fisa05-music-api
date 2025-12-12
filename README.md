@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Marshmello**  
-> 앨범: _Unknown Album_  
+## 🎧 Rain  
+> 아티스트: **Candlebox**  
+> 앨범: _Candlebox_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rock+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/music-video/summer/1211720349?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/93/4c/72/934c727b-2a04-b4e5-4e07-5fa1826fb87a/mzvf_5761377996495456425.640x240.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/rain/300983126?i=300983137&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a3/c1/e8/a3c1e8fe-cb2e-b1f2-c0ae-78002e45a8eb/mzaf_15349500082276105161.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/49/1a/e6/491ae603-69a1-5eba-3fb7-fef4d91c2388/dj.zckxwdtr.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1f/21/9d/1f219d66-2298-0bf9-97f2-b26af580793e/mzm.nssvbgfk.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-12 14:23:24 (UTC)
+⏳ 업데이트 시간: 2025-12-12 15:28:16 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
