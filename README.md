@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **TVXQ!**  
-> 앨범: _Catch Me_  
+## 🎧 Night (Part 2: Midnight)  
+> 아티스트: **ジョージ・ウィンストン**  
+> 앨범: _December_  
 
-🔍 검색 키워드: `hiphop+dream`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/dream/854900587?i=854900745&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/71/5e/17/715e17eb-c178-8c88-b757-b4aa8389a796/mzaf_9985846836228902823.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/night-part-2-midnight/1491090471?i=1491090478&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5e/c7/45/5ec74550-e9b0-64c1-a676-d3155da44048/mzaf_3296784040595725938.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ff/8f/b8/ff8fb8b4-f295-ecef-f37f-e045b2854981/asset.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/79/639d7990-dd61-4f1c-e732-d7eb62abd69f/George_Winston_-_December.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-11 23:24:42 (UTC)
+⏳ 업데이트 시간: 2025-12-12 02:03:16 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
