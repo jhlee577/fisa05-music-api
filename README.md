@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Rain (Instrumental)  
-> 아티스트: **LoFi Hip Hop**  
-> 앨범: _Lo-Fi Beats & Treats - Volume 1_  
+## 🎧 HOPE  
+> 아티스트: **Tenacious D**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `lofi+rain`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rock+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-rain-instrumental/1458425011?i=1458425239&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/82/c5/d382c52e-cf1f-9bce-c0ed-5f8275b4502a/mzaf_17042829496390090352.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/music-video/hope-lyric-video/1437574196?uo=4)  
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/36/a1/78/36a17861-b6af-2945-5a92-4a957da88ebe/3122.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-13 13:30:42 (UTC)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/dd/88/26/dd882678-15ac-1508-4c96-61767566315f/8864473549020101.jpg/100x100bb.jpg)
+
+⏳ 업데이트 시간: 2025-12-13 14:22:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
