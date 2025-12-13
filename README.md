@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Midnight Coffee  
-> 아티스트: **Lofi Watermelon, LoFi Study Music & Lofi Chill and Study**  
-> 앨범: _Lofi Night - EP_  
+## 🎧 Instrumental Night  
+> 아티스트: **Holistic World & Relaxation Guru**  
+> 앨범: _Fantastic Dreams: Relaxing Sleep Music, Relaxing Ambient Music, Songs for Sleep, Quiet Night, Sleep Aid_  
 
-🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/midnight-coffee/1683296801?i=1683296803&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/24/a4/f2/24a4f2de-5c29-aff8-4685-a111c984eb34/mzaf_11858274126764389502.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/instrumental-night/1316076909?i=1316077985&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/69/39/cc/6939cc03-746e-da0f-2014-7258691ae9c2/mzaf_7322432554703047198.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/6b/95/786b958f-dd13-cf71-6234-05c784208658/4066004554143_3000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/8c/99/998c99ae-86d7-c17a-119e-e2f4a08a6071/8033772907378.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-13 15:23:18 (UTC)
+⏳ 업데이트 시간: 2025-12-13 16:29:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
