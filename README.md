@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Rain  
-> 아티스트: **Lo-Fi Beats, Lofi Hip-Hop Beats & Lofi Sleep Chill & Study**  
-> 앨범: _Lofi Music_  
+## 🎧 What It Sounds Like  
+> 아티스트: **HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast**  
+> 앨범: _KPop Demon Hunters (Soundtrack from the Netflix Film)_  
 
-🔍 검색 키워드: `lofi+rain`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-rain/1743004681?i=1743004821&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/a6/bb/d7a6bbab-4e55-624c-e642-1b0b0232db7e/mzaf_6887607264100270721.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/what-it-sounds-like/1820264137?i=1820264340&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4b/9d/e7/4b9de724-86a5-3206-091c-6f928180cc07/mzaf_15300069630681935157.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/fc/46/fafc4623-4112-b3cb-fb0a-964fc37f6aa8/5056760585665.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-13 01:56:47 (UTC)
+⏳ 업데이트 시간: 2025-12-13 03:21:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
