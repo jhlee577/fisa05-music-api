@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **James Bay**  
-> 앨범: _Changes All The Time_  
+## 🎧 Love (Chula alternative)  
+> 아티스트: **Therapie TAXI**  
+> 앨범: _Rupture 2 merde_  
 
-🔍 검색 키워드: `acoustic+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1754655336?i=1754655590&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/29/52/c52952d0-4d77-ce43-058d-1812d83de174/mzaf_16085823543582032114.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/love-chula-alternative/1544428078?i=1544428915&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/db/6a/2d/db6a2d4f-9e8e-2a7e-59c7-1aacb82fa607/mzaf_6090169745145735246.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/fa/25/28fa2578-94df-41c0-07c7-26c280155b39/24UMGIM70291.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/ab/19/52ab1977-8fcc-e8a5-f0dc-04a81ad225b9/3596973920324_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-13 05:26:25 (UTC)
+⏳ 업데이트 시간: 2025-12-13 06:36:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
