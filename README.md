@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Psalm Trees & Guillaume Muschalle**  
-> 앨범: _Céleste - EP_  
+## 🎧 DREAM  
+> 아티스트: **SEVENTEEN**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `hiphop+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/1513591725?i=1513591727&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ea/88/a7/ea88a7ae-ad0b-7564-2c3c-9fce6443fa4a/mzaf_3388826665766117611.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/dream/1652052237?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/d5/f3/d3/d5f3d3e7-2b26-5318-72ab-6fb9c93ce467/mzvf_18431944048556971312.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ad/5c/2e/ad5c2e66-8628-86cb-fded-fc1e8f494392/5054284646336.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-14 22:22:57 (UTC)
+⏳ 업데이트 시간: 2025-12-14 23:23:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
