@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HOPE  
-> 아티스트: **KANA-BOON**  
-> 앨범: _HOPE - Single_  
+## 🎧 SAD!  
+> 아티스트: **XXXTENTACION**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `rock+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1577314196?i=1577314197&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/99/c6/39/99c639de-fd7d-c6de-87a6-c546cbaa1bb1/mzaf_5530798369567485728.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/sad/1407067992?uo=4)  
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/d4/04f8d425-b190-a2e3-3526-6682f51e84e4/4547366521665.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-16 18:39:07 (UTC)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/bb/72/9c/bb729cf4-3b0d-ec07-114e-316fa700ac2d/00842812108747_00001.crop.jpg/100x100bb.jpg)
+
+⏳ 업데이트 시간: 2025-12-16 19:23:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
