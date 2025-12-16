@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (From "Despicable Me 2")  
-> 아티스트: **Pharrell Williams**  
-> 앨범: _Unknown Album_  
+## 🎧 Give Me Love (Cover)  
+> 아티스트: **Acoustic Hope**  
+> 앨범: _Acoustic Hope - EP_  
 
-🔍 검색 키워드: `kpop+happy`  
+🔍 검색 키워드: `acoustic+hope`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/music-video/happy-from-despicable-me-2/793299815?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/give-me-love-cover/1506943854?i=1506943931&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b5/85/60/b58560ba-59c7-0b4a-270a-9f5ce6e139ac/mzaf_14863544288624455373.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/31/a2/80/31a280c3-8c93-7d2d-49e2-b9484f39b065/rls00092917.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-16 09:31:39 (UTC)
+⏳ 업데이트 시간: 2025-12-16 10:31:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
