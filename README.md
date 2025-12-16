@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HAPPY (LOFI)  
-> 아티스트: **Forrest Frank & The Lofi Christian**  
-> 앨범: _JESUS LOFI VOLUME TWO_  
+## 🎧 Rain  
+> 아티스트: **SWV**  
+> 앨범: _Release Some Tension_  
 
-🔍 검색 키워드: `lofi+happy`  
+🔍 검색 키워드: `instrumental+rain`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy-lofi/1851734777?i=1851734780&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/6f/cc/fb6fcc83-0982-d5db-b46a-1c37ace30e2c/mzaf_7091558135143470495.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/253640878?i=253641178&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/cc/8e/c8cc8ed7-c8e6-de54-d134-2480c2a98ee1/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-16 11:24:54 (UTC)
+⏳ 업데이트 시간: 2025-12-16 12:56:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
