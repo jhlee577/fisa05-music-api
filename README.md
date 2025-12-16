@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Zayvo**  
-> 앨범: _Share Your Heart - Single_  
+## 🎧 Instrumental Night  
+> 아티스트: **Eyes of Buddha & Baby Sleep Through the Night**  
+> 앨범: _Deep Sleep Oil - Essential New Age Music for Nighty Nights, Babies & Adults_  
 
-🔍 검색 키워드: `pop+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1701795434?i=1701795435&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9b/a5/0f/9ba50f9e-967f-f673-584d-a3b0cd01a260/mzaf_18186752347845984563.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/instrumental-night/1356231494?i=1356231516&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/1c/35/421c358c-038d-fc60-fa1f-52a2ce45dcf4/mzaf_12536801221718831797.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/97/46/6e9746ff-cd90-b2c8-05e7-d96cb162ead1/2062269.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/51/e0/b7/51e0b748-8906-2bd5-a64c-d3b767463b40/8033772912921.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-16 04:42:27 (UTC)
+⏳ 업데이트 시간: 2025-12-16 05:28:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
