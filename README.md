@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Christmas Paul**  
-> 앨범: _Christmas Spirit - The Most Relaxing Holiday Tunes, Traditional Holiday Music, Venerated Carols, Ancient Hymns_  
+## 🎧 HOPE  
+> 아티스트: **KANA-BOON**  
+> 앨범: _HOPE - Single_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rock+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/instrumental-night/1318772509?i=1318773088&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/d9/f4/08/d9f408c4-b5ef-5c04-bc58-fc1fe69970b0/mzaf_2511361059748393074.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1577314196?i=1577314197&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/99/c6/39/99c639de-fd7d-c6de-87a6-c546cbaa1bb1/mzaf_5530798369567485728.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/8b/ab/4b8bab8c-5620-1459-38b0-9d026af39777/8033772908788.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/d4/04f8d425-b190-a2e3-3526-6682f51e84e4/4547366521665.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-16 17:27:52 (UTC)
+⏳ 업데이트 시간: 2025-12-16 18:39:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
