@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 한 밤의 꿈처럼  
-> 아티스트: **이보람**  
-> 앨범: _한 밤의 꿈처럼 - Single_  
+## 🎧 One Night Only (Highlights Version)  
+> 아티스트: **Deena Jones & The Dreams & Jennifer Hudson**  
+> 앨범: _Dreamgirls (Music from the Motion Picture)_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%ED%95%9C-%EB%B0%A4%EC%9D%98-%EA%BF%88%EC%B2%98%EB%9F%BC/1642470827?i=1642470828&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/78/77/06/78770640-a3a3-67d6-1098-2cbb2261a3bd/mzaf_12513573160544983700.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/one-night-only-highlights-version/464320979?i=464321087&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/92/c4/2e/92c42eb6-b4fb-97ac-43d7-3f12bcb7696e/mzaf_13268216847790050204.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/55/09/4e/55094ed9-bab7-3d0d-b49d-04c6186760d7/888272105209_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/1f/59/8a1f59bb-03a1-3794-8afe-ea7a6fde8e26/mzi.tqfazudy.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-16 15:29:30 (UTC)
+⏳ 업데이트 시간: 2025-12-16 16:36:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
