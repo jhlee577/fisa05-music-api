@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Give Me Love (Cover)  
-> 아티스트: **Acoustic Hope**  
-> 앨범: _Acoustic Hope - EP_  
+## 🎧 HAPPY (LOFI)  
+> 아티스트: **Forrest Frank & The Lofi Christian**  
+> 앨범: _JESUS LOFI VOLUME TWO_  
 
-🔍 검색 키워드: `acoustic+hope`  
+🔍 검색 키워드: `lofi+happy`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/give-me-love-cover/1506943854?i=1506943931&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b5/85/60/b58560ba-59c7-0b4a-270a-9f5ce6e139ac/mzaf_14863544288624455373.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy-lofi/1851734777?i=1851734780&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/6f/cc/fb6fcc83-0982-d5db-b46a-1c37ace30e2c/mzaf_7091558135143470495.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/31/a2/80/31a280c3-8c93-7d2d-49e2-b9484f39b065/rls00092917.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/cc/8e/c8cc8ed7-c8e6-de54-d134-2480c2a98ee1/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-16 10:31:07 (UTC)
+⏳ 업데이트 시간: 2025-12-16 11:24:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
