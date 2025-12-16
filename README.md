@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 One Night Only (Highlights Version)  
-> 아티스트: **Deena Jones & The Dreams & Jennifer Hudson**  
-> 앨범: _Dreamgirls (Music from the Motion Picture)_  
+## 🎧 Instrumental Night  
+> 아티스트: **Christmas Paul**  
+> 앨범: _Christmas Spirit - The Most Relaxing Holiday Tunes, Traditional Holiday Music, Venerated Carols, Ancient Hymns_  
 
-🔍 검색 키워드: `rnb+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/one-night-only-highlights-version/464320979?i=464321087&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/92/c4/2e/92c42eb6-b4fb-97ac-43d7-3f12bcb7696e/mzaf_13268216847790050204.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/instrumental-night/1318772509?i=1318773088&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/d9/f4/08/d9f408c4-b5ef-5c04-bc58-fc1fe69970b0/mzaf_2511361059748393074.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/1f/59/8a1f59bb-03a1-3794-8afe-ea7a6fde8e26/mzi.tqfazudy.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/8b/ab/4b8bab8c-5620-1459-38b0-9d026af39777/8033772908788.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-16 16:36:28 (UTC)
+⏳ 업데이트 시간: 2025-12-16 17:27:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
