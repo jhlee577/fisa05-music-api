@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HAPPY  
-> 아티스트: **NF**  
-> 앨범: _HOPE_  
+## 🎧 Boat  
+> 아티스트: **죠지**  
+> 앨범: _Boat - Single_  
 
-🔍 검색 키워드: `pop+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rnb+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1670412644?i=1670413058&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/7d/f2/9e7df27c-e165-3603-12bc-855574ae07b0/mzaf_15244753975086973735.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/boat/1560972195?i=1560972196&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/1c/a6/ae/1ca6ae8b-b05f-0857-449a-db3042b64056/mzaf_7930288253028542549.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/79/57/bd795767-9f8b-408d-68f3-bbc6ab57c4e8/20130350.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-17 23:25:02 (UTC)
+⏳ 업데이트 시간: 2025-12-18 02:00:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
