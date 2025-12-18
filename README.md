@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Dream  
-> 아티스트: **向谷 実**  
-> 앨범: _Tickle the Ivory_  
+## 🎧 Happy Place Ballad  
+> 아티스트: **Careless Vibez**  
+> 앨범: _Happy Place Ballad - Single_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/acoustic-dream/1535035245?i=1535035727&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c8/7c/4b/c87c4bbc-05c1-f438-3d74-d50c995acf6e/mzaf_9918772770625236421.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy-place-ballad/1750406264?i=1750406265&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/b5/1a/51b51a82-e850-7aa4-a6f9-bb66f9da9326/mzaf_4837404583715125555.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/bb/08/04bb0837-591e-dbc6-5222-c3a3ded6630b/4560427431048.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/9d/69/489d69f9-fb64-96ca-3040-1c7f9a66eebe/294128.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-18 21:21:54 (UTC)
+⏳ 업데이트 시간: 2025-12-18 22:25:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
