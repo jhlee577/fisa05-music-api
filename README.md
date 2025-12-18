@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer (Tropicala)  
-> 아티스트: **ConcernedApe**  
-> 앨범: _Stardew Valley (Original Game Soundtrack)_  
+## 🎧 Love Ballad (feat. Jeffrey Osborne)  
+> 아티스트: **L.T.D.**  
+> 앨범: _Love to the World_  
 
-🔍 검색 키워드: `instrumental+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `ballad+love`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer-tropicala/1158129204?i=1158131730&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/58/22/00/58220089-f52b-f544-0a74-6b5cfbb4f962/mzaf_8866247800741586731.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/love-ballad-feat-jeffrey-osborne/1444011114?i=1444011373&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/b8/d7/f3b8d75b-a879-c690-25ca-81883f9556a1/mzaf_11626522314014511952.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/17/09/2e17091a-9594-7c7d-ab3b-29021e40ff3b/859718322498_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/0a/7d/0c0a7d49-79eb-11ba-93df-4e61ad9054a7/00075021314627.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-18 17:27:17 (UTC)
+⏳ 업데이트 시간: 2025-12-18 18:38:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
