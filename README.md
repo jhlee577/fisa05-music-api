@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad (Instrumental)  
-> 아티스트: **Sonnet**  
-> 앨범: _The World of the Married, Pt. 3 (Original Television Soundtrack) - Single_  
+## 🎧 Candy Rain  
+> 아티스트: **Soul for Real**  
+> 앨범: _Candy Rain_  
 
-🔍 검색 키워드: `kpop+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sad-instrumental/1721099463?i=1721099470&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7b/4c/63/7b4c6372-72b4-b414-3286-f4e44a18ddca/mzaf_17118444037998559737.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/candy-rain/1443842179?i=1443842190&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/40/e4/bc/40e4bc16-25e4-f297-217a-9c6dc7645896/mzaf_2573813150180055548.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/3c/40/943c4071-9daa-c289-56e7-5ce49c0379d9/8720205027825.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ea/7f/74/ea7f7405-7b0e-4ce8-08d8-483b057d646b/06UMGIM07476.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-19 18:36:54 (UTC)
+⏳ 업데이트 시간: 2025-12-19 19:20:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
