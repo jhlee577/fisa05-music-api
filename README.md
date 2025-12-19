@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Dream  
-> 아티스트: **prodkevvv**  
-> 앨범: _Instrumental Dream - Single_  
+## 🎧 Dangerously in Love 2  
+> 아티스트: **Beyoncé**  
+> 앨범: _Dangerously in Love_  
 
-🔍 검색 키워드: `instrumental+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/instrumental-dream/1768331951?i=1768331954&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/6c/8a/c36c8a07-bed5-c9ce-2ffd-08a3e68c6ba7/mzaf_17319060873496051709.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/dangerously-in-love-2/201274359?i=201277862&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2d/e2/e9/2de2e9bd-f7fe-2402-673b-d0b4a4313d46/mzaf_2220946249864182868.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/f1/d3/fff1d398-2cc5-2a7f-7a3d-b311320a6fa4/5063585490180_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/03/c5/d4/mzi.ldvrmhxt.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-19 02:02:59 (UTC)
+⏳ 업데이트 시간: 2025-12-19 03:58:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
