@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM  
-> 아티스트: **BABYMONSTER**  
-> 앨범: _BABYMONS7ER - EP_  
+## 🎧 다시 사랑한다 말할까  
+> 아티스트: **김동률**  
+> 앨범: _귀향_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+hope`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/dream/1737962888?i=1737962895&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/6e/04/416e04f1-bccf-2793-6f58-7c15f4b7fd18/mzaf_12642268067490671044.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%8B%A4%EC%8B%9C-%EC%82%AC%EB%9E%91%ED%95%9C%EB%8B%A4-%EB%A7%90%ED%95%A0%EA%B9%8C/1562082055?i=1562082057&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cd/f9/4b/cdf94be8-6609-8c0c-27d4-10e67fc01ef1/mzaf_5061246539381587394.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f6/26/e3/f626e31e-8140-65e9-d80d-446769e4e390/888344227136_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-20 18:32:38 (UTC)
+⏳ 업데이트 시간: 2025-12-20 19:19:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
