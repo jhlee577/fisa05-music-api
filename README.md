@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain (feat. John Legend)  
-> 아티스트: **Common**  
-> 앨범: _Black America Again_  
+## 🎧 HAPPY  
+> 아티스트: **BUMP OF CHICKEN**  
+> 앨범: _BUMP OF CHICKEN II [2005-2010]_  
 
-🔍 검색 키워드: `hiphop+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rock+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain-feat-john-legend/1440895412?i=1440895558&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/19/c0/f7/19c0f775-f8d6-8c40-ee6e-08ce37d0fb7d/mzaf_8096007118849344768.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1464636330?i=1464636340&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/09/ed/f9/09edf964-b6e2-469e-7a50-ee16b0eb1563/mzaf_16141192171691214437.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/5f/87/4b5f87a9-b78d-42c0-d30e-ea8b203317d0/16UMGIM72494.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/ca/8a/fcca8a2b-9b25-d2e5-89de-ab3af0954bda/dj.bdmpclto.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-21 20:27:07 (UTC)
+⏳ 업데이트 시간: 2025-12-21 21:22:33 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
