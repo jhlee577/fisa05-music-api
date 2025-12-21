@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Maybe One Day  
-> 아티스트: **Nature Sounds Unplugged**  
-> 앨범: _Acoustic Rain_  
+## 🎧 Hope  
+> 아티스트: **BoA**  
+> 앨범: _Only One_  
 
-🔍 검색 키워드: `acoustic+rain`  
+🔍 검색 키워드: `kpop+hope`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/maybe-one-day/1451608821?i=1451608825&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/ce/12/6cce12bc-ef57-008e-67b1-0f389b730da4/mzaf_11021752259828425469.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/854900899?i=854900909&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/1f/7f/4d1f7f79-a1fb-6b98-fcbd-fb81a472372b/mzaf_18041874159674599179.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/1f/5c/8a1f5c23-8a29-609d-ba99-5fe23329eea1/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3e/ff/e8/3effe8d3-c71a-312f-9b0f-e132579d4c31/asset.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-21 06:37:10 (UTC)
+⏳ 업데이트 시간: 2025-12-21 07:23:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
