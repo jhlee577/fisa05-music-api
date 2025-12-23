@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad Instrumental Music  
-> 아티스트: **Sad Instrumental Piano Music Zone**  
-> 앨범: _Sad Instrumental Music: Jazz Piano Moods, Sentimental Journey for Broken Heart, Music That Will Make You Cry, Sad Love Songs for Melancholic Evening with Glass of Wine, Sad Life & Sad Story_  
+## 🎧 Get Happy / Happy Days Are Here Again (feat. Barbra Streisand) [Live]  
+> 아티스트: **Judy Garland**  
+> 앨범: _That Old Feeling: Classic Ballads From the Judy Garland Show (Live)_  
 
-🔍 검색 키워드: `instrumental+sad`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `ballad+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sad-instrumental-music/1147986157?i=1147986302&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/40/63/98406364-3a3d-0c87-af2c-82bfe274f684/mzaf_6701802142764261368.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/get-happy-happy-days-are-here-again-feat-barbra-streisand/1453135599?i=1453136066&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/fb/3c/05fb3c5c-ecb9-d069-9c11-cab3f89247b1/mzaf_14308266854149559832.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ce/aa/3f/ceaa3f0f-9ef9-c529-1d18-aa864c710e0c/8134130350055.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/db/e3/e3dbe3c8-7ea6-539e-a75e-2034c6663186/00888072091528.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-23 07:28:27 (UTC)
+⏳ 업데이트 시간: 2025-12-23 08:36:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
