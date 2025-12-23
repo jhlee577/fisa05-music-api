@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Sad  
-> 아티스트: **LoFi Cloud**  
-> 앨범: _LoFi Chill Vibes - EP_  
+## 🎧 Get Happy / Happy Days Are Here Again (feat. Barbra Streisand) [Live]  
+> 아티스트: **Judy Garland**  
+> 앨범: _That Old Feeling: Classic Ballads From the Judy Garland Show (Live)_  
 
-🔍 검색 키워드: `lofi+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-sad/1634477576?i=1634477578&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/4f/95/c8/4f95c8a6-dcbb-f81c-7729-d185f56dd9f2/mzaf_1243887859151520480.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/get-happy-happy-days-are-here-again-feat-barbra-streisand/1453135599?i=1453136066&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/fb/3c/05fb3c5c-ecb9-d069-9c11-cab3f89247b1/mzaf_14308266854149559832.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/33/d1/6f/33d16f06-b846-9735-0061-137c78356703/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/db/e3/e3dbe3c8-7ea6-539e-a75e-2034c6663186/00888072091528.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-23 11:24:07 (UTC)
+⏳ 업데이트 시간: 2025-12-23 12:55:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
