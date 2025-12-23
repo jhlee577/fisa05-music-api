@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Summer  
-> 아티스트: **DmytroMusic**  
-> 앨범: _Milestones_  
+## 🎧 HOPE  
+> 아티스트: **NF**  
+> 앨범: _HOPE_  
 
-🔍 검색 키워드: `acoustic+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `instrumental+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/acoustic-summer/1762310169?i=1762310287&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/b6/df/23b6df7d-6d1b-0c9c-94fa-f9842f4a15d8/mzaf_15652613694169982581.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1670412644?i=1670412645&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/41/64/d8/4164d8c6-934f-dab4-d091-cf84bddf06a1/mzaf_14539574139523582854.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/7c/e6/967ce6dc-17d5-5804-2408-bc92f595243f/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-23 05:29:28 (UTC)
+⏳ 업데이트 시간: 2025-12-23 06:41:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
