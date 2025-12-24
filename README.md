@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Bad Habits  
-> 아티스트: **Ed Sheeran**  
-> 앨범: _RnB Summer_  
+## 🎧 Pon de Replay  
+> 아티스트: **Rihanna**  
+> 앨범: _Music of the Sun_  
 
-🔍 검색 키워드: `rnb+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/bad-habits/1687252514?i=1687252855&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ca/d4/14/cad414ab-c496-9f12-ff01-4f3c7d36107d/mzaf_3039644176995656737.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/pon-de-replay/1440867092?i=1440867324&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/71/b8/0e71b840-af6b-5fb0-3b3c-324fa26c62ff/mzaf_2719173417825269311.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/74/be/2874bee5-f602-7818-eb40-de0e5777c53d/5059460195462.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/89/a4/2f89a4e5-83c4-7cc8-93d6-99b0d8283a1f/16UMGIM58839.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-24 09:29:43 (UTC)
+⏳ 업데이트 시간: 2025-12-24 10:27:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
