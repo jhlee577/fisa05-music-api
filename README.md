@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (feat. Prince Mydas)  
-> 아티스트: **Shaggy**  
-> 앨범: _Hot Shot_  
+## 🎧 Rain  
+> 아티스트: **Walter Wanderley**  
+> 앨범: _Rain Forest_  
 
-🔍 검색 키워드: `pop+hope`  
+🔍 검색 키워드: `jazz+rain`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope-feat-prince-mydas/1450651743?i=1450651835&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/df/44/13df44a4-2f5c-06ab-51ff-c714bde3e2fd/mzaf_8612039879280178541.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/1434902213?i=1434902222&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/13/ef/0513ef1b-20ce-f2a1-0446-ad64653db866/mzaf_7479349866227874096.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/fe/d1/b8fed1f1-b46e-e1c3-9ab9-b3076030226d/06UMGIM51751.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/70/03/ad7003e7-c115-c4dc-5aaf-c5af8239a03b/06UMGIM14020.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-25 14:25:19 (UTC)
+⏳ 업데이트 시간: 2025-12-25 15:26:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
