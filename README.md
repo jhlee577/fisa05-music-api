@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Don't Go  
-> 아티스트: **Skrillex, Justin Bieber & Don Toliver**  
-> 앨범: _Don't Go - Single_  
+## 🎧 Acoustic Happy  
+> 아티스트: **The Story Shop & Phil Larson**  
+> 앨범: _Meaningful Acoustic_  
 
-🔍 검색 키워드: `rnb+hope`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/dont-go/1581822386?i=1581822387&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a3/7d/61/a37d619b-32a3-1402-24ba-71887725fd70/mzaf_934856514302182725.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-happy/1647328011?i=1647328018&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/da/4b/4a/da4b4ae1-c5b4-9179-bbbf-e69d2ff4c212/mzaf_9660001520581656688.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/92/1b/85921b3c-03e7-1034-d822-44658cf0b918/075679783806.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/97/4d/2e/974d2ee6-d4ee-46c5-8f43-1dfe10c13388/198004627344.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-25 18:36:10 (UTC)
+⏳ 업데이트 시간: 2025-12-25 19:19:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
