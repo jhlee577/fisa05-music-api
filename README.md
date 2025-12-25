@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lose Control  
-> 아티스트: **Teddy Swims**  
-> 앨범: _I've Tried Everything But Therapy (Part 1)_  
+## 🎧 Lofi Summer Evening  
+> 아티스트: **Coffe Lofi, Lo-Fi Beats & Chill Hip-Hop Beats**  
+> 앨범: _Lofi Chill Beats, Vol. 2_  
 
-🔍 검색 키워드: `hiphop+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `lofi+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lose-control/1691699589?i=1691699836&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/4d/cc/1a4dccfd-ab4a-35ac-6477-45e33074f303/mzaf_17951172482135259186.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-summer-evening/1506628960?i=1506628966&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c7/45/47/c745476b-05c5-02e6-587d-a92d5f2cc761/mzaf_11931113844546387333.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7a/d1/56/7ad1563f-218b-dbaa-786f-2d290543e8e1/10475.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-25 04:01:00 (UTC)
+⏳ 업데이트 시간: 2025-12-25 05:29:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
