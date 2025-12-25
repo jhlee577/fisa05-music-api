@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 CAREFUL  
-> 아티스트: **NF & Cordae**  
-> 앨범: _HOPE_  
+## 🎧 Use Somebody  
+> 아티스트: **Kings of Leon**  
+> 앨범: _Only By the Night_  
 
-🔍 검색 키워드: `hiphop+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+hope`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/careful/1670412644?i=1670413042&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3a/59/7e/3a597e46-c703-a511-6db8-c907ebf20f29/mzaf_13454368329260169602.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/use-somebody/290302885?i=290303018&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ae/78/eb/ae78eb81-01e0-a02a-1442-eea0cff76f41/mzaf_17219616663227158625.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/74/25/4c/74254c8b-e03d-44e8-304d-4cde508b8cfb/dj.swemfdrr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-25 11:22:11 (UTC)
+⏳ 업데이트 시간: 2025-12-25 12:52:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
