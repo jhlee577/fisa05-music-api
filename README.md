@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Walter Wanderley**  
-> 앨범: _Rain Forest_  
+## 🎧 Instrumental Night  
+> 아티스트: **Sleeping Buddha Piano**  
+> 앨범: _Insomnia 2018 - 30 Songs to Improve Sleep and Manage Anxiety_  
 
-🔍 검색 키워드: `jazz+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/1434902213?i=1434902222&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/13/ef/0513ef1b-20ce-f2a1-0446-ad64653db866/mzaf_7479349866227874096.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/instrumental-night/1446266924?i=1446266938&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/43/88/424388a2-f27f-1895-8592-0793158b40c1/mzaf_12593872232774658732.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/70/03/ad7003e7-c115-c4dc-5aaf-c5af8239a03b/06UMGIM14020.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/20/0b/6f/200b6f1d-7b35-5f9a-5df3-e234fbbc975b/8033773001754.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-25 15:26:00 (UTC)
+⏳ 업데이트 시간: 2025-12-25 16:32:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
