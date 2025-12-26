@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Here With Me  
-> 아티스트: **d4vd**  
-> 앨범: _Here With Me - Single_  
+## 🎧 Dream  
+> 아티스트: **The Poles**  
+> 앨범: _We Get, The Same - EP_  
 
-🔍 검색 키워드: `ballad+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/here-with-me/1646547918?i=1646547919&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/87/a4/6d/87a46db4-922c-3aa9-9a2f-2535fc12589a/mzaf_7769359626653076385.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/dream/1505280169?i=1505280170&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/78/6c/6b786c8c-1c9d-d7cf-7516-2ba7b3dffeb1/mzaf_5610500202348987324.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/ad/38/90ad385f-2dba-8046-99d0-3ee71df77297/22UM1IM07351.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a2/2f/ae/a22fae3d-e968-c84e-a998-682a0a6749b1/8809712281637.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-26 13:36:00 (UTC)
+⏳ 업데이트 시간: 2025-12-26 14:25:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
