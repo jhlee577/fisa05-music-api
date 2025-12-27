@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Sunday Service Choir**  
-> 앨범: _Jesus Is Born_  
+## 🎧 Unstoppable  
+> 아티스트: **Sia**  
+> 앨범: _This Is Acting_  
 
-🔍 검색 키워드: `rnb+rain`  
+🔍 검색 키워드: `lofi+happy`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/1492874574?i=1492874578&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/b3/9b/34b39b88-5941-fcf8-03ad-cee4efa5a021/mzaf_8424401460098328268.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/unstoppable/1055074478?i=1055074639&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bd/e5/1d/bde51d50-f37e-e019-9c54-c32ef6ef7ca5/mzaf_5904004672690170514.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b5/5b/e9/b55be92b-e426-0d23-2e62-4126a0c3b582/748926808514_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bc/13/27/bc13275c-8b26-802d-771b-d15ae00fb530/mzm.hvpwjsvi.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-27 03:56:35 (UTC)
+⏳ 업데이트 시간: 2025-12-27 04:37:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
