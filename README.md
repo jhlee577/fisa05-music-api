@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Prom Night  
-> 아티스트: **Anamanaguchi**  
-> 앨범: _Endless Fantasy_  
+## 🎧 Rain  
+> 아티스트: **Sunday Service Choir**  
+> 앨범: _Jesus Is Born_  
 
-🔍 검색 키워드: `pop+night`  
+🔍 검색 키워드: `rnb+rain`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/prom-night/1651286026?i=1651286033&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8b/88/d6/8b88d6ef-765d-e16d-11dc-97a2b80dccf2/mzaf_1764794218261647130.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/1492874574?i=1492874578&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/b3/9b/34b39b88-5941-fcf8-03ad-cee4efa5a021/mzaf_8424401460098328268.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/a8/3f/e5a83f57-8803-b0f3-229d-89147592add0/644110040695.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b5/5b/e9/b55be92b-e426-0d23-2e62-4126a0c3b582/748926808514_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-27 02:01:17 (UTC)
+⏳ 업데이트 시간: 2025-12-27 03:56:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
