@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **수지 & 백현**  
-> 앨범: _Dream - Single_  
+## 🎧 On My Mind  
+> 아티스트: **Jorja Smith & Preditah**  
+> 앨범: _On My Mind - Single_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/dream/1788004747?i=1788004748&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/00/df/0900df5b-b5a8-678f-f9c4-1ba1e0750419/mzaf_9051671708096557097.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/on-my-mind/1266258609?i=1266258825&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/32/e4/5232e410-51c1-ef35-a806-7207b8c81a6c/mzaf_13270318903177361954.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/61/74/3761744e-2002-6740-4869-009d7ad42c13/8804775068294.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/a8/09/08a80958-0a17-03cb-a34b-f7315f452621/191773578589.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-28 05:29:42 (UTC)
+⏳ 업데이트 시간: 2025-12-28 06:38:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
