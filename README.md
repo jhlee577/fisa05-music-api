@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 On My Mind  
-> 아티스트: **Jorja Smith & Preditah**  
-> 앨범: _On My Mind - Single_  
+## 🎧 Rain  
+> 아티스트: **Madonna**  
+> 앨범: _Something to Remember_  
 
-🔍 검색 키워드: `rnb+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rock+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/on-my-mind/1266258609?i=1266258825&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/32/e4/5232e410-51c1-ef35-a806-7207b8c81a6c/mzaf_13270318903177361954.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/80815051?i=80815045&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/85/56/45/8556459f-6aa0-a09a-0f45-4748c0d4f8e5/mzaf_15621942216643584795.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/a8/09/08a80958-0a17-03cb-a34b-f7315f452621/191773578589.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9c/ab/cb/9cabcb8c-61be-b83d-ba42-43f950680725/mzi.ogaspvuv.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-28 06:38:14 (UTC)
+⏳ 업데이트 시간: 2025-12-28 07:25:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
