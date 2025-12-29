@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Dream  
-> 아티스트: **Oxford Study Song**  
-> 앨범: _Liquid Regeneration Wonderful Soundscapes, Inspirational Well Being, Water Sounds, Relaxing Music, Soothing Harmony_  
+## 🎧 Like a Prayer  
+> 아티스트: **Madonna**  
+> 앨범: _Like a Prayer_  
 
-🔍 검색 키워드: `instrumental+dream`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/instrumental-dream/1316142473?i=1316142487&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/99/bb/a9/99bba980-ec55-3092-cae3-d9106c85803e/mzaf_12369211535394402283.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/like-a-prayer/83448003?i=83445997&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/23/82/0b238289-52e2-2107-5531-181836267ed2/mzaf_6726729811402686020.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7f/ba/77/7fba77b1-e05a-50eb-2fd8-ab9a14342256/8033772907460.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/3c/f5/203cf53d-689e-528f-29d7-ba33758254aa/mzi.rotbotfl.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-29 06:43:17 (UTC)
+⏳ 업데이트 시간: 2025-12-29 07:30:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
