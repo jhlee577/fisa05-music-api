@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (feat. Winona Oak)  
-> 아티스트: **The Chainsmokers**  
-> 앨범: _Sick Boy_  
+## 🎧 Instrumental Dream  
+> 아티스트: **Oxford Study Song**  
+> 앨범: _Liquid Regeneration Wonderful Soundscapes, Inspirational Well Being, Water Sounds, Relaxing Music, Soothing Harmony_  
 
-🔍 검색 키워드: `instrumental+hope`  
+🔍 검색 키워드: `instrumental+dream`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope-feat-winona-oak/1445725433?i=1445725437&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/b3/b9/30b3b9f2-e4e0-cc60-d105-ec57c903b867/mzaf_9226401650759846361.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/instrumental-dream/1316142473?i=1316142487&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/99/bb/a9/99bba980-ec55-3092-cae3-d9106c85803e/mzaf_12369211535394402283.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/24/e1/6324e131-0034-4753-9cc6-ade1da39a4a8/886447471074.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7f/ba/77/7fba77b1-e05a-50eb-2fd8-ab9a14342256/8033772907460.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-29 05:33:54 (UTC)
+⏳ 업데이트 시간: 2025-12-29 06:43:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
