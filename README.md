@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HaPpY (HAN)  
-> 아티스트: **Stray Kids & HAN**  
-> 앨범: _SKZ-REPLAY_  
+## 🎧 Down On Me (feat. 50 Cent)  
+> 아티스트: **Jeremih**  
+> 앨범: _All About You (Deluxe Edition)_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-han/1657537947?i=1657539388&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/57/8f/ec/578fece6-8baf-ae9a-177e-4259d9e287ac/mzaf_4087856100540560397.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/down-on-me-feat-50-cent/1440769376?i=1440769834&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/94/dc/3a94dc97-0bb2-2e5c-d38c-17662d5e88a7/mzaf_4280964588902773471.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b8/74/c0/b874c02b-4014-56cd-8a6c-ba456bd7cba7/738676860429_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/da/e3/4edae341-488b-a5c0-bcd3-0b047508124e/10UMGIM24508.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-29 19:20:10 (UTC)
+⏳ 업데이트 시간: 2025-12-29 20:30:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
