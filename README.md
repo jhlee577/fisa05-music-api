@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Leona Lewis**  
-> 앨범: _Echo_  
+## 🎧 행복은 도피여야 해  
+> 아티스트: **유라**  
+> 앨범: _행복은 도피여야 해 - Single_  
 
-🔍 검색 키워드: `pop+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/659376610?i=659376704&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fb/ad/b0/fbadb05f-caaa-f1f7-5c9f-2f37bc1fb2ac/mzaf_15967762204283257776.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%ED%96%89%EB%B3%B5%EC%9D%80-%EB%8F%84%ED%94%BC%EC%97%AC%EC%95%BC-%ED%95%B4/1515090606?i=1515090607&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3b/3e/a0/3b3ea064-11de-8dbe-6c1f-1c73307f01a4/mzaf_3990159611323865602.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/10/f1/0e/10f10ea1-8edc-fc26-ad65-7d8885200e8a/884977424928.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/7f/3c/f77f3c2e-39ac-77e1-a301-d6ef90a53a2a/191953080130.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-30 12:55:30 (UTC)
+⏳ 업데이트 시간: 2025-12-30 13:39:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
