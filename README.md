@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **The Williams Brothers & Andy Williams**  
-> 앨범: _The Wonderful World of Andy Williams_  
+## 🎧 Lofi Dream  
+> 아티스트: **Dyalla**  
+> 앨범: _Video Music, Mega Mix, Vol. 2_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/775432932?i=775432937&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/33/5c/f2/335cf255-ad4c-8bfa-5207-9ada10f92f9b/mzaf_400333007546517473.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-dream/1818268629?i=1818268888&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/34/a9/d634a9c3-61e8-b5ac-7519-c7ea287fa9c3/mzaf_902426845281990804.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/c2/56/62/c25662e1-b883-60f0-9ad4-338114ba9ea0/886444353458.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c7/69/f9c7691a-18f7-df47-88c6-1579404ce1c3/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-31 05:30:13 (UTC)
+⏳ 업데이트 시간: 2025-12-31 06:41:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
