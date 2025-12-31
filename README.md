@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Rain  
-> 아티스트: **Chilled Cougar & LoFi Waiter**  
-> 앨범: _Lofi Rain - Single_  
+## 🎧 Healing Music to Induce Sleep for Those Who Can't Sleep At Night.Recover from Fatigue With a Short Sleep. (Rain for Sleep That Regulates the Autonomic Nervous System)  
+> 아티스트: **Sleepy Nuts**  
+> 앨범: _Workday Flow Lofi Jazz Rain_  
 
-🔍 검색 키워드: `lofi+rain`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-rain/1536556747?i=1536556748&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/a6/98/94a698b1-17ab-b922-17b5-ceb8eb3602ff/mzaf_9376077517614812060.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/healing-music-to-induce-sleep-for-those-who-cant-sleep/1837649822?i=1837650259&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/43/ca/5643caed-f65b-d4e8-a761-da44c9ef4742/mzaf_15418458394714061360.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/86/3f/63863f78-a6ce-d515-888f-bc233bd2a6ec/1792.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/76/da/6e76da50-362c-ea63-1a1a-e28dc1061d89/4550712444280_cover.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-31 18:36:37 (UTC)
+⏳ 업데이트 시간: 2025-12-31 19:20:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
