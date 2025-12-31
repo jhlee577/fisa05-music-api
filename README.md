@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Night  
-> 아티스트: **Busker Busker**  
-> 앨범: _Busker Busker 2nd_  
+## 🎧 Kaleidoscope Dream  
+> 아티스트: **Miguel**  
+> 앨범: _Kaleidoscope Dream_  
 
-🔍 검색 키워드: `kpop+night`  
+🔍 검색 키워드: `rnb+dream`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/night/1618212273?i=1618212713&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/1a/59/42/1a5942ec-a575-d253-3ab7-733ff7b97da3/mzaf_8601701041302432476.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/kaleidoscope-dream/561709112?i=561709118&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/30/f8/d430f87c-55b9-a92c-17e3-2ffcce1536bb/mzaf_2517411318727659222.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/be/52/71/be52719b-1d92-637d-c31f-b439b2d516d2/8809388742104_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/56/ac/a156acb2-068e-a616-3e56-86ca656c14ce/886443632943.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-31 10:28:13 (UTC)
+⏳ 업데이트 시간: 2025-12-31 11:23:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
