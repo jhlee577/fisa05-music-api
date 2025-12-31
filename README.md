@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 O Holy Night  
-> 아티스트: **Mariah Carey**  
-> 앨범: _Merry Christmas_  
+## 🎧 그건 아마 우리의 잘못은 아닐 거야  
+> 아티스트: **백예린**  
+> 앨범: _Our love is great_  
 
-🔍 검색 키워드: `rnb+night`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/o-holy-night/585972750?i=585972805&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e3/05/e0/e305e0aa-dcf3-117a-1381-a973f6bcb91b/mzaf_2521067318343676317.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%B7%B8%EA%B1%B4-%EC%95%84%EB%A7%88-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%80-%EC%95%84%EB%8B%90-%EA%B1%B0%EC%95%BC/1456221391?i=1456221393&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/93/3e/9d933eb6-6902-4ea6-e6a2-d4dfdfa81f60/mzaf_12930430016126812943.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7e/7f/a1/7e7fa149-6db3-9c0c-bb14-47e6f346e31b/Our_love_is_great_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-31 21:23:48 (UTC)
+⏳ 업데이트 시간: 2025-12-31 22:26:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
