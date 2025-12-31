@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 그건 아마 우리의 잘못은 아닐 거야  
-> 아티스트: **백예린**  
-> 앨범: _Our love is great_  
+## 🎧 no tears left to cry  
+> 아티스트: **Ariana Grande**  
+> 앨범: _Sweetener_  
 
-🔍 검색 키워드: `rnb+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `ballad+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%B7%B8%EA%B1%B4-%EC%95%84%EB%A7%88-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%80-%EC%95%84%EB%8B%90-%EA%B1%B0%EC%95%BC/1456221391?i=1456221393&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/93/3e/9d933eb6-6902-4ea6-e6a2-d4dfdfa81f60/mzaf_12930430016126812943.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/no-tears-left-to-cry/1399202539?i=1399202959&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/aa/11/46aa1107-899f-911c-0591-55f7241b76d7/mzaf_6615642535700547239.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7e/7f/a1/7e7fa149-6db3-9c0c-bb14-47e6f346e31b/Our_love_is_great_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/aa/71/7eaa717a-857e-6d7a-c03c-8d67b3719706/18UMGIM36924.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-31 22:26:02 (UTC)
+⏳ 업데이트 시간: 2025-12-31 23:24:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
