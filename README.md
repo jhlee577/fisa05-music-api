@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Rain  
-> 아티스트: **Moonlight Richards**  
-> 앨범: _Sad Music for Sad Moments - Instrumental Mood Music and New Age Songs that Make you Cry with Rain Sound Effect_  
+## 🎧 나였으면  
+> 아티스트: **나윤권 & 도경수**  
+> 앨범: _나였으면 - Single_  
 
-🔍 검색 키워드: `instrumental+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `ballad+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/instrumental-rain/926895111?i=926895223&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5d/e1/50/5de150a3-f0c3-7e61-b790-922339008105/mzaf_13686605608193734592.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%82%98%EC%98%80%EC%9C%BC%EB%A9%B4/1850613155?i=1850613156&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/33/01/28/33012892-8d62-8e02-c055-9ac66cae7700/mzaf_8400688020058257870.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/b8/5c/7b/b85c7b79-8331-3aa0-7ca0-5f0aebcc12d7/Sad_Music_for_Sad_Moments.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/32/84/19328421-3915-d4b8-9941-78ba70896c86/cover_KM0023765_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2025-12-30 23:23:58 (UTC)
+⏳ 업데이트 시간: 2025-12-31 02:05:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
