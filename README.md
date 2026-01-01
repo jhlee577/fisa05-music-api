@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Moth To A Flame  
-> 아티스트: **Swedish House Mafia & The Weeknd**  
-> 앨범: _Moth To A Flame - Single_  
+## 🎧 SAD (feat. Kofi Mole)  
+> 아티스트: **Quamina Mp**  
+> 앨범: _BONGO - Single_  
 
 🔍 검색 키워드: `hiphop+sad`  
-🌎 국가 스토어: `GB`
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/moth-to-a-flame/1590610692?i=1590610710&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/a8/64/39a86464-6efc-4607-985d-d5a2edeffeca/mzaf_8963470893451869693.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/sad-feat-kofi-mole/1544743434?i=1544743435&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ce/15/54/ce1554ae-8b4b-ca1e-1779-0a8593f1aa1e/mzaf_5093262032148793647.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/56/e7/2f56e79c-fdaa-c0d5-545e-9942e54301c3/21UM1IM29516.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/34/cc/7c/34cc7cb3-37ee-c3f8-dd75-904f6f3dc081/5059449005959.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-01 09:30:33 (UTC)
+⏳ 업데이트 시간: 2026-01-01 10:28:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
