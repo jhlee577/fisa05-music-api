@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Birthday  
-> 아티스트: **JONGHYUN**  
-> 앨범: _JONGHYUN The Collection 'Story Op.1'_  
+## 🎧 ゆめ  
+> 아티스트: **Instrumental Fountain**  
+> 앨범: _癒しの音楽 第2部_  
 
-🔍 검색 키워드: `ballad+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-birthday/1039754464?i=1039754537&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/4d/f1/594df161-26f7-e65c-b25c-0aa7cf68b512/mzaf_12716710760540764865.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%82%86%E3%82%81/1507925866?i=1507926275&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4c/2e/85/4c2e8598-7b00-f4db-5a30-aa21c7797ed1/mzaf_5333446675992719792.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/47/66/b5/4766b583-abe2-1a7a-7d05-9664d8763031/2342423.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2d/96/1e/2d961e9b-8109-b661-51d2-fa567c1ffa5d/859755617625_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-01 17:24:10 (UTC)
+⏳ 업데이트 시간: 2026-01-01 18:36:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
