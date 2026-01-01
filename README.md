@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Sananda Maitreya**  
-> 앨범: _Introducing The Hardline According To Sananda Maitreya_  
+## 🎧 Happy Birthday  
+> 아티스트: **JONGHYUN**  
+> 앨범: _JONGHYUN The Collection 'Story Op.1'_  
 
-🔍 검색 키워드: `rock+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `ballad+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/250551726?i=250551885&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9b/cb/8a/9bcb8af1-7b85-3b73-bc23-36c1f11c1c72/mzaf_84951535280183926.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-birthday/1039754464?i=1039754537&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/59/4d/f1/594df161-26f7-e65c-b25c-0aa7cf68b512/mzaf_12716710760540764865.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/39/2a/7e392a35-b671-5bf0-3b6a-b1557677fe78/5099745091126.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/47/66/b5/4766b583-abe2-1a7a-7d05-9664d8763031/2342423.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-01 16:33:11 (UTC)
+⏳ 업데이트 시간: 2026-01-01 17:24:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
