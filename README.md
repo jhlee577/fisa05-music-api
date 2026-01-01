@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Photograph  
-> 아티스트: **Ed Sheeran**  
-> 앨범: _x (Deluxe Edition)_  
+## 🎧 The Ballad of the Sad Young Men  
+> 아티스트: **Steve Lawrence**  
+> 앨범: _Sings of Love and Sad Young Men / Portrait of Steve_  
 
-🔍 검색 키워드: `rock+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/photograph/858512317?i=858512630&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/9e/81/3e9e8183-6e71-dcd0-05aa-83cb5d020fe8/mzaf_6767128908507599726.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/the-ballad-of-the-sad-young-men/1474834394?i=1474834543&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/f5/dc/f9/f5dcf947-ce00-a8dd-1839-88d8e373e853/mzaf_11372250850226205202.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/58/a2/fa/58a2fa39-e090-78ae-ad6c-870ad1dfd276/dj.xcygdfkl.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cf/91/06/cf9106ee-3361-5be7-deda-49b219c16dfd/848064007999.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-01 07:27:38 (UTC)
+⏳ 업데이트 시간: 2026-01-01 08:35:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
