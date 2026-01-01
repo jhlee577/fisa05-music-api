@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Erykah Badu**  
-> 앨범: _New Amerykah, Pt. 2: Return of the Ankh_  
+## 🎧 The Ballad Of The Sad Young Men  
+> 아티스트: **Anita O'Day & The Gary McFarland Orchestra**  
+> 앨범: _All the Sad Young Men_  
 
-🔍 검색 키워드: `hiphop+love`  
+🔍 검색 키워드: `ballad+sad`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love/1440764608?i=1440765090&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/95/4d/39/954d3927-57e4-b4f7-973e-4781a00cd52b/mzaf_9825854378860340166.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/the-ballad-of-the-sad-young-men/1496688853?i=1496689007&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/50/a3/d950a3dc-1c96-35cf-d752-ac38e8ab3308/mzaf_267214962590824566.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/64/27/c7642714-7f61-74c4-3109-246bd790befe/10UMGIM06657.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/30/f4/44/30f44409-4729-3aff-3ff3-edebb0eeab1b/20UMGIM05607.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-01 19:21:14 (UTC)
+⏳ 업데이트 시간: 2026-01-01 20:29:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
