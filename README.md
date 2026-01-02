@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 I Love Rock 'N' Roll (2009 Remaster)  
-> 아티스트: **Britney Spears**  
-> 앨범: _The Singles Collection (Deluxe Version)_  
+## 🎧 Lofi Dream  
+> 아티스트: **Nova Night & Mondo Loops**  
+> 앨범: _Lofi Dream - Single_  
 
-🔍 검색 키워드: `rock+love`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/i-love-rock-n-roll-2009-remaster/337999549?i=337999723&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/6a/7a/eb6a7abe-f8d7-825d-194b-97172603ce01/mzaf_10789777843157408539.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-dream/1741241664?i=1741241665&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/15/f3/8915f33f-fdb4-0bca-dff0-b5fcd3a85710/mzaf_8335463299888527087.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/64/55/8c645545-fb91-7133-2cd8-a62b909c7f4b/dj.ktfmmnjq.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/99/d8/6799d8f6-e69e-6c90-a933-d614353054fe/7c7e4ae0-732b-49bd-b7a4-50c9c42d052c.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-01 23:25:05 (UTC)
+⏳ 업데이트 시간: 2026-01-02 02:07:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
