@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 La Vie En Rose  
-> 아티스트: **Laura Fygi**  
-> 앨범: _Jazz Love_  
+## 🎧 Late Night Talking  
+> 아티스트: **Harry Styles**  
+> 앨범: _Harry's House_  
 
-🔍 검색 키워드: `jazz+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/la-vie-en-rose/1443202285?i=1443202363&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/79/56/ec/7956ec7b-b4b6-437f-5938-5ec802d3febd/mzaf_14632375815893236709.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/late-night-talking/1615584999?i=1615585006&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/a2/04/e3a204b5-c3f6-f49d-a97c-4472f8b045d7/mzaf_18322387550227682410.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/88/ff/23/88ff23eb-7e4b-6d36-0531-1b8ba934be94/00602557190823.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-02 14:26:31 (UTC)
+⏳ 업데이트 시간: 2026-01-02 15:27:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
