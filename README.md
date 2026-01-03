@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Love (Instrumental)  
-> 아티스트: **비트 팩토리**  
-> 앨범: _Hip Hop Instrumental, Vol. 16_  
+## 🎧 HAPPY  
+> 아티스트: **三代目 J SOUL BROTHERS from EXILE TRIBE**  
+> 앨범: _FUTURE_  
 
-🔍 검색 키워드: `jazz+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/jazz-love-instrumental/1498554735?i=1498554736&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/8f/65/b9/8f65b9ce-ee88-090b-527e-06ebf5771334/mzaf_9740554857556336275.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1385502809?i=1385502815&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/a5/ff/40a5ff6a-a058-c270-3714-a0d40d29ddc5/mzaf_3209401279927847772.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/63/d9/02/63d902e3-5991-b3eb-bc60-2116002ea934/8809717437374.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/43/28/2e432864-f25b-285f-8d9c-91c91e77f60a/RZCD-86589.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-03 08:33:07 (UTC)
+⏳ 업데이트 시간: 2026-01-03 09:26:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
