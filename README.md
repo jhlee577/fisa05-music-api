@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **2NE1**  
-> 앨범: _Crush_  
+## 🎧 Hope  
+> 아티스트: **Yiruma**  
+> 앨범: _Yiruma Official Album 'Womb Tunes for a Baby' (The Original Compilation)_  
 
-🔍 검색 키워드: `kpop+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+hope`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy/1317764593?i=1317765253&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/a1/d0/d4a1d07c-9473-cc5f-8093-efa96da2a3f5/mzaf_2935952554729768470.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1442474491?i=1442474500&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/65/86/1e6586db-f791-db70-2980-97bc3e2d51c7/mzaf_9335118485532528275.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/90/c0/d4/90c0d401-f1d2-6540-ea9a-e2ada5ce25e5/2NE1_NEW_ALBUM_Digital_Single.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/72/74/de7274cd-edd6-4850-528a-c8e13ec24806/3000.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-03 16:31:09 (UTC)
+⏳ 업데이트 시간: 2026-01-03 17:22:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
