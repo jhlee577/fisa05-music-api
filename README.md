@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Dream  
-> 아티스트: **Jazz Instrumental Music Academy**  
-> 앨범: _The World of Jazz – Smooth Jazz Music, Relaxing Jazz Collection, Modern Jazz Relaxation, Cool Jazz Music_  
+## 🎧 Sad (Beat Instrumental)  
+> 아티스트: **Lofi Hip-Hop Beats, Beats De Rap & Lo-Fi Beats**  
+> 앨범: _Lo-Fi Hip Hop Beats_  
 
-🔍 검색 키워드: `jazz+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `instrumental+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/jazz-dream/1211182509?i=1211182972&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/61/d3/58/61d358d1-dfea-d042-51a1-8431f5fa15e5/mzaf_18412094854139981894.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sad-beat-instrumental/1480996816?i=1480997032&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/19/1f/06191f3c-8743-7d71-6ae5-30816e9c577c/mzaf_15212736669934618805.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/4a/69/82/4a6982c7-3acf-ac62-cf46-ff1fa18f861c/8176930235460.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3d/51/ed/3d51ed7e-155f-d5a3-802b-f19ef936818a/6382.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-04 04:13:12 (UTC)
+⏳ 업데이트 시간: 2026-01-04 05:30:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
