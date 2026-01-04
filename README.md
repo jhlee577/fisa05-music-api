@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Rain  
-> 아티스트: **Rain Sounds**  
-> 앨범: _Rain Sounds of Borneo_  
+## 🎧 Ballad Night (feat. Belinda Butcher)  
+> 아티스트: **Collapsed Lung feat. Belinda Butcher**  
+> 앨범: _Cooler_  
 
-🔍 검색 키워드: `lofi+rain`  
+🔍 검색 키워드: `ballad+night`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-rain/1602240125?i=1602240441&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a4/7d/5b/a47d5b03-46a6-bc4c-e350-5f90afa3f784/mzaf_14685123076031949906.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-night-feat-belinda-butcher/265101063?i=265101195&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/68/77/10/68771049-0be3-1a21-0a18-616700c47596/mzaf_14211765659127666698.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/25/ec/6f25ec5e-652e-e3e9-79a4-8c9a0eee79da/cover_10214100.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/ee/7c/b4ee7cc6-9270-a6de-f0e8-8495b189ce99/mzi.hdcykkrd.tif/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-04 07:26:09 (UTC)
+⏳ 업데이트 시간: 2026-01-04 08:34:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
