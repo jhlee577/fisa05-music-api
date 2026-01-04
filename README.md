@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **DRKTMS & Milesikco**  
-> 앨범: _Before They Love Us_  
+## 🎧 Lofi Rain  
+> 아티스트: **Rain Sounds**  
+> 앨범: _Rain Sounds of Borneo_  
 
-🔍 검색 키워드: `jazz+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1587373079?i=1587373483&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/27/bd/6a27bd49-a87f-8455-e586-87eb4c38c672/mzaf_4386070118032263111.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-rain/1602240125?i=1602240441&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a4/7d/5b/a47d5b03-46a6-bc4c-e350-5f90afa3f784/mzaf_14685123076031949906.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/b4/56/b8b45668-f16f-b4ca-95cf-9584d4a1a867/5056495285854_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/25/ec/6f25ec5e-652e-e3e9-79a4-8c9a0eee79da/cover_10214100.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-04 06:39:06 (UTC)
+⏳ 업데이트 시간: 2026-01-04 07:26:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
