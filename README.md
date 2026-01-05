@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Dream  
-> 아티스트: **Maya Nancy**  
-> 앨범: _Fast Asleep: Soft Instrumental Music for Perfectly Rested Mind & Body_  
+## 🎧 Rain (Instrumental)  
+> 아티스트: **Issues**  
+> 앨범: _Beautiful Oblivion (Instrumental)_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/acoustic-dream/1400332386?i=1400332566&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d7/47/4b/d7474bfb-a25e-2583-d443-1c61051ccc1e/mzaf_10017739671328220997.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain-instrumental/1539393791?i=1539393799&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/56/28/43/562843ae-bc34-41ed-9235-f491a171a384/mzaf_3907057258354327571.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/aa/ee/e2aaee58-3986-92f5-f7bb-7a4420acfdd8/8033772971485.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/47/f2/0a47f2b7-8cf1-a695-d57a-c3128b82e288/4050538658491.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-05 21:26:33 (UTC)
+⏳ 업데이트 시간: 2026-01-05 22:26:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
