@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love Me Harder  
-> 아티스트: **アリアナ・グランデ & ザ・ウィークエンド**  
-> 앨범: _My Everything (Japanese Deluxe Edition)_  
+## 🎧 Happy  
+> 아티스트: **Brandy**  
+> 앨범: _Never Say Never_  
 
-🔍 검색 키워드: `ballad+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love-me-harder/1440859339?i=1440859775&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/91/53/b491530f-fc2a-382e-42af-d7db61abaf03/mzaf_10122386390757555883.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/20913004?i=20913117&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/6b/1d/5f6b1d17-8b16-00e4-d889-3e3c42f9d07d/mzaf_15543250240812522072.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a4/0b/bb/a40bbba8-91de-669d-f6d5-628984bb715b/14UMGIM28137.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b1/52/c5/b152c569-f81f-4005-7b61-5b54b855564d/s06.hfdwpdak.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-05 11:24:38 (UTC)
+⏳ 업데이트 시간: 2026-01-05 12:58:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
