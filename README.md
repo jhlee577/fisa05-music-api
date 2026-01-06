@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 lofi rain  
-> 아티스트: **a girl and a cat**  
-> 앨범: _lofi study 2021 - EP_  
+## 🎧 Pop Love (feat. Badseoungboy)  
+> 아티스트: **Syouma**  
+> 앨범: _Pop Love (feat. Badseoungboy) - Single_  
 
-🔍 검색 키워드: `lofi+rain`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-rain/1546062891?i=1546062893&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/2f/9d/83/2f9d8351-2aa1-c686-92b5-60bbcd773d47/mzaf_5924531274331352463.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/pop-love-feat-badseoungboy/1605366498?i=1605366501&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bb/92/0c/bb920c16-c1e7-3c7e-0fa9-22e1a710cede/mzaf_9252653662353180878.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/76/01/c776016a-4c8c-2d8a-f655-07eef902c266/3701421589897.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/65/a2/2165a292-a703-6b80-bae6-ff46af32862e/859757811519_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-06 04:03:37 (UTC)
+⏳ 업데이트 시간: 2026-01-06 05:30:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
