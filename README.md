@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HaPpY (HAN)  
-> 아티스트: **Stray Kids**  
-> 앨범: _SKZ-REPLAY_  
+## 🎧 Happy Lofi  
+> 아티스트: **Lavish & Chill Ghost**  
+> 앨범: _Happy Lofi - Single_  
 
-🔍 검색 키워드: `kpop+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy-han/1660554454?i=1660554544&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7b/10/94/7b1094cf-198a-e129-cee7-4836d5bd2cdd/mzaf_10602462422041978115.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-lofi/1735603214?i=1735603216&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/57/57/a9/5757a9d2-44f3-da00-66da-4f6bcade2f4b/mzaf_4627786038684964186.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7b/b3/4e/7bb34efb-6a38-613e-f939-ab6a3f07c0a8/4547366603460.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/77/21/247721eb-26a3-b360-5e62-65026feccb26/1963621886738_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-06 12:56:02 (UTC)
+⏳ 업데이트 시간: 2026-01-06 13:41:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
