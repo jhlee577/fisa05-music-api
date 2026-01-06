@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Joker (feat. JAMIE)  
-> 아티스트: **BIG Naughty**  
-> 앨범: _Bucket List_  
+## 🎧 lofi rain  
+> 아티스트: **a girl and a cat**  
+> 앨범: _lofi study 2021 - EP_  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/joker-feat-jamie/1555432896?i=1555432897&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/28/5d/eb285d04-5e7e-f751-2d7a-6883fb834313/mzaf_2267773480640756708.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-rain/1546062891?i=1546062893&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/2f/9d/83/2f9d8351-2aa1-c686-92b5-60bbcd773d47/mzaf_5924531274331352463.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/13/c7/7e13c7b4-dc9f-7c32-802d-c4b38efc5bb9/07._BIG_Naughty_EP_Bucket_List.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/76/01/c776016a-4c8c-2d8a-f655-07eef902c266/3701421589897.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-06 02:06:42 (UTC)
+⏳ 업데이트 시간: 2026-01-06 04:03:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
