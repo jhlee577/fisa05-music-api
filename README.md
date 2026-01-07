@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **LoFi Hip Hop**  
-> 앨범: _Chill Study Beats_  
+## 🎧 Just You and I  
+> 아티스트: **Tom Walker**  
+> 앨범: _Just You and I - Single_  
 
-🔍 검색 키워드: `lofi+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1487875150?i=1487875159&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9e/83/d1/9e83d155-37f3-6eb0-c757-334cc1443a98/mzaf_815913555218092660.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/just-you-and-i/1448281735?i=1448281737&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/03/f7/c1/03f7c12f-d9f1-3b61-32d5-9819d16d89c9/mzaf_11722522864674699545.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/10/80/6d1080b9-f527-8b44-b84a-e6ee33eb729d/7243.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/e4/3f/4de43f6c-c824-2dfc-a83c-45b5dfc57705/886447501542.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-07 19:25:00 (UTC)
+⏳ 업데이트 시간: 2026-01-07 20:31:20 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
