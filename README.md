@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Summer  
-> 아티스트: **Jazz Instrumental Relax Center**  
-> 앨범: _Lovely Breakfast Jazz & Long Coffee Breaks: Juicy Slow Jazz_  
+## 🎧 予感  
+> 아티스트: **とた**  
+> 앨범: _予感 - Single_  
 
-🔍 검색 키워드: `acoustic+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/acoustic-summer/1700638799?i=1700638802&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/37/0c/3f/370c3f48-5fc6-1071-d5ba-c72a3ea6ebe5/mzaf_8332248884034613816.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E4%BA%88%E6%84%9F/1803513388?i=1803513389&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/fb/7e/7ffb7ebf-9b43-a171-1281-d74129ac645a/mzaf_14972964855263201580.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/f6/cf/73f6cf13-cebe-3ea7-af54-db75a691134d/5904195934339.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/7f/3a/897f3a81-18a3-9eab-3b45-fa930b82395d/PCSP_06391_A.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-08 06:41:38 (UTC)
+⏳ 업데이트 시간: 2026-01-08 07:29:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
