@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Visiting Hours  
-> 아티스트: **Ed Sheeran**  
-> 앨범: _=_  
+## 🎧 Rain  
+> 아티스트: **Senri Oe**  
+> 앨범: _1 2 3 4_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `jazz+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/visiting-hours/1581087024?i=1581087760&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/ea/6a/54ea6abc-74c8-49a6-dba3-b7a92b846ead/mzaf_4097476290466046836.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1536892724?i=1536892731&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ef/a6/71/efa671ef-d94e-e50e-1a1d-9149e3831653/mzaf_42760632505619860.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/d8/c6/c5d8c675-63e3-6632-33db-2401eabe574d/190296491412.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/b4/c9/38b4c920-6243-402e-57a7-8da78acf768e/4582290392950.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-08 21:27:20 (UTC)
+⏳ 업데이트 시간: 2026-01-08 22:26:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
