@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad of the Sad Cafe  
-> 아티스트: **Chris Connor**  
-> 앨범: _Sings Ballads of the Sad Cafe_  
+## 🎧 Lofi Rain  
+> 아티스트: **Lo-Fi Beats, Lofi Hip-Hop Beats & Lofi Sleep Chill & Study**  
+> 앨범: _Chill Music Instrumentals_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad-of-the-sad-cafe/68237278?i=68236611&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6d/79/74/6d797417-d907-3201-9ee2-0d5a4c336918/mzaf_5258027438723378818.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-rain/1746058797?i=1746058826&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/ee/0e/77ee0e5d-b3e6-7177-3dbd-269fab32c7a3/mzaf_3933354595179480559.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d02/h07/s05.uurvgbpu.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/60/bc/a360bc61-4896-72dd-ac21-14ec93fd9c50/5056760572795.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-08 19:24:18 (UTC)
+⏳ 업데이트 시간: 2026-01-08 20:30:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
