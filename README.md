@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM (Korean Ver.)  
-> 아티스트: **SEVENTEEN**  
-> 앨범: _SEVENTEEN BEST ALBUM ‘17 IS RIGHT HERE’_  
+## 🎧 Every Breath You Take  
+> 아티스트: **The Police**  
+> 앨범: _The Very Best of Sting & The Police_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream-korean-ver/1742910872?i=1742911021&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/8b/da/fb8bdac5-e6b1-cb27-be87-3c68dedea18f/mzaf_12404635054603181338.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/every-breath-you-take/1440882817?i=1440882897&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/7e/4f/f37e4f0e-4979-c096-6fa0-7ffc054d0c73/mzaf_8433816559382260848.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/fa/b9/a7fab907-4f64-45e8-076a-96bbb305a901/24UMGIM43598.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-09 21:26:16 (UTC)
+⏳ 업데이트 시간: 2026-01-09 22:26:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
