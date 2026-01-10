@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Ballad in Dark Castle  
-> 아티스트: **Felix Stille**  
-> 앨범: _Medieval Tavern_  
+## 🎧 Love Ballad  
+> 아티스트: **George Duke**  
+> 앨범: _Night After Night_  
 
-🔍 검색 키워드: `ballad+happy`  
+🔍 검색 키워드: `ballad+night`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy-ballad-in-dark-castle/1525498966?i=1525498969&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/e5/cf/60e5cf0c-a5e6-165c-fb1f-5ecbd467ca43/mzaf_9520191487175997074.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love-ballad/553927613?i=553927616&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/97/d4/fd/97d4fd72-b0a6-7659-219b-8372939e1ca5/mzaf_5123036212346400956.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/d7/0e/9bd70efa-63ce-089f-bd3a-a5a5f3a39fff/5060642754599.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ed/e1/42/ede142b9-1022-0102-17e2-899ce71ad536/603497930364.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-10 02:03:54 (UTC)
+⏳ 업데이트 시간: 2026-01-10 03:58:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
