@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **BoA**  
-> 앨범: _Only One_  
+## 🎧 Rush Hour (Feat. j-hope of BTS)  
+> 아티스트: **Crush**  
+> 앨범: _Rush Hour (feat. j-hope) - Single_  
 
-🔍 검색 키워드: `kpop+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+hope`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/854900899?i=854900909&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/1f/7f/4d1f7f79-a1fb-6b98-fcbd-fb81a472372b/mzaf_18041874159674599179.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rush-hour-feat-j-hope-of-bts/1698676528?i=1698676531&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6e/7a/92/6e7a9255-4c63-9621-50b4-3f08904ee1a5/mzaf_12218227715858523994.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3e/ff/e8/3effe8d3-c71a-312f-9b0f-e132579d4c31/asset.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/7f/e4/c17fe487-3766-9698-d823-915e43d5d6e6/8809887700209.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-10 15:25:20 (UTC)
+⏳ 업데이트 시간: 2026-01-10 16:30:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
