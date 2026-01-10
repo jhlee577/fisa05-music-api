@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 midsummer pipe dream  
-> 아티스트: **Guitarricadelafuente & Troye Sivan**  
-> 앨범: _midsummer pipe dream - Single_  
+## 🎧 Hope  
+> 아티스트: **No Spirit**  
+> 앨범: _Memories We Made_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `lofi+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/midsummer-pipe-dream/1827006967?i=1827006970&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/70/f3/cf70f382-d041-514c-01f4-19b12f3fc4f2/mzaf_9291094813047038134.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/1710111718?i=1710111724&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/59/45/f6/5945f692-944b-d6a8-21bf-ac177707bc1e/mzaf_12352563721578804437.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/2a/94/ee2a940d-872b-d343-7a9c-a9804d12cb4d/dj.gptpjask.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/f6/74/0ef6743d-2589-f9a2-45e1-2fccea972d2e/1aa759b6-5b64-477b-942a-315402c3f382.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-10 19:19:54 (UTC)
+⏳ 업데이트 시간: 2026-01-10 20:28:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
