@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 暖炉のある部屋で穏やかなカフェBGM  
-> 아티스트: **カフェ音楽ジャズおすすめ**  
-> 앨범: _冬カフェタイム - 雪の日に暖まる音楽 ゆったりJazzBGM リラックスする音楽 -_  
+## 🎧 Ghetto Supastar (That Is What You Are)  
+> 아티스트: **Pras**  
+> 앨범: _Ghetto Supastar_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E6%9A%96%E7%82%89%E3%81%AE%E3%81%82%E3%82%8B%E9%83%A8%E5%B1%8B%E3%81%A7%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%AA%E3%82%AB%E3%83%95%E3%82%A7bgm/1863609584?i=1863609783&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/98/3b/d5983b6a-1bb9-d5a8-3427-62385a63f0d8/mzaf_10369244371723406110.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ghetto-supastar-that-is-what-you-are/192950057?i=192950291&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/cd/01/58cd0125-7f0e-69a0-e94c-8e78c9cace33/mzaf_3873697045637433868.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/29/ae/9329ae25-01f7-0543-7140-74c844d95456/4550752023360_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/4b/cc/654bcc23-12e1-a1af-86ea-383fd6933694/mzi.nsuedoag.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-10 07:23:46 (UTC)
+⏳ 업데이트 시간: 2026-01-10 08:33:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
