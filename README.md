@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ghetto Supastar (That Is What You Are)  
-> 아티스트: **Pras**  
-> 앨범: _Ghetto Supastar_  
+## 🎧 Dynamite  
+> 아티스트: **BTS**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `hiphop+sad`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ghetto-supastar-that-is-what-you-are/192950057?i=192950291&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/cd/01/58cd0125-7f0e-69a0-e94c-8e78c9cace33/mzaf_3873697045637433868.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/dynamite/1528741184?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video114/v4/bb/d7/26/bbd726de-56c4-c46e-8e4d-85c5140c2195/mzvf_347310703227081426.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/4b/cc/654bcc23-12e1-a1af-86ea-383fd6933694/mzi.nsuedoag.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/98/8f/fa/988ffa3c-ef9d-49df-581b-2a24a0f213e6/20UMGIM72991.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-10 08:33:15 (UTC)
+⏳ 업데이트 시간: 2026-01-10 09:25:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
