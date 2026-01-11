@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Here's to Life  
-> 아티스트: **Buster Williams**  
-> 앨범: _Unalome_  
+## 🎧 Happy Jazz  
+> 아티스트: **Coffee Shop Jazz Relax, Cafe Latte Jazz Club & Coffee House Instrumental Jazz Playlist**  
+> 앨범: _Soft Music Café (Music for Dreaming)_  
 
-🔍 검색 키워드: `jazz+sad`  
+🔍 검색 키워드: `jazz+happy`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/heres-to-life/1659727195?i=1659727895&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/cd/84/d2/cd84d278-bf4f-d22e-9340-34a2966f9163/mzaf_4341070151502541931.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy-jazz/1609965294?i=1609965667&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/eb/d2/56/ebd2567a-90c4-df7e-3698-9c515c098411/mzaf_12502850464827966104.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bf/46/bf/bf46bf82-ba69-7811-c555-d3ca974d141a/197187681983.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/31/7c/23317c4c-9e9f-22dd-040a-e1c675f00bf5/5903600848186.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-11 13:33:29 (UTC)
+⏳ 업데이트 시간: 2026-01-11 14:24:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
