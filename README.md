@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (feat. ALEXANDER)  
-> 아티스트: **Psalm Trees**  
-> 앨범: _From Scratch (feat. ALEXANDER)_  
+## 🎧 Night (Part 3: Minstrels)  
+> 아티스트: **George Winston**  
+> 앨범: _December_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope-feat-alexander/1765339752?i=1765339757&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/69/2d/2c692d6b-2674-e74a-6e7a-6878fa72d358/mzaf_169238148386537252.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/night-part-3-minstrels/1491090471?i=1491090479&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/90/68/0c9068a4-9f39-a28e-ab87-31e8d5a0c375/mzaf_3431523060116904771.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/43/a7/b043a7a2-251a-0bc5-d723-f6094113e944/745051305109.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/79/639d7990-dd61-4f1c-e732-d7eb62abd69f/George_Winston_-_December.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-12 22:23:55 (UTC)
+⏳ 업데이트 시간: 2026-01-12 23:21:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
