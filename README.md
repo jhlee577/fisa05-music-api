@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HAPPY  
-> 아티스트: **三代目 J SOUL BROTHERS from EXILE TRIBE**  
-> 앨범: _Unknown Album_  
+## 🎧 Lilac  
+> 아티스트: **Mrs. Green Apple**  
+> 앨범: _Lilac - Single_  
 
-🔍 검색 키워드: `lofi+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rock+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/happy/1209275758?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/0b/a4/2d/0ba42dfb-32f0-1fe2-9abd-fd54e778f2b5/mzvf_9094905601782527426.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lilac/1739088465?i=1739088799&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/85/6f/ea856fc0-9b40-44ab-d534-2fa2ceba7f3e/mzaf_8873612218402422085.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video51/v4/a4/3e/86/a43e8666-e70f-84d1-b546-a06b86740859/RZCD-86294.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-13 22:27:41 (UTC)
+⏳ 업데이트 시간: 2026-01-13 23:24:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
