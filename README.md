@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Brain Rest & Relaxation Piano in Mind**  
-> 앨범: _Spiritual Sounds: Reduce Stress and Keep a Positive Attitude with the Best Relaxing Natural Music for Calming Meditation_  
+## 🎧 Happy (From "Despicable Me 2")  
+> 아티스트: **Pharrell Williams**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/instrumental-night/1293205282?i=1293205619&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/17/34/a4/1734a425-7c95-9130-6328-bb84dad38136/mzaf_12620394421433242134.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/music-video/happy-from-despicable-me-2/793299815?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c0/b7/93/c0b7931f-98ee-2640-ec6c-95174abff42e/8033772901024.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-14 11:26:44 (UTC)
+⏳ 업데이트 시간: 2026-01-14 12:58:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
