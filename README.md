@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Cry Your Heart Out  
-> 아티스트: **Adele**  
-> 앨범: _30_  
+## 🎧 Hope  
+> 아티스트: **Elijah Hopkins**  
+> 앨범: _Hope - EP_  
 
-🔍 검색 키워드: `jazz+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/cry-your-heart-out/1590035691?i=1590036028&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a5/eb/06/a5eb0698-45ff-a097-11cb-32f1278885dc/mzaf_4627652132587078971.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1800328357?i=1800328358&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/78/17/61781747-ef7d-42d6-3169-77c3a0ac7709/mzaf_8340748048288942390.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/96/16/9a961603-0c32-f318-98a6-73f59f520577/5059449212920.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-14 15:31:12 (UTC)
+⏳ 업데이트 시간: 2026-01-14 16:38:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
