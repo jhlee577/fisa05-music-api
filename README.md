@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Takedown  
-> 아티스트: **HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast**  
-> 앨범: _KPop Demon Hunters (Soundtrack from the Netflix Film)_  
+## 🎧 Ballad Night (Solo Piano in C Major)  
+> 아티스트: **Kara Walker**  
+> 앨범: _Slow Reading with Easy Listening Tunes, Vol. 02_  
 
-🔍 검색 키워드: `kpop+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/takedown/1820264137?i=1820264154&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/8f/c9/1b8fc9f1-6d23-8bd5-f409-0f19d4e88172/mzaf_17909751412203507073.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/ballad-night-solo-piano-in-c-major/1688648544?i=1688648627&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/16/70/85/1670859e-5ac7-90b8-9b6e-a06642557967/mzaf_8116856563843913177.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/6e/ba/d16ebad7-be66-086b-ef0e-cf2bb5e2f480/MAERTS355.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-15 04:06:41 (UTC)
+⏳ 업데이트 시간: 2026-01-15 05:31:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
