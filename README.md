@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **Shawn Mendes**  
-> 앨범: _Wonder_  
+## 🎧 Instrumental Dream  
+> 아티스트: **Deep Sleep Music Delta Binaural 432 Hz & Binaural Beats Recordings & Natural Sleep Remedies Oasis**  
+> 앨범: _Meditation for Empaths - Empath Meditation for Cleansing and Clearing your Energy_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `instrumental+dream`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/1533345318?i=1533345330&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c1/40/65/c14065c3-f3bb-5d75-314e-95da21cbe550/mzaf_10080340649085689528.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/instrumental-dream/1351409875?i=1351410526&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d2/df/5e/d2df5e1d-be97-506a-624c-be31a3ca2978/mzaf_12702939491859418322.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d5/f0/d2/d5f0d270-fc16-5691-d83e-917c067a6561/20UMGIM83351.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ab/d7/49/abd749d0-3da7-3ad4-6181-918ce445a273/8033772912129.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-16 05:30:33 (UTC)
+⏳ 업데이트 시간: 2026-01-16 06:41:50 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
