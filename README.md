@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Country Ballad, Summer  
-> 아티스트: **Whiskey Country Band**  
-> 앨범: _Summer Country Hits: 2018 Ballads, Pop Country for Summer Nights, Western Guitar Rhythms_  
+## 🎧 HOPE  
+> 아티스트: **NF**  
+> 앨범: _HOPE_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rock+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/country-ballad-summer/1398001691?i=1398001717&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/aa/d7/f3aad7ee-362a-d085-0566-48e6d9641621/mzaf_17838571043704340241.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1670412644?i=1670412645&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/b1/0b/d6b10b85-94e9-fb3a-565e-388126df434e/mzaf_5141522329930512730.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/e0/64/43e0649c-b637-f4dc-7d89-2d15b995e7e5/8134130686352.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-16 09:32:35 (UTC)
+⏳ 업데이트 시간: 2026-01-16 10:30:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
