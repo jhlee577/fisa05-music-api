@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **We Came As Romans**  
-> 앨범: _Tracing Back Roots_  
+## 🎧 Dream  
+> 아티스트: **Tagne**  
+> 앨범: _Moroccan Dream_  
 
-🔍 검색 키워드: `rock+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/663114135?i=663114142&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/e1/e9/85e1e90b-ee0c-797a-fff3-33f41229633c/mzaf_8631204819935436110.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/1536157060?i=1536157545&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/63/45/9d/63459d80-a63f-24df-576d-e8c28ef6e68b/mzaf_1460982709454549219.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/6a/23/3a6a233e-ef85-a6e8-964d-3850f070fdba/886444042383.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/55/09/9e/55099e20-4ef7-794f-2e28-548c875fcf0b/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-16 19:23:11 (UTC)
+⏳ 업데이트 시간: 2026-01-16 20:27:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
