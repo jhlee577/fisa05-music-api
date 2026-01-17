@@ -4,18 +4,18 @@
 추천 곡은...
 
 ## 🎧 Lofi Night  
-> 아티스트: **Lofi Rain**  
-> 앨범: _Raindrops: Background Lofi_  
+> 아티스트: **Lofi Daydream**  
+> 앨범: _Lofi Night - Single_  
 
 🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `FR`
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-night/1766096936?i=1766097019&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/e0/89/d1e089d3-71c1-50bd-0577-ffad7d41aa98/mzaf_4411195603325134067.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-night/1824673332?i=1824673634&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/47/83/0a478338-b02e-a487-ff18-806520e20547/mzaf_3480246971355806886.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/1e/4e/b11e4e76-09aa-fe4b-f053-43312e67577e/cover_10316610.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/8c/2e/ed8c2ebf-db6e-55ab-f63f-34df8d014845/4069718460861.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-17 05:26:01 (UTC)
+⏳ 업데이트 시간: 2026-01-17 06:37:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
