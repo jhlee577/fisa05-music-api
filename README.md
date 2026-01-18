@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Can’t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)  
-> 아티스트: **Olivia Rodrigo**  
-> 앨범: _The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)_  
+## 🎧 Sympathy For The Devil  
+> 아티스트: **The Rolling Stones**  
+> 앨범: _Beggars Banquet (2018 Remaster)_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `ballad+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/cant-catch-me-now-from-the-hunger-games-the/1714727603?i=1714727613&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/98/4d/47/984d47cd-8bcc-bf96-2342-bb45e28c0f88/mzaf_11329946151963468044.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/sympathy-for-the-devil/1500643395?i=1500643398&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/f7/73/1bf77304-235f-3f02-c126-fac9a5aa9917/mzaf_4625747673195165829.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/5c/8e/175c8ec4-a8fd-6a14-5a1e-ea5917a1e687/23UM1IM46888.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/d1/78/a3d178a8-f1c2-c1c3-1c5d-d78ab3af9768/20UMGIM13726.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-18 10:27:15 (UTC)
+⏳ 업데이트 시간: 2026-01-18 11:20:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
