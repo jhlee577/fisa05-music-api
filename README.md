@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 toxic till the end  
-> 아티스트: **로제**  
-> 앨범: _rosie_  
+## 🎧 Jazz (Interlude)  
+> 아티스트: **Gil Scott-Heron & Jamie xx**  
+> 앨범: _We're New Here_  
 
-🔍 검색 키워드: `rock+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `jazz+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/toxic-till-the-end/1783280221?i=1783280225&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/bd/d8/6fbdd87e-c958-74d6-3215-633bcc550654/mzaf_17183830555505448544.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/jazz-interlude/418185871?i=418185935&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/64/05/a2/6405a2dc-a6ad-96bd-a508-03658e363c83/mzaf_10220859921014395249.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/cb/54/4dcb5453-7493-cd68-81f8-fc7ae28101ce/8800287299416_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/97/79/1a97797a-f3d9-0b9c-20e1-4960ac334ccd/634904051754.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-18 12:51:00 (UTC)
+⏳ 업데이트 시간: 2026-01-18 13:32:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
