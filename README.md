@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Come Back to Earth  
-> 아티스트: **Mac Miller**  
-> 앨범: _Swimming_  
+## 🎧 Rain (Natue Music Therapy)  
+> 아티스트: **Fiona Follow**  
+> 앨범: _Relaxation: Relaxing Guitar Nature Sounds Relaxation, Ambient Meditation Music for Relaxation Exercises, Stress Free, Yoga, Deep Sleep and Massage, Time to Relaxation, Nature Music and Guitar Instrumental Songs_  
 
-🔍 검색 키워드: `hiphop+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `instrumental+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/come-back-to-earth/1408996052?i=1408996053&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/bf/10/04bf10ed-0dae-fe63-94bc-eba16a7b8faa/mzaf_4512545557535985538.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/rain-natue-music-therapy/533589185?i=533589395&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/38/e6/03/38e6033f-321d-3bd7-0389-7f4665f5d193/mzaf_3271056245388936052.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/38/b5/e338b529-da3f-b4b9-b8f9-1fae428e7a23/093624905899.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/59/84/ab/5984ab1b-5e62-a15b-9808-e364bfb79e4c/Relaxation_1_copia.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-18 05:28:55 (UTC)
+⏳ 업데이트 시간: 2026-01-18 06:38:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
