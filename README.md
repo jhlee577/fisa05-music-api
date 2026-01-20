@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HAPPY  
-> 아티스트: **三代目 J SOUL BROTHERS from EXILE TRIBE**  
-> 앨범: _FUTURE_  
+## 🎧 SAD!  
+> 아티스트: **Lofi Fruits Music & Chill Fruits Music**  
+> 앨범: _Lofi Sad Mood - EP_  
 
-🔍 검색 키워드: `instrumental+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1385502809?i=1385502815&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/a5/ff/40a5ff6a-a058-c270-3714-a0d40d29ddc5/mzaf_3209401279927847772.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/sad/1576880137?i=1576880155&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/b1/8c/31b18caa-2dce-5099-0b25-2c351be753a7/mzaf_7976599371796151651.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/43/28/2e432864-f25b-285f-8d9c-91c91e77f60a/RZCD-86589.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3b/72/dc/3b72dcea-8ae0-691f-7098-b40f2206d5b3/190296578038.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-20 10:34:20 (UTC)
+⏳ 업데이트 시간: 2026-01-20 11:28:16 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
