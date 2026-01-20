@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Holistic World & Relaxation Guru**  
-> 앨범: _Fantastic Dreams: Relaxing Sleep Music, Relaxing Ambient Music, Songs for Sleep, Quiet Night, Sleep Aid_  
+## 🎧 Lofi Night  
+> 아티스트: **Baturator, Bamboo Chai & The Bonsai**  
+> 앨범: _Alone with Myself_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/instrumental-night/1316076909?i=1316077985&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/69/39/cc/6939cc03-746e-da0f-2014-7258691ae9c2/mzaf_7322432554703047198.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/lofi-night/1600655421?i=1600655434&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/2f/a2/782fa2ed-7c05-ad7e-1d65-eefc213e2568/mzaf_228400541932267231.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/8c/99/998c99ae-86d7-c17a-119e-e2f4a08a6071/8033772907378.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/40/92/a64092ba-061f-e5f0-8883-c2b5943611d3/cover_4062851676854.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-20 18:50:17 (UTC)
+⏳ 업데이트 시간: 2026-01-20 20:15:20 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
