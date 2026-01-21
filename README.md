@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Melodicb**  
-> 앨범: _Rain - Single_  
+## 🎧 Every Breath You Take (Remastered 2003)  
+> 아티스트: **The Police**  
+> 앨범: _Synchronicity (Remastered 2003)_  
 
-🔍 검색 키워드: `hiphop+rain`  
+🔍 검색 키워드: `ballad+rain`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/1716261893?i=1716261894&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/98/e3/2498e30f-50fd-8bd5-5579-29a4be334521/mzaf_15816061181479012174.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/every-breath-you-take-remastered-2003/1440673959?i=1440674160&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/e4/66/fee46681-9bbc-358a-ba0f-51d39feabf8b/mzaf_16980938720718099101.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/f3/d9/d9f3d9bb-5c56-8011-6250-c4afa745fc85/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a4/67/ba/a467ba62-87df-9d10-98d2-c517f68ac870/16UMGIM60882.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-21 15:38:17 (UTC)
+⏳ 업데이트 시간: 2026-01-21 17:01:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
