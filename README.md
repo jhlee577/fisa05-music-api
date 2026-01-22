@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Say You Won't Let Go  
-> 아티스트: **James Arthur**  
-> 앨범: _Back from the Edge (Deluxe Edition)_  
+## 🎧 Instrumental Love  
+> 아티스트: **Jools Holland & His Rhythm & Blues Orchestra**  
+> 앨범: _Sex & Jazz & Rock & Roll_  
 
-🔍 검색 키워드: `acoustic+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `instrumental+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/say-you-wont-let-go/1147252339?i=1147252591&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/dc/3a/3c/dc3a3c7c-0f3c-5671-6885-a5e187d229a9/mzaf_18078725775495242230.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/instrumental-love/903117101?i=903117116&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f4/cf/87/f4cf87da-9476-c522-185a-9c3cd41bca5c/mzaf_655906101759767619.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/c2/89/9cc289cb-66fe-a754-8ec7-859d76d65c55/886445946789.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/fd/1f/eb/fd1feb3e-47a9-fbe2-a97a-1bd4905564e4/825646248278.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-22 05:33:59 (UTC)
+⏳ 업데이트 시간: 2026-01-22 06:43:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
