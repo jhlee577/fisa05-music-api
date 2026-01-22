@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (God's Own Country)  
-> 아티스트: **Sports Team**  
-> 앨범: _Happy (God's Own Country) - Single_  
+## 🎧 Night Sail Ballad (Night Version) [feat. Jordy Chandra]  
+> 아티스트: **Beside Bed**  
+> 앨범: _Genshin Impact Relaxing Beside Bed Collection (feat. Jordy Chandra)_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `ballad+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy-gods-own-country/1562005625?i=1562005854&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/99/a9/fc/99a9fcd6-6a51-54ff-7f8e-b8328a31ab1c/mzaf_18138512881933267743.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/night-sail-ballad-night-version-feat-jordy-chandra/1576410705?i=1576410708&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f7/a2/51/f7a25111-0ae9-6dcb-7591-5410bc19ba76/mzaf_3729655055755401600.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/d5/df/b0d5dfe5-611b-8ce2-ca0b-066d72f834eb/21UMGIM17542.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/06/3d/10063d62-85af-c975-d3e7-3b4104d66cb9/024543904090_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-22 19:29:08 (UTC)
+⏳ 업데이트 시간: 2026-01-22 20:34:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
