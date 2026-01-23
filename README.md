@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 U Got It Bad  
-> 아티스트: **USHER**  
-> 앨범: _8701_  
+## 🎧 Sad Background  
+> 아티스트: **Sentimental Piano Jazz Club**  
+> 앨범: _Melancholic Jazz: Sad Piano_  
 
-🔍 검색 키워드: `hiphop+summer`  
+🔍 검색 키워드: `jazz+sad`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/u-got-it-bad/268532446?i=268532564&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/b9/15/49b915dd-bbb4-eaa4-bd29-7cc9a9d00666/mzaf_17285419442186901219.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-background/1310589477?i=1310590279&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d5/da/6a/d5da6a3a-0706-d4a5-54cc-072b34960fe0/mzaf_839476099838760001.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/1f/06/e71f062b-71c8-3b06-49d3-a0842a759684/078221471527.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/49/18/85/491885e0-cf8c-fe94-5f28-b7ec1494f4a0/8184190933019.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-22 23:26:45 (UTC)
+⏳ 업데이트 시간: 2026-01-23 02:08:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
