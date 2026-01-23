@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Prom Night  
-> 아티스트: **Riovaz**  
-> 앨범: _Prom Night - Single_  
+## 🎧 Love  
+> 아티스트: **Miscél**  
+> 앨범: _The Other Side - EP_  
 
-🔍 검색 키워드: `pop+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+love`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/prom-night/1568808421?i=1568808424&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/86/ba/9886ba2f-a9aa-6216-c312-ddcdcf120e0a/mzaf_10500131470658326616.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/love/1513893914?i=1513893916&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/64/8c/43/648c4331-175f-ba32-de14-558684fb76c7/mzaf_15044274070843941686.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/cc/76/55cc7693-7a9e-a88f-d035-a27b00c0c2cb/192641743085_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6c/4c/88/6c4c8899-1c6b-76e0-7a57-3f7b6bd4f060/5054284646992.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-23 19:28:15 (UTC)
+⏳ 업데이트 시간: 2026-01-23 20:32:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
