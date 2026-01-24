@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 LOVE (feat. TAEYANG)  
-> 아티스트: **PSY**  
+## 🎧 Summer  
+> 아티스트: **Joe Hisaishi & London Symphony Orchestra**  
 > 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `kpop+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/music-video/love-feat-taeyang/1260460412?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video116/v4/50/c0/12/50c01233-d43b-c9bf-c958-ab57aa2d4a75/mzvf_8594614822512321071.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/de/music-video/summer/1495039274?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/a2/57/e4/a257e467-c9b7-961a-2bdf-ebf4d9f31367/mzvf_16888117456472645119.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video111/v4/86/6e/52/866e52da-f46d-4757-9b25-730161d00c0e/KRZ351700026.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/0d/31/47/0d314759-66bd-d05e-dc23-75b77c519338/19UM1IM15508.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-24 22:25:01 (UTC)
+⏳ 업데이트 시간: 2026-01-24 23:24:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
