@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad  
-> 아티스트: **Dream Dolphin**  
-> 앨범: _Atmospheric Healing_  
+## 🎧 What Was I Made For? (From The Motion Picture "Barbie")  
+> 아티스트: **Billie Eilish**  
+> 앨범: _What Was I Made For? (From The Motion Picture "Barbie") - Single_  
 
-🔍 검색 키워드: `ballad+dream`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+sad`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad/1783248120?i=1783248125&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/ae/e6/fdaee6e8-6aa8-a254-5ca9-6167677a0b43/mzaf_17386035112014529803.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/what-was-i-made-for-from-the-motion-picture-barbie/1696819852?i=1696819855&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/89/79/4e8979d0-31cc-d2c7-751d-9c5368f53885/mzaf_8166853517153482173.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/75/e8/c375e819-0a2a-6e02-6245-4913181115bd/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/64/76/7d64761e-a9b3-6754-8ae1-b457338beead/23UMGIM77779.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-24 13:34:25 (UTC)
+⏳ 업데이트 시간: 2026-01-24 14:25:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
