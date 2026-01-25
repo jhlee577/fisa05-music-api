@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Love  
-> 아티스트: **Joshua Lenz**  
-> 앨범: _Some Thoughts Under a Starry Night Sky_  
+## 🎧 LOVE  
+> 아티스트: **KADOKAWA DREAMS, PUSHIM & DA-Dee-MiX**  
+> 앨범: _LOVE - Single_  
 
-🔍 검색 키워드: `acoustic+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-love/1684236321?i=1684236324&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a4/a3/c0/a4a3c036-7f68-e011-7759-619eea5aa261/mzaf_14464801844091567599.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love/1648466544?i=1648466548&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f5/32/69/f53269b7-af65-8d1a-94ff-946fba74db8f/mzaf_3699424448767302822.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f7/34/3f/f7343faf-f0a3-a48f-a093-2a4f60a5a33c/055120586071.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/b1/51/fdb151a3-585b-c56a-0749-c0e4946548cc/859758776800_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-25 13:35:39 (UTC)
+⏳ 업데이트 시간: 2026-01-25 14:24:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
