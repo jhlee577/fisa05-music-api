@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (Live At Madison Square Garden, USA / 2003)  
-> 아티스트: **The Rolling Stones**  
-> 앨범: _Live Licks_  
+## 🎧 Jazz Dream  
+> 아티스트: **Belladonna**  
+> 앨범: _The Jazz House Independent, Vol. 8 (Acid Soulful Deep Techno Minimal House Jazz)_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-live-at-madison-square-garden-usa-2003/1440916919?i=1440923355&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/7f/24/9f7f242b-2c09-210d-02eb-246ebdf1b98d/mzaf_2095695169885219690.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/jazz-dream/1474566863?i=1474567037&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/10/89/ac/1089acc7-7220-eb38-d09a-6b87f2eb63d4/mzaf_14077232454147018016.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/ea/51/9fea512c-6c89-d372-b5bd-6976c311408b/13UMGIM60671.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5e/69/0d/5e690dcc-4fa6-76e3-96ab-83c688d9e6a7/8055323986281.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-25 06:39:36 (UTC)
+⏳ 업데이트 시간: 2026-01-25 07:26:23 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
