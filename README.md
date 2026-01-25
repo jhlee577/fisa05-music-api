@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Keep On The Sunny Side (from The Hunger Games: The Ballad of Songbirds & Snakes)  
-> 아티스트: **Josie Hope Hall & The Covey Band**  
-> 앨범: _The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)_  
+## 🎧 Rain  
+> 아티스트: **Halsoon**  
+> 앨범: _Rain - Single_  
 
-🔍 검색 키워드: `ballad+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/keep-on-the-sunny-side-from-the-hunger-games/1714727603?i=1714728154&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/b3/31/13b331a6-386d-e679-6ee4-7cfc70a06108/mzaf_3592959550902066441.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1862737247?i=1862737248&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/20/60/ba2060c0-cd21-39e6-7e2c-e008a485f202/mzaf_5372637233485503250.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/5c/8e/175c8ec4-a8fd-6a14-5a1e-ea5917a1e687/23UM1IM46888.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/09/39/ef09398d-3656-7bf1-517e-7fd5032016dc/197190473179_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-25 17:22:46 (UTC)
+⏳ 업데이트 시간: 2026-01-25 18:36:51 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
