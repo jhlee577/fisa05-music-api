@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Andy Mineo**  
-> 앨범: _Uncomfortable_  
+## 🎧 Strangers (sad acoustic version)  
+> 아티스트: **Kenya Grace**  
+> 앨범: _Strangers (sad acoustic version) - Single_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+sad`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/love/1533118622?i=1533119181&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/41/bf/7841bf60-7fb5-ed2a-4119-4216a7cd419a/mzaf_7656920640593440163.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/strangers-sad-acoustic-version/1713315948?i=1713315959&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/6b/56/d06b56f0-4779-6acc-2b63-8dabef971e98/mzaf_11438183936855584882.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5a/cf/e5/5acfe5cc-6c0e-7f14-5887-78e12a2e1029/195497137800.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/94/2b/21942bf2-796d-bf37-e142-2eebbabe62ee/054391357526.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-25 21:24:36 (UTC)
+⏳ 업데이트 시간: 2026-01-25 22:25:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
