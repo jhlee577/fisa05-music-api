@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **LISA**  
-> 앨범: _Alter Ego_  
+## 🎧 lofi hope  
+> 아티스트: **Lofi Blissful Music, LoFi Chill & Study Music & Sounds**  
+> 앨범: _Chill Lofi Beats_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `lofi+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/dream/1799316830?i=1799316851&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/ef/44/a7ef44ed-b7f4-613c-7da6-d091bf3cf0ed/mzaf_11834069797984983289.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-hope/1850136733?i=1850136742&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/61/4f/5b614f6d-8d89-5c0e-fc17-e8631e171ff4/mzaf_4986380452964917102.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/f6/7f/88f67fd9-c010-e52a-d10e-f5781116b99a/196872937138.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/7d/07/897d0712-c3fb-4062-9208-0002a10be86b/920562.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-25 04:16:28 (UTC)
+⏳ 업데이트 시간: 2026-01-25 05:32:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
