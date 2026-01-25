@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Summer  
-> 아티스트: **Ben Blujus Band**  
-> 앨범: _Steadfast - EP_  
+## 🎧 Summer (Mixed)  
+> 아티스트: **Yinoluu**  
+> 앨범: _Nostalgic Lofi (DJ Mix)_  
 
-🔍 검색 키워드: `acoustic+summer`  
+🔍 검색 키워드: `hiphop+summer`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/acoustic-summer/1647294365?i=1647294369&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9d/f2/a3/9df2a315-fca2-e2f7-35ff-e2cc9d9908c4/mzaf_7142706716440869015.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer-mixed/1744448746?i=1744448999&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/5c/05/005c0573-5bde-2f94-d3af-2a9e24f3bf39/mzaf_3735274994219771228.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f9/59/19/f95919e7-07a7-48cf-e12f-d731ac160f47/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/82/90/16829096-563d-04c9-f1b7-2cde8ba36c42/e4477d22-9ba7-4e8f-84ec-cdbbe27f3d7d.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-25 10:27:57 (UTC)
+⏳ 업데이트 시간: 2026-01-25 11:22:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
