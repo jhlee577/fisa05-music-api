@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Love  
-> 아티스트: **Smoodmood & 라이**  
-> 앨범: _Lofi Love - Single_  
+## 🎧 I Love Rock 'n' Roll  
+> 아티스트: **The Black Jets**  
+> 앨범: _I Love Rock 'n' Roll - Single_  
 
-🔍 검색 키워드: `lofi+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rock+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-love/1769417011?i=1769417012&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/3e/a2/373ea234-f41f-c753-5604-439895b216d9/mzaf_318379510445124438.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/i-love-rock-n-roll/387841218?i=387841269&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b9/4a/88/b94a8804-8956-64b4-9e6e-770075a88f28/mzaf_12516034342632133361.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/1c/2b/371c2bbf-9f4c-043e-201f-7a8001a151a7/8720205398413.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/7b/93/4e/mzi.nlbltsem.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-25 08:34:00 (UTC)
+⏳ 업데이트 시간: 2026-01-25 09:27:33 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
