@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Dream  
-> 아티스트: **AZ Studio**  
-> 앨범: _Café Dreams, Vol.1: Lofi Chillhop Music_  
+## 🎧 Summer  
+> 아티스트: **Sum 41**  
+> 앨범: _All Killer, No Filler_  
 
-🔍 검색 키워드: `lofi+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rock+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-dream/1744108950?i=1744108954&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/38/9b/35389b77-5cb5-3343-b9d1-6365dccb230f/mzaf_8490447768036412454.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer/1440920798?i=1440921237&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/71/c8/3e71c807-40ad-cf58-a49a-5d60df47b822/mzaf_2485376305610185056.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/f8/1d/45f81d58-2522-28f0-8b53-bb71c893e39a/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/32/bb/bd32bb0b-0bb4-88bb-f32a-9ff383579d54/06UMGIM15497.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-26 13:00:27 (UTC)
+⏳ 업데이트 시간: 2026-01-26 14:34:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
