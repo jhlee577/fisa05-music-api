@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Arlo Parks**  
-> 앨범: _Collapsed in Sunbeams (Deluxe)_  
+## 🎧 Love  
+> 아티스트: **f(x)**  
+> 앨범: _Pinocchio - The 1st Album_  
 
-🔍 검색 키워드: `rnb+hope`  
+🔍 검색 키워드: `kpop+love`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1535799044?i=1535799420&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/61/d9/c2/61d9c204-6afb-f7e1-d55a-7aa42a5f2e11/mzaf_12328735035716875413.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love/854892507?i=854892546&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/83/60/698360cb-20d2-a3ef-929e-32ccf65784b3/mzaf_13790479094996739331.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/49/f4/6c/49f46c00-590e-be57-502b-abf4d476e6f5/5400863041588_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/e3/00/b6/e300b69b-da35-47c5-2dbd-84713ac9b209/asset.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-27 04:10:42 (UTC)
+⏳ 업데이트 시간: 2026-01-27 05:32:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
