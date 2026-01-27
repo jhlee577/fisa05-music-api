@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (From "Despicable Me 2")  
-> 아티스트: **Pharrell Williams**  
-> 앨범: _Now That's What I Call Music!, Vol. 60 (Deluxe Edition)_  
+## 🎧 Small girl (feat. D.O.)  
+> 아티스트: **이영지**  
+> 앨범: _16 Fantasy - EP_  
 
-🔍 검색 키워드: `pop+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy-from-despicable-me-2/1440523797?i=1440524387&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/33/ac/ef/33acef16-6912-736e-868b-5561f9dcc5f8/mzaf_13189461893894919988.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/small-girl-feat-d-o/1753178651?i=1753178654&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/e7/78/72e778eb-5bb4-7567-4857-e769182f4044/mzaf_8293529149094494349.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/b3/68/00b36844-f52f-068c-0b4a-c77362e674b4/16UMGIM71491.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ff/93/cfff93b5-e7ef-6a28-6786-9f82f79d8117/8804775305474.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-27 15:35:38 (UTC)
+⏳ 업데이트 시간: 2026-01-27 16:36:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
