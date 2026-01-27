@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Wish You Were Here  
-> 아티스트: **Pink Floyd**  
-> 앨범: _Wish You Were Here_  
+## 🎧 Happy (Live)  
+> 아티스트: **Pharrell Williams**  
+> 앨범: _Happy (Live) - Single_  
 
-🔍 검색 키워드: `rock+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/wish-you-were-here/1065973975?i=1065973980&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/f0/e4/b3f0e422-4568-5dcc-5045-965337fcf712/mzaf_9838901551531704078.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy-live/915102914?i=915102924&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/84/3e/60/843e6004-08bf-7f7d-e818-8da2e63adb91/mzaf_15836529417473042337.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/50/be/f250be86-66f0-921c-7fb5-ff4b83463a43/886444810739.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-27 11:27:57 (UTC)
+⏳ 업데이트 시간: 2026-01-27 13:02:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
