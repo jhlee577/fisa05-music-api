@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Purple Rain  
-> 아티스트: **Prince & The Revolution**  
-> 앨범: _Purple Rain (Deluxe Expanded Edition) [2015 Paisley Park Remaster]_  
+## 🎧 Best Part (feat. H.E.R.)  
+> 아티스트: **Daniel Caesar**  
+> 앨범: _Freudian_  
 
-🔍 검색 키워드: `ballad+rain`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/purple-rain/1229320468?i=1229320478&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/70/9b/4a709b41-3c29-626a-ca69-44aa907f4705/mzaf_14388295257133509788.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/best-part-feat-h-e-r/1799080774?i=1799080776&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/95/ed/cc95edc8-4f9b-0c56-bc74-31ba76a057f9/mzaf_11346187551197903108.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/b6/79/c1b679f5-d59d-1b3e-62ab-514de20f06c6/093624912002.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/cd/1a/b6cd1a5b-83af-a1e2-0ad7-ea530fcf2522/859722261219.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-27 19:31:35 (UTC)
+⏳ 업데이트 시간: 2026-01-27 20:29:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
