@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 lofi rain  
-> 아티스트: **a girl and a cat**  
-> 앨범: _lofi study 2021 - EP_  
+## 🎧 Love  
+> 아티스트: **f(x)**  
+> 앨범: _Pinocchio - The 1st Album_  
 
-🔍 검색 키워드: `lofi+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-rain/1546062891?i=1546062893&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/2f/9d/83/2f9d8351-2aa1-c686-92b5-60bbcd773d47/mzaf_5924531274331352463.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/love/854892507?i=854892546&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/83/60/698360cb-20d2-a3ef-929e-32ccf65784b3/mzaf_13790479094996739331.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/76/01/c776016a-4c8c-2d8a-f655-07eef902c266/3701421589897.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/e3/00/b6/e300b69b-da35-47c5-2dbd-84713ac9b209/asset.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-27 23:28:20 (UTC)
+⏳ 업데이트 시간: 2026-01-28 02:10:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
