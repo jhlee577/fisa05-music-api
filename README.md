@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Get Happy / Happy Days Are Here Again (feat. Barbra Streisand) [Live]  
-> 아티스트: **Judy Garland**  
-> 앨범: _That Old Feeling: Classic Ballads From the Judy Garland Show (Live)_  
+## 🎧 Whiplash  
+> 아티스트: **aespa**  
+> 앨범: _Whiplash - The 5th Mini Album - EP_  
 
-🔍 검색 키워드: `ballad+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/get-happy-happy-days-are-here-again-feat-barbra-streisand/1453135599?i=1453136066&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/fb/3c/05fb3c5c-ecb9-d069-9c11-cab3f89247b1/mzaf_14308266854149559832.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/whiplash/1772644600?i=1772644601&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/84/e5/9184e5d0-54c8-eccc-e62c-e3175a88b396/mzaf_13467227653896090925.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/db/e3/e3dbe3c8-7ea6-539e-a75e-2034c6663186/00888072091528.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/26/5d/1a265da7-ff45-8df0-ee94-7b79becfc7d9/888735949562.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-29 17:41:34 (UTC)
+⏳ 업데이트 시간: 2026-01-29 18:55:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
