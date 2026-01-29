@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Talk  
-> 아티스트: **Ella Fitzgerald**  
-> 앨범: _Happy Jazz_  
+## 🎧 浮気されたけどまだ好きって曲。  
+> 아티스트: **りりあ。**  
+> 앨범: _浮気されたけどまだ好きって曲。 - Single_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `acoustic+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy-talk/1378360070?i=1378360958&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/4a/bd/374abd47-75f0-654e-422b-784ccd174834/mzaf_9626103610847633495.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E6%B5%AE%E6%B0%97%E3%81%95%E3%82%8C%E3%81%9F%E3%81%91%E3%81%A9%E3%81%BE%E3%81%A0%E5%A5%BD%E3%81%8D%E3%81%A3%E3%81%A6%E6%9B%B2/1513498823?i=1513498831&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/12/b2/cc/12b2ccfd-c987-7c46-637f-b4b3a7b39305/mzaf_3164038764713706230.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b2/2a/f9/b22af9e9-41a5-d102-56af-297b2e76b359/9782278091027_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/41/62/2d416235-b7e4-0584-13ae-9c860fdea99e/859755770290_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-29 13:09:45 (UTC)
+⏳ 업데이트 시간: 2026-01-29 14:41:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
