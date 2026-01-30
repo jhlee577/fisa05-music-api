@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Rain  
-> 아티스트: **Chilled Cougar & LoFi Waiter**  
-> 앨범: _Lofi Rain - Single_  
+## 🎧 Hope  
+> 아티스트: **Shinedown**  
+> 앨범: _Planet Zero_  
 
-🔍 검색 키워드: `lofi+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rock+hope`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-rain/1536556747?i=1536556748&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/a6/98/94a698b1-17ab-b922-17b5-ceb8eb3602ff/mzaf_9376077517614812060.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1606457044?i=1606457295&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/fc/1a/b8fc1a0b-8a75-b74a-d695-afe5b6c05745/mzaf_6104187065763097685.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/86/3f/63863f78-a6ce-d515-888f-bc233bd2a6ec/1792.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/d5/3a/44d53a4a-1a8c-d37d-814a-60deb6fa8213/075679762115.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-30 18:52:27 (UTC)
+⏳ 업데이트 시간: 2026-01-30 19:36:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
