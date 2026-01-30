@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HAPPY  
-> 아티스트: **三代目 J Soul Brothers from EXILE TRIBE**  
-> 앨범: _HAPPY - Single_  
+## 🎧 Hope  
+> 아티스트: **Avishai Cohen**  
+> 앨범: _Brightlight_  
 
-🔍 검색 키워드: `kpop+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `jazz+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1208389814?i=1208389837&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c8/c7/68/c8c7684f-134d-3525-064f-b3dfb076822f/mzaf_13611809731323556303.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1746079057?i=1746079558&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/5c/3e/935c3ee7-c951-cc5f-f0b2-98f391e7b522/mzaf_1290565230524994000.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/34/1f/cd/341fcd22-d197-1142-7cda-fcb876a236ba/RZCD-86294.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/c3/08/3ec3081e-ff13-3426-f7d4-9345c20201a1/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-30 05:52:15 (UTC)
+⏳ 업데이트 시간: 2026-01-30 06:58:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
