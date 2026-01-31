@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Perfect Night  
-> 아티스트: **LE SSERAFIM**  
-> 앨범: _Perfect Night - Single_  
+## 🎧 ヒップホップ・ドリーム  [Track by I-DeA]  
+> 아티스트: **漢 a.k.a. GAMI**  
+> 앨범: _ヒップホップ・ドリーム_  
 
-🔍 검색 키워드: `kpop+night`  
+🔍 검색 키워드: `hiphop+dream`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/perfect-night/1713266687?i=1713266694&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/db/f5/da/dbf5da33-bfce-719c-e53e-b9d5ae104fd7/mzaf_16185830484473233385.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%83%92%E3%83%83%E3%83%97%E3%83%9B%E3%83%83%E3%83%97-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0-track-by-i-dea/1389237981?i=1389237989&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/11/f4/de11f4bd-547e-6308-4f74-e41a8c5a4be0/mzaf_14103982597767920409.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/27/3a/da273ad3-72c6-92e2-e4c6-c7f7a62d76f4/23UM1IM27721.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/e7/06/3ce70697-6af2-8e1d-980a-6b2b0cff8822/9SRI-010.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-31 14:29:21 (UTC)
+⏳ 업데이트 시간: 2026-01-31 15:29:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
