@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **PianoSista**  
-> 앨범: _The Joy of Yiruma (16 Heartwarming Pianotracks)_  
+## 🎧 Happy (From "Despicable Me 2")  
+> 아티스트: **Pharrell Williams**  
+> 앨범: _G I R L_  
 
-🔍 검색 키워드: `instrumental+hope`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1137657814?i=1137658204&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/9b/8a/399b8a48-aaf6-ac6d-df0d-800bfb52f5bb/mzaf_17906241569547714567.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-from-despicable-me-2/863835302?i=863835363&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/ba/89/4cba89f1-1a8a-3f33-b3ac-d88bcad8b996/mzaf_17135561476274403451.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/6d/c3/206dc34f-e78e-a1ea-5ed0-73cdc37fd694/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/ff/5e/76ff5ee0-7ab4-2ac2-2598-486a9ccc06e1/886444516877.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-01 08:39:01 (UTC)
+⏳ 업데이트 시간: 2026-02-01 09:36:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
