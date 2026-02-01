@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dreams and Ambitions  
-> 아티스트: **FM STAR**  
-> 앨범: _Winter Jazz Lounge Cafe - Calm Relaxing Chill Jazz_  
+## 🎧 Hope  
+> 아티스트: **PianoSista**  
+> 앨범: _The Joy of Yiruma (16 Heartwarming Pianotracks)_  
 
-🔍 검색 키워드: `instrumental+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `instrumental+hope`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/dreams-and-ambitions/1869275652?i=1869276391&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/38/73/9638733e-5c3f-8781-b703-fc3bafe62c1b/mzaf_15034801296538141747.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1137657814?i=1137658204&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/9b/8a/399b8a48-aaf6-ac6d-df0d-800bfb52f5bb/mzaf_17906241569547714567.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/87/d6/c387d65d-061e-757d-2c56-220f1932e2a4/4550752660497_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/6d/c3/206dc34f-e78e-a1ea-5ed0-73cdc37fd694/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-01 07:40:42 (UTC)
+⏳ 업데이트 시간: 2026-02-01 08:39:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
