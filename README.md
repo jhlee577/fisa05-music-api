@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 RnB Love  
-> 아티스트: **Tomeka Williams**  
-> 앨범: _Beautifully Complicated - EP_  
+## 🎧 SAD!  
+> 아티스트: **XXXTENTACION**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rnb-love/1568994212?i=1568994344&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/b5/f8/39b5f8b3-c48e-178d-da47-5a44d6848dd1/mzaf_6881924906818479093.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/sad/1407067992?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/b1/80/c5/b180c53d-06ce-62df-0ce6-028aade128e3/mzvf_5595941368422935315.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/30/2a/67302a59-6022-a32a-e8b8-abc514e9b87f/859747992969_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/bb/72/9c/bb729cf4-3b0d-ec07-114e-316fa700ac2d/00842812108747_00001.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-01 10:32:16 (UTC)
+⏳ 업데이트 시간: 2026-02-01 11:26:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
