@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (From "Despicable Me 2")  
-> 아티스트: **Pharrell Williams**  
-> 앨범: _Unknown Album_  
+## 🎧 Happy  
+> 아티스트: **Ned's Atomic Dustbin**  
+> 앨범: _God Fodder_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rock+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/happy-from-despicable-me-2/793299815?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy/290933571?i=290933667&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/87/b2/2b/87b22b7e-9627-ba0d-29d1-53b5d9724cf6/mzaf_9845666121043699359.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/21/0b/24/mzi.ajpjjogf.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-01 19:29:14 (UTC)
+⏳ 업데이트 시간: 2026-02-01 20:33:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
