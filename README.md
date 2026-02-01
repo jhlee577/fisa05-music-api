@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Here At Last**  
-> 앨범: _Happy (Acoustic) - Single_  
+## 🎧 Sans toi (feat. Fana)  
+> 아티스트: **Young Loyd Wallace**  
+> 앨범: _Hip-Hop Love_  
 
-🔍 검색 키워드: `acoustic+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1654468539?i=1654468765&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c2/42/35/c242359c-25ce-9a30-c301-fd044723983e/mzaf_13229366182785942325.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/sans-toi-feat-fana/781423479?i=781423633&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/d1/6a/d9d16a86-2e1b-db2a-dbd6-152f994f12a6/mzaf_1828652611786955215.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/84/5a/92/845a92d1-ad0f-5fbf-f115-60dc17467bb1/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/bc/55/40/bc5540ef-6696-6390-cf52-97f6f141ac5f/3700735803347.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-01-31 23:28:44 (UTC)
+⏳ 업데이트 시간: 2026-02-01 02:54:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
