@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Sad  
-> 아티스트: **Sad Music**  
-> 앨범: _Lofi HipHop Beats To Sleep and Study To - Lofi Radio 247_  
+## 🎧 No Scrubs  
+> 아티스트: **TLC**  
+> 앨범: _FanMail_  
 
-🔍 검색 키워드: `lofi+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-sad/1596058086?i=1596058106&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f8/ec/cb/f8eccb28-dc01-1581-0aab-bc75093bbcf9/mzaf_18342706384585507100.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/no-scrubs/298575243?i=298575248&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/d7/cb/59d7cbad-8695-6bef-5784-05d678ad22ad/mzaf_10240892877744551995.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/35/a4/7735a4e8-0e03-600d-a175-d1a82b19a979/24343.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d0/94/0f/d0940f87-3c4e-4e47-7ca8-86272fc93aab/dj.egyjyybr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-02 02:43:20 (UTC)
+⏳ 업데이트 시간: 2026-02-02 05:02:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
