@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **김동률**  
-> 앨범: _Hope_  
+## 🎧 One Love feat. MACCHO(OZROSAURUS)  
+> 아티스트: **SAY**  
+> 앨범: _One Love (Limited Edition)_  
 
-🔍 검색 키워드: `kpop+hope`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1646160542?i=1646160554&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/17/ae/8d17ae59-4f8c-35f4-2ce9-4f121a077a7f/mzaf_8000422365062406946.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/one-love-feat-maccho-ozrosaurus/720542245?i=720542992&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c8/78/6c/c8786c1c-93f6-14a5-dcb4-25dba86544a1/mzaf_15907651511307387130.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/19/c2/60/19c2607a-b246-bf49-c8e1-0ebb02e4ceb8/8806163322599_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/v4/46/0b/1a/460b1a33-6f01-b1e2-cd17-ac4cd38348eb/05099963343052.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-02 13:12:41 (UTC)
+⏳ 업데이트 시간: 2026-02-02 14:48:27 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
