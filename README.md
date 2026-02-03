@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Rain - Part One  
-> 아티스트: **Richard Durrant**  
-> 앨범: _Thunder, Lightening & Rain_  
+## 🎧 lofi hope  
+> 아티스트: **Lofi Blissful Music, LoFi Chill & Study Music & Sounds**  
+> 앨범: _Chill Lofi Beats_  
 
-🔍 검색 키워드: `acoustic+rain`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `lofi+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-rain-part-one/256538631?i=256538643&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/0f/e4/c4/0fe4c4d5-5ad7-7176-1c7d-3e4f6afc8360/mzaf_16974299206669925599.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-hope/1850136733?i=1850136742&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/61/4f/5b614f6d-8d89-5c0e-fc17-e8631e171ff4/mzaf_4986380452964917102.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cf/7f/82/cf7f8245-fc4a-f52e-4cfa-22a4fec0fc85/829410258876.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/7d/07/897d0712-c3fb-4062-9208-0002a10be86b/920562.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-03 14:50:59 (UTC)
+⏳ 업데이트 시간: 2026-02-03 15:55:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
