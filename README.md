@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 lofi hope  
-> 아티스트: **Lofi Blissful Music, LoFi Chill & Study Music & Sounds**  
-> 앨범: _Chill Lofi Beats_  
+## 🎧 Lofi Rain  
+> 아티스트: **LofiLoveU**  
+> 앨범: _Lofi Rain - Single_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-hope/1850136733?i=1850136742&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/61/4f/5b614f6d-8d89-5c0e-fc17-e8631e171ff4/mzaf_4986380452964917102.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-rain/1465978708?i=1465978709&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/d9/95/fcd99517-1a98-ef20-f726-891f4bb72e71/mzaf_8849528983799861095.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/7d/07/897d0712-c3fb-4062-9208-0002a10be86b/920562.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/36/6f/39/366f3976-f008-f4fd-cefb-0e2dcf58dd00/888915910528_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-03 15:55:08 (UTC)
+⏳ 업데이트 시간: 2026-02-03 17:00:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
