@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM (Korean Ver.)  
-> 아티스트: **SEVENTEEN**  
-> 앨범: _SEVENTEEN BEST ALBUM ‘17 IS RIGHT HERE’_  
+## 🎧 Instrumental Dream  
+> 아티스트: **Relaxation Ready**  
+> 앨범: _Meditation Tribe - Deeply Relaxing Yoga, Meditation Music for Energy_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream-korean-ver/1742910872?i=1742911021&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/8b/da/fb8bdac5-e6b1-cb27-be87-3c68dedea18f/mzaf_12404635054603181338.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/instrumental-dream/1358845148?i=1358845449&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/67/7c/ea/677cea62-4003-b067-3f78-1597abc20058/mzaf_13904516782962521102.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/fa/b9/a7fab907-4f64-45e8-076a-96bbb305a901/24UMGIM43598.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ca/2d/fe/ca2dfe36-8f39-d5a3-058d-434ccd1a4c3f/8033772916257.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-02 23:34:09 (UTC)
+⏳ 업데이트 시간: 2026-02-03 02:39:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
