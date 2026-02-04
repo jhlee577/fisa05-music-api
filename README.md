@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad  
-> 아티스트: **J.Sheon**  
-> 앨범: _The Alley_  
+## 🎧 midsummer pipe dream  
+> 아티스트: **Guitarricadelafuente & Troye Sivan**  
+> 앨범: _midsummer pipe dream - Single_  
 
-🔍 검색 키워드: `ballad+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `pop+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad/1487965424?i=1487965837&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/19/44/e4/1944e49e-4730-bb6d-11dc-b56ab5df28c4/mzaf_13294601811434978205.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/midsummer-pipe-dream/1827006967?i=1827006970&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/70/f3/cf70f382-d041-514c-01f4-19b12f3fc4f2/mzaf_9291094813047038134.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/fb/7c/37fb7c33-8147-554a-39c2-2521226a48f3/886448133841.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/2a/94/ee2a940d-872b-d343-7a9c-a9804d12cb4d/dj.gptpjask.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-04 05:53:44 (UTC)
+⏳ 업데이트 시간: 2026-02-04 07:00:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
