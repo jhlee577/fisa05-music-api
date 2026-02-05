@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Na Na Na (Na Na Na Na Na Na Na Na Na)  
-> 아티스트: **My Chemical Romance**  
-> 앨범: _Rock Summer_  
+## 🎧 Take Care of Yourself (Live Acoustic)  
+> 아티스트: **Maisie Peters**  
+> 앨범: _Acoustic Summer_  
 
-🔍 검색 키워드: `rock+summer`  
+🔍 검색 키워드: `acoustic+summer`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/na-na-na-na-na-na-na-na-na-na-na-na/1627799583?i=1627802191&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8b/bb/b1/8bbbb15e-3614-149d-469c-b062cab8875c/mzaf_5381709264214997774.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/take-care-of-yourself-live-acoustic/1570827301?i=1570828841&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/97/2f/2a/972f2ae6-7679-5be7-41cc-cd5e507717f7/mzaf_2418196382315730253.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/39/e8/66/39e866b3-1041-e2e7-dec4-d4099b04ad75/5059460139800.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/4b/64/d04b64d3-7238-792e-c8dd-e5ec3eb562aa/5059460083561.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-05 19:40:36 (UTC)
+⏳ 업데이트 시간: 2026-02-05 20:39:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
