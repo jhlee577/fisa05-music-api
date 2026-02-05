@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **ジェラルド・アルブライト**  
-> 앨범: _G-Stream - Single_  
+## 🎧 Dream  
+> 아티스트: **Rabpit**  
+> 앨범: _Deemo, Vol. 1_  
 
-🔍 검색 키워드: `jazz+hope`  
+🔍 검색 키워드: `instrumental+dream`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1530259016?i=1530259021&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a1/98/30/a19830f6-c9f7-d63c-2a2f-51d6a79dc8a6/mzaf_4484751888822055732.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream/1119850105?i=1119852027&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3b/50/17/3b5017c9-2a6c-19e2-bb19-22ada5370e73/mzaf_1609744198906286012.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/90/43/8a/90438ae0-6374-c629-7884-3e37283a58c3/672975731953.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/d2/99/1f/d2991fbd-8b4c-37ea-73f9-291e65244661/859717464946_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-05 11:39:02 (UTC)
+⏳ 업데이트 시간: 2026-02-05 13:14:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
