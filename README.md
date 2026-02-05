@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Sleeping Buddha Piano**  
-> 앨범: _Insomnia 2018 - 30 Songs to Improve Sleep and Manage Anxiety_  
+## 🎧 A Life of The Mind (feat. DaikixCousin)  
+> 아티스트: **ALL BGM CHANNEL**  
+> 앨범: _lofi summer (feat. DaikixCousin)_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/instrumental-night/1446266924?i=1446266938&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/43/88/424388a2-f27f-1895-8592-0793158b40c1/mzaf_12593872232774658732.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/a-life-of-the-mind-feat-daikixcousin/1623998897?i=1623998912&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/4e/62/19/4e6219d9-424f-d233-3ae8-4ced5e5beb61/mzaf_6825786018678016564.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/20/0b/6f/200b6f1d-7b35-5f9a-5df3-e234fbbc975b/8033773001754.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/04/d2/a6/04d2a61d-14ab-5db4-d2ac-a85a6690a90c/859758215200_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-05 04:52:25 (UTC)
+⏳ 업데이트 시간: 2026-02-05 05:59:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
