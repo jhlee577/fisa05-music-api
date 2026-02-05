@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 A Life of The Mind (feat. DaikixCousin)  
-> 아티스트: **ALL BGM CHANNEL**  
-> 앨범: _lofi summer (feat. DaikixCousin)_  
+## 🎧 Rain(Koda Kumi Premium Night 〜Love & Songs〜)  
+> 아티스트: **倖田來未**  
+> 앨범: _Koda Kumi Premium Night - Love & Songs_  
 
-🔍 검색 키워드: `lofi+summer`  
+🔍 검색 키워드: `instrumental+rain`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/a-life-of-the-mind-feat-daikixcousin/1623998897?i=1623998912&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/4e/62/19/4e6219d9-424f-d233-3ae8-4ced5e5beb61/mzaf_6825786018678016564.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/rain-koda-kumi-premium-night-love-songs/615912536?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/42/4d/12/424d1225-c792-07dd-6c6c-766e3c57ed48/mzvf_3581736809913192512.640x360.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/04/d2/a6/04d2a61d-14ab-5db4-d2ac-a85a6690a90c/859758215200_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/76/43/c9/7643c9eb-f0b2-7c1f-b316-d4282136f2c2/dj.wuxgjlos.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-05 05:59:32 (UTC)
+⏳ 업데이트 시간: 2026-02-05 07:12:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
