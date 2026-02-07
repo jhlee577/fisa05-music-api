@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Where Is My Love (I Got a Fear, In My Blood)  
-> 아티스트: **lofi.sad**  
-> 앨범: _Where Is My Love (I Got a Fear, In My Blood) - Single_  
+## 🎧 Summer (from "Kikujiro")  
+> 아티스트: **Joe Hisaishi**  
+> 앨범: _Dream Songs: The Essential Joe Hisaishi_  
 
-🔍 검색 키워드: `lofi+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/where-is-my-love-i-got-a-fear-in-my-blood/1596731184?i=1596731185&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ae/64/44/ae644462-27fb-00d4-1e80-3e401f811420/mzaf_13105301470363254385.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer-from-kikujiro/1485854555?i=1485854957&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/78/d3/b478d357-cb01-078d-b1ed-f6f279877ebe/mzaf_7274791935371980127.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/b7/de/c4b7de5c-beec-1e31-0cfa-626d5f7311e5/196513605181_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0a/0c/85/0a0c8531-746f-370e-db4d-29cc3cb20030/19UMGIM98620.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-07 13:01:29 (UTC)
+⏳ 업데이트 시간: 2026-02-07 14:31:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
