@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 It Must Have Been Love  
-> 아티스트: **Roxette**  
-> 앨범: _Don't Bore Us - Get To the Chorus! Roxette's Greatest Hits_  
+## 🎧 Happy (Acoustic Version)  
+> 아티스트: **magicbox**  
+> 앨범: _Summer Beach Acoustic_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `acoustic+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/it-must-have-been-love/1117399320?i=1117399412&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/46/25/b0462537-b2f7-f944-7b5e-aa58ff8f2856/mzaf_6092374489474933884.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy-acoustic-version/1131526782?i=1131526807&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3a/e5/e6/3ae5e6a9-5303-539f-94ec-8d4d921b4ff2/mzaf_16579014356298921201.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/06/11/9f061120-2d02-95ca-d31b-1cb4310aec0f/190295942069.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/41/8f/1c/418f1c95-c1e1-7540-80c5-11e74eb5e41a/summer-beach-acoustic_2.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-09 09:00:25 (UTC)
+⏳ 업데이트 시간: 2026-02-09 10:59:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
