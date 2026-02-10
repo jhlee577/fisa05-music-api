@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 FEARLESS  
-> 아티스트: **LE SSERAFIM**  
-> 앨범: _FEARLESS - EP_  
+## 🎧 Summer  
+> 아티스트: **Marshmello**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `kpop+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/fearless/1621419672?i=1621419675&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/97/df/6c/97df6c24-c213-d6a8-5aff-6668ef8d896d/mzaf_7536290938402082395.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/music-video/summer/1211720349?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/93/4c/72/934c727b-2a04-b4e5-4e07-5fa1826fb87a/mzvf_5761377996495456425.640x240.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/5f/12/775f1245-eb8e-994a-19c8-2137a0374f92/22UMGIM45949.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/49/1a/e6/491ae603-69a1-5eba-3fb7-fef4d91c2388/dj.zckxwdtr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-10 10:58:23 (UTC)
+⏳ 업데이트 시간: 2026-02-10 11:55:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
