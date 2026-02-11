@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Jazz  
-> 아티스트: **Gold-Tiger**  
-> 앨범: _Happy Jazz - Single_  
+## 🎧 Carnivore Diet for Health  
+> 아티스트: **Lofi Sad**  
+> 앨범: _Romantic Lofi_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy-jazz/1550137557?i=1550137558&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/b4/43/25/b443258f-7492-26ad-b8e8-ed3e4a8a4787/mzaf_17662466119637604881.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/carnivore-diet-for-health/1636360468?i=1636360471&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d4/6b/0c/d46b0cba-b34b-78bd-1a72-4e21b5bf6279/mzaf_3404247965488563969.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6f/f2/37/6ff237a2-994a-e8c3-df8c-bc4f1ca0da7f/5059741145117_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/cb/1b/aacb1b6b-e84c-427d-200b-fef908c05a64/cover_10231382.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-11 21:38:12 (UTC)
+⏳ 업데이트 시간: 2026-02-11 22:35:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
