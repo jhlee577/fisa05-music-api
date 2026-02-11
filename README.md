@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Carnivore Diet for Health  
-> 아티스트: **Lofi Sad**  
-> 앨범: _Romantic Lofi_  
+## 🎧 Rain (Forest Version)  
+> 아티스트: **명상음악**  
+> 앨범: _휴식할 때 듣는 감성 피아노 연주곡 베스트_  
 
-🔍 검색 키워드: `lofi+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `instrumental+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/carnivore-diet-for-health/1636360468?i=1636360471&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d4/6b/0c/d46b0cba-b34b-78bd-1a72-4e21b5bf6279/mzaf_3404247965488563969.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain-forest-version/1573557873?i=1573558525&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/05/6b/69/056b69c4-d535-9145-8d02-f48022d61a6d/mzaf_15711734969233423942.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/cb/1b/aacb1b6b-e84c-427d-200b-fef908c05a64/cover_10231382.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/8e/02/c98e0225-c68c-9709-568e-e35145e8ee91/8809795766267.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-11 22:35:26 (UTC)
+⏳ 업데이트 시간: 2026-02-11 23:38:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
