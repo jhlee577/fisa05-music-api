@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Old Sea Brigade**  
-> 앨범: _Ode to a Friend_  
+## 🎧 SAD!  
+> 아티스트: **XXXTENTACION**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `acoustic+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1603594970?i=1603594980&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2c/fe/e0/2cfee0b8-5b4b-1c9f-9534-029c535d487b/mzaf_8878616783244901770.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/sad/1407067992?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/b1/80/c5/b180c53d-06ce-62df-0ce6-028aade128e3/mzvf_5595941368422935315.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/92/8a/89928a96-8491-50d6-ce5d-6566895e2e4a/067003117357.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/bb/72/9c/bb729cf4-3b0d-ec07-114e-316fa700ac2d/00842812108747_00001.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-12 11:49:00 (UTC)
+⏳ 업데이트 시간: 2026-02-12 13:21:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
