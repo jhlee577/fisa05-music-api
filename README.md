@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (feat. Arbour)  
-> 아티스트: **Ajmw**  
-> 앨범: _Eternal_  
+## 🎧 Rain  
+> 아티스트: **SWV**  
+> 앨범: _Release Some Tension_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope-feat-arbour/1513590690?i=1513590695&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/94/ad/23/94ad2340-95f7-5404-054c-c0fdb8624a94/mzaf_16066960948001049143.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/253640878?i=253641178&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/18/85/0f18854b-ed36-61ac-5931-e5767ad42673/5054284543239.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-13 14:48:12 (UTC)
+⏳ 업데이트 시간: 2026-02-13 15:49:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
