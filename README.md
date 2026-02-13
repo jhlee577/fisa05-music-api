@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer (Mixed)  
-> 아티스트: **Yinoluu**  
-> 앨범: _Nostalgic Lofi (DJ Mix)_  
+## 🎧 Instrumental Night  
+> 아티스트: **Yoga for Children Zone**  
+> 앨범: _Yoga Music for Kids & Beginners - Background Music_  
 
-🔍 검색 키워드: `jazz+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer-mixed/1744448746?i=1744448999&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/5c/05/005c0573-5bde-2f94-d3af-2a9e24f3bf39/mzaf_3735274994219771228.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/instrumental-night/1356323136?i=1356323639&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/e0/0f/6e/e00f6e6c-176c-bbe5-3f94-24d4e032a6d6/mzaf_4599560446171695912.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/82/90/16829096-563d-04c9-f1b7-2cde8ba36c42/e4477d22-9ba7-4e8f-84ec-cdbbe27f3d7d.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a0/89/8d/a0898d94-cb2e-6e56-ba12-8fbb5193c56d/8033772913126.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-13 18:58:24 (UTC)
+⏳ 업데이트 시간: 2026-02-13 19:48:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
