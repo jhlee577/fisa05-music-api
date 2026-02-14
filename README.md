@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad  
-> 아티스트: **Maroon 5**  
-> 앨범: _Overexposed_  
+## 🎧 Every Breath You Take  
+> 아티스트: **The Police**  
+> 앨범: _The Very Best of Sting & The Police_  
 
-🔍 검색 키워드: `pop+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad/1440805161?i=1440805378&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/a2/5d/e9a25dbb-8378-f2e1-cb9c-3be1ed3e9116/mzaf_17544814150957594643.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/every-breath-you-take/1440882817?i=1440882897&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/7e/4f/f37e4f0e-4979-c096-6fa0-7ffc054d0c73/mzaf_8433816559382260848.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/50/29/c2/5029c251-690a-301d-0c4a-eba31f724578/12UMGIM26178.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-14 20:33:22 (UTC)
+⏳ 업데이트 시간: 2026-02-14 21:30:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
