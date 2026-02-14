@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Rain: Lofi Edition  
-> 아티스트: **Lofi Jazz Terrace**  
-> 앨범: _Lofi Study Chill Beats_  
+## 🎧 Hope (Acoustic Live at Attica)  
+> 아티스트: **Little Hours**  
+> 앨범: _Hope (Acoustic Live at Attica) - Single_  
 
-🔍 검색 키워드: `jazz+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-rain-lofi-edition/1874280689?i=1874281012&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/df/a8/bcdfa84d-20aa-b884-1032-89ef49247181/mzaf_11160082130662975093.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope-acoustic-live-at-attica/1780935412?i=1780935413&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/14/40/2614406a-19ad-a115-98c4-2a40bd9f1705/mzaf_14478387458390881773.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/c3/d9/30c3d97a-a815-f633-4b2c-9bb6101cabf5/4550753026087_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/e7/d7/c0e7d7b9-1ce0-f69d-3227-6d98c94796bc/192562628430.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-14 07:37:52 (UTC)
+⏳ 업데이트 시간: 2026-02-14 08:39:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
