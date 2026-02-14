@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Midnight Coffee  
-> 아티스트: **Lofi Watermelon, LoFi Study Music & Lofi Chill and Study**  
-> 앨범: _Lofi Night - EP_  
+## 🎧 Lofi Night  
+> 아티스트: **Silver Box Studio**  
+> 앨범: _Lofi Night - Single_  
 
 🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `DE`
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/midnight-coffee/1683296801?i=1683296803&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/24/a4/f2/24a4f2de-5c29-aff8-4685-a111c984eb34/mzaf_11858274126764389502.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-night/1667362469?i=1667362470&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/2a/73/77/2a737708-fe97-bb8a-4724-c38079214499/mzaf_6860914046501138895.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/6b/95/786b958f-dd13-cf71-6234-05c784208658/4066004554143_3000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c6/12/be/c612beaa-35b4-94c9-dff6-0a6e5acaf12d/055120318214.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-14 14:33:06 (UTC)
+⏳ 업데이트 시간: 2026-02-14 15:31:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
