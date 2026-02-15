@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Brain Rest & Relaxation Piano in Mind**  
-> 앨범: _Spiritual Sounds: Reduce Stress and Keep a Positive Attitude with the Best Relaxing Natural Music for Calming Meditation_  
+## 🎧 Happy Ballad in Dark Castle  
+> 아티스트: **Felix Stille**  
+> 앨범: _Medieval Tavern_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/instrumental-night/1293205282?i=1293205619&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/17/34/a4/1734a425-7c95-9130-6328-bb84dad38136/mzaf_12620394421433242134.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy-ballad-in-dark-castle/1525498966?i=1525498969&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/e5/cf/60e5cf0c-a5e6-165c-fb1f-5ecbd467ca43/mzaf_9520191487175997074.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c0/b7/93/c0b7931f-98ee-2640-ec6c-95174abff42e/8033772901024.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/d7/0e/9bd70efa-63ce-089f-bd3a-a5a5f3a39fff/5060642754599.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-15 15:31:15 (UTC)
+⏳ 업데이트 시간: 2026-02-15 16:37:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
