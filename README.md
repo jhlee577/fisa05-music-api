@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Someone You Loved  
-> 아티스트: **Lewis Capaldi**  
-> 앨범: _Breach - EP_  
+## 🎧 happy  
+> 아티스트: **Drrreems**  
+> 앨범: _dreamstate_  
 
-🔍 검색 키워드: `kpop+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `lofi+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/someone-you-loved/1441539148?i=1441539154&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/7f/3c/957f3c65-d179-e26e-6517-ebf2b10eaeb8/mzaf_8568102570237224733.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy/1821031396?i=1821032226&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/94/cb/6d94cba2-2a8d-5c5c-be6a-734f71f4924f/mzaf_2289994461890781387.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/f7/af/05f7af37-526e-5e6e-e4cd-9e4bc3da0756/18UMGIM52528.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/c6/de/62c6de95-d9e5-21ca-048b-9bed8196454f/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-15 04:58:45 (UTC)
+⏳ 업데이트 시간: 2026-02-15 06:02:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
