@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 lofi hope  
-> 아티스트: **Lofi Blissful Music, LoFi Chill & Study Music & Sounds**  
-> 앨범: _Chill Lofi Beats_  
+## 🎧 Patient  
+> 아티스트: **チャーリー・プース**  
+> 앨범: _Sad Pop_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-hope/1850136733?i=1850136742&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/61/4f/5b614f6d-8d89-5c0e-fc17-e8631e171ff4/mzaf_4986380452964917102.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/patient/1600920973?i=1600921839&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ad/30/7f/ad307f7f-675b-f0c7-9e01-e7331bf93367/mzaf_5124135262655548072.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/7d/07/897d0712-c3fb-4062-9208-0002a10be86b/920562.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/fa/d5/a5fad517-8efe-bd51-60de-1e49fe536a4d/5059460112964.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-17 02:38:59 (UTC)
+⏳ 업데이트 시간: 2026-02-17 04:56:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
