@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Joe Hisaishi**  
-> 앨범: _Dream Songs: The Essential Joe Hisaishi_  
+## 🎧 lofi hope  
+> 아티스트: **Lofi Blissful Music, LoFi Chill & Study Music & Sounds**  
+> 앨범: _Chill Lofi Beats_  
 
-🔍 검색 키워드: `rnb+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+hope`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/summer/1485854555?i=1485854957&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/78/d3/b478d357-cb01-078d-b1ed-f6f279877ebe/mzaf_7274791935371980127.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-hope/1850136733?i=1850136742&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/61/4f/5b614f6d-8d89-5c0e-fc17-e8631e171ff4/mzaf_4986380452964917102.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0a/0c/85/0a0c8531-746f-370e-db4d-29cc3cb20030/19UMGIM98620.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/7d/07/897d0712-c3fb-4062-9208-0002a10be86b/920562.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-16 23:34:55 (UTC)
+⏳ 업데이트 시간: 2026-02-17 02:38:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
