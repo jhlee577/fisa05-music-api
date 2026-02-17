@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Good Old Days (feat. Kesha)  
-> 아티스트: **Macklemore**  
-> 앨범: _GEMINI_  
+## 🎧 The Night We Met  
+> 아티스트: **Lord Huron**  
+> 앨범: _Strange Trails_  
 
-🔍 검색 키워드: `hiphop+dream`  
+🔍 검색 키워드: `rock+night`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/good-old-days-feat-kesha/1272352884?i=1272353167&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/21/51/92215153-eb7e-fc6f-4e62-63d0218dd484/mzaf_14167184008316552425.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/the-night-we-met/1806531135?i=1806531961&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/36/b7/4b36b739-1de7-e0ae-45da-9a66463127ac/mzaf_1821541347983595183.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/db/64/f2/db64f281-7108-0ff5-97c9-60413f3ed1fa/798577099625.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-17 22:12:01 (UTC)
+⏳ 업데이트 시간: 2026-02-17 23:12:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
