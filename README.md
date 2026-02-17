@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Night  
-> 아티스트: **Ocean Bay Jazz**  
-> 앨범: _Rain Sounds Relaxing Guitar for Sleeping_  
+## 🎧 Dream  
+> 아티스트: **春野**  
+> 앨범: _25_  
 
-🔍 검색 키워드: `acoustic+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-night/1564959542?i=1564959797&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b7/25/0c/b7250c4a-d723-073b-36b1-25ef5f0774cc/mzaf_12667805912525725848.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream/1604290686?i=1604290694&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/84/e7/70/84e7708a-1066-94b1-e681-22ccc97b723b/mzaf_13443193186444497814.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/e2/1e/1be21e52-cc4b-f186-0101-ce9bf7b18961/5059805709668_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/9f/1a/e39f1aaf-63be-e47e-e5a6-34076002a250/VEATP-39543.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-17 14:52:45 (UTC)
+⏳ 업데이트 시간: 2026-02-17 15:58:20 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
