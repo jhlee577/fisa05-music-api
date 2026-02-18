@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Dream  
-> 아티스트: **LoFi Babos, Mellowbird & Lofi Chill**  
-> 앨범: _When My Dreams Go Lofi_  
+## 🎧 Happy  
+> 아티스트: **차노을**  
+> 앨범: _Happy - Single_  
 
-🔍 검색 키워드: `lofi+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-dream/1578553955?i=1578554408&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/07/e5/cc/07e5cc52-dc3c-f865-31f7-b2054de5d945/mzaf_1357523847305674124.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy/1744282842?i=1744282843&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/5d/26/425d265d-732f-f092-e7bb-631b34fbf142/mzaf_10827291283139435524.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/23/d7/af/23d7af76-fba4-03d6-b8aa-6ed0c1b2fcb8/9008798420124_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/f0/cf/1bf0cf96-dbb3-27d0-ad45-b7ab7bb34f52/8800250625440_cover.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-18 05:33:45 (UTC)
+⏳ 업데이트 시간: 2026-02-18 06:30:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
