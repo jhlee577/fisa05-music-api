@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Lighthouse Family**  
-> 앨범: _Whatever Gets You Through the Day_  
+## 🎧 Ballad Dream  
+> 아티스트: **Jazz River Light**  
+> 앨범: _Pieces for the Best Sleep_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1443350084?i=1443350100&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/45/3d/11453d35-0657-a119-e48f-40ba1af5f2cd/mzaf_18165964020814782117.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-dream/1750418307?i=1750418309&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/5f/d9/475fd9b8-448a-325e-bb49-ffdd79a01822/mzaf_4683454702135363521.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/32/3b/70/323b70ad-39ca-5122-a3d6-f48efce373f9/00731458941224.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/ce/4f/dfce4f13-8844-c870-1c38-21c96b069035/2403630165.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-19 04:42:19 (UTC)
+⏳ 업데이트 시간: 2026-02-19 05:33:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
