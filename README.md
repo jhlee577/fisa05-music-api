@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 LOVE  
-> 아티스트: **몬스타엑스**  
-> 앨범: _SHAPE of LOVE - EP_  
+## 🎧 Jazz Love (Jazz Hip Hop Instrumental)  
+> 아티스트: **Jazz Hop Nation**  
+> 앨범: _Morning Coffee Commute_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `jazz+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love/1620105010?i=1620105012&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/7c/ca/ae7cca05-1aa5-06b4-c5b5-737337f9e7c5/mzaf_17241601088355172713.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/jazz-love-jazz-hip-hop-instrumental/1531948892?i=1531949512&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/4e/24/bd4e24d1-4ead-5937-0fd2-db504f7a97a6/mzaf_10627178022987105237.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ef/4f/ca/ef4fca9e-0fa0-c40e-9134-1760f2e01119/cover_KM0015103_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9d/1e/1a9d1e28-54a5-6de8-76fa-df2117f18a1e/13139.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-18 23:12:29 (UTC)
+⏳ 업데이트 시간: 2026-02-19 00:42:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
