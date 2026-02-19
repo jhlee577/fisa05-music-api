@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Some Things I'll Never Know (feat. Maren Morris)  
-> 아티스트: **Teddy Swims**  
-> 앨범: _Acoustic Summer_  
+## 🎧 Happy  
+> 아티스트: **Lighthouse Family**  
+> 앨범: _Whatever Gets You Through the Day_  
 
-🔍 검색 키워드: `acoustic+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rock+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/some-things-ill-never-know-feat-maren-morris/1805863699?i=1805864263&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/be/cd/70becd60-071d-8b0e-fea4-35606118d6ca/mzaf_380634416966885497.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1443350084?i=1443350100&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/45/3d/11453d35-0657-a119-e48f-40ba1af5f2cd/mzaf_18165964020814782117.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/9c/78/309c78e0-c653-ef75-3e64-7bc5a7b37957/5059460387614.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/32/3b/70/323b70ad-39ca-5122-a3d6-f48efce373f9/00731458941224.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-19 03:07:49 (UTC)
+⏳ 업데이트 시간: 2026-02-19 04:42:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
