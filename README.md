@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Musiq Soulchild**  
-> 앨범: _Aijuswanaseing_  
+## 🎧 Jazz Dream  
+> 아티스트: **Hotel Portofino Lounge Café**  
+> 앨범: _Cafe Bossa Nova 2018 - Enjoy Countless Hours of the Best Jazz Music Around_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/love/1442380458?i=1442380470&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/66/0d/a2660d5f-12e9-276f-dace-fcf52f133e82/mzaf_3328129664685710498.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/jazz-dream/1445689769?i=1445689773&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/83/e1/9f83e1c2-7e6e-7b4c-b85b-3a956c099a5e/mzaf_6759835865508385139.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/40/af/4b40af29-c564-f11c-ee1a-f46666480604/06UMGIM26795.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a8/18/62/a81862ca-8c02-d6f5-e54e-9b27d273114d/8033773001013.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-20 06:26:25 (UTC)
+⏳ 업데이트 시간: 2026-02-20 07:25:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
