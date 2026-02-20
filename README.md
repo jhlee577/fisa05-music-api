@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Lofi  
-> 아티스트: **Lavish & Chill Ghost**  
-> 앨범: _Happy Lofi - Single_  
+## 🎧 Lofi Night  
+> 아티스트: **LoFi Hip Hop**  
+> 앨범: _Lo-fi Chill (Lofi Beats & Instrumentals)_  
 
-🔍 검색 키워드: `lofi+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `lofi+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-lofi/1735603214?i=1735603216&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/57/57/a9/5757a9d2-44f3-da00-66da-4f6bcade2f4b/mzaf_4627786038684964186.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-night/1858747612?i=1858748205&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/09/a5/a109a505-b4df-d84c-d8f8-dc34f9827903/mzaf_11275266167978618810.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/77/21/247721eb-26a3-b360-5e62-65026feccb26/1963621886738_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/2c/b7/3d2cb75f-0b01-2149-9d28-9c5c43d51f0c/835.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-20 03:05:39 (UTC)
+⏳ 업데이트 시간: 2026-02-20 04:39:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
