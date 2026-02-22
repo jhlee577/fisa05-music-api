@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Dream  
-> 아티스트: **Dyalla**  
-> 앨범: _Video Music, Mega Mix, Vol. 2_  
+## 🎧 Dream (feat. Lucky Daye)  
+> 아티스트: **Queen Naija**  
+> 앨범: _missunderstood_  
 
-🔍 검색 키워드: `lofi+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rnb+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-dream/1818268629?i=1818268888&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/34/a9/d634a9c3-61e8-b5ac-7519-c7ea287fa9c3/mzaf_902426845281990804.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/dream-feat-lucky-daye/1534083266?i=1534083852&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/45/07/81450721-c993-b792-c776-4c40b41a12e5/mzaf_5927626396453958143.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c7/69/f9c7691a-18f7-df47-88c6-1579404ce1c3/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/ef/c9/ffefc90a-6c63-29a9-7022-c4485e642b9a/20UMGIM77889.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-22 19:11:21 (UTC)
+⏳ 업데이트 시간: 2026-02-22 20:09:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
