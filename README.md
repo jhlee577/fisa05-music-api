@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Jazz  
-> 아티스트: **Jazz Piano**  
-> 앨범: _Smooth Synergy: Smooth Jazz_  
+## 🎧 In the Air Tonight  
+> 아티스트: **Phil Collins**  
+> 앨범: _Face Value (Deluxe Edition)_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rock+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy-jazz/1768783437?i=1768783653&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/17/8c/e8178c81-0bce-f61c-e628-e775d9339a42/mzaf_16141484655734959248.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/in-the-air-tonight/1076779219?i=1076779225&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/aa/64/8c/aa648c0e-a166-0c26-f491-65d6ec769f78/mzaf_11832742059273415828.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/55/0a/e4550a7f-0a4c-ae4d-0488-aff22ff50079/cover_10318031.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/64/d1/e264d18c-2b20-051d-3fc3-68b3424f8cde/603497880249.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-23 18:28:57 (UTC)
+⏳ 업데이트 시간: 2026-02-23 19:28:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
