@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **LoFi Hip Hop**  
-> 앨범: _Chill Study Beats_  
+## 🎧 Summer  
+> 아티스트: **Imagine Dragons**  
+> 앨범: _Smoke + Mirrors (Deluxe)_  
 
-🔍 검색 키워드: `hiphop+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1487875150?i=1487875159&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9e/83/d1/9e83d155-37f3-6eb0-c757-334cc1443a98/mzaf_815913555218092660.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer/1440831203?i=1440831441&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/fc/f5/40fcf5fe-8598-194e-bc9d-7ad6b2da9fa9/mzaf_954813310690710520.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/10/80/6d1080b9-f527-8b44-b84a-e6ee33eb729d/7243.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/a8/b0/b3a8b05f-7dfe-f557-6147-57e74dfdbebe/15UMGIM53209.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-23 08:21:23 (UTC)
+⏳ 업데이트 시간: 2026-02-23 09:25:23 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
