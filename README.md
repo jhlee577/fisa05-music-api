@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Kid Wise**  
-> 앨범: _L'innocence_  
+## 🎧 Summer  
+> 아티스트: **히사이시 조 & 런던 심포니 오케스트라**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `pop+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope/1443482162?i=1443482170&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/89/f9/4e/89f94e67-4a48-53b0-a414-da15f85cee73/mzaf_7563636466854440989.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/summer/1495039274?uo=4)  
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/96/c8/7496c89f-5603-00bf-39f9-d86a614f828f/00602547142573.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-24 12:22:28 (UTC)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/0d/31/47/0d314759-66bd-d05e-dc23-75b77c519338/19UM1IM15508.crop.jpg/100x100bb.jpg)
+
+⏳ 업데이트 시간: 2026-02-24 13:35:31 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
