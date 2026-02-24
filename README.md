@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 거리에서  
-> 아티스트: **성시경**  
-> 앨범: _The Ballads_  
+## 🎧 Pop Dream  
+> 아티스트: **Lilly Wolf**  
+> 앨범: _Deleted Scenes_  
 
-🔍 검색 키워드: `ballad+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+dream`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%B1%B0%EB%A6%AC%EC%97%90%EC%84%9C/1543850903?i=1543850904&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7f/cb/ae/7fcbae10-e463-ca59-2094-81cf875e199e/mzaf_3664734411788512450.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/pop-dream/1040096361?i=1040096366&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a9/e5/8a/a9e58af8-3adc-7cbe-7252-cd1c132153ac/mzaf_6924309994899700281.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/7c/88/217c88ed-80bf-adfa-7cdf-a5c219daf9f7/8809784722939.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/10/95/0b/10950b30-972a-154a-7816-3b560aae4e28/mzm.irhjxfqp.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-23 23:17:20 (UTC)
+⏳ 업데이트 시간: 2026-02-24 00:39:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
