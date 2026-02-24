@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 A Night Filled With Unspoken Words  
-> 아티스트: **HanGroove**  
-> 앨범: _You Did Great Today_  
+## 🎧 Piano Rain  
+> 아티스트: **Pop Rain**  
+> 앨범: _Rain and Nature Sounds for Relaxation, Meditation, Sleep, Study, Yoga, Serenity, Harmony and Therapy._  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `pop+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/a-night-filled-with-unspoken-words/1876408010?i=1876408144&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/4a/9b/ac4a9b06-e54e-d634-f1a9-e03f98368c12/mzaf_14655152158707556919.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/piano-rain/1038504469?i=1038504865&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/74/a4/13/74a41374-e678-9a8a-bf5f-20a10e5f2723/mzaf_453678027796966440.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/01/8b/76018b28-2733-dedf-f3a2-2a88dc0ccd5a/8800365012180_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/42/b6/4142b67d-d058-7e02-e7b3-ba445a320e39/mzm.eblmhqec.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-24 16:28:24 (UTC)
+⏳ 업데이트 시간: 2026-02-24 17:27:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
