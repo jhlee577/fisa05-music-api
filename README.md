@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Pas Jalouse  
-> 아티스트: **Bamby & Kerchak**  
-> 앨범: _Pas Jalouse - Single_  
+## 🎧 lofi rain  
+> 아티스트: **a girl and a cat**  
+> 앨범: _lofi study 2021 - EP_  
 
-🔍 검색 키워드: `hiphop+night`  
+🔍 검색 키워드: `lofi+rain`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/pas-jalouse/1814404115?i=1814404239&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/7c/e2/957ce27b-ad71-f640-dd98-98bb468e0c69/mzaf_18147054822557379582.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-rain/1546062891?i=1546062893&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/2f/9d/83/2f9d8351-2aa1-c686-92b5-60bbcd773d47/mzaf_5924531274331352463.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/79/e1/5e79e1d2-b06a-36b3-b6a2-306edc71fcba/25UMGIM86462.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/76/01/c776016a-4c8c-2d8a-f655-07eef902c266/3701421589897.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-25 17:28:01 (UTC)
+⏳ 업데이트 시간: 2026-02-25 18:29:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
