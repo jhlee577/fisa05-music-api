@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Dream  
-> 아티스트: **Delrady**  
-> 앨범: _Acoustic Dream - Single_  
+## 🎧 Love  
+> 아티스트: **Rema**  
+> 앨범: _Rave & Roses_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/acoustic-dream/1718989704?i=1718989705&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/43/b3/2443b380-7e37-a57b-12c7-980da1d4a47d/mzaf_6936564266011837407.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love/1614063395?i=1614063475&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/84/d9/6784d9d6-ab76-b98e-4f38-1270bea44f6e/mzaf_18305025342363658808.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/16/39/56163943-bc70-3cb6-ec8b-8ddfdf93ef82/00_Cover_Art.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/b4/7c/b2b47cf9-d8e2-53f6-5c62-c974d665c95b/22UMGIM08994.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-27 07:23:30 (UTC)
+⏳ 업데이트 시간: 2026-02-27 08:19:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
