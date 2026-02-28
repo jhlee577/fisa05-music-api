@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz  
-> 아티스트: **Amazing Chill Out Jazz Paradise**  
-> 앨범: _Relaxing Summer Jazz: New Collection 2019 Vol. 2 Piano Bar, Guitar del Mar and Sexy Saxophone - Blue Marine Cafe and Bossa Nova Lounge Bar Music_  
+## 🎧 Summer  
+> 아티스트: **NVA**  
+> 앨범: _드라마&OST가 만난 바이올린&첼로 앙상블 Vol.2_  
 
-🔍 검색 키워드: `jazz+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `instrumental+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/jazz/1471743132?i=1471743135&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/db/ee/f6/dbeef6d1-eac1-b0bb-f1b3-0e1dfa5b95da/mzaf_1300272612142882758.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer/879388191?i=879388207&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a6/cf/f0/a6cff00e-2a2f-0a8b-e8b5-6c1bc0c59e19/mzaf_6078931946904584250.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/1d/4e/221d4e38-9eab-dbd6-7a55-e9f49a293c47/5060642725094.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/83/d8/c8/83d8c801-cd28-6a24-f5a5-4a028dbd9826/image.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-28 15:07:48 (UTC)
+⏳ 업데이트 시간: 2026-02-28 16:09:23 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
