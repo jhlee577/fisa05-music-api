@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream (feat. DJ Dopsh)  
-> 아티스트: **미료**  
-> 앨범: _Queen - Single_  
+## 🎧 Sad  
+> 아티스트: **조장혁**  
+> 앨범: _Sad…_  
 
-🔍 검색 키워드: `hiphop+dream`  
+🔍 검색 키워드: `pop+sad`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/dream-feat-dj-dopsh/1628274107?i=1628274112&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/1b/4b/5b/1b4b5b3e-2034-2327-136f-6f3d291cddc6/mzaf_6311800276592950695.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/sad/1861158008?i=1861158010&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/f7/b6/b5f7b695-6641-fa9b-12e4-a62dc75408cb/mzaf_12657431075231622692.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/10/20/6f/10206ffb-797c-6e33-789b-a807e5ad0aa4/8809550045989.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/b3/70/46b3707b-c2cb-2c4d-9b73-ab7a6fcd6fca/191953493145.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-28 10:08:40 (UTC)
+⏳ 업데이트 시간: 2026-02-28 11:07:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
