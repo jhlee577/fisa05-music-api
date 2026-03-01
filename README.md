@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **HY**  
-> 앨범: _Chance_  
+## 🎧 Hope  
+> 아티스트: **Old Sea Brigade**  
+> 앨범: _Ode to a Friend_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy/1440877948?i=1440878320&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1d/19/4a/1d194ac5-015d-274c-4b15-0a00201a92bc/mzaf_6287246562857359293.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/1603594970?i=1603594980&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2c/fe/e0/2cfee0b8-5b4b-1c9f-9534-029c535d487b/mzaf_8878616783244901770.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b5/0d/95/b50d9576-a994-1315-0340-bebcdd491c2f/00602557425345.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/92/8a/89928a96-8491-50d6-ce5d-6566895e2e4a/067003117357.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-01 09:12:15 (UTC)
+⏳ 업데이트 시간: 2026-03-01 10:09:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
