@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sex on Fire  
-> 아티스트: **Kings of Leon**  
-> 앨범: _Only by the Night_  
+## 🎧 Ballad of the Sad Cafe  
+> 아티스트: **Chris Connor**  
+> 앨범: _Sings Ballads of the Sad Cafe_  
 
-🔍 검색 키워드: `rock+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `ballad+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sex-on-fire/290286432?i=290286598&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/68/82/606882ac-9bb0-e25c-f364-a45c548b54dd/mzaf_42278309371130182.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/ballad-of-the-sad-cafe/68237278?i=68236611&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6d/79/74/6d797417-d907-3201-9ee2-0d5a4c336918/mzaf_5258027438723378818.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8a/61/69/8a6169e6-7746-69d0-c9da-4e946f858b1b/886973519929.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d02/h07/s05.uurvgbpu.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-02-28 23:07:54 (UTC)
+⏳ 업데이트 시간: 2026-03-01 00:47:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
