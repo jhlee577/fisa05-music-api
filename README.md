@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Happy  
-> 아티스트: **Oleg Kirilkov**  
-> 앨범: _Happy Jazz_  
+## 🎧 Blue Dream  
+> 아티스트: **Jhené Aiko**  
+> 앨범: _Souled Out (Deluxe Edition)_  
 
-🔍 검색 키워드: `jazz+happy`  
+🔍 검색 키워드: `rnb+dream`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/jazz-happy/1636016025?i=1636016060&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e5/4e/1c/e54e1ca8-9fe8-3997-5aa6-e52d2d269761/mzaf_15907670899542482644.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/blue-dream/1440812881?i=1440814076&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/9f/5b/869f5b46-e0c3-b910-1781-1975b267161c/mzaf_16831744240442569817.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b2/b5/ee/b2b5ee2b-4060-d323-de37-478152879149/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/65/fa/4465fac3-eb41-1452-b3fa-9639c8e2211e/14UMGIM33693.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-02 03:06:13 (UTC)
+⏳ 업데이트 시간: 2026-03-02 04:39:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
