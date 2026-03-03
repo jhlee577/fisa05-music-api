@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Pop Rain  
-> 아티스트: **Pop Rain**  
-> 앨범: _Rain and Nature Sounds for Relaxation, Meditation, Sleep, Study, Yoga, Serenity, Harmony and Therapy._  
+## 🎧 Summer  
+> 아티스트: **久石譲**  
+> 앨범: _ENCORE_  
 
-🔍 검색 키워드: `pop+rain`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/pop-rain/1038504469?i=1038504553&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/24/2d/37/242d37c9-5eda-4da0-4a36-9579cfdb45d2/mzaf_11944966244206702242.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/summer/1498699296?i=1498699298&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/b8/91/8eb8910c-236e-fc27-009e-b2903a1f906f/mzaf_9287264986648513327.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/42/b6/4142b67d-d058-7e02-e7b3-ba445a320e39/mzm.eblmhqec.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/bc/a9/99bca93c-16f6-6258-d1dd-7ea99f9a57b5/20UMGIM04154.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-03 10:18:49 (UTC)
+⏳ 업데이트 시간: 2026-03-03 11:15:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
