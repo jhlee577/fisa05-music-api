@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 I Don't Want to Miss a Thing  
-> 아티스트: **Aerosmith**  
-> 앨범: _Armageddon - The Album_  
+## 🎧 Ballad of the Sad Young Men  
+> 아티스트: **Charles Lloyd & The Marvels**  
+> 앨범: _Vanished Gardens_  
 
-🔍 검색 키워드: `ballad+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `ballad+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/i-dont-want-to-miss-a-thing/217271260?i=217271368&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/df/59/92df5941-10fa-7356-cfc2-96346d6e2c89/mzaf_18024418854298911851.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/ballad-of-the-sad-young-men/1382567381?i=1382567508&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b1/31/61/b13161b0-123c-09b8-5e5a-64b44726da34/mzaf_14682499397621784344.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/f1/af/0af1af45-7deb-3252-15e2-c1394b574d64/mzi.lfxshysm.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5f/88/ae/5f88ae76-8cba-ed13-9fca-be390a71961f/00602567588467.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-04 12:19:14 (UTC)
+⏳ 업데이트 시간: 2026-03-04 13:29:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
