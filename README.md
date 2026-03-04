@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad  
-> 아티스트: **Sonnet**  
-> 앨범: _The World of the Married, Pt. 3 (Original Television Soundtrack) - Single_  
+## 🎧 Hope  
+> 아티스트: **H.O.T.**  
+> 앨범: _Resurretion - The 3rd Album_  
 
-🔍 검색 키워드: `kpop+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `kpop+hope`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sad/1721099463?i=1721099469&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/20/c2/9e20c2d3-6219-e0a2-d186-bbd0985ffe60/mzaf_18236076933167366430.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1060407199?i=1060407446&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/6a/71/eb6a7123-12be-402c-b9be-7e53336bbaac/mzaf_12725283332344095609.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/3c/40/943c4071-9daa-c289-56e7-5ce49c0379d9/8720205027825.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/e1/56/c1/e156c126-7de0-6062-0c6b-00ae19e6cda3/hot_resurrection.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-04 04:37:30 (UTC)
+⏳ 업데이트 시간: 2026-03-04 05:23:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
