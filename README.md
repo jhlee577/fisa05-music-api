@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Unforgettable (feat. Swae Lee) [Mixed]  
-> 아티스트: **French Montana**  
-> 앨범: _Pure Throwback Radio: Hip-Hop Love Songs (DJ Mix)_  
+## 🎧 Sad! (Instrumental)  
+> 아티스트: **Piano Dreamers**  
+> 앨범: _35 Piano Pop Hits of 2018 (Instrumental)_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `instrumental+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/unforgettable-feat-swae-lee-mixed/1697418681?i=1697418834&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ae/05/08/ae050890-88a0-9e7d-b73b-5bb6f09b3522/mzaf_2116482119202409820.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-instrumental/1445569980?i=1445570100&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bc/c2/00/bcc20054-a27e-2439-1e4f-005620c6eefa/mzaf_11048229509217856942.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/c9/e7/25c9e791-5e1e-5bac-27eb-07ed5f5f5b3c/7b110011-bd2e-454c-935c-d3199dde8d8b.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a0/9a/24/a09a2412-00b7-3e9d-3adb-9a87a9add74e/707541090438.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-03 23:10:07 (UTC)
+⏳ 업데이트 시간: 2026-03-04 00:40:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
