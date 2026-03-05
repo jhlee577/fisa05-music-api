@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad! (Piano Version) [Cover]  
-> 아티스트: **Piano Peace**  
-> 앨범: _Relaxing Piano Covers: Best of 2018 - EP_  
+## 🎧 Hope  
+> 아티스트: **Yiruma**  
+> 앨범: _Yiruma Official Album 'The Very Best of Yiruma: Greatest Hits' (The Original & the Very First Recording)_  
 
-🔍 검색 키워드: `instrumental+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+hope`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad-piano-version-cover/1448792918?i=1448793053&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fc/5a/0c/fc5a0c02-8904-e061-d999-bd225cf10d45/mzaf_5393209892460141301.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1437494598?i=1437494696&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/04/09/cf/0409cf2d-1571-fc32-21fe-db541e4d5fa0/mzaf_5629503767399849805.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/69/6a/44/696a440a-b34d-1bdc-f8e4-541efda21636/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/81/0c/4c810cf1-7973-9976-846c-69f965ea60c1/dj.cfihbwta.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-05 07:22:33 (UTC)
+⏳ 업데이트 시간: 2026-03-05 08:17:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
