@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 I Want to Know What Love Is  
-> 아티스트: **Foreigner**  
-> 앨범: _Agent Provocateur_  
+## 🎧 Hope  
+> 아티스트: **Seb Zillner & DECAP**  
+> 앨범: _Hope - Single_  
 
-🔍 검색 키워드: `ballad+love`  
+🔍 검색 키워드: `instrumental+hope`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/i-want-to-know-what-love-is/216663946?i=216663961&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/89/54/e9/8954e9b0-959f-f52a-3d2b-90964c0c9866/mzaf_10610574705966846298.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1573376127?i=1573376128&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5d/2d/a9/5d2da9a3-37c8-cfd3-6b1b-e54341805133/mzaf_17522798620124116499.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/eb/17/49/eb1749a8-29a1-83ef-5d0e-ec3394d3d057/075678279669.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/67/73/1b6773b9-baf8-82ea-161a-d70d0299d99a/cover_4064832621051.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-06 06:22:48 (UTC)
+⏳ 업데이트 시간: 2026-03-06 07:21:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
