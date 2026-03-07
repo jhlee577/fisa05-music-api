@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 lofi night  
-> 아티스트: **Lo-Fi Study Music**  
-> 앨범: _lofi night - Single_  
+## 🎧 꿈  
+> 아티스트: **Colde**  
+> 앨범: _이상주의_  
 
-🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rock+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-night/1663978467?i=1663978468&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/b3/a4/33/b3a4336e-a3b8-a596-81b6-b2961b278b91/mzaf_3742629885228348457.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%BF%88/1577873919?i=1577873923&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/8a/95/7f8a956d-9c8a-a1bf-8be1-512842afb7b1/mzaf_10658229851567494096.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/d2/83/9ad28392-85a6-4e44-b2da-7c51782b63b2/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3e/50/c2/3e50c275-51a4-dfd3-f10a-bc3235aca73c/8804775156991.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-07 19:08:43 (UTC)
+⏳ 업데이트 시간: 2026-03-07 20:08:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
