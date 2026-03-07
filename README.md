@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM  
-> 아티스트: **BABYMONSTER**  
-> 앨범: _BABYMONS7ER - EP_  
+## 🎧 Country Ballad, Summer  
+> 아티스트: **Whiskey Country Band**  
+> 앨범: _Summer Country Hits: 2018 Ballads, Pop Country for Summer Nights, Western Guitar Rhythms_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream/1737962888?i=1737962895&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/b8/5a/61b85a39-cbc9-05bc-d45a-6604ba46b8c3/mzaf_3408650905793289330.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/country-ballad-summer/1398001691?i=1398001717&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/aa/d7/f3aad7ee-362a-d085-0566-48e6d9641621/mzaf_17838571043704340241.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/e0/64/43e0649c-b637-f4dc-7d89-2d15b995e7e5/8134130686352.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-06 23:11:03 (UTC)
+⏳ 업데이트 시간: 2026-03-07 00:39:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
