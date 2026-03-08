@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **MIYEON**  
-> 앨범: _MY - EP_  
+## 🎧 Flip That  
+> 아티스트: **LOONA**  
+> 앨범: _Summer Special [Flip That] - EP_  
 
-🔍 검색 키워드: `kpop+rain`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/1802486183?i=1802486189&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/bf/c3/60bfc30c-f09b-3c17-ef64-6cef1661359b/mzaf_2581881497410233313.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/flip-that/1628492601?i=1628492606&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5f/9f/7a/5f9f7a3c-ea40-f944-6be6-0ec2845864ec/mzaf_4083453423177043111.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/0f/b9/e60fb9a8-dbad-9612-1a40-be66935c7ce4/8804775251290.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/dc/41/14dc4183-1b00-9196-d9c2-8b5841c940ae/5054197200588.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-08 00:42:34 (UTC)
+⏳ 업데이트 시간: 2026-03-08 01:38:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
