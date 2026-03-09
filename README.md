@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad (Beat Instrumental)  
-> 아티스트: **Lofi Hip-Hop Beats, Beats De Rap & Lo-Fi Beats**  
-> 앨범: _Lo-Fi Hip Hop Beats_  
+## 🎧 Instrumental Night  
+> 아티스트: **Brain Rest & Relaxation Piano in Mind**  
+> 앨범: _Spiritual Sounds: Reduce Stress and Keep a Positive Attitude with the Best Relaxing Natural Music for Calming Meditation_  
 
-🔍 검색 키워드: `instrumental+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sad-beat-instrumental/1480996816?i=1480997032&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/19/1f/06191f3c-8743-7d71-6ae5-30816e9c577c/mzaf_15212736669934618805.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/instrumental-night/1293205282?i=1293205619&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/17/34/a4/1734a425-7c95-9130-6328-bb84dad38136/mzaf_12620394421433242134.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3d/51/ed/3d51ed7e-155f-d5a3-802b-f19ef936818a/6382.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c0/b7/93/c0b7931f-98ee-2640-ec6c-95174abff42e/8033772901024.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-09 13:34:14 (UTC)
+⏳ 업데이트 시간: 2026-03-09 14:25:20 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
