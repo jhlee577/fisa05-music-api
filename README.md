@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **ザ・ウィリアムズ・ブラザーズ & アンディ・ウィリアムス**  
-> 앨범: _The Wonderful World of Andy Williams_  
+## 🎧 Lofi Rain  
+> 아티스트: **Rain Sounds**  
+> 앨범: _Rain Sounds of Borneo_  
 
-🔍 검색 키워드: `rock+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream/775432932?i=775432937&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/33/5c/f2/335cf255-ad4c-8bfa-5207-9ada10f92f9b/mzaf_400333007546517473.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-rain/1602240125?i=1602240441&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a4/7d/5b/a47d5b03-46a6-bc4c-e350-5f90afa3f784/mzaf_14685123076031949906.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/c2/56/62/c25662e1-b883-60f0-9ad4-338114ba9ea0/886444353458.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/25/ec/6f25ec5e-652e-e3e9-79a4-8c9a0eee79da/cover_10214100.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-09 11:19:24 (UTC)
+⏳ 업데이트 시간: 2026-03-09 12:20:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
