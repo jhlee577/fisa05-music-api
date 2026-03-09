@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Rain  
-> 아티스트: **Rain Sounds**  
-> 앨범: _Rain Sounds of Borneo_  
+## 🎧 Sad (Beat Instrumental)  
+> 아티스트: **Lofi Hip-Hop Beats, Beats De Rap & Lo-Fi Beats**  
+> 앨범: _Lo-Fi Hip Hop Beats_  
 
-🔍 검색 키워드: `lofi+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `instrumental+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-rain/1602240125?i=1602240441&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a4/7d/5b/a47d5b03-46a6-bc4c-e350-5f90afa3f784/mzaf_14685123076031949906.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sad-beat-instrumental/1480996816?i=1480997032&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/19/1f/06191f3c-8743-7d71-6ae5-30816e9c577c/mzaf_15212736669934618805.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/25/ec/6f25ec5e-652e-e3e9-79a4-8c9a0eee79da/cover_10214100.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3d/51/ed/3d51ed7e-155f-d5a3-802b-f19ef936818a/6382.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-09 12:20:28 (UTC)
+⏳ 업데이트 시간: 2026-03-09 13:34:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
