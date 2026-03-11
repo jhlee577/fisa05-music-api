@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Happy  
-> 아티스트: **Oleg Kirilkov**  
-> 앨범: _Happy Jazz_  
+## 🎧 Hope  
+> 아티스트: **Kissamilé**  
+> 앨범: _Chillhop Essentials Winter 2021_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `lofi+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/jazz-happy/1636016025?i=1636016060&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e5/4e/1c/e54e1ca8-9fe8-3997-5aa6-e52d2d269761/mzaf_15907670899542482644.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope/1588879005?i=1588879018&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/86/ff/9f86ffc3-f153-6f40-b91e-2fa8f3e72321/mzaf_14114426644810863252.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b2/b5/ee/b2b5ee2b-4060-d323-de37-478152879149/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/5c/40/c45c4093-b4d2-0000-5951-3c3df5712165/745051300951.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-11 13:33:06 (UTC)
+⏳ 업데이트 시간: 2026-03-11 14:22:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
