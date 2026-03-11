@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Kissamilé**  
-> 앨범: _Chillhop Essentials Winter 2021_  
+## 🎧 lofi rain  
+> 아티스트: **a girl and a cat**  
+> 앨범: _lofi study 2021 - EP_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope/1588879005?i=1588879018&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/86/ff/9f86ffc3-f153-6f40-b91e-2fa8f3e72321/mzaf_14114426644810863252.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/lofi-rain/1546062891?i=1546062893&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/2f/9d/83/2f9d8351-2aa1-c686-92b5-60bbcd773d47/mzaf_5924531274331352463.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/5c/40/c45c4093-b4d2-0000-5951-3c3df5712165/745051300951.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/76/01/c776016a-4c8c-2d8a-f655-07eef902c266/3701421589897.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-11 14:22:57 (UTC)
+⏳ 업데이트 시간: 2026-03-11 15:21:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
