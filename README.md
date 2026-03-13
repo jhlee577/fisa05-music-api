@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 RAIN  
-> 아티스트: **SEKAI NO OWARI**  
-> 앨범: _Lip_  
+## 🎧 Lofi Night  
+> 아티스트: **Beats By Lofi**  
+> 앨범: _Lofi Night - Single_  
 
-🔍 검색 키워드: `kpop+rain`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/rain/1451297286?i=1451297288&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c8/2b/3c/c82b3c1e-7865-b1ad-ea0e-b8b5224f3a99/mzaf_16209855443508704173.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-night/1690301034?i=1690301035&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ac/f3/3d/acf33de1-5b83-bf77-1ec4-1105d7800c76/mzaf_16851307710680754202.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d9/84/41/d9844177-0101-4300-7bd7-a73b54692231/TFCC-86663WW.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/02/27/f9/0227f9cb-03f8-8385-8d0f-5028ef1acb2b/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-13 17:17:05 (UTC)
+⏳ 업데이트 시간: 2026-03-13 18:17:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
