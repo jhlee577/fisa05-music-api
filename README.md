@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Brighton Sofa Jazz  
-> 아티스트: **Rain Jazz**  
-> 앨범: _Jazz Rain_  
+## 🎧 Best Part (feat. H.E.R.)  
+> 아티스트: **Daniel Caesar**  
+> 앨범: _Freudian_  
 
-🔍 검색 키워드: `jazz+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/brighton-sofa-jazz/1543754449?i=1543754458&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/e0/78/c7/e078c7cc-5a49-5460-5759-e1be011b900e/mzaf_1066831575849328297.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/best-part-feat-h-e-r/1799080774?i=1799080776&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/95/ed/cc95edc8-4f9b-0c56-bc74-31ba76a057f9/mzaf_11346187551197903108.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/f1/e9/fdf1e9a9-6aea-1856-81c7-e4b2572dac9a/5059654871202_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/cd/1a/b6cd1a5b-83af-a1e2-0ad7-ea530fcf2522/859722261219.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-13 07:24:01 (UTC)
+⏳ 업데이트 시간: 2026-03-13 08:18:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
