@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Night  
-> 아티스트: **Beats By Lofi**  
-> 앨범: _Lofi Night - Single_  
+## 🎧 Jazz (Emotional Songs)  
+> 아티스트: **Relaxing Summer Piano Collection**  
+> 앨범: _Relaxing Smooth Jazz Summer - Bossa Nova Lounge Music 2016_  
 
-🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-night/1690301034?i=1690301035&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ac/f3/3d/acf33de1-5b83-bf77-1ec4-1105d7800c76/mzaf_16851307710680754202.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-emotional-songs/1118376604?i=1118376753&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/6d/31/cc/6d31cc91-af01-6c25-90ab-c17968111cee/mzaf_2425493342754502892.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/02/27/f9/0227f9cb-03f8-8385-8d0f-5028ef1acb2b/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/e8/d4/22/e8d4228d-f6cf-8048-8570-6745aa21c188/8134130311711.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-13 18:17:02 (UTC)
+⏳ 업데이트 시간: 2026-03-13 19:17:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
