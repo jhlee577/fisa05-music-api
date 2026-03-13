@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Jervis Campbell**  
-> 앨범: _Hope - Single_  
+## 🎧 Get Happy / Happy Days Are Here Again (feat. Barbra Streisand) [Live]  
+> 아티스트: **Judy Garland**  
+> 앨범: _That Old Feeling: Classic Ballads From the Judy Garland Show (Live)_  
 
-🔍 검색 키워드: `pop+hope`  
+🔍 검색 키워드: `ballad+happy`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1661473664?i=1661473847&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/0e/9a/27/0e9a2793-1cfc-6e5e-347c-9c044378a721/mzaf_10366699471760536604.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/get-happy-happy-days-are-here-again-feat-barbra-streisand/1453135599?i=1453136066&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/fb/3c/05fb3c5c-ecb9-d069-9c11-cab3f89247b1/mzaf_14308266854149559832.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0e/af/a5/0eafa517-c005-9fbf-2c58-cc0bba04af81/859768901919_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/db/e3/e3dbe3c8-7ea6-539e-a75e-2034c6663186/00888072091528.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-13 22:11:34 (UTC)
+⏳ 업데이트 시간: 2026-03-13 23:11:16 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
