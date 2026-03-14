@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 (No One Knows Me) Like the Piano  
-> 아티스트: **Sampha**  
-> 앨범: _Process_  
+## 🎧 FAKE LOVE  
+> 아티스트: **BTS**  
+> 앨범: _Love Yourself 轉 'Tear'_  
 
-🔍 검색 키워드: `jazz+sad`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/no-one-knows-me-like-the-piano/1138217713?i=1138217731&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a0/3e/7e/a03e7eb1-d40c-dc0d-04b0-6209837f8e7d/mzaf_9095946026493753904.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/fake-love/1598660934?i=1598660938&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/c8/eb/d8c8eba9-bce6-a95d-af76-146b2d083d43/mzaf_13737443125396473105.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/8d/ed/958ded66-ec58-2347-caa3-dfa2c0e417e1/889030015860.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/c5/18/02c518f5-ac06-3321-622e-08d9429fd968/192562556672_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-14 06:22:02 (UTC)
+⏳ 업데이트 시간: 2026-03-14 07:19:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
