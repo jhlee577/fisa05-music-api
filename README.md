@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Simply Three**  
-> 앨범: _Undefined_  
+## 🎧 instrumental rap  
+> 아티스트: **jakoinstru**  
+> 앨범: _jako album - Single_  
 
-🔍 검색 키워드: `instrumental+rain`  
+🔍 검색 키워드: `instrumental+sad`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/1536469686?i=1536469870&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/85/97/dd8597a0-d72a-7d2e-09c6-14ed13501e87/mzaf_4680434412132708712.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/instrumental-rap/1745587973?i=1745587976&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3e/b4/af/3eb4afaa-7558-84b4-f6df-3397670beb73/mzaf_9817306452965237758.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/98/47/4e9847f3-3f10-d645-a2a7-19052b9a2f78/859722644845_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/4c/32/d14c3246-7de6-34c1-5718-01142325143b/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-15 10:11:01 (UTC)
+⏳ 업데이트 시간: 2026-03-15 11:10:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
