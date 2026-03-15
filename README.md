@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 A-Tisket, A-Tasket  
-> 아티스트: **Louis Armstrong**  
-> 앨범: _Happy Jazz_  
+## 🎧 FAKE LOVE  
+> 아티스트: **BTS**  
+> 앨범: _Love Yourself 轉 'Tear'_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/a-tisket-a-tasket/1378360070?i=1378362105&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/b3/eb/b1b3ebbb-17b1-dc30-02af-38b088384ffa/mzaf_3700538761216954642.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/fake-love/1598660934?i=1598660938&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/c8/eb/d8c8eba9-bce6-a95d-af76-146b2d083d43/mzaf_13737443125396473105.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b2/2a/f9/b22af9e9-41a5-d102-56af-297b2e76b359/9782278091027_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/c5/18/02c518f5-ac06-3321-622e-08d9429fd968/192562556672_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-15 17:11:18 (UTC)
+⏳ 업데이트 시간: 2026-03-15 18:14:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
