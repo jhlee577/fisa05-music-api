@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (Acoustic Piano Version)  
-> 아티스트: **The Piano Man**  
-> 앨범: _Ultimate Acoustic Chart Hits On Piano_  
+## 🎧 夏のように  
+> 아티스트: **白紫苑**  
+> 앨범: _夏のように - Single_  
 
-🔍 검색 키워드: `instrumental+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-acoustic-piano-version/854428359?i=854428437&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/5e/14/365e14b7-9df3-9f7a-3595-f6cbea55740f/mzaf_14789766068571250343.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E5%A4%8F%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB/1810619840?i=1810619844&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/ae/dd/5eaeddec-e445-1fc6-e1e0-8531a3e29835/mzaf_5231083837630227413.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/4b/58/694b5848-524d-c521-66ba-10e30e9878a3/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/2a/21/d42a2124-97cd-4cf7-e775-8a0bca0eced9/4550708110762_cover.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-16 05:42:44 (UTC)
+⏳ 업데이트 시간: 2026-03-16 06:41:16 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
