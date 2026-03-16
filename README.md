@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 夏のように  
-> 아티스트: **白紫苑**  
-> 앨범: _夏のように - Single_  
+## 🎧 Golden  
+> 아티스트: **HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast**  
+> 앨범: _KPop Demon Hunters (Soundtrack from the Netflix Film)_  
 
-🔍 검색 키워드: `kpop+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `kpop+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E5%A4%8F%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB/1810619840?i=1810619844&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/ae/dd/5eaeddec-e445-1fc6-e1e0-8531a3e29835/mzaf_5231083837630227413.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/golden/1820264137?i=1820264150&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/68/32/3868327b-f83f-71c7-0a0c-1813edf2b73e/mzaf_9475346657459209500.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/2a/21/d42a2124-97cd-4cf7-e775-8a0bca0eced9/4550708110762_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-16 06:41:16 (UTC)
+⏳ 업데이트 시간: 2026-03-16 07:37:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
