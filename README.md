@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 lovely  
-> 아티스트: **Billie Eilish & Khalid**  
-> 앨범: _lovely - Single_  
+## 🎧 DREAM-instrumental-  
+> 아티스트: **清水 翔太**  
+> 앨범: _DREAM - EP_  
 
-🔍 검색 키워드: `pop+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `pop+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/lovely/1369379667?i=1369380479&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/d8/8d/1ed88d91-fb06-b3f2-5391-afd732cc2ff9/mzaf_18444937225262929488.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream-instrumental/1537449945?i=1537449949&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/d5/9e/d9d59e62-3403-e10f-ba6e-0198f9645121/mzaf_11371534623571626978.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/94/d4/2794d4fc-c3e2-2373-3e6c-dd82fd5aefe6/18UMGIM18200.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/7b/b7/b07bb794-f536-b55b-8a88-7940e4d1ebe4/jacket_SRCL08458B00Z_550.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-16 09:31:31 (UTC)
+⏳ 업데이트 시간: 2026-03-16 10:28:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
