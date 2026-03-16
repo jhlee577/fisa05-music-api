@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Eastern Sunset  
-> 아티스트: **Mehdi**  
-> 앨범: _Instrumental Dream_  
+## 🎧 lovely  
+> 아티스트: **Billie Eilish & Khalid**  
+> 앨범: _lovely - Single_  
 
-🔍 검색 키워드: `instrumental+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/eastern-sunset/329671856?i=329671867&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/69/76/8b/69768be8-8a2a-f1dd-748e-2ffb72e88aad/mzaf_7467133587060624723.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/lovely/1369379667?i=1369380479&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/d8/8d/1ed88d91-fb06-b3f2-5391-afd732cc2ff9/mzaf_18444937225262929488.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/f1/4e/1c/mzi.qjkjzywf.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/94/d4/2794d4fc-c3e2-2373-3e6c-dd82fd5aefe6/18UMGIM18200.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-16 08:31:02 (UTC)
+⏳ 업데이트 시간: 2026-03-16 09:31:31 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
