@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (feat. Puff Daddy & Tei Shi)  
-> 아티스트: **Blood Orange**  
-> 앨범: _Negro Swan_  
+## 🎧 HAPPY  
+> 아티스트: **三代目 J SOUL BROTHERS from EXILE TRIBE**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `rock+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope-feat-puff-daddy-tei-shi/1413298173?i=1413299298&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/3a/c7/313ac7bb-1e2e-7c24-2c43-668f6a72ffa6/mzaf_13571762907207182798.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/happy/1209275758?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/0b/a4/2d/0ba42dfb-32f0-1fe2-9abd-fd54e778f2b5/mzvf_9094905601782527426.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/98/ba/b498ba20-cef3-aef7-3327-280a981c8527/887828042166.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video51/v4/a4/3e/86/a43e8666-e70f-84d1-b546-a06b86740859/RZCD-86294.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-16 14:34:06 (UTC)
+⏳ 업데이트 시간: 2026-03-16 15:30:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
