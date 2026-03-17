@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Culcha Candela, Bovann & ThatGurlHanna**  
-> 앨범: _Hope - Single_  
+## 🎧 Summer Hate (feat. RAIN)  
+> 아티스트: **ZICO**  
+> 앨범: _Random Box - EP_  
 
-🔍 검색 키워드: `pop+hope`  
+🔍 검색 키워드: `kpop+summer`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1593827953?i=1593827968&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bc/4e/5e/bc4e5e6f-f16c-656f-d1e5-d745e883606a/mzaf_8464758623641708297.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer-hate-feat-rain/1520181977?i=1520181978&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/4d/1f/ff4d1fae-594b-2c84-735c-6d1665ba5e99/mzaf_12760202092153394534.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/83/0a/f4830a92-d10a-ec1c-867e-5fd34e034142/886449123629.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/01/3f/81013ff5-59ab-f4a0-f295-06bb5656383a/dj.xsntovad.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-17 05:33:28 (UTC)
+⏳ 업데이트 시간: 2026-03-17 06:30:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
