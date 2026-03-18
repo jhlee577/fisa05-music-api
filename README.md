@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Prom Night  
-> 아티스트: **The Midnight**  
-> 앨범: _Monsters_  
+## 🎧 Summer (Live)  
+> 아티스트: **Kenya Vaun**  
+> 앨범: _Summer (Live) - Single_  
 
-🔍 검색 키워드: `pop+night`  
+🔍 검색 키워드: `rnb+summer`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/prom-night/1508063533?i=1508063540&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/3b/5a/363b5a08-3c6f-314c-fc67-f9968cb11c46/mzaf_13548916309629446902.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer-live/1710302393?i=1710302399&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/a8/78/73a87868-d599-b820-2f86-1ea3eea31bb2/mzaf_14212490505116120827.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fa/31/df/fa31dfdd-9234-9a1a-738d-31dac0180266/5054429142365.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/ef/88/bcef887d-3fb3-8e76-b3c4-3a234b99685e/075679666680.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-18 00:43:30 (UTC)
+⏳ 업데이트 시간: 2026-03-18 01:40:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
