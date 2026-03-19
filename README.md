@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream (Piano Solo)  
-> 아티스트: **Yiruma**  
-> 앨범: _Doggy Poo (Original Soundtrack)_  
+## 🎧 Ballad Summer  
+> 아티스트: **Gustavo Fidelli**  
+> 앨범: _Oriental Lunar_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/dream-piano-solo/1436679537?i=1436679705&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b4/92/d3/b492d37b-983b-6987-57ef-defda7b9867a/mzaf_14804581942375337013.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/ballad-summer/1806287769?i=1806287770&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/e6/69/6be669c0-bc01-4448-f38d-5face0a0af77/mzaf_16052418216629958274.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c9/1f/32/c91f3245-cdf5-8393-233b-22386574a506/3000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/c5/ef/6bc5efa0-6857-64c5-c0aa-462a2dd2f9a3/4065328645353.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-19 04:44:41 (UTC)
+⏳ 업데이트 시간: 2026-03-19 05:33:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
