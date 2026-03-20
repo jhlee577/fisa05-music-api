@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Summer  
-> 아티스트: **Marlow Digs**  
-> 앨범: _Up in the Sky_  
+## 🎧 Jazz Hop (feat. Natayla)  
+> 아티스트: **Gas-Lab & Traum Diggs**  
+> 앨범: _Jazzhop_  
 
-🔍 검색 키워드: `lofi+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `jazz+hope`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-summer/1619209798?i=1619209800&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cf/11/60/cf116000-7d32-3d82-1506-c4da65617dba/mzaf_2046175726073319213.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/jazz-hop-feat-natayla/718406618?i=718406843&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fa/29/74/fa29742a-d519-3a0f-a5d6-3069b37f994c/mzaf_9024794580454838128.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/06/28/09/06280906-d73d-139d-1200-cdde0f01f170/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/19/32/44/193244a7-4597-69d1-7da6-488816e06ef5/888174292632.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-20 10:17:10 (UTC)
+⏳ 업데이트 시간: 2026-03-20 11:14:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
