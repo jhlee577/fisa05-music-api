@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Wake Me Up  
-> 아티스트: **Avicii**  
-> 앨범: _True_  
+## 🎧 Sad  
+> 아티스트: **Sonnet**  
+> 앨범: _The World of the Married Special (Original Television Soundtrack)_  
 
-🔍 검색 키워드: `kpop+happy`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/wake-me-up/1440872730?i=1440872929&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/1e/60/681e601f-e1f2-4ebb-37de-adf00bdf57b6/mzaf_8266263075137964740.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad/1721294911?i=1721295187&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a0/52/b7/a052b764-189a-5fb5-0a1f-1ce2d2261e97/mzaf_8751524595692674428.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/5b/1e/185b1ef5-5d97-19d8-aebf-8e29e41874ef/13UAAIM59255.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/ba/49/35ba4966-1714-76b3-9f5e-7f9b0c579c61/8720205028297.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-22 10:10:16 (UTC)
+⏳ 업데이트 시간: 2026-03-22 11:09:23 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
