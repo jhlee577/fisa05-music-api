@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Love  
-> 아티스트: **lofi otaku & Minijau**  
-> 앨범: _Lofi Music_  
+## 🎧 Happy (Acoustic Piano Version)  
+> 아티스트: **The Piano Man**  
+> 앨범: _Piano Unplugged (Acoustic Cover Hits)_  
 
-🔍 검색 키워드: `lofi+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `acoustic+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-love/1647916244?i=1647916459&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/23/05/b9/2305b9bc-36a9-9a72-04cf-f8cda26732ec/mzaf_3744560556407284254.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy-acoustic-piano-version/854349667?i=854349675&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/54/d5/0f54d524-ec0b-2a71-f858-ff7c0f6c010b/mzaf_303957517139618263.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c4/27/39/c42739af-4f39-1415-0422-4e26f445448c/198001927973.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/45/66/f1/4566f161-4003-da18-cb7e-5cd987d6acc5/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-22 08:13:45 (UTC)
+⏳ 업데이트 시간: 2026-03-22 09:13:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
