@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad  
-> 아티스트: **Sonnet**  
-> 앨범: _The World of the Married Special (Original Television Soundtrack)_  
+## 🎧 ヒップホップドリーム  
+> 아티스트: **どんぐりず**  
+> 앨범: _愛_  
 
-🔍 검색 키워드: `kpop+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad/1721294911?i=1721295187&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a0/52/b7/a052b764-189a-5fb5-0a1f-1ce2d2261e97/mzaf_8751524595692674428.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%83%92%E3%83%83%E3%83%97%E3%83%9B%E3%83%83%E3%83%97%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0/1471782597?i=1471782766&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/46/4f/93464f56-26fe-8e64-1631-6cd9486f11dd/mzaf_3652334134015137.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/ba/49/35ba4966-1714-76b3-9f5e-7f9b0c579c61/8720205028297.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/f0/43/2af043af-cce1-9925-9093-155148180595/859754990668_cover.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-22 11:09:23 (UTC)
+⏳ 업데이트 시간: 2026-03-22 12:15:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
