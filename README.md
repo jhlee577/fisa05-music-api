@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Good night  
-> 아티스트: **CHEN**  
-> 앨범: _Dear my dear - The 2nd Mini Album - EP_  
+## 🎧 Summer  
+> 아티스트: **Joe Hisaishi**  
+> 앨범: _Dream Songs: The Essential Joe Hisaishi_  
 
-🔍 검색 키워드: `ballad+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/good-night/1481446116?i=1481446131&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/48/2d/e5482db9-670b-eaa6-1993-ccf03b3abbe4/mzaf_13090908754736774381.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/summer/1485854555?i=1485854957&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/78/d3/b478d357-cb01-078d-b1ed-f6f279877ebe/mzaf_7274791935371980127.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fa/79/e6/fa79e604-3485-9680-7b5e-d96e981d5149/Digital_Cover_CHEN_Dear_my_dear.re.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0a/0c/85/0a0c8531-746f-370e-db4d-29cc3cb20030/19UMGIM98620.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-24 07:28:25 (UTC)
+⏳ 업데이트 시간: 2026-03-24 08:22:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
