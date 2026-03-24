@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Back At One  
-> 아티스트: **Brian McKnight**  
-> 앨범: _Back At One_  
+## 🎧 Dream  
+> 아티스트: **Suzy & BAEKHYUN**  
+> 앨범: _Dream - Single_  
 
-🔍 검색 키워드: `rnb+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/back-at-one/1440635644?i=1440635963&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/0c/21/240c212a-9642-9b31-5e9b-64e83db8fc61/mzaf_9179927775117067048.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/dream/1788004747?i=1788004748&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/00/df/0900df5b-b5a8-678f-f9c4-1ba1e0750419/mzaf_9051671708096557097.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/d3/e5/dad3e5f1-91ec-13bd-c905-e0862880aaee/06UMGIM32674.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/61/74/3761744e-2002-6740-4869-009d7ad42c13/8804775068294.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-24 19:27:49 (UTC)
+⏳ 업데이트 시간: 2026-03-24 20:17:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
