@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 No Sleep Till Brooklyn  
-> 아티스트: **Beastie Boys**  
-> 앨범: _Licensed to Ill_  
+## 🎧 LADY  
+> 아티스트: **ちゃんみな**  
+> 앨범: _未成年_  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/no-sleep-till-brooklyn/1440912031?i=1440912354&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/94/9e/27/949e27e2-cad4-c6c7-a133-967353cec07f/mzaf_3264922967896254073.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lady/1203189772?i=1203189781&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3c/b7/9d/3cb79d11-f507-1d35-c51e-635c940a6065/mzaf_10679855686536199055.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/b9/84/98/b98498f4-3aba-2117-aa72-a9e6a1d793bb/VEATP-34053.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-24 10:22:52 (UTC)
+⏳ 업데이트 시간: 2026-03-24 11:21:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
