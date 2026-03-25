@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (feat. Puff Daddy & Tei Shi)  
-> 아티스트: **Blood Orange**  
-> 앨범: _Negro Swan_  
+## 🎧 Rain (Natue Music Therapy)  
+> 아티스트: **Fiona Follow**  
+> 앨범: _Relaxation: Relaxing Guitar Nature Sounds Relaxation, Ambient Meditation Music for Relaxation Exercises, Stress Free, Yoga, Deep Sleep and Massage, Time to Relaxation, Nature Music and Guitar Instrumental Songs_  
 
-🔍 검색 키워드: `rock+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `instrumental+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope-feat-puff-daddy-tei-shi/1413298173?i=1413299298&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/3a/c7/313ac7bb-1e2e-7c24-2c43-668f6a72ffa6/mzaf_13571762907207182798.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain-natue-music-therapy/533589185?i=533589395&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/38/e6/03/38e6033f-321d-3bd7-0389-7f4665f5d193/mzaf_3271056245388936052.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/98/ba/b498ba20-cef3-aef7-3327-280a981c8527/887828042166.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/59/84/ab/5984ab1b-5e62-a15b-9808-e364bfb79e4c/Relaxation_1_copia.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-25 09:23:39 (UTC)
+⏳ 업데이트 시간: 2026-03-25 10:22:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
