@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Dj.Frodo & Alberto**  
-> 앨범: _Hope - Single_  
+## 🎧 Hope (feat. Puff Daddy & Tei Shi)  
+> 아티스트: **Blood Orange**  
+> 앨범: _Negro Swan_  
 
-🔍 검색 키워드: `hiphop+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rock+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/1650355029?i=1650355030&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ad/97/7a/ad977a9a-e5d6-0c94-6e17-f6faa5277e4a/mzaf_1496703561057070733.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope-feat-puff-daddy-tei-shi/1413298173?i=1413299298&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/3a/c7/313ac7bb-1e2e-7c24-2c43-668f6a72ffa6/mzaf_13571762907207182798.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/ce/38/6bce3826-0955-1f94-cad3-839c74465d3a/dj.deknzoua.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/98/ba/b498ba20-cef3-aef7-3327-280a981c8527/887828042166.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-25 08:22:00 (UTC)
+⏳ 업데이트 시간: 2026-03-25 09:23:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
