@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Love (Mixed)  
-> 아티스트: **Rhy & Smoodmood**  
-> 앨범: _himood Lofi Mix 004: Deep Focus (DJ Mix)_  
+## 🎧 HaPpY (한)  
+> 아티스트: **Stray Kids & 한**  
+> 앨범: _SKZ-REPLAY_  
 
-🔍 검색 키워드: `lofi+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-love-mixed/1711884939?i=1711885331&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d1/fc/29/d1fc29cb-6579-1d80-a91d-e15852d5d665/mzaf_3013100850096631780.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy-%ED%95%9C/1658007364?i=1658007807&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c5/68/83/c568832b-3dfe-6aac-8d83-ba247cc3f0c9/mzaf_16702000248058098028.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/61/ed/6c61ed78-4de0-0e93-2f9c-efc8089aab3f/e6b36036-f0a9-4e3e-9ed3-36208c74c082.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/cb/ef/85cbef02-60b4-8663-6f4f-951a74aca646/SKZ_REPLAY_Album_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-25 21:16:31 (UTC)
+⏳ 업데이트 시간: 2026-03-25 22:16:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
