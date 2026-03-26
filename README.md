@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love Jazz  
-> 아티스트: **Cafe Music BGM Channel**  
-> 앨범: _WORK & Jazz Piano_  
+## 🎧 Hope (feat. Prince Mydas)  
+> 아티스트: **Shaggy**  
+> 앨범: _Hot Shot_  
 
-🔍 검색 키워드: `jazz+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/love-jazz/1389682219?i=1389682236&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/a4/04/b1a40430-cb3a-4afa-b9a7-3b3d0bab32f6/mzaf_9234007019550276670.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope-feat-prince-mydas/1449315854?i=1449316050&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/91/38/05913873-7db5-b44c-9af2-6b112c52a6ce/mzaf_1128843631149732300.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/45/e4/ff/45e4ff25-038d-77c9-210e-763b600ae81d/859754110318_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/78/c0/5b78c053-c5d5-5414-6d95-2a9ab3d3c7a6/06UMGIM55575.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-26 18:29:08 (UTC)
+⏳ 업데이트 시간: 2026-03-26 19:29:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
