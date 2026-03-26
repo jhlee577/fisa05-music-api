@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (feat. Fourty & Leland)  
-> 아티스트: **Felix Jaehn & Miksu / Macloud**  
-> 앨범: _BREATHE_  
+## 🎧 SUMMER  
+> 아티스트: **THE CARTERS**  
+> 앨범: _EVERYTHING IS LOVE_  
 
-🔍 검색 키워드: `rnb+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-feat-fourty-leland/1581647342?i=1581648017&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/a5/71/f7a571be-c159-009f-0819-9c75b66098ea/mzaf_16244402283509073933.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer/1400117883?i=1400118048&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/11/af/3c/11af3c9d-e058-8e52-1d75-ea9a8b21de35/mzaf_13022810628294418903.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/c2/0e/35c20eda-c4e2-eaa4-243e-14e288beefc2/21UMGIM61983.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/8c/81/bd8c8163-f785-b586-efe5-0615837284ea/886447179000.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-26 09:27:35 (UTC)
+⏳ 업데이트 시간: 2026-03-26 10:25:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
