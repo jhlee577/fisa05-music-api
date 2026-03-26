@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 If The World Was Ending  
-> 아티스트: **Lofi Fruits Music & Chill Fruits Music**  
-> 앨범: _Calm Sad Lofi_  
+## 🎧 Happy  
+> 아티스트: **2NE1**  
+> 앨범: _Crush_  
 
-🔍 검색 키워드: `lofi+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/if-the-world-was-ending/1576377595?i=1576377603&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/1b/9c/561b9c92-d61c-09db-b884-d750342ec337/mzaf_100132451363579582.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy/1317764593?i=1317765253&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/a1/d0/d4a1d07c-9473-cc5f-8093-efa96da2a3f5/mzaf_2935952554729768470.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/a9/78/d0a9781a-9d3e-0b4d-40a7-7b7aec8d5d64/190296608131.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/90/c0/d4/90c0d401-f1d2-6540-ea9a-e2ada5ce25e5/2NE1_NEW_ALBUM_Digital_Single.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-26 14:38:46 (UTC)
+⏳ 업데이트 시간: 2026-03-26 15:34:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
