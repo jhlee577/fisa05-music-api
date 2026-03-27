@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dangerously in Love 2  
-> 아티스트: **Beyoncé**  
-> 앨범: _Dangerously in Love_  
+## 🎧 Summer  
+> 아티스트: **Sound Behaviour**  
+> 앨범: _Instrumental Lounge (Chill & House) Vol. 2_  
 
-🔍 검색 키워드: `rnb+night`  
+🔍 검색 키워드: `instrumental+summer`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/dangerously-in-love-2/201274359?i=201277862&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2d/e2/e9/2de2e9bd-f7fe-2402-673b-d0b4a4313d46/mzaf_2220946249864182868.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/summer/1632058476?i=1632059433&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c3/82/94/c38294a0-d645-db71-6345-f5a076f4a023/mzaf_14246981800806727618.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/03/c5/d4/mzi.ldvrmhxt.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6d/e4/71/6de471fe-06fd-fa10-8636-abaeab98ca2a/196925291590.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-27 04:52:29 (UTC)
+⏳ 업데이트 시간: 2026-03-27 05:37:33 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
