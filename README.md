@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **ALEPH**  
-> 앨범: _Hope - Single_  
+## 🎧 Happy (From "Despicable Me 2")  
+> 아티스트: **Pharrell Williams**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `kpop+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+happy`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1574619022?i=1574619023&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8d/d4/29/8dd429a8-d058-28a7-7fb6-746077307d61/mzaf_9833031208224037513.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/music-video/happy-from-despicable-me-2/793299815?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/3a/14/f13a145f-6cb2-516e-385c-3f65aa4b3b40/8809784436140.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-27 13:35:15 (UTC)
+⏳ 업데이트 시간: 2026-03-27 14:26:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
