@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **SWV**  
-> 앨범: _Release Some Tension_  
+## 🎧 I Love Rock 'n' Roll  
+> 아티스트: **The Black Jets**  
+> 앨범: _I Love Rock 'n' Roll - Single_  
 
-🔍 검색 키워드: `rnb+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rock+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/253640878?i=253641178&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/i-love-rock-n-roll/387841218?i=387841269&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b9/4a/88/b94a8804-8956-64b4-9e6e-770075a88f28/mzaf_12516034342632133361.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/7b/93/4e/mzi.nlbltsem.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-28 20:11:31 (UTC)
+⏳ 업데이트 시간: 2026-03-28 21:11:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
