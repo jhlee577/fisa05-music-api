@@ -4,18 +4,18 @@
 추천 곡은...
 
 ## 🎧 Summer  
-> 아티스트: **Marshmello**  
-> 앨범: _Joytime_  
+> 아티스트: **Oliver Jensen**  
+> 앨범: _Lofi Summer_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/summer/1072189405?i=1072189411&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bc/38/22/bc382203-d971-0a38-affe-135db79350bc/mzaf_5944074797487779607.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer/1624125499?i=1624125503&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b1/2e/b6/b12eb6dd-082c-2d58-945c-88f57a94dba9/mzaf_2470973167093004022.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/8e/f8/668ef8f0-53f1-56b8-9396-7923094b55f4/859716236469_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/13/d9/fe/13d9fe3d-5954-d424-54c0-1bc1046792c8/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-28 08:17:20 (UTC)
+⏳ 업데이트 시간: 2026-03-28 09:17:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
