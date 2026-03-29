@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 This Love  
-> 아티스트: **Maroon 5**  
-> 앨범: _Songs About Jane: 10th Anniversary Edition_  
+## 🎧 Hope  
+> 아티스트: **제이보**  
+> 앨범: _Share Your Heart - Single_  
 
-🔍 검색 키워드: `kpop+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `hiphop+hope`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/this-love/1428782176?i=1428782513&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/0b/8d/790b8d2f-dae6-9380-87ec-6acd52806e49/mzaf_4263648516794463383.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1701795434?i=1701795435&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9b/a5/0f/9ba50f9e-967f-f673-584d-a3b0cd01a260/mzaf_18186752347845984563.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/12/fe/eb12fe62-1e28-ebfd-0daa-f9aa66bbb882/12UMGIM15818.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/97/46/6e9746ff-cd90-b2c8-05e7-d96cb162ead1/2062269.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-29 01:39:03 (UTC)
+⏳ 업데이트 시간: 2026-03-29 03:12:07 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
