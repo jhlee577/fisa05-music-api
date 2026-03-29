@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Kids United**  
-> 앨범: _Un monde meilleur_  
+## 🎧 Rnb Love  
+> 아티스트: **Code 2935**  
+> 앨범: _Soul & Rnb 2023_  
 
-🔍 검색 키워드: `pop+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy/1053992275?i=1053993129&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4a/d3/14/4ad31478-8379-6e96-6069-ea483820ebfd/mzaf_14166444910129739849.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/rnb-love/1691162984?i=1691163204&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/51/f4/66/51f466ea-7d34-50bc-765f-d3b3907bd163/mzaf_5892205623824445522.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/df/30/f9/df30f9a4-beae-5720-49a5-3df4d75c4f02/mzm.wbxecpxa.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/97/20/dc97202d-9ddb-1f59-1110-8107fdc6b865/5061004350992.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-29 18:15:51 (UTC)
+⏳ 업데이트 시간: 2026-03-29 19:16:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
