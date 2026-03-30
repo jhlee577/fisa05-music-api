@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Happy  
-> 아티스트: **Max Rolls**  
-> 앨범: _Ultimate Lofi Chillout Beats 2019_  
+## 🎧 Ballad Night (Solo Piano in C Major)  
+> 아티스트: **Kara Walker**  
+> 앨범: _Slow Reading with Easy Listening Tunes, Vol. 02_  
 
-🔍 검색 키워드: `lofi+happy`  
+🔍 검색 키워드: `ballad+night`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-happy/1480546519?i=1480546520&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/41/b0/df41b012-c10d-eaad-25f4-da3f278e19ed/mzaf_14076762276079025708.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-night-solo-piano-in-c-major/1688648544?i=1688648627&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/16/70/85/1670859e-5ac7-90b8-9b6e-a06642557967/mzaf_8116856563843913177.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/af/19/8eaf1935-fdaa-7a99-8596-9340b7d30c81/Bxn0KgNvg0r4Q-ultimate-lofi-chillout-beats-2019-original-copy-dcd52a79.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/6e/ba/d16ebad7-be66-086b-ef0e-cf2bb5e2f480/MAERTS355.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-30 14:38:09 (UTC)
+⏳ 업데이트 시간: 2026-03-30 15:34:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
