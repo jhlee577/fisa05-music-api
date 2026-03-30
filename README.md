@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Dream (Zoetic Remix)  
-> 아티스트: **Gabriele Poso**  
-> 앨범: _Genuine (Remixes) - EP_  
+## 🎧 Love  
+> 아티스트: **Kouz1**  
+> 앨범: _AFROBOY - EP_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/acoustic-dream-zoetic-remix/1789342433?i=1789342434&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/96/a2/0b96a281-3ac7-4e12-5dec-98c47c190ab5/mzaf_17462403571035188584.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/love/1733461489?i=1733461494&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/44/ee/cc44eee3-4d73-8b25-fd14-e4a957ed1d10/mzaf_3666250222403076952.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/28/3a/8a283a0d-c0ce-63c4-04e7-dd550a349621/826194172992.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/66/f0/cd/66f0cd36-09a5-c5f0-6798-6916feff4d98/3617054266770.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-30 21:19:58 (UTC)
+⏳ 업데이트 시간: 2026-03-30 22:15:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
