@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love Jazz  
-> 아티스트: **Cafe Music BGM Channel**  
-> 앨범: _Work & Jazz Piano_  
+## 🎧 Temperature  
+> 아티스트: **Sean Paul**  
+> 앨범: _The Trinity_  
 
-🔍 검색 키워드: `jazz+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `hiphop+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love-jazz/1389682219?i=1389682236&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/a4/04/b1a40430-cb3a-4afa-b9a7-3b3d0bab32f6/mzaf_9234007019550276670.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/temperature/80429921?i=80429794&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/9e/32/ed9e3204-fba5-3294-ceea-2a2b314274cd/mzaf_2436026840062453824.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/45/e4/ff/45e4ff25-038d-77c9-210e-763b600ae81d/859754110318_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6b/a9/89/6ba9895c-5aff-8be1-4ff9-9f88369077b1/dj.decwpjor.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-29 23:13:40 (UTC)
+⏳ 업데이트 시간: 2026-03-30 00:48:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
