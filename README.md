@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Kouz1**  
-> 앨범: _AFROBOY - EP_  
+## 🎧 LOVE. (FEAT. ZACARI.)  
+> 아티스트: **Kendrick Lamar**  
+> 앨범: _DAMN._  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rock+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/love/1733461489?i=1733461494&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/44/ee/cc44eee3-4d73-8b25-fd14-e4a957ed1d10/mzaf_3666250222403076952.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love-feat-zacari/1440881722?i=1440882172&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/99/e1/20/99e120f6-b258-2b37-d564-6ce7606041ea/mzaf_12114920711652418665.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/66/f0/cd/66f0cd36-09a5-c5f0-6798-6916feff4d98/3617054266770.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ab/16/ef/ab16efe9-e7f1-66ec-021c-5592a23f0f9e/17UMGIM88793.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-30 22:15:42 (UTC)
+⏳ 업데이트 시간: 2026-03-30 23:15:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
