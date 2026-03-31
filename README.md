@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **久石譲 & ロンドン交響楽団**  
-> 앨범: _Unknown Album_  
+## 🎧 I Love Rock'n Roll  
+> 아티스트: **L'Arc〜en〜Ciel**  
+> 앨범: _TWENITY 2000-2010_  
 
-🔍 검색 키워드: `pop+summer`  
+🔍 검색 키워드: `rock+love`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/summer/1495039274?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/a2/57/e4/a257e467-c9b7-961a-2bdf-ebf4d9f31367/mzvf_16888117456472645119.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/i-love-rockn-roll/1536387241?i=1536387616&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ed/08/e8/ed08e896-5ac6-00ce-d2f0-8c092ec3aad5/mzaf_11179595978693265646.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/0d/31/47/0d314759-66bd-d05e-dc23-75b77c519338/19UM1IM15508.crop.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/76/67/05766794-9e2b-dd4d-7ee3-4365a30b25b8/jacket_KSCL01737B00Z_550.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-03-31 20:18:47 (UTC)
+⏳ 업데이트 시간: 2026-03-31 21:17:51 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
