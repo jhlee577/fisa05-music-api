@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 SAD!  
-> 아티스트: **XXXTENTACION**  
-> 앨범: _Unknown Album_  
+## 🎧 Rock Love  
+> 아티스트: **Steve Miller Band**  
+> 앨범: _Rock Love_  
 
-🔍 검색 키워드: `rnb+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rock+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/sad/1407067992?uo=4)  
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/rock-love/1443223532?i=1443223967&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d6/3c/12/d63c1277-d28c-d018-e06c-294a489ebbff/mzaf_12493291819585216080.plus.aac.p.m4a)
 
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/cc/51/e3/cc51e37d-0c34-b737-ddde-c4157a5ee356/00602547847393.rgb.jpg/100x100bb.jpg)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/bb/72/9c/bb729cf4-3b0d-ec07-114e-316fa700ac2d/00842812108747_00001.crop.jpg/100x100bb.jpg)
-
-⏳ 업데이트 시간: 2026-03-31 16:28:23 (UTC)
+⏳ 업데이트 시간: 2026-03-31 17:26:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
