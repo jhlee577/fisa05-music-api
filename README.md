@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 This Love  
-> 아티스트: **Maroon 5**  
-> 앨범: _Songs About Jane: 10th Anniversary Edition_  
+## 🎧 Summer  
+> 아티스트: **Marshmello**  
+> 앨범: _Joytime_  
 
-🔍 검색 키워드: `kpop+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/this-love/1428782176?i=1428782513&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/0b/8d/790b8d2f-dae6-9380-87ec-6acd52806e49/mzaf_4263648516794463383.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer/1072189405?i=1072189411&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bc/38/22/bc382203-d971-0a38-affe-135db79350bc/mzaf_5944074797487779607.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/12/fe/eb12fe62-1e28-ebfd-0daa-f9aa66bbb882/12UMGIM15818.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/8e/f8/668ef8f0-53f1-56b8-9396-7923094b55f4/859716236469_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-01 05:03:41 (UTC)
+⏳ 업데이트 시간: 2026-04-01 06:43:55 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
