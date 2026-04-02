@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Don't Cry (Alternate Lyrics)  
-> 아티스트: **Guns N' Roses**  
-> 앨범: _Use Your Illusion II_  
+## 🎧 Love  
+> 아티스트: **Erykah Badu**  
+> 앨범: _New Amerykah, Pt. 2: Return of the Ankh_  
 
-🔍 검색 키워드: `ballad+sad`  
+🔍 검색 키워드: `hiphop+love`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/dont-cry-alternate-lyrics/1389971138?i=1389971340&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/a3/65/aaa36596-75a6-11b1-88bd-8eb0ce5a7a65/mzaf_11179527096810738267.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/love/1440764608?i=1440765090&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/7b/9c/657b9cc0-4e05-ba50-8472-2a56cdb7ee27/mzaf_16611430378251845863.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/db/8e/35/db8e356d-76e8-1e10-d7cb-87870bdbfad2/18UMGIM31437.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/64/27/c7642714-7f61-74c4-3109-246bd790befe/10UMGIM06657.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-02 07:35:43 (UTC)
+⏳ 업데이트 시간: 2026-04-02 08:28:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
