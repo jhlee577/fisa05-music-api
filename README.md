@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Candy Rain  
-> 아티스트: **久保田利伸**  
-> 앨범: _United Flow_  
+## 🎧 Instrumental Night  
+> 아티스트: **Yoga for Children Zone**  
+> 앨범: _Yoga Music for Kids & Beginners - Background Music_  
 
-🔍 검색 키워드: `rnb+rain`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/candy-rain/1534588437?i=1534589072&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0c/7d/c1/0c7dc18d-8f23-b2e4-c780-12d8c72999bd/mzaf_17239386562821730351.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/instrumental-night/1356323136?i=1356323639&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/e0/0f/6e/e00f6e6c-176c-bbe5-3f94-24d4e032a6d6/mzaf_4599560446171695912.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/ec/75/29ec7547-fbed-592f-6014-241b9fafcdf0/4547557012323.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a0/89/8d/a0898d94-cb2e-6e56-ba12-8fbb5193c56d/8033772913126.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-02 04:50:12 (UTC)
+⏳ 업데이트 시간: 2026-04-02 05:37:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
