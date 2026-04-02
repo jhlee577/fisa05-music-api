@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad (Instrumental)  
-> 아티스트: **조장혁**  
-> 앨범: _Sad…_  
+## 🎧 Heartbreak Anniversary  
+> 아티스트: **GIVĒON**  
+> 앨범: _When It's All Said And Done... Take Time_  
 
-🔍 검색 키워드: `instrumental+sad`  
+🔍 검색 키워드: `rnb+sad`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/sad-instrumental/1861158008?i=1861158140&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/d3/5e/52d35eaf-3715-4d4e-d905-6cd8e383b75e/mzaf_9142255019649081314.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/heartbreak-anniversary/1556122764?i=1556123056&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/1b/e3/851be32c-8ba4-b032-a1b8-47458f302aff/mzaf_8834461253671365635.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/b3/70/46b3707b-c2cb-2c4d-9b73-ab7a6fcd6fca/191953493145.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3b/ab/69/3bab69b8-97b6-2c7f-6e5f-86e091696bea/886448745839.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-02 12:28:33 (UTC)
+⏳ 업데이트 시간: 2026-04-02 13:37:24 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
