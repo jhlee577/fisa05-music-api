@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 꿈  
-> 아티스트: **Colde**  
-> 앨범: _이상주의_  
+## 🎧 (dream)  
+> 아티스트: **salvia palth**  
+> 앨범: _melanchole_  
 
-🔍 검색 키워드: `rock+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%BF%88/1577873919?i=1577873923&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/8a/95/7f8a956d-9c8a-a1bf-8be1-512842afb7b1/mzaf_10658229851567494096.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/dream/1733343361?i=1733343795&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1c/9b/49/1c9b49f3-2b53-e391-1c48-1ee6e38be1c3/mzaf_14795753782534610143.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3e/50/c2/3e50c275-51a4-dfd3-f10a-bc3235aca73c/8804775156991.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fd/f6/07/fdf607eb-2949-dc49-0ce3-493c4bd6a62a/44792.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-02 01:40:26 (UTC)
+⏳ 업데이트 시간: 2026-04-02 03:11:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
