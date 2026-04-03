@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (Instrumental)  
-> 아티스트: **XXXTENTACION**  
-> 앨범: _? (Deluxe)_  
+## 🎧 Take Me To Church  
+> 아티스트: **Lofi Fruits Music & Chill Fruits Music**  
+> 앨범: _Calm Sad Lofi_  
 
-🔍 검색 키워드: `pop+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope-instrumental/1474891456?i=1474891951&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/00/56/750056f0-03d3-b708-9409-10e92f9152ff/mzaf_2844963194115519688.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/take-me-to-church/1576377595?i=1576377970&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/46/67/3e4667a9-10b8-d649-6e8a-d4730c91cc8b/mzaf_6535929732069891846.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/49/bb/9349bb3b-317d-57c3-966a-71fa25247dc2/19UMGIM41705.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/a9/78/d0a9781a-9d3e-0b4d-40a7-7b7aec8d5d64/190296608131.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-03 06:35:13 (UTC)
+⏳ 업데이트 시간: 2026-04-03 07:33:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
