@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Culcha Candela, Bovann & ThatGurlHanna**  
-> 앨범: _TOP TEN_  
+## 🎧 Lofi Dream  
+> 아티스트: **AZ Studio**  
+> 앨범: _Café Dreams, Vol.1: Lofi Chillhop Music_  
 
-🔍 검색 키워드: `pop+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1593828196?i=1593828205&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8f/47/cd/8f47cd92-d63b-6e23-c99f-8b3fdc44d6b7/mzaf_5078260409512886250.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-dream/1744108950?i=1744108954&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/38/9b/35389b77-5cb5-3343-b9d1-6365dccb230f/mzaf_8490447768036412454.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1e/02/1d1e0214-5fc2-fe07-0ee2-516a68060e12/886448350729.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/f8/1d/45f81d58-2522-28f0-8b53-bb71c893e39a/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-04 05:32:02 (UTC)
+⏳ 업데이트 시간: 2026-04-04 06:29:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
