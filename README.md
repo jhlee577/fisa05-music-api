@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hard Skool  
-> 아티스트: **Guns N' Roses**  
-> 앨범: _Hard Skool - Single_  
+## 🎧 I Can Love You (feat. Lil' Kim)  
+> 아티스트: **Mary J. Blige**  
+> 앨범: _Share My World_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hard-skool/1586724611?i=1586724616&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2f/ef/d6/2fefd633-00b8-8a5d-a6c8-2748b4c51a84/mzaf_6321046714189098356.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/i-can-love-you-feat-lil-kim/1440817713?i=1440817961&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/5e/4d/995e4dd2-68e1-6a91-6490-481ba641ed0b/mzaf_1425492427794511065.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/3a/66/263a665e-5863-ccea-7ac6-d71d0365479d/21UM1IM16896.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/05/b8/8005b825-34b2-c0dd-3ecf-cfbe7baf10b1/06UMGIM21088.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-05 17:13:29 (UTC)
+⏳ 업데이트 시간: 2026-04-05 18:16:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
