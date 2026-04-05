@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Santa Tell Me  
-> 아티스트: **アリアナ・グランデ**  
-> 앨범: _Christmas Kisses - EP_  
+## 🎧 HaPpY (한)  
+> 아티스트: **Stray Kids & 한**  
+> 앨범: _SKZ-REPLAY_  
 
-🔍 검색 키워드: `ballad+rain`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `kpop+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/santa-tell-me/1440830304?i=1440830661&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/6f/44/ee6f4465-6511-9efd-f5ee-5d77f72b7579/mzaf_6433293991194195097.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy-%ED%95%9C/1658007364?i=1658007807&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c5/68/83/c568832b-3dfe-6aac-8d83-ba247cc3f0c9/mzaf_16702000248058098028.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5d/1e/39/5d1e39f2-36b0-2af2-0b74-53882c2f2f46/14UMGIM56533.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/cb/ef/85cbef02-60b4-8663-6f4f-951a74aca646/SKZ_REPLAY_Album_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-05 07:29:42 (UTC)
+⏳ 업데이트 시간: 2026-04-05 08:18:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
