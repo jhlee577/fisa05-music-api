@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 サッド  
-> 아티스트: **マルーン5**  
-> 앨범: _Overexposed_  
+## 🎧 Young and Beautiful  
+> 아티스트: **Lana Del Rey**  
+> 앨범: _The Great Gatsby (Music from Baz Luhrmann's Film) [Deluxe Edition]_  
 
-🔍 검색 키워드: `rock+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rnb+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%82%B5%E3%83%83%E3%83%89/1440806722?i=1440806930&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/5c/66/d05c666f-a472-4cc0-ecd0-0ac8267a7a75/mzaf_6392591601009737102.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/young-and-beautiful/1440832062?i=1440832246&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/e1/95/d3e195f7-8157-289b-f4f5-deae9f652dd0/mzaf_15414232315381160658.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d3/b1/f9/d3b1f91c-f2c0-7cc8-97fb-035db64b0ab2/12UMGIM26179.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/0d/0d/da0d0d4f-f947-d34d-d069-61f6b4824e3f/13UMGIM46510.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-05 10:14:28 (UTC)
+⏳ 업데이트 시간: 2026-04-05 11:12:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
