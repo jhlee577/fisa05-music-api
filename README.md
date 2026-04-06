@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Night (Chakras, Mudras and Mantras)  
-> 아티스트: **Handpan Club**  
-> 앨범: _Peaceful Guitar & Hang Drums Vol. 3_  
+## 🎧 Sad Instrumental Music  
+> 아티스트: **Sad Instrumental Piano Music Zone**  
+> 앨범: _Sad Instrumental Music Vol. 2: Piano Songs for the Broken Hearted, Sad Love Music for Lonley Nights, Emotional Jazz Piano Moods, Ambient Music for Sadness_  
 
-🔍 검색 키워드: `acoustic+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/acoustic-night-chakras-mudras-and-mantras/1889590688?i=1889590895&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/ed/5f/9eed5f97-c794-94cf-2e32-f75efa5c4353/mzaf_523440079294288109.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-instrumental-music/1287963414?i=1287963425&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8b/7b/b3/8b7bb31f-eac2-b080-90e7-d900c55ac50f/mzaf_17695093197852473529.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/3c/d0/a93cd039-ee39-2afb-9d42-3e4e158cab91/5903600316562.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ca/30/5b/ca305b12-04ef-05aa-5514-3865277a88b5/8134130570903.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-06 01:41:20 (UTC)
+⏳ 업데이트 시간: 2026-04-06 03:13:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
