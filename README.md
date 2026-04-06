@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Keyshia Cole**  
-> 앨범: _The Way It Is_  
+## 🎧 Acoustic Summer  
+> 아티스트: **midkeys & Ladina Viva**  
+> 앨범: _Acoustic Summer - Single_  
 
-🔍 검색 키워드: `rock+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/love/1440734472?i=1440734487&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9d/be/cd/9dbecdc5-1e60-930d-0be1-6fbe7ca99e18/mzaf_4670297934159370894.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/acoustic-summer/1675147718?i=1675147719&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/85/c1/17/85c11754-cc39-4d2a-5eaa-61243fba10d9/mzaf_4628673323744376129.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/c6/56/a1c6569f-7674-8105-2bde-273308cfd436/06UMGIM19174.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/e7/81/1ce7816e-2463-4194-9577-c76a5c2d57ae/197368426303_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-06 18:26:25 (UTC)
+⏳ 업데이트 시간: 2026-04-06 19:27:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
