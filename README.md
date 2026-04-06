@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Summer  
-> 아티스트: **midkeys & Ladina Viva**  
-> 앨범: _Acoustic Summer - Single_  
+## 🎧 Acoustic Night  
+> 아티스트: **Future Relax & Meditation Club**  
+> 앨범: _Meditation Journey, Music for Meditate and Relax_  
 
-🔍 검색 키워드: `acoustic+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/acoustic-summer/1675147718?i=1675147719&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/85/c1/17/85c11754-cc39-4d2a-5eaa-61243fba10d9/mzaf_4628673323744376129.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-night/1573584345?i=1573584362&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/86/e5/96/86e596de-e17d-4c7e-f7be-93b4a1c13d82/mzaf_1202868682104465653.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/e7/81/1ce7816e-2463-4194-9577-c76a5c2d57ae/197368426303_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/f5/27/1ef527d4-c26b-8f85-b8ee-241f03634e43/5903600319983.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-06 19:27:43 (UTC)
+⏳ 업데이트 시간: 2026-04-06 20:18:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
