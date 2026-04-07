@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Young and Beautiful  
-> 아티스트: **Lana Del Rey**  
-> 앨범: _The Great Gatsby (Music from Baz Luhrmann's Film) [Deluxe Edition]_  
+## 🎧 I Love Rock 'N' Roll  
+> 아티스트: **Britney Spears**  
+> 앨범: _Greatest Hits: My Prerogative_  
 
-🔍 검색 키워드: `rnb+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rock+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/young-and-beautiful/1440832062?i=1440832246&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/e1/95/d3e195f7-8157-289b-f4f5-deae9f652dd0/mzaf_15414232315381160658.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/i-love-rock-n-roll/264025392?i=264026743&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/67/07/1b670712-f3fd-01ae-7ea0-ac35083611a6/mzaf_10308933593770492685.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/0d/0d/da0d0d4f-f947-d34d-d069-61f6b4824e3f/13UMGIM46510.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/5b/d4/0f/5bd40f8b-60e8-3331-f48c-7655daa9037d/dj.svwmjfmt.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-07 04:54:00 (UTC)
+⏳ 업데이트 시간: 2026-04-07 05:39:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
