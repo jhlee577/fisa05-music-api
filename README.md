@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Leona Lewis**  
-> 앨범: _Echo_  
+## 🎧 Rain  
+> 아티스트: **Sleep Token**  
+> 앨범: _Take Me Back To Eden_  
 
-🔍 검색 키워드: `pop+happy`  
+🔍 검색 키워드: `instrumental+rain`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/659376610?i=659376704&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fb/ad/b0/fbadb05f-caaa-f1f7-5c9f-2f37bc1fb2ac/mzaf_15967762204283257776.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/1669567703?i=1669569829&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4a/2c/cb/4a2ccb96-2b7f-1fa5-1f5e-090086bf54f2/mzaf_5717728084859552048.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/10/f1/0e/10f10ea1-8edc-fc26-ad65-7d8885200e8a/884977424928.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e2/c6/0f/e2c60f68-7cec-fa08-6dd3-891aa72c247e/5401148000849_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-08 12:29:02 (UTC)
+⏳ 업데이트 시간: 2026-04-08 13:38:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
