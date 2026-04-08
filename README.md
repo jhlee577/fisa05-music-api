@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Dream  
-> 아티스트: **Deep Sleep Music Delta Binaural 432 Hz & Binaural Beats Recordings & Natural Sleep Remedies Oasis**  
-> 앨범: _Meditation for Empaths - Empath Meditation for Cleansing and Clearing your Energy_  
+## 🎧 luther  
+> 아티스트: **Kendrick Lamar**  
+> 앨범: _GNX_  
 
-🔍 검색 키워드: `instrumental+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/instrumental-dream/1351409875?i=1351410526&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d2/df/5e/d2df5e1d-be97-506a-624c-be31a3ca2978/mzaf_12702939491859418322.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/luther/1781270319?i=1781270323&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/1d/98/e01d9881-0953-f0ed-b03d-3a4bd6f3c769/mzaf_8283505998481315852.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ab/d7/49/abd749d0-3da7-3ad4-6181-918ce445a273/8033772912129.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-08 08:33:19 (UTC)
+⏳ 업데이트 시간: 2026-04-08 09:31:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
