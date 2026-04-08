@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Kouz1**  
-> 앨범: _AFROBOY - EP_  
+## 🎧 Instrumental Dream  
+> 아티스트: **Deep Sleep Music Delta Binaural 432 Hz & Binaural Beats Recordings & Natural Sleep Remedies Oasis**  
+> 앨범: _Meditation for Empaths - Empath Meditation for Cleansing and Clearing your Energy_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `instrumental+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/love/1733461489?i=1733461494&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/44/ee/cc44eee3-4d73-8b25-fd14-e4a957ed1d10/mzaf_3666250222403076952.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/instrumental-dream/1351409875?i=1351410526&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d2/df/5e/d2df5e1d-be97-506a-624c-be31a3ca2978/mzaf_12702939491859418322.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/66/f0/cd/66f0cd36-09a5-c5f0-6798-6916feff4d98/3617054266770.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ab/d7/49/abd749d0-3da7-3ad4-6181-918ce445a273/8033772912129.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-08 07:38:05 (UTC)
+⏳ 업데이트 시간: 2026-04-08 08:33:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
