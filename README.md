@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Know the spot  
-> 아티스트: **SKAI ISYOURGOD, 瘦恒SoulHan, PlayerJ, 步步高先生, 阿牛 & 5 Idiots**  
-> 앨범: _5 Idiots_  
+## 🎧 HAPPY  
+> 아티스트: **데이식스**  
+> 앨범: _Fourever_  
 
-🔍 검색 키워드: `hiphop+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/know-the-spot/1888068018?i=1888068028&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/62/48/5d62485a-a0e6-b49a-97d1-6a00bb1750c3/mzaf_8827317525549744807.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy/1731955732?i=1731955738&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/c8/6d/6cc86df9-6c1f-8415-6d94-501fc0c8acc9/mzaf_8283996220596626313.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/91/fa/8c91fa99-5cf8-6e8c-57c7-04e8de860941/196874249611.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/42/fb/af/42fbaf16-efe2-4e1f-2e5e-bb42c2bdc281/DAY6_Fourever_Online_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-08 19:33:47 (UTC)
+⏳ 업데이트 시간: 2026-04-08 20:18:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
