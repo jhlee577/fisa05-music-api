@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (Acoustic)  
-> 아티스트: **Oh Wonder**  
-> 앨범: _Winter Acoustic_  
+## 🎧 I'll Never Love Again (Film Version)  
+> 아티스트: **Lady Gaga & Bradley Cooper**  
+> 앨범: _A Star Is Born Soundtrack_  
 
-🔍 검색 키워드: `acoustic+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+rain`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-acoustic/1541023935?i=1541023944&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/b1/4f/06b14f1a-96e7-4e01-2ada-6fb2d8e95b6c/mzaf_7476897313677994432.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ill-never-love-again-film-version/1434371867?i=1434372069&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/ae/e9/8eaee950-3c19-fc33-15e9-3cf1972560f6/mzaf_1576734710845153766.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/5b/8a/aa5b8a87-0c77-5ffd-acdd-312f37292bca/21UMGIM98744.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-10 01:41:47 (UTC)
+⏳ 업데이트 시간: 2026-04-10 03:13:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
