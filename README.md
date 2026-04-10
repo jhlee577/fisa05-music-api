@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 SAD! (Instrumental)  
-> 아티스트: **エックスエックスエックステンタシオン**  
-> 앨범: _? (Deluxe)_  
+## 🎧 Mellow Storm  
+> 아티스트: **Nature Sounds Unplugged**  
+> 앨범: _Acoustic Rain_  
 
-🔍 검색 키워드: `instrumental+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `acoustic+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sad-instrumental/1474891456?i=1474891815&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/9a/f1/519af1f2-0c4b-c91c-ffca-c01b04b3b891/mzaf_12227570221781810766.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/mellow-storm/1451608821?i=1451608946&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/be/15/d7/be15d78b-70f4-f79a-f991-800fbecae496/mzaf_1385809372945405412.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/49/bb/9349bb3b-317d-57c3-966a-71fa25247dc2/19UMGIM41705.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/1f/5c/8a1f5c23-8a29-609d-ba99-5fe23329eea1/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-10 22:16:48 (UTC)
+⏳ 업데이트 시간: 2026-04-10 23:16:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
