@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad  
-> 아티스트: **Seung Yeon Son**  
-> 앨범: _부부의 세계 Special (Original Television Soundtrack)_  
+## 🎧 BOSS  
+> 아티스트: **NCT U**  
+> 앨범: _NCT 2018 EMPATHY_  
 
-🔍 검색 키워드: `kpop+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `ballad+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/sad/1721294911?i=1721295187&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a0/52/b7/a052b764-189a-5fb5-0a1f-1ce2d2261e97/mzaf_8751524595692674428.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/boss/1358690306?i=1358690826&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/9d/0a/c99d0ab8-6906-5afd-0205-c2ab1292e0cc/mzaf_1873194750677102708.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/ba/49/35ba4966-1714-76b3-9f5e-7f9b0c579c61/8720205028297.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/3c/67/4b3c67ba-2721-19ce-424d-6742f420e800/NCT2018_EMPATHY_COVER_4000x4000px_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-11 08:19:01 (UTC)
+⏳ 업데이트 시간: 2026-04-11 09:20:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
