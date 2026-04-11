@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **BTS**  
-> 앨범: _DARK&WILD_  
+## 🎧 Do for Love (Mixed)  
+> 아티스트: **2Pac**  
+> 앨범: _Pure Throwback Radio: Hip-Hop Love Songs (DJ Mix)_  
 
-🔍 검색 키워드: `kpop+rain`  
+🔍 검색 키워드: `hiphop+love`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/rain/1597016856?i=1597017220&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/8f/1f/788f1f30-4ef1-6636-254d-eeb4d8c410b7/mzaf_10455926999264557055.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/do-for-love-mixed/1697418681?i=1697418693&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/04/ce/6f/04ce6f3a-288a-ba97-991b-10b63ef5b0f6/mzaf_12334028342978053858.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/39/97/f2399713-b036-7ef2-fb4f-8c1454569c66/8804775056895_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/c9/e7/25c9e791-5e1e-5bac-27eb-07ed5f5f5b3c/7b110011-bd2e-454c-935c-d3199dde8d8b.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-11 04:44:28 (UTC)
+⏳ 업데이트 시간: 2026-04-11 05:34:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
