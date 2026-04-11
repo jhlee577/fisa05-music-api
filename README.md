@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Dream  
-> 아티스트: **amiga supercharger**  
-> 앨범: _Lofi Dream - Single_  
+## 🎧 Summer  
+> 아티스트: **Marshmello**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `lofi+dream`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-dream/1734089080?i=1734089084&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/85/51/2a/85512a5f-32c2-6b99-dc86-8974d337244f/mzaf_16911106231404252273.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/summer/1211720349?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/93/4c/72/934c727b-2a04-b4e5-4e07-5fa1826fb87a/mzvf_5761377996495456425.640x240.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fe/f1/f5/fef1f585-3e9c-7d7b-27c3-4ce1749a2a4b/7300340280357.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/49/1a/e6/491ae603-69a1-5eba-3fb7-fef4d91c2388/dj.zckxwdtr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-11 16:13:55 (UTC)
+⏳ 업데이트 시간: 2026-04-11 17:14:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
