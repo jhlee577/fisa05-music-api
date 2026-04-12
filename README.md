@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lost in Me  
-> 아티스트: **LoFi Night**  
-> 앨범: _Lost in Me - Single_  
+## 🎧 Summer (feat. Jeshi)  
+> 아티스트: **Celeste**  
+> 앨범: _Lately - EP_  
 
-🔍 검색 키워드: `lofi+night`  
+🔍 검색 키워드: `pop+summer`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lost-in-me/1841220483?i=1841220484&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/6f/84/306f84f9-a1bd-5787-3374-0cc82b17f581/mzaf_10772545622119021844.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer-feat-jeshi/1455640507?i=1455640524&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9b/58/76/9b587633-6c1b-6de4-0867-2b0b7b5e665f/mzaf_9522220213346779490.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/72/3c/8c723c65-4a7b-9a2f-6194-96e8db1be62f/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/60/11/5e6011eb-442d-26e2-62da-0e5da382f8e8/00602577529702.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-12 13:30:50 (UTC)
+⏳ 업데이트 시간: 2026-04-12 14:18:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
