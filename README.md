@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Relaxation Relaxation Dream  
-> 아티스트: **Lofi Jazz Terrace**  
-> 앨범: _Jazz Night Lo-Fi Beats: Chillout Lo-Fi in a Late-Night Bar Setting._  
+## 🎧 Happy  
+> 아티스트: **태연**  
+> 앨범: _Happy - Single_  
 
-🔍 검색 키워드: `jazz+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/relaxation-relaxation-dream/1889379191?i=1889379851&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/5e/da/a95edaf6-fce3-5f86-671c-3d8bb22bd1f1/mzaf_9166440829749610222.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy/1501652967?i=1501652968&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/6a/e6/e36ae660-7221-2529-3735-183f1102be6b/mzaf_8897333369392200903.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/18/39/1d18396f-2eaf-2faa-35a5-95d88bf1d23e/4550754944137_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/5a/a4/f85aa49a-17c6-303a-82bc-3684cc4c53c6/SMBiz_20200305_152527701.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-12 07:35:38 (UTC)
+⏳ 업데이트 시간: 2026-04-12 08:23:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
