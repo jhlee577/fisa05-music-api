@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Another Day of Sun  
-> 아티스트: **La La Land Cast**  
-> 앨범: _La La Land (Original Motion Picture Soundtrack)_  
+## 🎧 夏  
+> 아티스트: **さユり**  
+> 앨범: _ミカヅキの航海_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/another-day-of-sun/1440863506?i=1440863663&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/f0/85/97f085d1-aacb-d130-3c48-44ceb042c178/mzaf_5004950277845776120.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E5%A4%8F/1538114023?i=1538114037&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f4/7d/bd/f47dbd47-1605-f6c6-fe92-adc1e65241d4/mzaf_2849991046085892722.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/47/a3/bb47a36e-57b8-9260-f9a4-d09851145c45/00602557100556.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/8c/51/7a8c519d-4042-5d06-ad23-61e7fe154781/jacket_BVCL00795B00Z_550.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-13 18:34:42 (UTC)
+⏳ 업데이트 시간: 2026-04-13 19:33:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
