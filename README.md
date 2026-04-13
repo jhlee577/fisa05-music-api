@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (feat. Winona Oak)  
-> 아티스트: **The Chainsmokers**  
-> 앨범: _Sick Boy_  
+## 🎧 Sad (Acoustic Version)  
+> 아티스트: **Fae August**  
+> 앨범: _Sad - Single_  
 
-🔍 검색 키워드: `instrumental+hope`  
+🔍 검색 키워드: `acoustic+sad`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope-feat-winona-oak/1445725433?i=1445725437&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/e1/a3/dce1a3dd-233c-a5da-cede-87a0aad18740/mzaf_9316751557773368912.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad-acoustic-version/1572859405?i=1572859410&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/16/7f/61/167f611c-b129-f4a5-6ef9-f1a227aee5fb/mzaf_16265212731311778984.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/24/e1/6324e131-0034-4753-9cc6-ade1da39a4a8/886447471074.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/99/4e/e7994ef9-87fd-a4e1-4815-f8277ce511e9/886449382460.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-13 14:40:44 (UTC)
+⏳ 업데이트 시간: 2026-04-13 15:35:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
