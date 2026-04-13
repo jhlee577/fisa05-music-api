@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Leona Lewis**  
-> 앨범: _Echo (Deluxe Version)_  
+## 🎧 Happy (Instrumental)  
+> 아티스트: **Swiss Powerbrass**  
+> 앨범: _Milestones_  
 
-🔍 검색 키워드: `pop+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `instrumental+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/340009386?i=340009443&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/1b/6f/061b6f11-4355-74c3-9975-fa1148c09a00/mzaf_14478952732730763722.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-instrumental/1743955194?i=1743955205&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/1f/95/281f95db-693b-c8c3-e01c-1c861c1b3b84/mzaf_12147261012247587401.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/50/4a/a4/504aa4f8-9081-98f6-c46e-3c4f69d28c41/mzi.cqyfuvfd.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/74/9a/f7749a1c-3cef-5f39-cb58-3fa599130429/cover_0610098165521.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-12 23:15:14 (UTC)
+⏳ 업데이트 시간: 2026-04-13 00:52:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
