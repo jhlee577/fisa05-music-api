@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Return of the Mack  
-> 아티스트: **Mark Morrison**  
-> 앨범: _Return of the Mack_  
+## 🎧 Bam Bam (feat. Ed Sheeran)  
+> 아티스트: **Camila Cabello**  
+> 앨범: _Familia_  
 
-🔍 검색 키워드: `rnb+summer`  
+🔍 검색 키워드: `ballad+sad`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/return-of-the-mack/81902658?i=81902612&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ff/1a/db/ff1adb59-b422-d12f-1b17-3c8555ad0bd1/mzaf_16736176348735064112.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/bam-bam-feat-ed-sheeran/1610834866?i=1610834871&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/5b/b7/285bb720-dc8e-ec39-d695-50f7317d0eb3/mzaf_12634987122525693998.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/6a/cd/296acd3a-9410-6fb9-7dc2-725dbc20f5a6/mzi.fhhlolpu.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b7/e3/2f/b7e32fd7-7ca3-edf6-7df8-861bfcfd6f9a/886449526772.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-15 05:03:08 (UTC)
+⏳ 업데이트 시간: 2026-04-15 06:46:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
