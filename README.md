@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM  
-> 아티스트: **SEVENTEEN**  
-> 앨범: _Unknown Album_  
+## 🎧 Rain  
+> 아티스트: **Madonna**  
+> 앨범: _Erotica_  
 
-🔍 검색 키워드: `jazz+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rock+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/dream/1652052237?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/d5/f3/d3/d5f3d3e7-2b26-5318-72ab-6fb9c93ce467/mzvf_18431944048556971312.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/80814761?i=80814651&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d5/bf/44/d5bf4473-a92f-dab5-0fd8-43f67d73e53a/mzaf_14238482513083239805.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/da/07/aeda0763-09a6-9245-f710-6425f1dc7b80/mzi.jqoxkukr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-17 11:24:38 (UTC)
+⏳ 업데이트 시간: 2026-04-17 12:30:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
