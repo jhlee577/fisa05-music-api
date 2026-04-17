@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Love (Jazz Hip Hop Instrumental)  
-> 아티스트: **Jazz Hop Nation**  
-> 앨범: _Morning Coffee Commute_  
+## 🎧 DREAM  
+> 아티스트: **SEVENTEEN**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `jazz+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/jazz-love-jazz-hip-hop-instrumental/1531948892?i=1531949512&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/4e/24/bd4e24d1-4ead-5937-0fd2-db504f7a97a6/mzaf_10627178022987105237.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/dream/1652052237?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/d5/f3/d3/d5f3d3e7-2b26-5318-72ab-6fb9c93ce467/mzvf_18431944048556971312.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9d/1e/1a9d1e28-54a5-6de8-76fa-df2117f18a1e/13139.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-17 10:31:41 (UTC)
+⏳ 업데이트 시간: 2026-04-17 11:24:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
