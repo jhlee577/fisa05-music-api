@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad  
-> 아티스트: **Pearl Jam**  
-> 앨범: _Lost Dogs_  
+## 🎧 Happy  
+> 아티스트: **태연**  
+> 앨범: _Happy - Single_  
 
-🔍 검색 키워드: `rock+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+happy`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad/527179977?i=527179981&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4e/20/3b/4e203b18-bfc4-5e2c-cb90-426611de4102/mzaf_8254894771220614688.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy/1501652967?i=1501652968&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/6a/e6/e36ae660-7221-2529-3735-183f1102be6b/mzaf_8897333369392200903.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/37/fc/b0/37fcb065-e8cc-9d2b-98dd-12eca02fa3e5/dj.tuokefaq.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/5a/a4/f85aa49a-17c6-303a-82bc-3684cc4c53c6/SMBiz_20200305_152527701.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-18 09:22:00 (UTC)
+⏳ 업데이트 시간: 2026-04-18 10:19:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
