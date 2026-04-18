@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Marshmello**  
-> 앨범: _Unknown Album_  
+## 🎧 Love  
+> 아티스트: **MONSTA X**  
+> 앨범: _Shape of Love - EP_  
 
-🔍 검색 키워드: `rnb+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/music-video/summer/1211720349?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/93/4c/72/934c727b-2a04-b4e5-4e07-5fa1826fb87a/mzvf_5761377996495456425.640x240.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love/1710210257?i=1710210263&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/eb/aa/22/ebaa2233-e43b-5bcb-1484-8dc259e50c38/mzaf_4381543793783965075.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/49/1a/e6/491ae603-69a1-5eba-3fb7-fef4d91c2388/dj.zckxwdtr.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/a2/57/8fa257ac-764c-04a6-6414-0eddc4f394db/4050538765977.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-18 05:36:50 (UTC)
+⏳ 업데이트 시간: 2026-04-18 06:34:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
