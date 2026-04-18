@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Your Love  
-> 아티스트: **The Outfield**  
-> 앨범: _Big Innings: Best of The Outfield_  
+## 🎧 Summer  
+> 아티스트: **Marshmello**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `ballad+love`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/your-love/186345874?i=186346150&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/54/88/b9/5488b96b-4331-412d-0d74-b237ff75dfee/mzaf_3866438699365829127.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/music-video/summer/1211720349?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/93/4c/72/934c727b-2a04-b4e5-4e07-5fa1826fb87a/mzvf_5761377996495456425.640x240.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/35/d3/af35d339-a9c0-a565-712d-a31dd9e42a4b/mzi.jyzejvil.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/49/1a/e6/491ae603-69a1-5eba-3fb7-fef4d91c2388/dj.zckxwdtr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-18 04:52:01 (UTC)
+⏳ 업데이트 시간: 2026-04-18 05:36:50 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
