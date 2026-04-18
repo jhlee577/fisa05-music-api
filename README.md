@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **The Cult**  
-> 앨범: _Love_  
+## 🎧 More or Less  
+> 아티스트: **Martin Jazz Studio**  
+> 앨범: _Jazz Summer - Bossa Nova Lounge Music 2022_  
 
-🔍 검색 키워드: `rock+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `jazz+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/1028833323?i=1028833868&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/c6/95/1dc695d8-9a5b-c92d-0215-be189955e247/mzaf_1345610676396260243.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/more-or-less/1614337612?i=1614337613&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e0/9a/02/e09a021f-2f35-0e2f-7745-312a42c92996/mzaf_2861100028823555457.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/d0/86/a6d086ad-8d5d-0fcd-4565-a8cddecbfe43/607618006501.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/dd/55/8fdd551e-faf4-06a7-3f2e-fa11175767c5/5904195591617.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-18 22:13:40 (UTC)
+⏳ 업데이트 시간: 2026-04-18 23:15:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
