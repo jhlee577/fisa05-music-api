@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Night  
-> 아티스트: **Lofi Rain**  
-> 앨범: _Raindrops: Background Lofi_  
+## 🎧 Ever Enough (Acoustic Version)  
+> 아티스트: **A Rocket to the Moon**  
+> 앨범: _Acoustic Night_  
 
-🔍 검색 키워드: `lofi+night`  
+🔍 검색 키워드: `acoustic+night`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-night/1766096936?i=1766097019&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/e0/89/d1e089d3-71c1-50bd-0577-ffad7d41aa98/mzaf_4411195603325134067.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/ever-enough-acoustic-version/1398992610?i=1398994477&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/85/4c/3e854c3b-daac-70bb-86e5-40dffa4041d1/mzaf_12635418226141227097.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/1e/4e/b11e4e76-09aa-fe4b-f053-43312e67577e/cover_10316610.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/ea/4e/1eea4e48-205e-9631-8f14-2f985cd2e93c/842474181065.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-19 10:18:48 (UTC)
+⏳ 업데이트 시간: 2026-04-19 11:17:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
