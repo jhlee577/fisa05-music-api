@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (feat. ALEXANDER)  
-> 아티스트: **Psalm Trees**  
-> 앨범: _From Scratch (feat. ALEXANDER)_  
+## 🎧 Jazz Night  
+> 아티스트: **Millennium Jazz Music & Soupbox**  
+> 앨범: _Made in Germany: On the Radar, Vol.2_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `jazz+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope-feat-alexander/1765339752?i=1765339757&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/69/2d/2c692d6b-2674-e74a-6e7a-6878fa72d358/mzaf_169238148386537252.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/jazz-night/1610959983?i=1610960239&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/10/80/cc/1080cc9c-69f2-e37a-0c2d-f93710533134/mzaf_1849945560189194761.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/43/a7/b043a7a2-251a-0bc5-d723-f6094113e944/745051305109.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/e7/04/b2e70405-940c-c7af-6e6f-79f5cc1d51ae/1963620487615_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-19 20:15:38 (UTC)
+⏳ 업데이트 시간: 2026-04-19 21:15:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
