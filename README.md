@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Take My Breath Away (Love Theme from "Top Gun")  
-> 아티스트: **Berlin**  
-> 앨범: _Top Gun (Original Motion Picture Soundtrack) [Special Expanded Edition]_  
+## 🎧 Rain  
+> 아티스트: **SWV**  
+> 앨범: _Release Some Tension_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/take-my-breath-away-love-theme-from-top-gun/387193895?i=387194076&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/48/db/90/48db906e-0059-84c7-b528-c8fec8c53a09/mzaf_7140012511436448132.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/253640878?i=253641178&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/2f/27/812f27f8-4c88-7b16-8a54-5113fa169781/dj.jvcruggi.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-20 18:28:37 (UTC)
+⏳ 업데이트 시간: 2026-04-20 19:29:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
