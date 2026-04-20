@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **SWV**  
-> 앨범: _Release Some Tension_  
+## 🎧 Happy (Acoustic Piano Version)  
+> 아티스트: **The Piano Man**  
+> 앨범: _Ultimate Acoustic Chart Hits On Piano_  
 
-🔍 검색 키워드: `rnb+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+happy`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/253640878?i=253641178&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy-acoustic-piano-version/854428359?i=854428437&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/5e/14/365e14b7-9df3-9f7a-3595-f6cbea55740f/mzaf_14789766068571250343.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/4b/58/694b5848-524d-c521-66ba-10e30e9878a3/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-20 19:29:48 (UTC)
+⏳ 업데이트 시간: 2026-04-20 20:19:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
