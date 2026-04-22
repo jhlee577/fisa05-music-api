@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 lofi hope  
-> 아티스트: **Lofi Blissful Music, LoFi Chill & Study Music & Sounds**  
-> 앨범: _Chill Lofi Beats_  
+## 🎧 Anxious For Nothing  
+> 아티스트: **The Lofi Christian**  
+> 앨범: _Lofi Summer: For Everything There is a Season_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-hope/1850136733?i=1850136742&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/15/8e/2e158ec6-0cc3-dfbc-6f23-807d52ecf69f/mzaf_13870929811557854541.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/anxious-for-nothing/1626563920?i=1626563921&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/24/12/c2/2412c28d-e6c8-a571-6d86-315fdc5a0900/mzaf_14903946065120994117.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/7d/07/897d0712-c3fb-4062-9208-0002a10be86b/920562.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/b7/a3/7ab7a331-c34f-58a9-1af4-7e19b44f29ce/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-22 16:30:15 (UTC)
+⏳ 업데이트 시간: 2026-04-22 17:26:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
