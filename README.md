@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 거리에서  
-> 아티스트: **성시경**  
-> 앨범: _The Ballads_  
+## 🎧 Instrumental  
+> 아티스트: **dodie**  
+> 앨범: _You - EP_  
 
-🔍 검색 키워드: `ballad+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `instrumental+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%B1%B0%EB%A6%AC%EC%97%90%EC%84%9C/1543850903?i=1543850904&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7f/cb/ae/7fcbae10-e463-ca59-2094-81cf875e199e/mzaf_3664734411788512450.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/instrumental/1255318399?i=1255319035&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/20/97/b5/2097b581-f7c2-0733-b8fb-e261076ef046/mzaf_8572575493838900240.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/7c/88/217c88ed-80bf-adfa-7cdf-a5c219daf9f7/8809784722939.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/96/9f/fb969f1c-6b0a-3988-ba3e-5add5ca4695c/DODIE_FINAL2_3.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-22 07:39:41 (UTC)
+⏳ 업데이트 시간: 2026-04-22 08:43:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
