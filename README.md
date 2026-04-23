@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Dream  
-> 아티스트: **Jazz Sax Lounge Collection**  
-> 앨범: _Bossa Nova Saxophone - Best of Lounge Bar & Jazz Club Background_  
+## 🎧 Standing Next to You  
+> 아티스트: **Jung Kook**  
+> 앨범: _GOLDEN_  
 
-🔍 검색 키워드: `jazz+dream`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/jazz-dream/1444681625?i=1444681902&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/2f/24/5a2f24b2-e577-f386-355c-996b87c04716/mzaf_17425124391291034151.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/standing-next-to-you/1709554767?i=1709554997&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/e4/44/17e4443f-ccac-37e9-ae7e-c27652c8bb7c/mzaf_1611321858020850805.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/aa/9a/9b/aa9a9bcd-b0c2-2305-89db-03c9090379a3/5060642712803.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-23 14:52:52 (UTC)
+⏳ 업데이트 시간: 2026-04-23 15:41:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
