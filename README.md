@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Bcalm & Purrple Cat**  
-> 앨범: _Elements_  
+## 🎧 Rain for Sleep  
+> 아티스트: **Pop Rain**  
+> 앨범: _Rain and Nature Sounds for Relaxation, Meditation, Sleep, Study, Yoga, Serenity, Harmony and Therapy._  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope/1710124050?i=1710124061&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c6/07/3c/c6073c85-e06f-7329-dc09-0f0b41595a57/mzaf_2322420414972425522.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain-for-sleep/1038504469?i=1038504478&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/3d/b5/333db5b0-74cf-b790-e165-5efe37fde3e8/mzaf_5499236546051779751.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/0f/36/be0f3691-19cf-df09-6a54-c9758dc8b931/5c385fb1-923f-4f2e-8e98-bd28c51e1556.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/42/b6/4142b67d-d058-7e02-e7b3-ba445a320e39/mzm.eblmhqec.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-23 06:48:22 (UTC)
+⏳ 업데이트 시간: 2026-04-23 07:40:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
