@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 YOSEMITE  
-> 아티스트: **Travis Scott**  
-> 앨범: _ASTROWORLD_  
+## 🎧 Instrumental Night  
+> 아티스트: **Sleeping Buddha Piano**  
+> 앨범: _Insomnia 2018 - 30 Songs to Improve Sleep and Manage Anxiety_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/yosemite/1421241217?i=1421243212&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/8d/e8/d98de86e-b1e8-4262-1741-695c9c4c2d75/mzaf_8199446383486090854.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/instrumental-night/1446266924?i=1446266938&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/43/88/424388a2-f27f-1895-8592-0793158b40c1/mzaf_12593872232774658732.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/66/90/306690d4-2a29-402e-e406-6b319ce7731a/886447227169.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/20/0b/6f/200b6f1d-7b35-5f9a-5df3-e234fbbc975b/8033773001754.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-23 21:21:15 (UTC)
+⏳ 업데이트 시간: 2026-04-23 22:20:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
