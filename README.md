@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 LOVE. (feat. Zacari)  
-> 아티스트: **Kendrick Lamar**  
-> 앨범: _DAMN._  
+## 🎧 Piano Rain  
+> 아티스트: **Pop Rain**  
+> 앨범: _Rain and Nature Sounds for Relaxation, Meditation, Sleep, Study, Yoga, Serenity, Harmony and Therapy._  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/love-feat-zacari/1440881047?i=1440881708&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/71/89/72718957-3475-8f6f-3685-aedd470ddc20/mzaf_4044691450436775386.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/piano-rain/1038504469?i=1038504865&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/74/a4/13/74a41374-e678-9a8a-bf5f-20a10e5f2723/mzaf_453678027796966440.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/42/b6/4142b67d-d058-7e02-e7b3-ba445a320e39/mzm.eblmhqec.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-24 21:21:55 (UTC)
+⏳ 업데이트 시간: 2026-04-24 22:20:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
