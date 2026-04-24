@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad Jazz  
-> 아티스트: **Jazz Here & Now**  
-> 앨범: _Blue_  
+## 🎧 HAPPY  
+> 아티스트: **三代目 J SOUL BROTHERS from EXILE TRIBE**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `jazz+sad`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rnb+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sad-jazz/1100190694?i=1100191729&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/21/d6/4b21d6df-c15e-84e2-8fe8-a2f53c8bea4f/mzaf_1628902766120207671.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/happy/1209275758?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/0b/a4/2d/0ba42dfb-32f0-1fe2-9abd-fd54e778f2b5/mzvf_9094905601782527426.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/29/7f/88/297f881c-5f3c-7f2e-0689-0e67bd7bca78/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video51/v4/a4/3e/86/a43e8666-e70f-84d1-b546-a06b86740859/RZCD-86294.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-24 12:31:21 (UTC)
+⏳ 업데이트 시간: 2026-04-24 13:37:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
