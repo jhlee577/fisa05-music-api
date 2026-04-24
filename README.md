@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope Revives in Spring (Wave)  
-> 아티스트: **Sleepy Nuts**  
-> 앨범: _Natural Sounds Before Bed Ocean Waves and Healing Music for Comfortable Sleep Healing Nature Sleep Sounds_  
+## 🎧 HOPE  
+> 아티스트: **FLAT FRANKEN**  
+> 앨범: _HOPE - Single_  
 
-🔍 검색 키워드: `instrumental+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `hiphop+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope-revives-in-spring-wave/1892964415?i=1892964799&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/d8/61/f3d86192-b2b5-1aaf-6e8e-b81dff2db99c/mzaf_9681232454118411540.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1743541838?i=1743541847&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/ae/59/70ae590e-c42f-46bd-bf05-eede56c9e902/mzaf_3594595763520668048.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/98/7b/d3987bb5-c78c-d74f-a919-91c0400de17d/4550755391428_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/32/92/be32926b-bd23-7d49-1a0b-ed5eeee52aa6/0198448268608_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-24 18:21:18 (UTC)
+⏳ 업데이트 시간: 2026-04-24 19:23:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
