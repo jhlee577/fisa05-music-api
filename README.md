@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 バラード  
-> 아티스트: **ケツメイシ**  
-> 앨범: _Unknown Album_  
+## 🎧 Summer (Live)  
+> 아티스트: **Kenya Vaun**  
+> 앨범: _Summer (Live) - Single_  
 
-🔍 검색 키워드: `ballad+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rnb+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89/1694477170?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/c9/15/5e/c9155efb-ba7a-f8f4-7e7f-56e771ba1e21/mzvf_2084583514473928518.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer-live/1710302393?i=1710302399&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/f6/35/aef635c0-d74b-105b-304f-7e01d6993662/mzaf_16822522468501471686.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/5b/67/79/5b677982-1d73-5444-6c2f-9818ff457d32/859759890666.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/ef/88/bcef887d-3fb3-8e76-b3c4-3a234b99685e/075679666680.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-25 07:35:29 (UTC)
+⏳ 업데이트 시간: 2026-04-25 08:26:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
