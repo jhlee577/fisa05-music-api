@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Summer  
-> 아티스트: **Gustavo Fidelli**  
-> 앨범: _Oriental Lunar_  
+## 🎧 Lofi Sad  
+> 아티스트: **Sad Music**  
+> 앨범: _Lofi HipHop Beats To Sleep and Study To - Lofi Radio 247_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-summer/1806287769?i=1806287770&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/e6/69/6be669c0-bc01-4448-f38d-5face0a0af77/mzaf_16052418216629958274.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-sad/1596058086?i=1596058106&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f8/ec/cb/f8eccb28-dc01-1581-0aab-bc75093bbcf9/mzaf_18342706384585507100.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/c5/ef/6bc5efa0-6857-64c5-c0aa-462a2dd2f9a3/4065328645353.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/35/a4/7735a4e8-0e03-600d-a175-d1a82b19a979/24343.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-25 18:20:46 (UTC)
+⏳ 업데이트 시간: 2026-04-25 19:21:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
