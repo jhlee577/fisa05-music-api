@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Supermarket Flowers  
-> 아티스트: **Ed Sheeran**  
-> 앨범: _÷ (Deluxe)_  
+## 🎧 Summer  
+> 아티스트: **久石譲 & ロンドン交響楽団**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/supermarket-flowers/1193701079?i=1193701511&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/90/04/449004e1-231a-d86c-4b22-85649318a91a/mzaf_12767011678800417401.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/summer/1495039274?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/a2/57/e4/a257e467-c9b7-961a-2bdf-ebf4d9f31367/mzvf_16888117456472645119.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/0d/31/47/0d314759-66bd-d05e-dc23-75b77c519338/19UM1IM15508.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-26 13:34:03 (UTC)
+⏳ 업데이트 시간: 2026-04-26 14:20:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
