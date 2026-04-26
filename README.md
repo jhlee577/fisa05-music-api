@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad (Instrumental)  
-> 아티스트: **Metrixx**  
-> 앨범: _Sad (Instrumental) - Single_  
+## 🎧 거리에서  
+> 아티스트: **성시경**  
+> 앨범: _The Ballads_  
 
-🔍 검색 키워드: `instrumental+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad-instrumental/1358836047?i=1358836789&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/9f/29/85/9f2985ff-7a22-6a6e-b42d-a2849b759d62/mzaf_8150579804462018377.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%B1%B0%EB%A6%AC%EC%97%90%EC%84%9C/1543850903?i=1543850904&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7f/cb/ae/7fcbae10-e463-ca59-2094-81cf875e199e/mzaf_3664734411788512450.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/aa/30/c9/aa30c974-e4c1-c532-7b26-30e191dcec6f/5054960617698_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/7c/88/217c88ed-80bf-adfa-7cdf-a5c219daf9f7/8809784722939.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-26 00:55:24 (UTC)
+⏳ 업데이트 시간: 2026-04-26 01:40:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
