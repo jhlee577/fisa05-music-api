@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **久石譲 & ロンドン交響楽団**  
-> 앨범: _Unknown Album_  
+## 🎧 Hope  
+> 아티스트: **Stefan**  
+> 앨범: _Hope - Single_  
 
-🔍 검색 키워드: `pop+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/summer/1495039274?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/a2/57/e4/a257e467-c9b7-961a-2bdf-ebf4d9f31367/mzvf_16888117456472645119.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/1597681247?i=1597681248&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c5/d8/f5/c5d8f53b-5e73-1191-9603-b8b848f13e40/mzaf_14839849260385820577.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/0d/31/47/0d314759-66bd-d05e-dc23-75b77c519338/19UM1IM15508.crop.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f8/be/e4/f8bee4e4-27b8-b930-c86d-95dab2aa65c6/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-26 14:20:59 (UTC)
+⏳ 업데이트 시간: 2026-04-26 15:19:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
