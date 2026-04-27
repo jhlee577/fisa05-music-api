@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **LISA**  
-> 앨범: _Alter Ego_  
+## 🎧 Jazz Dream  
+> 아티스트: **Lounge Jazz**  
+> 앨범: _New Orleans Music_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/dream/1799316830?i=1799316851&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/ef/44/a7ef44ed-b7f4-613c-7da6-d091bf3cf0ed/mzaf_11834069797984983289.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/jazz-dream/1792444055?i=1792444063&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/f6/af/7cf6afc7-c3e8-9582-881f-c40cfc305daa/mzaf_3296142816418220564.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/f6/7f/88f67fd9-c010-e52a-d10e-f5781116b99a/196872937138.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/5d/db/2a5ddbb6-6062-850a-5497-275a3ceaf000/8721253607762.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-27 05:11:46 (UTC)
+⏳ 업데이트 시간: 2026-04-27 07:05:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
