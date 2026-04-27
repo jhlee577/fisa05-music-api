@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Night  
-> 아티스트: **LoFi Hip Hop**  
-> 앨범: _Lo-fi Chill (Lofi Beats & Instrumentals)_  
+## 🎧 Let Me Out  
+> 아티스트: **JONGHYUN**  
+> 앨범: _JONGHYUN The Collection "Story Op.2"_  
 
-🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-night/1858747612?i=1858748205&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/09/a5/a109a505-b4df-d84c-d8f8-dc34f9827903/mzaf_11275266167978618810.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/let-me-out/1229360101?i=1229360108&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/bb/41/a0bb4144-fe5d-6913-3a94-a085041ddf8c/mzaf_4865285181125394759.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/2c/b7/3d2cb75f-0b01-2149-9d28-9c5c43d51f0c/835.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/23/7d/a6/237da630-890b-87d6-e8bf-5e089f308b96/Op.2.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-27 10:46:06 (UTC)
+⏳ 업데이트 시간: 2026-04-27 11:38:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
