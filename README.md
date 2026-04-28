@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Summer  
-> 아티스트: **NAMŪH**  
-> 앨범: _Lofi Summer - Single_  
+## 🎧 DREAM  
+> 아티스트: **BABYMONSTER**  
+> 앨범: _BABYMONS7ER - EP_  
 
-🔍 검색 키워드: `lofi+summer`  
+🔍 검색 키워드: `kpop+dream`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-summer/1404671885?i=1404672504&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/9c/46/e59c46ae-1e87-1dc2-9abf-72dcd47fef70/mzaf_2103202910197960660.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/1737962888?i=1737962895&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/b8/5a/61b85a39-cbc9-05bc-d45a-6604ba46b8c3/mzaf_3408650905793289330.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d4/77/4d/d4774daf-3459-d7b5-1d90-57063c52e941/843357170701_01_img001.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-28 07:04:54 (UTC)
+⏳ 업데이트 시간: 2026-04-28 08:57:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
