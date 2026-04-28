@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Natural Sleep Blue Oasis**  
-> 앨범: _Prime New Age Music - Delta Sleep Isochronic Solutions 432 Hz_  
+## 🎧 Dream  
+> 아티스트: **Bremer/McCoy**  
+> 앨범: _Kosmos_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/instrumental-night/1360310978?i=1360312031&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e0/e5/6b/e0e56b39-eb1d-2bdb-3ca4-faf363a8ebda/mzaf_6955493010572880834.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/1752089013?i=1752089017&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/ea/d8/f3ead8be-52a7-ae1a-b577-82d3fa68a881/mzaf_10278386528495719418.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/99/b0/49/99b049c1-d6e9-a5f8-b591-eed8e3018b3c/8033772914918.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/a9/11/dca91186-cc9e-aeb9-4dd3-baab0d66fe40/196872215205.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-28 01:43:02 (UTC)
+⏳ 업데이트 시간: 2026-04-28 03:15:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
