@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (Instrumental)  
-> 아티스트: **XXXTENTACION**  
-> 앨범: _? (Deluxe)_  
+## 🎧 Dream  
+> 아티스트: **Bremer/McCoy**  
+> 앨범: _Kosmos_  
 
-🔍 검색 키워드: `pop+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope-instrumental/1474891456?i=1474891951&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/00/56/750056f0-03d3-b708-9409-10e92f9152ff/mzaf_2844963194115519688.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/dream/1752089013?i=1752089017&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/ea/d8/f3ead8be-52a7-ae1a-b577-82d3fa68a881/mzaf_10278386528495719418.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/49/bb/9349bb3b-317d-57c3-966a-71fa25247dc2/19UMGIM41705.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/a9/11/dca91186-cc9e-aeb9-4dd3-baab0d66fe40/196872215205.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-29 12:43:39 (UTC)
+⏳ 업데이트 시간: 2026-04-29 13:39:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
