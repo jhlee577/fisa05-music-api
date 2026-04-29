@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM  
-> 아티스트: **SEVENTEEN**  
-> 앨범: _Unknown Album_  
+## 🎧 Happy Jazz  
+> 아티스트: **Relaxing Jazz Piano, Soft Jazz Songs & Summer Chilling Jazz**  
+> 앨범: _Velvet & Brass_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `jazz+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/dream/1652052237?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/d5/f3/d3/d5f3d3e7-2b26-5318-72ab-6fb9c93ce467/mzvf_18431944048556971312.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-jazz/1790946136?i=1790946410&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/20/08/102008ff-6c5e-a2ce-a72b-8906f67c9452/mzaf_1478861897448842985.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/86/2b/4a862b79-0311-cca1-c04f-c10f391dc916/cover_10331055.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-29 07:49:29 (UTC)
+⏳ 업데이트 시간: 2026-04-29 08:54:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
