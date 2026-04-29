@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Irreplaceable  
-> 아티스트: **Beyoncé**  
-> 앨범: _B'Day (Deluxe Edition)_  
+## 🎧 Lofi Night  
+> 아티스트: **Lofi Rain**  
+> 앨범: _Raindrops: Background Lofi_  
 
-🔍 검색 키워드: `rnb+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/irreplaceable/261707051?i=261707067&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/91/83/fe918372-8da5-0f6e-3842-04dcea8e9dfe/mzaf_8483822826889482312.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-night/1766096936?i=1766097019&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/e0/89/d1e089d3-71c1-50bd-0577-ffad7d41aa98/mzaf_4411195603325134067.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/b2/b2/47b2b26b-5abd-0953-6688-7dfff80508ec/mzi.sozuruch.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/1e/4e/b11e4e76-09aa-fe4b-f053-43312e67577e/cover_10316610.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-29 18:39:01 (UTC)
+⏳ 업데이트 시간: 2026-04-29 19:36:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
