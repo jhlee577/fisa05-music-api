@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Egg & Spoon  
-> 아티스트: **goodmorgan**  
-> 앨범: _On Summer Holidays - EP_  
+## 🎧 Happy  
+> 아티스트: **2NE1**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/egg-spoon/1872948235?i=1872948239&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/3b/ea/1a3bead3-4781-8fa6-8234-49f2d2c8ce7e/mzaf_3642955452616671887.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/happy/1331266786?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video112/v4/2f/73/31/2f73311a-69ea-fe49-2a6a-f74defa3b599/mzvf_13032930536194340626.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/55/6f/06556f20-3c2d-405b-e5b3-8eea5a6a1148/5059449416410.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/e5/1a/2e/e51a2e79-94d5-c9ae-a894-b70433873847/KRY231400002.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-30 05:13:52 (UTC)
+⏳ 업데이트 시간: 2026-04-30 07:02:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
