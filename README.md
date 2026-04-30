@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Best Part (feat. H.E.R.)  
-> 아티스트: **Daniel Caesar**  
-> 앨범: _Freudian_  
+## 🎧 Adventure of a Lifetime  
+> 아티스트: **Coldplay**  
+> 앨범: _A Head Full of Dreams_  
 
-🔍 검색 키워드: `rnb+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/best-part-feat-h-e-r/1799080774?i=1799080776&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/95/ed/cc95edc8-4f9b-0c56-bc74-31ba76a057f9/mzaf_11346187551197903108.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/adventure-of-a-lifetime/1053933969?i=1053934846&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b9/78/7b/b9787b6d-2bcc-6fd7-231f-9e79b91d988e/mzaf_13866407877410073156.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/cd/1a/b6cd1a5b-83af-a1e2-0ad7-ea530fcf2522/859722261219.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/0a/6d/c80a6df9-e55a-fb83-0311-f4776984ac67/mzm.lasidxkv.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-30 13:40:10 (UTC)
+⏳ 업데이트 시간: 2026-04-30 14:48:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
