@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **2NE1**  
-> 앨범: _Unknown Album_  
+## 🎧 Summer (映画『菊次郎の夏』より)  
+> 아티스트: **Naganori Sakakibara**  
+> 앨범: _虹のバラッド~シネマソング・オン・ギター_  
 
-🔍 검색 키워드: `kpop+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/happy/1331266786?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video112/v4/2f/73/31/2f73311a-69ea-fe49-2a6a-f74defa3b599/mzvf_13032930536194340626.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer-%E6%98%A0%E7%94%BB-%E8%8F%8A%E6%AC%A1%E9%83%8E%E3%81%AE%E5%A4%8F-%E3%82%88%E3%82%8A/1429508116?i=1429508267&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f5/d3/5b/f5d35bf3-a53e-b4b0-8393-74ed42994868/mzaf_18272707914627914641.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/e5/1a/2e/e51a2e79-94d5-c9ae-a894-b70433873847/KRY231400002.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/08/12/db0812a4-432a-b412-0d02-119c55b45ce8/DLDH-1899.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-04-30 07:02:32 (UTC)
+⏳ 업데이트 시간: 2026-04-30 08:54:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
