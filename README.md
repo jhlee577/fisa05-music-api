@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 lofi hope  
-> 아티스트: **Lofi Blissful Music, LoFi Chill & Study Music & Sounds**  
-> 앨범: _Chill Lofi Beats_  
+## 🎧 Love (Acoustic)  
+> 아티스트: **Robin Stjernberg**  
+> 앨범: _Love (Acoustic) - Single_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/lofi-hope/1850136733?i=1850136742&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/15/8e/2e158ec6-0cc3-dfbc-6f23-807d52ecf69f/mzaf_13870929811557854541.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love-acoustic/1373730613?i=1373730677&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/95/d6/d0/95d6d08b-283a-af15-a740-5c0ca067c465/mzaf_5901156434425934260.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/7d/07/897d0712-c3fb-4062-9208-0002a10be86b/920562.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ba/7a/b9/ba7ab910-5ce1-343a-7055-efe11ba27fd2/190295632786.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-01 18:31:22 (UTC)
+⏳ 업데이트 시간: 2026-05-01 19:32:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
