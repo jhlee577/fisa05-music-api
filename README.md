@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad  
-> 아티스트: **Maroon 5**  
-> 앨범: _Overexposed_  
+## 🎧 꿈  
+> 아티스트: **Colde**  
+> 앨범: _이상주의_  
 
-🔍 검색 키워드: `rock+sad`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sad/1440806722?i=1440806930&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/5c/66/d05c666f-a472-4cc0-ecd0-0ac8267a7a75/mzaf_6392591601009737102.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%BF%88/1577873919?i=1577873923&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/8a/95/7f8a956d-9c8a-a1bf-8be1-512842afb7b1/mzaf_10658229851567494096.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d3/b1/f9/d3b1f91c-f2c0-7cc8-97fb-035db64b0ab2/12UMGIM26179.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3e/50/c2/3e50c275-51a4-dfd3-f10a-bc3235aca73c/8804775156991.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-01 07:04:21 (UTC)
+⏳ 업데이트 시간: 2026-05-01 08:47:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
