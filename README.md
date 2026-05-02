@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Gangsta  
-> 아티스트: **Lil' Mo**  
-> 앨범: _RnB Summer_  
+## 🎧 Prom Night  
+> 아티스트: **The Midnight**  
+> 앨범: _Monsters_  
 
-🔍 검색 키워드: `rnb+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `pop+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/gangsta/1687252514?i=1687252515&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3d/3a/1b/3d3a1b19-97a9-979f-b07c-eb60eeff1a01/mzaf_915937755223703079.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/prom-night/1508063533?i=1508063540&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/3b/5a/363b5a08-3c6f-314c-fc67-f9968cb11c46/mzaf_13548916309629446902.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/74/be/2874bee5-f602-7818-eb40-de0e5777c53d/5059460195462.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fa/31/df/fa31dfdd-9234-9a1a-738d-31dac0180266/5054429142365.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-02 03:13:24 (UTC)
+⏳ 업데이트 시간: 2026-05-02 05:07:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
