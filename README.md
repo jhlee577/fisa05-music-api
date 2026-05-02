@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 バラード  
-> 아티스트: **ケツメイシ**  
-> 앨범: _Unknown Album_  
+## 🎧 꿈  
+> 아티스트: **정은지**  
+> 앨범: _log - EP_  
 
-🔍 검색 키워드: `ballad+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89/1694477170?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/c9/15/5e/c9155efb-ba7a-f8f4-7e7f-56e771ba1e21/mzvf_2084583514473928518.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%BF%88/1653922934?i=1653923088&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6a/38/2f/6a382fc5-6da9-de33-f9d5-61741e8e8b3b/mzaf_10858063325982033323.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/5b/67/79/5b677982-1d73-5444-6c2f-9818ff457d32/859759890666.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/39/b2/89/39b289bd-e1a5-9cc2-6dc9-f88d4d8c7cc0/cover_KM0016307_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-02 10:23:59 (UTC)
+⏳ 업데이트 시간: 2026-05-02 11:20:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
