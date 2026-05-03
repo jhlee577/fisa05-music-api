@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Like Rain, Like Music  
-> 아티스트: **KYUHYUN**  
-> 앨범: _The Late Kim Hyun-Sik's 30th Anniversary Memorial Album "Making Memories", Pt. 1 - Single_  
+## 🎧 Happy  
+> 아티스트: **Oh Wonder**  
+> 앨범: _No One Else Can Wear Your Crown (Deluxe)_  
 
-🔍 검색 키워드: `ballad+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/like-rain-like-music/1539361033?i=1539361034&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/d4/a1/f3d4a1af-7a42-83d3-5a26-486bbde79da7/mzaf_14834733129521711406.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/1487602447?i=1487602466&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ca/9e/9b/ca9e9b49-b440-acfe-d563-a2f1c5625391/mzaf_9333798793996527861.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/52/f3/cb52f3df-a0b0-c4cb-263c-19acee6a2900/cover_KM0011433_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/03/97/9403979c-517c-f2a3-5ce5-9b8cc4de2a56/19UMGIM98211.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-03 12:26:34 (UTC)
+⏳ 업데이트 시간: 2026-05-03 13:35:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
