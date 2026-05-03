@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Love (Mixed)  
-> 아티스트: **Rhy & Smoodmood**  
-> 앨범: _himood Lofi Mix 004: Deep Focus (DJ Mix)_  
+## 🎧 Summer  
+> 아티스트: **Calvin Harris**  
+> 앨범: _Motion_  
 
-🔍 검색 키워드: `lofi+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `pop+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-love-mixed/1711884939?i=1711885331&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d1/fc/29/d1fc29cb-6579-1d80-a91d-e15852d5d665/mzaf_3013100850096631780.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer/922876176?i=922876189&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dd/84/bb/dd84bb40-8582-1688-99ee-e0e910d07e53/mzaf_13428644382929655820.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/61/ed/6c61ed78-4de0-0e93-2f9c-efc8089aab3f/e6b36036-f0a9-4e3e-9ed3-36208c74c082.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/50/cc/da50cc80-3515-a38d-369b-0d700ffd249d/886444820448.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-02 23:20:30 (UTC)
+⏳ 업데이트 시간: 2026-05-03 01:01:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
