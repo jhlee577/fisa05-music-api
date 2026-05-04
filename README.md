@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ghetto Supastar (That Is What You Are)  
-> 아티스트: **Pras**  
-> 앨범: _Ghetto Supastar_  
+## 🎧 sad  
+> 아티스트: **LANY**  
+> 앨범: _mama's boy_  
 
-🔍 검색 키워드: `rnb+dream`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `pop+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ghetto-supastar-that-is-what-you-are/192950057?i=192950291&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/cd/01/58cd0125-7f0e-69a0-e94c-8e78c9cace33/mzaf_3873697045637433868.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sad/1525736397?i=1525737082&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9b/9c/12/9b9c1201-243c-9b1e-fc79-57dea2509c8a/mzaf_6876033558164776608.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/4b/cc/654bcc23-12e1-a1af-86ea-383fd6933694/mzi.nsuedoag.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/d2/ff/96d2ff2e-7e8d-384e-1ee2-14c06f6835e9/20UMGIM33837.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-04 20:35:37 (UTC)
+⏳ 업데이트 시간: 2026-05-04 21:29:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
