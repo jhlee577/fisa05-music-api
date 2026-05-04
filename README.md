@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 It's Raining on Prom Night  
-> 아티스트: **The Summer Nights**  
-> 앨범: _Grease - Hits From the Broadway Musical_  
+## 🎧 Lofi Dream  
+> 아티스트: **Night Travellers**  
+> 앨범: _Lofi Dream - Single_  
 
-🔍 검색 키워드: `pop+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/its-raining-on-prom-night/940375086?i=940375127&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/Music5/v4/a3/6d/03/a36d03ba-69a0-cc93-71bc-3b94becc1752/mzaf_1427610517564962991.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-dream/1617782245?i=1617782247&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/4b/24/d9/4b24d98e-5291-2810-e571-a804aa98cbc0/mzaf_8921394640994308545.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/a7/de/01/a7de01f2-98ee-24a9-d523-25be1602910a/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/3c/21/383c2155-d41d-7747-bf30-08c84d7f1875/cover_4062851707565.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-04 18:41:48 (UTC)
+⏳ 업데이트 시간: 2026-05-04 19:38:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
