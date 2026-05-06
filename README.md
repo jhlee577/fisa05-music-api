@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain (Natue Music Therapy)  
-> 아티스트: **Fiona Follow**  
-> 앨범: _Relaxation: Relaxing Guitar Nature Sounds Relaxation, Ambient Meditation Music for Relaxation Exercises, Stress Free, Yoga, Deep Sleep and Massage, Time to Relaxation, Nature Music and Guitar Instrumental Songs_  
+## 🎧 Ballad Dream  
+> 아티스트: **JAZZ RIVER LIGHT**  
+> 앨범: _Pieces for the Best Sleep_  
 
-🔍 검색 키워드: `instrumental+rain`  
+🔍 검색 키워드: `ballad+dream`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain-natue-music-therapy/533589185?i=533589395&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/38/e6/03/38e6033f-321d-3bd7-0389-7f4665f5d193/mzaf_3271056245388936052.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad-dream/1750418307?i=1750418309&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/5f/d9/475fd9b8-448a-325e-bb49-ffdd79a01822/mzaf_4683454702135363521.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/59/84/ab/5984ab1b-5e62-a15b-9808-e364bfb79e4c/Relaxation_1_copia.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/ce/4f/dfce4f13-8844-c870-1c38-21c96b069035/2403630165.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-06 17:37:33 (UTC)
+⏳ 업데이트 시간: 2026-05-06 18:42:27 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
