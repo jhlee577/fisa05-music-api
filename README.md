@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 비가 와 (feat. 엄정화)  
-> 아티스트: **Babylon**  
-> 앨범: _EGO 90'S_  
+## 🎧 Hope  
+> 아티스트: **Seb Zillner & DECAP**  
+> 앨범: _Hope - Single_  
 
-🔍 검색 키워드: `pop+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `hiphop+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%B9%84%EA%B0%80-%EC%99%80-feat-%EC%97%84%EC%A0%95%ED%99%94/1634548569?i=1634549176&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/0d/85/cc0d8528-1598-2003-ed6f-1de8446a08c9/mzaf_18136954637628419245.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1573376127?i=1573376128&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5d/2d/a9/5d2da9a3-37c8-cfd3-6b1b-e54341805133/mzaf_17522798620124116499.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/95/e6/c195e616-2aac-fac2-529a-e71b9459c6fc/196589319227.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/67/73/1b6773b9-baf8-82ea-161a-d70d0299d99a/cover_4064832621051.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-06 09:55:12 (UTC)
+⏳ 업데이트 시간: 2026-05-06 10:46:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
