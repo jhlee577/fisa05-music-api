@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 MOTTO  
-> 아티스트: **NF**  
-> 앨범: _HOPE_  
+## 🎧 RAIN  
+> 아티스트: **기현**  
+> 앨범: _VOYAGER - Single_  
 
-🔍 검색 키워드: `hiphop+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rock+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/motto/1670412644?i=1670413039&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/fe/f6/f9fef61a-5832-b7cf-739d-e8aa51680646/mzaf_1873970299507470321.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1613265803?i=1613265806&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/32/70/1832703a-2184-976d-c721-ed2b4a173612/mzaf_1028891180339819768.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/6d/1a/5a6d1a4e-ac13-c7e8-1eba-e80a35651622/23UMGIM07672.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/96/3a/eb963ad1-0068-65bb-47b1-135790e21c07/cover_KM0014905_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-07 01:43:22 (UTC)
+⏳ 업데이트 시간: 2026-05-07 03:16:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
