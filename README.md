@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Laffey & Ornithology**  
-> 앨범: _After the Rain_  
+## 🎧 Lofi Happy & Sad (Beat Instrumental)  
+> 아티스트: **Lofi Hip-Hop Beats, Beats De Rap & Chill Hip-Hop Beats**  
+> 앨범: _Lofi Hip Hop_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `lofi+happy`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/1740519070?i=1740519073&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/89/5f/42895f42-8181-1e3c-af8c-501dc91cd190/mzaf_6813326167059019867.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-happy-sad-beat-instrumental/1509322756?i=1509324799&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/70/51/04/70510439-266b-3b9f-a522-66c75eac8236/mzaf_17740796134250159035.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/64/76/53647672-e85e-4611-63a7-a96b8c2b8249/381b51fc-8850-47f8-b65d-2bd0b62eb5e9.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/c1/ae/3fc1ae07-45a8-c727-9f48-ad7a6ea3afe2/10688.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-07 11:38:50 (UTC)
+⏳ 업데이트 시간: 2026-05-07 12:49:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
