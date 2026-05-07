@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 No Scrubs  
-> 아티스트: **TLC**  
-> 앨범: _FanMail_  
+## 🎧 Dream  
+> 아티스트: **LISA**  
+> 앨범: _Alter Ego_  
 
-🔍 검색 키워드: `rnb+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/no-scrubs/298575243?i=298575248&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/d7/cb/59d7cbad-8695-6bef-5784-05d678ad22ad/mzaf_10240892877744551995.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/dream/1799316830?i=1799316851&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/ef/44/a7ef44ed-b7f4-613c-7da6-d091bf3cf0ed/mzaf_11834069797984983289.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d0/94/0f/d0940f87-3c4e-4e47-7ca8-86272fc93aab/dj.egyjyybr.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/f6/7f/88f67fd9-c010-e52a-d10e-f5781116b99a/196872937138.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-07 05:14:37 (UTC)
+⏳ 업데이트 시간: 2026-05-07 07:11:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
