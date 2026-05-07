@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 RAIN  
-> 아티스트: **기현**  
-> 앨범: _VOYAGER - Single_  
+## 🎧 No Scrubs  
+> 아티스트: **TLC**  
+> 앨범: _FanMail_  
 
-🔍 검색 키워드: `rock+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1613265803?i=1613265806&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/32/70/1832703a-2184-976d-c721-ed2b4a173612/mzaf_1028891180339819768.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/no-scrubs/298575243?i=298575248&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/d7/cb/59d7cbad-8695-6bef-5784-05d678ad22ad/mzaf_10240892877744551995.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/96/3a/eb963ad1-0068-65bb-47b1-135790e21c07/cover_KM0014905_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d0/94/0f/d0940f87-3c4e-4e47-7ca8-86272fc93aab/dj.egyjyybr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-07 03:16:35 (UTC)
+⏳ 업데이트 시간: 2026-05-07 05:14:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
