@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **ジェイムス・ベイ**  
-> 앨범: _Changes All The Time_  
+## 🎧 Rain  
+> 아티스트: **Hans Glawischnig, Tino Derade, Roland Schneider, Rigmor Gustafsson & Gabriel Coburger**  
+> 앨범: _Ballad Collection_  
 
-🔍 검색 키워드: `rnb+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1754655336?i=1754655590&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/06/e3/4d06e394-0632-d941-001c-89f31f50b51c/mzaf_10355358612198730132.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/432005292?i=432005314&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/Music/2b/7d/c8/mzm.eccbxusm.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/fa/25/28fa2578-94df-41c0-07c7-26c280155b39/24UMGIM70291.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/fa/3d/1f/mzi.cnbsumtq.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-08 21:27:20 (UTC)
+⏳ 업데이트 시간: 2026-05-08 22:25:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
