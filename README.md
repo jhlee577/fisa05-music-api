@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Good night  
-> 아티스트: **CHEN**  
-> 앨범: _Dear my dear - The 2nd Mini Album - EP_  
+## 🎧 Lofi Dream  
+> 아티스트: **Ace Yace**  
+> 앨범: _Lofi Dream - Single_  
 
-🔍 검색 키워드: `ballad+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/good-night/1481446116?i=1481446131&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/48/2d/e5482db9-670b-eaa6-1993-ccf03b3abbe4/mzaf_13090908754736774381.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-dream/1543698811?i=1543698813&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/3f/58/e6/3f58e61f-2c7c-e69f-3ead-daa3387784ba/mzaf_2165205184887396889.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fa/79/e6/fa79e604-3485-9680-7b5e-d96e981d5149/Digital_Cover_CHEN_Dear_my_dear.re.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a0/9b/88/a09b881e-c021-7254-12ac-6dc867134730/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-09 21:20:35 (UTC)
+⏳ 업데이트 시간: 2026-05-09 22:20:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
