@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Dream  
-> 아티스트: **Ace Yace**  
-> 앨범: _Lofi Dream - Single_  
+## 🎧 LOVE (feat. TAEYANG)  
+> 아티스트: **PSY**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `lofi+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-dream/1543698811?i=1543698813&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/3f/58/e6/3f58e61f-2c7c-e69f-3ead-daa3387784ba/mzaf_2165205184887396889.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/music-video/love-feat-taeyang/1260460412?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video116/v4/50/c0/12/50c01233-d43b-c9bf-c958-ab57aa2d4a75/mzvf_8594614822512321071.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a0/9b/88/a09b881e-c021-7254-12ac-6dc867134730/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video111/v4/86/6e/52/866e52da-f46d-4757-9b25-730161d00c0e/KRZ351700026.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-09 22:20:12 (UTC)
+⏳ 업데이트 시간: 2026-05-09 23:21:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
