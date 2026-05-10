@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope!  
-> 아티스트: **Somni & Harris Cole**  
-> 앨범: _Sirens - EP_  
+## 🎧 Present  
+> 아티스트: **Chris Brown**  
+> 앨범: _BROWN_  
 
-🔍 검색 키워드: `lofi+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1581733835?i=1581734317&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/42/d3/20/42d32083-d63e-fe30-fedf-c6becdda423a/mzaf_8794712356026902842.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/present/1895772091?i=6764419430&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/c5/c7/4bc5c7e9-b8f1-962f-250c-a52e15052e95/mzaf_3567789735676567473.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/80/9f/d9809fd9-060d-e486-dcc1-6731cc57a75c/4062548033779.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/2c/95/492c9561-9df1-bdfc-ad24-00e9f2403db2/196874328361.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-10 07:03:30 (UTC)
+⏳ 업데이트 시간: 2026-05-10 08:43:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
