@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Weißes Haus  
-> 아티스트: **AYLIVA**  
-> 앨범: _Weißes Haus - Single_  
+## 🎧 Hope  
+> 아티스트: **ラーシュ・ヤンソン**  
+> 앨범: _Ballads_  
 
-🔍 검색 키워드: `rnb+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `jazz+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/wei%C3%9Fes-haus/1697018109?i=1697018110&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b1/45/38/b1453860-8151-4196-daf7-8fd9acaf5857/mzaf_11523901130403339353.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1438922143?i=1438922144&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e1/9b/35/e19b358f-e432-1f28-dde5-aa5cb2787941/mzaf_16914099314922997133.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/8c/60/858c606d-65f7-3f01-f8ab-bbd5ee294701/5054197741982.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4f/c5/f9/4fc5f9ea-7add-fd00-7151-bed383522bc6/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-10 01:02:51 (UTC)
+⏳ 업데이트 시간: 2026-05-10 03:15:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
