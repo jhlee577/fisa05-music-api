@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 PRISM  
-> 아티스트: **Friday Night Plans, JJJ, STUTS**  
-> 앨범: _PRISM - Single_  
+## 🎧 And I Love Him  
+> 아티스트: **Laura Fygi**  
+> 앨범: _Jazz Love_  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `jazz+love`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/prism/1455808333?i=1455808335&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/c4/a4/d4c4a468-9fcb-27f9-282e-385d1a1e8604/mzaf_4325488295133115125.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/and-i-love-him/1443202285?i=1443202429&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/4b/eb/aa4beb6e-a85a-9283-a9e1-61914f0c224a/mzaf_11752739194291381127.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/32/b8/6532b8e7-a548-67cb-5a9b-dc1a684bd6eb/4538182812662_cov.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/88/ff/23/88ff23eb-7e4b-6d36-0531-1b8ba934be94/00602557190823.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-11 11:10:29 (UTC)
+⏳ 업데이트 시간: 2026-05-11 13:11:51 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
