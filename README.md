@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Prom Night  
-> 아티스트: **Anamanaguchi**  
-> 앨범: _Endless Fantasy_  
+## 🎧 The Night We Met  
+> 아티스트: **Lord Huron**  
+> 앨범: _Strange Trails_  
 
-🔍 검색 키워드: `pop+night`  
+🔍 검색 키워드: `acoustic+night`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/prom-night/1651286026?i=1651286033&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8b/88/d6/8b88d6ef-765d-e16d-11dc-97a2b80dccf2/mzaf_1764794218261647130.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/the-night-we-met/1806531135?i=1806531961&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/36/b7/4b36b739-1de7-e0ae-45da-9a66463127ac/mzaf_1821541347983595183.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/a8/3f/e5a83f57-8803-b0f3-229d-89147592add0/644110040695.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-12 22:32:16 (UTC)
+⏳ 업데이트 시간: 2026-05-12 23:28:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
