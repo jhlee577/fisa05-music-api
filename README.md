@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **GentleBeatz**  
-> 앨범: _Soul City_  
+## 🎧 Happy (From "Despicable Me 2")  
+> 아티스트: **Pharrell Williams**  
+> 앨범: _Unknown Album_  
 
 🔍 검색 키워드: `hiphop+happy`  
-🌎 국가 스토어: `DE`
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1446654496?i=1446654504&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/41/3f/91/413f9124-6ca5-2b98-24ef-084310da71cb/mzaf_17766385417430627875.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/happy-from-despicable-me-2/793299815?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/10/75/c9/1075c95d-6951-7f99-bf48-eec3071a6471/859729194794_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-12 03:16:21 (UTC)
+⏳ 업데이트 시간: 2026-05-12 05:20:24 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
