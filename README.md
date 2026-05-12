@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **OneRepublic**  
-> 앨범: _Oh My My (Deluxe Edition)_  
+## 🎧 Happy  
+> 아티스트: **William Bell**  
+> 앨범: _William Bell: Collectors Edition "Greatest Hits"_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+happy`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/dream/1440866909?i=1440867142&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/cb/4d/fccb4d6e-a786-4b36-5fcd-25db7ff47402/mzaf_9430432448819745114.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy/264697079?i=264697303&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/81/24/f0/8124f06f-36d2-a309-15ee-8b4b747491c5/mzaf_11161650598247274235.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/ab/10/04ab1068-9267-db55-3e0a-558848901ad2/16UMGIM64331.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/12/14/97/mzi.ktypyqic.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-12 09:06:27 (UTC)
+⏳ 업데이트 시간: 2026-05-12 10:53:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
