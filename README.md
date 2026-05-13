@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Dream  
-> 아티스트: **Jazz River Light**  
-> 앨범: _Pieces for the Best Sleep_  
+## 🎧 BETWEEN THE SHEETS LOFI (BPM85)  
+> 아티스트: **LOFI LOVE**  
+> 앨범: _CHILLING IN THE DARKNESS / BETWEEN THE SHEETS -chill hop lofi beat maniac instrumentals - EP_  
 
-🔍 검색 키워드: `ballad+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-dream/1750418307?i=1750418309&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/5f/d9/475fd9b8-448a-325e-bb49-ffdd79a01822/mzaf_4683454702135363521.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/between-the-sheets-lofi-bpm85/1448689526?i=1448689531&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/ce/ba/ffceba0b-3cba-5235-d80d-43e5fde1c912/mzaf_11143284161508604589.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/ce/4f/dfce4f13-8844-c870-1c38-21c96b069035/2403630165.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/b5/e9/2bb5e996-a227-d94e-797a-f19eeeb82238/859754661810_cover.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-13 12:55:22 (UTC)
+⏳ 업데이트 시간: 2026-05-13 13:48:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
