@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Teenage Dream  
-> 아티스트: **Katy Perry**  
-> 앨범: _Teenage Dream_  
+## 🎧 Jazz Dream  
+> 아티스트: **Cool Cat Jazz**  
+> 앨범: _Cat's Jazz Night_  
 
-🔍 검색 키워드: `hiphop+dream`  
+🔍 검색 키워드: `jazz+dream`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/teenage-dream/716192216?i=716192601&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/1a/ef/5d1aefa2-4683-4c6d-5d69-c8c8fb5dcc81/mzaf_3081418224702484801.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/jazz-dream/1851791675?i=1851791679&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/6e/74/206e7480-1d55-50ec-b4bf-bed1b0a3b090/mzaf_3078081657981665916.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/d3/42/c8d342af-26d9-3ec2-c511-e1eaf860e299/13UABIM57787.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/ad/77/73ad77c0-6f9e-3f20-c84c-fccfe47708f5/923378.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-13 17:46:21 (UTC)
+⏳ 업데이트 시간: 2026-05-13 18:46:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
