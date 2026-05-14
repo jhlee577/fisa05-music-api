@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **BoA**  
-> 앨범: _Forgive Me - The 3rd Mini Album - EP_  
+## 🎧 여름 속에서  
+> 아티스트: **하비누아주**  
+> 앨범: _작은 평화 - Single_  
 
-🔍 검색 키워드: `kpop+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+summer`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1654830351?i=1654830357&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/9c/be/bb9cbe1f-b11b-e5ef-801b-69580b43e8d2/mzaf_7208020217302305070.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EC%97%AC%EB%A6%84-%EC%86%8D%EC%97%90%EC%84%9C/1524746185?i=1524746187&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/42/57/9a/42579a8a-5ac0-a2b9-889f-b821da5823f9/mzaf_5043535427640052836.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/9f/73/c99f734d-440b-bb14-6285-15f495a4346b/Digital_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/48/bd/50/48bd5042-92ab-7993-4a89-e852fdb49154/RavieNuage_Harmony_3000.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-14 17:39:31 (UTC)
+⏳ 업데이트 시간: 2026-05-14 18:44:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
