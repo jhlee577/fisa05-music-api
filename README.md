@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Here  
-> 아티스트: **Alessia Cara**  
-> 앨범: _Know-It-All (Deluxe)_  
+## 🎧 Hope  
+> 아티스트: **BoA**  
+> 앨범: _Forgive Me - The 3rd Mini Album - EP_  
 
-🔍 검색 키워드: `rnb+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+hope`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/here/1440845616?i=1440845747&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/26/9f/88269f77-b7d0-aee1-a752-6257fe769d95/mzaf_6037369297586050163.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1654830351?i=1654830357&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bb/9c/be/bb9cbe1f-b11b-e5ef-801b-69580b43e8d2/mzaf_7208020217302305070.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/28/2a/29282a49-3ee2-3a4d-3ff5-16c10806aaa6/15UMGIM55240.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/9f/73/c99f734d-440b-bb14-6285-15f495a4346b/Digital_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-14 16:46:53 (UTC)
+⏳ 업데이트 시간: 2026-05-14 17:39:31 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
