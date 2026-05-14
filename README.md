@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Nao**  
-> 앨범: _For All We Know_  
+## 🎧 Summer  
+> 아티스트: **Tom Misch**  
+> 앨범: _Beat Tape 1_  
 
-🔍 검색 키워드: `rnb+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/1114767580?i=1114767836&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/05/83/d8/0583d84b-1cd4-3e59-bed1-32647f69112e/mzaf_1278092313797617883.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/summer/1490162145?i=1490162149&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/31/48/ab/3148abc9-706b-d442-81ba-ae8d1d10c589/mzaf_9579389280149262149.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/ce/17/79ce17b6-0237-a4d0-e74a-ab5c44c692b1/886445711028.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6e/8e/2f/6e8e2f30-3dbf-d163-5127-c8b3a138226c/5056167120469_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-14 03:15:38 (UTC)
+⏳ 업데이트 시간: 2026-05-14 05:23:51 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
