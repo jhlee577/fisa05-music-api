@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **inertia. & softy**  
-> 앨범: _Faded_  
+## 🎧 Jazz Love  
+> 아티스트: **Alffie**  
+> 앨범: _We Do Have_  
 
-🔍 검색 키워드: `instrumental+rain`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/rain/1708057678?i=1708057683&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a0/1f/ef/a01fef0d-3bcd-acc2-7b0e-eb8b3aa2e33d/mzaf_12820356332838856318.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/jazz-love/1549118897?i=1549118900&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/d9/dd/87/d9dd87a6-d700-958a-cbdf-472686b3f448/mzaf_8291203245660569217.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/74/b3/ce74b37b-4db9-61b6-92e5-93b60f6725b5/9b544168-3cd0-477c-8738-06bf19a2b0f5.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/d9/de/83d9defb-8db0-ef1e-bed0-0e9a33375e8a/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-15 07:18:29 (UTC)
+⏳ 업데이트 시간: 2026-05-15 09:14:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
