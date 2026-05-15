@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Self Control  
-> 아티스트: **Frank Ocean**  
-> 앨범: _Blonde_  
+## 🎧 꿈  
+> 아티스트: **태연**  
+> 앨범: _웰컴투 삼달리 (Original Television Soundtrack), Pt.3 - Single_  
 
-🔍 검색 키워드: `hiphop+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/self-control/1146195596?i=1146195718&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/cc/4d/bacc4dda-b762-0c0a-5ef0-6c2fad1bdb5c/mzaf_8909701195572310967.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%BF%88/1721302253?i=1721302254&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/53/64/ef/5364efdc-dd70-958e-8502-a84dfebaa80a/mzaf_16109505165088176113.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/02/38/4c023898-f560-fe49-3f12-f395b9e6ae27/191953323527.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-15 03:17:35 (UTC)
+⏳ 업데이트 시간: 2026-05-15 05:25:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
