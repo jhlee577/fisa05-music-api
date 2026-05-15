@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 One Night Only  
-> 아티스트: **Sonder**  
-> 앨범: _One Night Only - Single_  
+## 🎧 Dream (Arr. for Guitar by Jonathan Bockelmann)  
+> 아티스트: **Jonathan Bockelmann**  
+> 앨범: _Sakamoto on Guitar III - EP_  
 
-🔍 검색 키워드: `rnb+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `instrumental+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/one-night-only/1339459572?i=1339459695&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ef/20/d7/ef20d7be-7f6c-376b-b444-69d17e8171c3/mzaf_15375882139771952495.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/dream-arr-for-guitar-by-jonathan-bockelmann/1748682037?i=1748682229&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/fd/f9/effdf989-b591-c64f-35f7-567bebfa4812/mzaf_5685729970143518954.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/ac/01/18ac0116-097a-53bd-55a7-313987080ab3/content_art_2FLdGPGCtFTwWsrf4fNNcQ_One_Night_Only_Artwork_4_stem.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/ad/da/13addaeb-5d8f-19c8-fcf7-73465ae3acbf/3663729318404_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-15 12:46:55 (UTC)
+⏳ 업데이트 시간: 2026-05-15 13:39:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
