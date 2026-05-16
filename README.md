@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 BIRDS OF A FEATHER  
-> 아티스트: **Billie Eilish**  
-> 앨범: _HIT ME HARD AND SOFT_  
+## 🎧 YOSEMITE  
+> 아티스트: **Travis Scott**  
+> 앨범: _ASTROWORLD_  
 
-🔍 검색 키워드: `rock+night`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `hiphop+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/birds-of-a-feather/1739659134?i=1739659142&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/31/d3/3431d34e-847f-5d66-df83-0bce688d997e/mzaf_18106743962423782018.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/yosemite/1421241217?i=1421243212&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/8d/e8/d98de86e-b1e8-4262-1741-695c9c4c2d75/mzaf_8199446383486090854.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/66/90/306690d4-2a29-402e-e406-6b319ce7731a/886447227169.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-16 15:26:49 (UTC)
+⏳ 업데이트 시간: 2026-05-16 16:24:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
