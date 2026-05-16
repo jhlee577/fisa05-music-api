@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Firestorm  
-> 아티스트: **Dua Saleh**  
-> 앨범: _Of Earth & Wires_  
+## 🎧 BIRDS OF A FEATHER  
+> 아티스트: **Billie Eilish**  
+> 앨범: _HIT ME HARD AND SOFT_  
 
-🔍 검색 키워드: `rnb+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rock+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/firestorm/1868826829?i=1868827004&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/dc/db/74dcdbc7-60f0-39ef-b0ad-5e79d8d0c375/mzaf_8498693452064105052.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/birds-of-a-feather/1739659134?i=1739659142&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/31/d3/3431d34e-847f-5d66-df83-0bce688d997e/mzaf_18106743962423782018.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/7f/8e/107f8e00-bf5c-30a0-4666-37a02b2826a6/61520.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-16 14:33:07 (UTC)
+⏳ 업데이트 시간: 2026-05-16 15:26:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
