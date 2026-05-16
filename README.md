@@ -4,18 +4,18 @@
 추천 곡은...
 
 ## 🎧 Rain  
-> 아티스트: **HAON**  
-> 앨범: _Woman - EP_  
+> 아티스트: **Lee Juck**  
+> 앨범: _Dead End_  
 
-🔍 검색 키워드: `hiphop+rain`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `kpop+rain`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/rain/1849870731?i=1849870736&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/7e/15/c57e15bc-349e-5c57-67d3-d4ec4b00b1cd/mzaf_15253472342435305707.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/1804609616?i=1804609628&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/4f/69/a94f6998-4a2e-daf9-c97e-283c5719814c/mzaf_15503465036686049330.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/c5/a8/fec5a8ef-a762-2197-adee-39c21ff81023/5026854189918.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/56/73/38567369-7e34-985f-1cb3-cb5504057f4c/cover_KM0020994_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-16 08:41:21 (UTC)
+⏳ 업데이트 시간: 2026-05-16 09:37:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
