@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 LOVE. (feat. Zacari)  
-> 아티스트: **ケンドリック・ラマー**  
-> 앨범: _DAMN._  
+## 🎧 Happy (Acoustic)  
+> 아티스트: **Oh Wonder**  
+> 앨범: _Slow Mornings_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `acoustic+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love-feat-zacari/1440881047?i=1440881708&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/71/89/72718957-3475-8f6f-3685-aedd470ddc20/mzaf_4044691450436775386.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy-acoustic/1576781958?i=1576782395&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/f1/f6/08f1f6d7-6833-12ae-00ab-bfc2ecdd8d79/mzaf_6170294136887429507.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/be/da/d0/bedad02e-6369-dc2a-275b-36d534885da6/21UMGIM63653.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-16 00:57:05 (UTC)
+⏳ 업데이트 시간: 2026-05-16 01:42:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
