@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 雨、、  
-> 아티스트: **小関佳宏**  
-> 앨범: _星と月と_  
+## 🎧 Lofi Summer  
+> 아티스트: **Marlow Digs**  
+> 앨범: _Up in the Sky_  
 
-🔍 검색 키워드: `hiphop+rain`  
+🔍 검색 키워드: `lofi+summer`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E9%9B%A8/1766302271?i=1766302273&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/a2/fc/24a2fc96-ecc4-00a2-df55-c0948577d27d/mzaf_4711652243652829142.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-summer/1619209798?i=1619209800&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cf/11/60/cf116000-7d32-3d82-1506-c4da65617dba/mzaf_2046175726073319213.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/43/0c/6a430c0b-1289-1e51-680f-be9644c4a872/4582649278287.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/06/28/09/06280906-d73d-139d-1200-cdde0f01f170/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-17 05:23:49 (UTC)
+⏳ 업데이트 시간: 2026-05-17 07:07:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
