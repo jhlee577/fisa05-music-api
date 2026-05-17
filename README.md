@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Summer  
-> 아티스트: **Marlow Digs**  
-> 앨범: _Up in the Sky_  
+## 🎧 Summer  
+> 아티스트: **Sum 41**  
+> 앨범: _All Killer, No Filler_  
 
-🔍 검색 키워드: `lofi+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rock+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-summer/1619209798?i=1619209800&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cf/11/60/cf116000-7d32-3d82-1506-c4da65617dba/mzaf_2046175726073319213.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer/1440920798?i=1440921237&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/71/c8/3e71c807-40ad-cf58-a49a-5d60df47b822/mzaf_2485376305610185056.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/06/28/09/06280906-d73d-139d-1200-cdde0f01f170/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/32/bb/bd32bb0b-0bb4-88bb-f32a-9ff383579d54/06UMGIM15497.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-17 07:07:32 (UTC)
+⏳ 업데이트 시간: 2026-05-17 08:49:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
