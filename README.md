@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Head & Heart (feat. MNEK)  
-> 아티스트: **Joel Corry**  
-> 앨범: _Head & Heart (feat. MNEK) - Single_  
+## 🎧 Hope (feat. Prince Mydas)  
+> 아티스트: **Shaggy**  
+> 앨범: _Hot Shot_  
 
-🔍 검색 키워드: `kpop+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/head-heart-feat-mnek/1518804164?i=1518804165&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/f4/b2/2bf4b236-5e2b-8824-4564-0603fae71217/mzaf_14135801356850167654.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope-feat-prince-mydas/1449315854?i=1449316050&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/91/38/05913873-7db5-b44c-9af2-6b112c52a6ce/mzaf_1128843631149732300.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cd/f2/89/cdf289a0-1e05-12fa-4d57-a03dbb62f2a6/190295193508.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/78/c0/5b78c053-c5d5-5414-6d95-2a9ab3d3c7a6/06UMGIM55575.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-18 09:22:31 (UTC)
+⏳ 업데이트 시간: 2026-05-18 11:26:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
