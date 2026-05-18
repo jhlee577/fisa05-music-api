@@ -4,18 +4,18 @@
 추천 곡은...
 
 ## 🎧 Rain  
-> 아티스트: **SWV**  
-> 앨범: _Release Some Tension_  
+> 아티스트: **민채**  
+> 앨범: _Shine On Me_  
 
-🔍 검색 키워드: `instrumental+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `jazz+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/253640878?i=253641178&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/983434786?i=983434792&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bb/2d/fb/bb2dfb84-9a2e-5853-526d-c8d3f81f64eb/mzaf_8864722001843476765.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/44/e2/7e44e238-c164-d491-bb3b-95695e385ce9/8809445290760_Jacket.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-18 21:32:31 (UTC)
+⏳ 업데이트 시간: 2026-05-18 22:26:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
