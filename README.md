@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 SUMMER!  
-> 아티스트: **PENTAGON**  
-> 앨범: _SUM(ME:R) - EP_  
+## 🎧 Lofi Love (Instrumental)  
+> 아티스트: **LoFi Hip Hop**  
+> 앨범: _Chill Beats & Instrumentals - EP_  
 
-🔍 검색 키워드: `kpop+summer`  
+🔍 검색 키워드: `lofi+love`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/summer/1473089223?i=1473089226&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bd/aa/bb/bdaabb45-96c0-5510-f1dc-69268605c657/mzaf_9285859850331116827.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-love-instrumental/1432158732?i=1432159064&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f5/00/30/f500309f-16df-4603-31a1-65c3d883b322/mzaf_4400973965375444628.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/c4/cc/0cc4cc7a-c65f-f436-832c-53be2030f448/19UMGIM64685.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/89/13/5289137f-b2e7-31d1-0e7d-fb923c870f1b/370.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-18 18:44:34 (UTC)
+⏳ 업데이트 시간: 2026-05-18 19:36:31 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
