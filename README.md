@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Good night  
-> 아티스트: **CHEN**  
-> 앨범: _Dear my dear - The 2nd Mini Album - EP_  
+## 🎧 Rain  
+> 아티스트: **SWV**  
+> 앨범: _Release Some Tension_  
 
-🔍 검색 키워드: `ballad+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+rain`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/good-night/1481446116?i=1481446131&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/48/2d/e5482db9-670b-eaa6-1993-ccf03b3abbe4/mzaf_13090908754736774381.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/253640878?i=253641178&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fa/79/e6/fa79e604-3485-9680-7b5e-d96e981d5149/Digital_Cover_CHEN_Dear_my_dear.re.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-19 01:05:33 (UTC)
+⏳ 업데이트 시간: 2026-05-19 03:17:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
