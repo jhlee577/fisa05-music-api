@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Love  
-> 아티스트: **delimaesilva**  
-> 앨범: _Entre Copos e Prosas_  
+## 🎧 I Love Rock & Roll  
+> 아티스트: **Britney Spears**  
+> 앨범: _Britney (Deluxe Version)_  
 
-🔍 검색 키워드: `ballad+love`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rock+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad-love/1791573303?i=1791573305&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/5b/c9/5f5bc9c4-c455-cb1b-8890-b1bcd1a67463/mzaf_13217773880524015974.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/i-love-rock-roll/273143821?i=273143838&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/3e/78/083e78ef-5fe0-1282-0262-2a9fe5a76b8a/mzaf_6106814024292377323.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/8b/cd/ee8bcdfc-4789-70d6-be19-44615f756e5b/021865218768.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/6a/22/a36a227f-584e-b951-d494-2576b6eab2db/888880447609.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-21 03:17:59 (UTC)
+⏳ 업데이트 시간: 2026-05-21 05:32:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
