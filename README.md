@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Musiq Soulchild**  
-> 앨범: _Aijuswanaseing_  
+## 🎧 Happy (lofi edit)  
+> 아티스트: **The Remix Station, Thomas The Beat Engine & lofi.remixes**  
+> 앨범: _Despicable Me Meets LoFi - EP_  
 
-🔍 검색 키워드: `rnb+love`  
+🔍 검색 키워드: `lofi+happy`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love/1440921030?i=1440921200&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/f9/15/2bf915f2-821c-6816-bf66-fd763568b340/mzaf_3727640818341949948.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy-lofi-edit/1712943008?i=1712943012&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f8/53/51/f85351cf-2abe-d67a-93e9-c77d8f05683d/mzaf_7691571313891401135.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/43/32/fe433231-b094-83d7-63e4-0507e8b11b5e/06UMGIM08895.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/e5/4e/c0e54e7b-383c-503a-243b-e280a62c29bf/1963621695620_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-21 09:17:48 (UTC)
+⏳ 업데이트 시간: 2026-05-21 11:11:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
