@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Where Are You Now  
-> 아티스트: **Lost Frequencies & Calum Scott**  
-> 앨범: _Where Are You Now - Single_  
+## 🎧 꿈  
+> 아티스트: **루시**  
+> 앨범: _BLUE - EP_  
 
-🔍 검색 키워드: `kpop+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/where-are-you-now/1576395044?i=1576395046&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/8a/af/fb8aaff1-10d0-8bc0-0339-88f1d3461e51/mzaf_11564294262882764378.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EA%BF%88/1787407149?i=1787407154&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/d3/95/10d395a7-5a61-4a2b-9229-2f7c18089bc6/mzaf_8080982002484267547.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/79/2a/25792aaa-fe16-c718-27fa-c3b1781780fb/886449449668.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/3e/2b/c83e2b57-dc2b-24f2-209d-b10c628a7ce3/8804775223884.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-22 16:51:17 (UTC)
+⏳ 업데이트 시간: 2026-05-22 17:39:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
