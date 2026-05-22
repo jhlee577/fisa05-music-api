@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 밤편지  
-> 아티스트: **아이유**  
-> 앨범: _Palette_  
+## 🎧 ocean eyes  
+> 아티스트: **Billie Eilish**  
+> 앨범: _dont smile at me_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%B0%A4%ED%8E%B8%EC%A7%80/1229073300?i=1229073406&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/23/b6/8a/23b68a9e-cba0-38aa-6137-67323ad07e50/mzaf_14539808712246248356.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ocean-eyes/1440898929?i=1440899467&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/59/2b/d6592b0b-1e7e-4743-b2e4-f2af038fd783/mzaf_7697277787797935735.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/94/ec/24/94ec2442-5add-d1ca-5eba-37f1298abfbc/cover_KM0005225_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/1d/30/021d3036-5503-3ed3-df00-882f2833a6ae/17UM1IM17026.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-22 09:15:38 (UTC)
+⏳ 업데이트 시간: 2026-05-22 11:07:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
