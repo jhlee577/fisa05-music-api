@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Put Your Records On  
-> 아티스트: **Corinne Bailey Rae**  
-> 앨범: _Corinne Bailey Rae_  
+## 🎧 Hope (feat. Puff Daddy & Tei Shi)  
+> 아티스트: **Blood Orange**  
+> 앨범: _Negro Swan_  
 
-🔍 검색 키워드: `jazz+sad`  
+🔍 검색 키워드: `rock+hope`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/put-your-records-on/724883560?i=724884380&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/a3/49/93a3498e-680f-31fe-02e4-1927c4960031/mzaf_18007051220253292659.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope-feat-puff-daddy-tei-shi/1413298173?i=1413299298&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/ea/c6/9eeac6af-1d7c-93c0-6def-c7ef70f8287c/mzaf_1111201220687747734.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/cd/24/d9cd2461-82dc-9f9f-6ed3-86bb75d110b9/13UABIM50290.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/98/ba/b498ba20-cef3-aef7-3327-280a981c8527/887828042166.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-23 19:31:52 (UTC)
+⏳ 업데이트 시간: 2026-05-23 20:22:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
