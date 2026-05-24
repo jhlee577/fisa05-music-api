@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rnb Love  
-> 아티스트: **Code 2935**  
-> 앨범: _Soul & Rnb 2023_  
+## 🎧 Acoustic Night  
+> 아티스트: **SASAYAMA.**  
+> 앨범: _Acoustic Night - Single_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/rnb-love/1691162984?i=1691163204&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/51/f4/66/51f466ea-7d34-50bc-765f-d3b3907bd163/mzaf_5892205623824445522.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/acoustic-night/1714132399?i=1714132401&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/92/51/dc/9251dc79-3157-462c-4b2e-47c204b30967/mzaf_15935258717149722422.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/97/20/dc97202d-9ddb-1f59-1110-8107fdc6b865/5061004350992.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/2a/56/a02a5616-90cf-8b60-050c-eefa99617ba9/3617222058473_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-24 14:36:38 (UTC)
+⏳ 업데이트 시간: 2026-05-24 15:29:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
