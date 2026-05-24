@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (lofi edit)  
-> 아티스트: **The Remix Station, Thomas The Beat Engine & lofi.remixes**  
-> 앨범: _Despicable Me Meets LoFi - EP_  
+## 🎧 Lofi Rain  
+> 아티스트: **LofiLoveU**  
+> 앨범: _Lofi Rain - Single_  
 
-🔍 검색 키워드: `lofi+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy-lofi-edit/1712943008?i=1712943012&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f8/53/51/f85351cf-2abe-d67a-93e9-c77d8f05683d/mzaf_7691571313891401135.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-rain/1465978708?i=1465978709&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/d9/95/fcd99517-1a98-ef20-f726-891f4bb72e71/mzaf_8849528983799861095.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/e5/4e/c0e54e7b-383c-503a-243b-e280a62c29bf/1963621695620_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/36/6f/39/366f3976-f008-f4fd-cefb-0e2dcf58dd00/888915910528_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-24 09:43:37 (UTC)
+⏳ 업데이트 시간: 2026-05-24 10:37:50 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
