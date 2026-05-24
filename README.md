@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer (The Sun Can Bend an Orange Sky)  
-> 아티스트: **ConcernedApe**  
-> 앨범: _Stardew Valley (Original Game Soundtrack)_  
+## 🎧 Medium Ballad: Sad, Positive, Love, Sorrow, Drama  
+> 아티스트: **鈴木健治**  
+> 앨범: _Kenji Suzuki Guitar Sound, Vol. 1_  
 
-🔍 검색 키워드: `instrumental+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `ballad+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer-the-sun-can-bend-an-orange-sky/1158129204?i=1158131717&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/f2/25/d0f2254e-8b3c-ea04-0e29-cc218bd8a8fd/mzaf_11863705227528550827.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/medium-ballad-sad-positive-love-sorrow-drama/1198189820?i=1198189827&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview111/v4/ff/c9/b6/ffc9b6bb-fbce-9b98-385c-46a1df30a28c/mzaf_5272571040452431349.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/17/09/2e17091a-9594-7c7d-ab3b-29021e40ff3b/859718322498_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/35/94/5e/35945edf-38ff-7411-f461-d19f9b2184f7/suzuki_kenji_vol1-.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-24 11:33:09 (UTC)
+⏳ 업데이트 시간: 2026-05-24 12:32:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
