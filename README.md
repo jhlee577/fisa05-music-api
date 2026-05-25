@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 CPR  
-> 아티스트: **Summer Walker**  
-> 앨범: _Last Day of Summer_  
+## 🎧 Summer  
+> 아티스트: **XO-IQ**  
+> 앨범: _Make It Pop: Summer Splash (Music from the Original TV Series) - EP_  
 
-🔍 검색 키워드: `rnb+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `pop+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/cpr/1438765128?i=1438765140&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/ed/4b/dbed4b1b-f7b4-5700-4745-e28dce99213a/mzaf_6535597343132478680.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer/1137717112?i=1137717331&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/44/56/cc/4456cc41-e228-9f8f-01f9-3b2bd8e8f439/mzaf_17019669698389224579.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/14/9f/f1/149ff1de-c12c-f80a-d988-c5c3c7781488/190374968805.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-25 20:36:08 (UTC)
+⏳ 업데이트 시간: 2026-05-25 21:30:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
