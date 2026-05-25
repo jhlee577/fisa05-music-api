@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Prom Night  
-> 아티스트: **fromis_9**  
-> 앨범: _Unlock My World_  
+## 🎧 DREAM  
+> 아티스트: **BABYMONSTER**  
+> 앨범: _BABYMONS7ER - EP_  
 
-🔍 검색 키워드: `pop+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/prom-night/1689139194?i=1689139459&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/27/47/32/27473209-52c4-32f4-7f44-feebb746bb70/mzaf_9023218672327320546.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/1737962888?i=1737962895&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/b8/5a/61b85a39-cbc9-05bc-d45a-6604ba46b8c3/mzaf_3408650905793289330.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/dd/8f/96dd8fb2-a58a-6432-4c77-c79bf07f2fdd/196922461620_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-25 22:27:42 (UTC)
+⏳ 업데이트 시간: 2026-05-25 23:29:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
