@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad (Acoustic Version)  
-> 아티스트: **Fae August**  
-> 앨범: _Acoustic Sessions 1 - EP_  
+## 🎧 Fight Song (Remix) [feat. VIGORMAN & NORIKIYO]  
+> 아티스트: **Kvi Baba**  
+> 앨범: _Happy Birthday to Me - EP_  
 
-🔍 검색 키워드: `acoustic+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad-acoustic-version/1611764270?i=1611764276&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b7/7d/80/b77d80e8-ab93-bd06-8cd4-ab7dbfdcf585/mzaf_14975032063054981547.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/fight-song-remix-feat-vigorman-norikiyo/1512434893?i=1512435266&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fb/ba/6a/fbba6a6b-61ee-7ff1-6789-c544bc073bab/mzaf_105975662694729233.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/e3/af/b0e3af37-b7da-8984-3585-a7c309352896/886449965946.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/fe/8d/c4fe8de8-4dde-adfd-6ba9-736eebc85214/859755739303_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-26 21:36:21 (UTC)
+⏳ 업데이트 시간: 2026-05-26 22:33:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
