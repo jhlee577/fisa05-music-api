@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Country Sad Ballad Man  
-> 아티스트: **Blur**  
-> 앨범: _Blur (2012 Remaster)_  
+## 🎧 Ballad Night (Solo Piano in C Major)  
+> 아티스트: **Kara Walker**  
+> 앨범: _Soulful Mellow Evening, Vol. 04_  
 
-🔍 검색 키워드: `ballad+sad`  
+🔍 검색 키워드: `ballad+night`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/country-sad-ballad-man/787069899?i=787069925&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/af/49/15/af491597-093c-ef87-5d47-dc83b032930a/mzaf_17473803588551943175.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/ballad-night-solo-piano-in-c-major/1637612699?i=1637612838&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3e/e8/be/3ee8be0d-266d-cd3e-8361-df9810a601cc/mzaf_14571679472416523117.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/20/b0/2d/20b02d2c-4ffc-8f4c-40ae-30f2dadf04f6/5099997262459.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/17/0e/e5170e3d-da24-2326-a2e1-3a8592268a88/709401747438_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-26 19:42:57 (UTC)
+⏳ 업데이트 시간: 2026-05-26 20:45:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
