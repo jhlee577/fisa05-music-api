@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Rain - Part One  
-> 아티스트: **Richard Durrant**  
-> 앨범: _Thunder, Lightening & Rain_  
+## 🎧 The Night We Met  
+> 아티스트: **Lord Huron**  
+> 앨범: _Strange Trails_  
 
-🔍 검색 키워드: `acoustic+rain`  
+🔍 검색 키워드: `kpop+night`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/acoustic-rain-part-one/256538631?i=256538643&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/0f/e4/c4/0fe4c4d5-5ad7-7176-1c7d-3e4f6afc8360/mzaf_16974299206669925599.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/the-night-we-met/1806531135?i=1806531961&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/36/b7/4b36b739-1de7-e0ae-45da-9a66463127ac/mzaf_1821541347983595183.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cf/7f/82/cf7f8245-fc4a-f52e-4cfa-22a4fec0fc85/829410258876.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-27 15:14:02 (UTC)
+⏳ 업데이트 시간: 2026-05-27 17:13:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
