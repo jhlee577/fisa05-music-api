@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 널 너무 모르고  
-> 아티스트: **헤이즈**  
-> 앨범: _/// (너 먹구름 비) - EP_  
+## 🎧 Sad  
+> 아티스트: **Pearl Jam**  
+> 앨범: _Lost Dogs_  
 
-🔍 검색 키워드: `rnb+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rock+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EB%84%90-%EB%84%88%EB%AC%B4-%EB%AA%A8%EB%A5%B4%EA%B3%A0/1569743835?i=1569743837&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/42/c4/6c/42c46c6f-c135-e258-989b-4e436275df73/mzaf_17786844692274906671.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sad/527179977?i=527179981&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4e/20/3b/4e203b18-bfc4-5e2c-cb90-426611de4102/mzaf_8254894771220614688.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/c1/05/1bc105f3-72f2-03be-0d05-6e302f74d757/8809534465840_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/37/fc/b0/37fcb065-e8cc-9d2b-98dd-12eca02fa3e5/dj.tuokefaq.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-27 09:19:19 (UTC)
+⏳ 업데이트 시간: 2026-05-27 11:19:50 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
