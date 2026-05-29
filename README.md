@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 All Summer Long  
-> 아티스트: **Kid Rock**  
-> 앨범: _Rock Summer_  
+## 🎧 ヒップホップドリーム  
+> 아티스트: **どんぐりず**  
+> 앨범: _愛_  
 
-🔍 검색 키워드: `rock+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/all-summer-long/1627799583?i=1627801603&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c7/8e/37/c78e3722-24bd-1e93-3467-ae43e1df5c81/mzaf_909490549370728779.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%83%92%E3%83%83%E3%83%97%E3%83%9B%E3%83%83%E3%83%97%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0/1471782597?i=1471782766&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/46/4f/93464f56-26fe-8e64-1631-6cd9486f11dd/mzaf_3652334134015137.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/39/e8/66/39e866b3-1041-e2e7-dec4-d4099b04ad75/5059460139800.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/f0/43/2af043af-cce1-9925-9093-155148180595/859754990668_cover.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-29 01:09:27 (UTC)
+⏳ 업데이트 시간: 2026-05-29 03:18:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
