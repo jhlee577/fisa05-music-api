@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Your Love Is King / Smooth Operator  
-> 아티스트: **Laura Fygi**  
-> 앨범: _Jazz Love_  
+## 🎧 Happy (From "Despicable Me 2")  
+> 아티스트: **Pharrell Williams**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `jazz+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/your-love-is-king-smooth-operator/1443202285?i=1443202423&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/74/08/3774085f-f342-32e1-336f-899884223cbd/mzaf_10214011234940509534.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/music-video/happy-from-despicable-me-2/793299815?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/88/ff/23/88ff23eb-7e4b-6d36-0531-1b8ba934be94/00602557190823.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-29 21:39:48 (UTC)
+⏳ 업데이트 시간: 2026-05-29 22:35:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
