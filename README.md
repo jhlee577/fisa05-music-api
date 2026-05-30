@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer (Mixed)  
-> 아티스트: **Yinoluu**  
-> 앨범: _Nostalgic Lofi (DJ Mix)_  
+## 🎧 Acoustic Dream  
+> 아티스트: **Delrady**  
+> 앨범: _Acoustic Dream - Single_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/summer-mixed/1744448746?i=1744448999&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/5c/05/005c0573-5bde-2f94-d3af-2a9e24f3bf39/mzaf_3735274994219771228.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/acoustic-dream/1718989704?i=1718989705&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/43/b3/2443b380-7e37-a57b-12c7-980da1d4a47d/mzaf_6936564266011837407.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/82/90/16829096-563d-04c9-f1b7-2cde8ba36c42/e4477d22-9ba7-4e8f-84ec-cdbbe27f3d7d.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/16/39/56163943-bc70-3cb6-ec8b-8ddfdf93ef82/00_Cover_Art.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-30 05:23:49 (UTC)
+⏳ 업데이트 시간: 2026-05-30 07:10:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
