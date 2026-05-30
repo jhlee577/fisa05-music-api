@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Dream  
-> 아티스트: **Delrady**  
-> 앨범: _Acoustic Dream - Single_  
+## 🎧 Take Me To Church  
+> 아티스트: **Lofi Fruits Music & Chill Fruits Music**  
+> 앨범: _Calm Sad Lofi_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/acoustic-dream/1718989704?i=1718989705&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/24/43/b3/2443b380-7e37-a57b-12c7-980da1d4a47d/mzaf_6936564266011837407.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/take-me-to-church/1576377595?i=1576377970&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/46/67/3e4667a9-10b8-d649-6e8a-d4730c91cc8b/mzaf_6535929732069891846.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/16/39/56163943-bc70-3cb6-ec8b-8ddfdf93ef82/00_Cover_Art.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/a9/78/d0a9781a-9d3e-0b4d-40a7-7b7aec8d5d64/190296608131.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-30 07:10:48 (UTC)
+⏳ 업데이트 시간: 2026-05-30 08:55:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
