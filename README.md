@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Wicked Game  
-> 아티스트: **Chris Isaak**  
-> 앨범: _Heart Shaped World_  
+## 🎧 Ballad Night (feat. Belinda Butcher)  
+> 아티스트: **Collapsed Lung feat. Belinda Butcher**  
+> 앨범: _Cooler_  
 
-🔍 검색 키워드: `rock+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `ballad+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/wicked-game/1570349614?i=1570350115&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/f5/6f/d4f56fb1-f9ce-627a-2cc3-5f5b28e96692/mzaf_7197782946271526766.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad-night-feat-belinda-butcher/265101063?i=265101195&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/68/77/10/68771049-0be3-1a21-0a18-616700c47596/mzaf_14211765659127666698.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/34/9b/d0349b33-35fb-8913-8755-08b6a1bdd382/21UMGIM47740.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/ee/7c/b4ee7cc6-9270-a6de-f0e8-8495b189ce99/mzi.hdcykkrd.tif/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-30 18:30:31 (UTC)
+⏳ 업데이트 시간: 2026-05-30 19:34:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
