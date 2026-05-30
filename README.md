@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Night (Part 2: Midnight)  
-> 아티스트: **George Winston**  
-> 앨범: _December_  
+## 🎧 SAD!  
+> 아티스트: **XXXTENTACION**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/night-part-2-midnight/1491090471?i=1491090478&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5e/c7/45/5ec74550-e9b0-64c1-a676-d3155da44048/mzaf_3296784040595725938.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/sad/1407067992?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/b1/80/c5/b180c53d-06ce-62df-0ce6-028aade128e3/mzvf_5595941368422935315.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/79/639d7990-dd61-4f1c-e732-d7eb62abd69f/George_Winston_-_December.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/bb/72/9c/bb729cf4-3b0d-ec07-114e-316fa700ac2d/00842812108747_00001.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-30 01:04:14 (UTC)
+⏳ 업데이트 시간: 2026-05-30 03:15:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
