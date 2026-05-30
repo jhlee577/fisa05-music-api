@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rock Night  
-> 아티스트: **Pateka**  
-> 앨범: _Pateka_  
+## 🎧 Summer (The First Time) [1991 Remaster]  
+> 아티스트: **Bobby Goldsboro**  
+> 앨범: _The Very Best of Bobby Goldsboro_  
 
-🔍 검색 키워드: `rock+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `pop+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/rock-night/1829718217?i=1829718334&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8b/6f/53/8b6f5363-b4ff-e9d8-2712-70db836d887b/mzaf_2935766160301616479.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer-the-first-time-1991-remaster/724415696?i=724416282&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/1e/a4/051ea428-79a1-3711-4a7d-6435860597c4/mzaf_4061611145262559151.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/33/fe/c633fe21-433b-a9da-4fd4-82c758c52a40/57619.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/cd/4e/34cd4eea-76b7-8064-5546-599bc4a862f1/00724352085958.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-30 14:37:14 (UTC)
+⏳ 업데이트 시간: 2026-05-30 15:31:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
