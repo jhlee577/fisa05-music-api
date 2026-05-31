@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Jervis Campbell**  
-> 앨범: _Hope - Single_  
+## 🎧 Love  
+> 아티스트: **Imagine Dragons**  
+> 앨범: _Origins (Deluxe Edition)_  
 
-🔍 검색 키워드: `rock+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1661473664?i=1661473847&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/0e/9a/27/0e9a2793-1cfc-6e5e-347c-9c044378a721/mzaf_10366699471760536604.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/love/1437948883?i=1437949216&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/a0/12/64a012c2-449a-af07-f963-cdc41f135257/mzaf_14085435222783907243.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0e/af/a5/0eafa517-c005-9fbf-2c58-cc0bba04af81/859768901919_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/80/a8/3f80a8ef-5409-42ac-c126-c7354698c7fc/18UMGIM65849.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-31 20:30:32 (UTC)
+⏳ 업데이트 시간: 2026-05-31 21:25:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
