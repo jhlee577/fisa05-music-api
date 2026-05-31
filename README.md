@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Imagine Dragons**  
-> 앨범: _Origins (Deluxe Edition)_  
+## 🎧 Where Are You Now  
+> 아티스트: **Lost Frequencies & Calum Scott**  
+> 앨범: _Where Are You Now - Single_  
 
-🔍 검색 키워드: `ballad+love`  
+🔍 검색 키워드: `kpop+hope`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/love/1437948883?i=1437949216&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/a0/12/64a012c2-449a-af07-f963-cdc41f135257/mzaf_14085435222783907243.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/where-are-you-now/1576395044?i=1576395046&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/8a/af/fb8aaff1-10d0-8bc0-0339-88f1d3461e51/mzaf_11564294262882764378.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/80/a8/3f80a8ef-5409-42ac-c126-c7354698c7fc/18UMGIM65849.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/79/2a/25792aaa-fe16-c718-27fa-c3b1781780fb/886449449668.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-31 21:25:41 (UTC)
+⏳ 업데이트 시간: 2026-05-31 22:26:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
