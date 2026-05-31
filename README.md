@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (Acoustic)  
-> 아티스트: **Oh Wonder**  
-> 앨범: _Pure Acoustic 2022_  
+## 🎧 Riptide  
+> 아티스트: **Vance Joy**  
+> 앨범: _Dream Your Life Away (Special Edition)_  
 
-🔍 검색 키워드: `acoustic+happy`  
+🔍 검색 키워드: `kpop+happy`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy-acoustic/1613869344?i=1613869903&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/9c/94/6c9c9438-13aa-d998-94e9-307efec23c6f/mzaf_1376916276435344709.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/riptide/1022164257?i=1022164261&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/de/ea/1edeea50-c0f4-9d95-f0b8-b23a1af561db/mzaf_6343110017276582270.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/f7/a7/78f7a74c-8810-0e4b-6da3-06936a3990df/22UMGIM26228.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/1c/65/7a1c6571-34e9-bb77-32be-90c72ba003c0/075679920355.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-05-31 01:11:06 (UTC)
+⏳ 업데이트 시간: 2026-05-31 03:18:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
