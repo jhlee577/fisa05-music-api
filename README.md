@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **The Williams Brothers & Andy Williams**  
-> 앨범: _The Wonderful World of Andy Williams_  
+## 🎧 Hope  
+> 아티스트: **Elijah Hopkins**  
+> 앨범: _Hope - EP_  
 
-🔍 검색 키워드: `pop+dream`  
+🔍 검색 키워드: `instrumental+hope`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/dream/775432932?i=775432937&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/33/5c/f2/335cf255-ad4c-8bfa-5207-9ada10f92f9b/mzaf_400333007546517473.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1800328357?i=1800328358&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/ab/fe/d8abfe22-83d5-95f4-6ad7-5ddcb48fc808/mzaf_6024432641113348997.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/c2/56/62/c25662e1-b883-60f0-9ad4-338114ba9ea0/886444353458.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/96/16/9a961603-0c32-f318-98a6-73f59f520577/5059449212920.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-01 18:08:22 (UTC)
+⏳ 업데이트 시간: 2026-06-01 20:31:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
