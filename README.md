@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Love  
-> 아티스트: **Myla Burton**  
-> 앨범: _Valentines Gifts: A Collection of the Best Piano Love Music for your Valentine's Day Dinner_  
+## 🎧 Acoustic Dream  
+> 아티스트: **Dopamine Break**  
+> 앨범: _Acoustic Dream - Single_  
 
-🔍 검색 키워드: `instrumental+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/instrumental-love/1336202282?i=1336202991&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/d3/de/88/d3de8871-5cde-6e4c-c780-327a37282965/mzaf_6786590683771189577.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/acoustic-dream/1685453611?i=1685453612&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/27/5e/19/275e1969-f9cb-483a-cf4f-112c9fc07681/mzaf_15019623677191768792.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/49/39/e5/4939e5fd-7838-fb2c-7068-942ea4756b56/8033772894302.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a9/c2/85/a9c285ca-6e8b-11b6-9807-adf03e7b2b24/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-02 05:42:36 (UTC)
+⏳ 업데이트 시간: 2026-06-02 07:51:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
