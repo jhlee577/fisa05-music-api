@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer (from "Kikujiro")  
-> 아티스트: **Joe Hisaishi**  
-> 앨범: _Dream Songs: The Essential Joe Hisaishi_  
+## 🎧 Hope (feat. Prince Mydas)  
+> 아티스트: **Shaggy**  
+> 앨범: _Hot Shot_  
 
-🔍 검색 키워드: `pop+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer-from-kikujiro/1485854555?i=1485854957&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/78/d3/b478d357-cb01-078d-b1ed-f6f279877ebe/mzaf_7274791935371980127.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope-feat-prince-mydas/1449315854?i=1449316050&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/91/38/05913873-7db5-b44c-9af2-6b112c52a6ce/mzaf_1128843631149732300.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0a/0c/85/0a0c8531-746f-370e-db4d-29cc3cb20030/19UMGIM98620.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/78/c0/5b78c053-c5d5-5414-6d95-2a9ab3d3c7a6/06UMGIM55575.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-03 07:54:47 (UTC)
+⏳ 업데이트 시간: 2026-06-03 09:46:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
