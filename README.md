@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **SWV**  
-> 앨범: _Release Some Tension_  
+## 🎧 Love  
+> 아티스트: **Brown Eyed Girls**  
+> 앨범: _With L.O.V.E Brown Eyed Girls_  
 
-🔍 검색 키워드: `hiphop+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/253640878?i=253641178&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love/365430104?i=365430197&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ed/22/58/ed22584a-5d72-00ed-0dd8-505b3e837e28/mzaf_16342566057704934623.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/64/f8/b9/64f8b962-8d45-919e-fbf9-929162445679/mzi.otpsqmhh.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-03 21:11:54 (UTC)
+⏳ 업데이트 시간: 2026-06-03 22:47:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
