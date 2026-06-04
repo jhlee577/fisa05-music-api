@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HAPPY  
-> 아티스트: **Anike**  
-> 앨범: _EXIT_  
+## 🎧 ハッピー  
+> 아티스트: **あいみょん**  
+> 앨범: _愛を伝えたいだとか - EP_  
 
-🔍 검색 키워드: `hiphop+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/1504149474?i=1504149478&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/b8/23/10b823cb-22c4-7008-da6f-1f80abde2693/mzaf_16936083544445805527.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC/1218860381?i=1218860395&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/ad/bb/04adbbfe-f265-93f4-5361-983fd6808715/mzaf_7069082659291928397.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/f9/ef/d3f9ef4a-aa1b-1692-147d-87d887097377/923.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/bb/26/33bb26ea-d33e-10da-448d-e592d540b1d2/190295821067.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-04 13:19:09 (UTC)
+⏳ 업데이트 시간: 2026-06-04 15:09:02 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
