@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope!  
-> 아티스트: **Somni & Harris Cole**  
-> 앨범: _Sirens - EP_  
+## 🎧 Sad  
+> 아티스트: **Maroon 5**  
+> 앨범: _Overexposed (Deluxe Version)_  
 
-🔍 검색 키워드: `instrumental+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rock+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1581733835?i=1581734317&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/42/d3/20/42d32083-d63e-fe30-fedf-c6becdda423a/mzaf_8794712356026902842.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad/1440808308?i=1440808326&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/7a/14/3f7a1451-fdb7-c88f-d84d-531d1e84ec89/mzaf_11288990799415231121.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/80/9f/d9809fd9-060d-e486-dcc1-6731cc57a75c/4062548033779.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/5b/95/1b5b95d1-b7f2-f2e9-acb2-22f558017056/12UMGIM26178.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-04 05:43:52 (UTC)
+⏳ 업데이트 시간: 2026-06-04 07:49:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
