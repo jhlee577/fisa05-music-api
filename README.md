@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 SAD! (Instrumental)  
-> 아티스트: **XXXTENTACION**  
-> 앨범: _? (Deluxe)_  
+## 🎧 NO SAD SONGS  
+> 아티스트: **Niko Moon**  
+> 앨범: _GOOD TIME_  
 
-🔍 검색 키워드: `pop+sad`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/sad-instrumental/1474891456?i=1474891815&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/9a/f1/519af1f2-0c4b-c91c-ffca-c01b04b3b891/mzaf_12227570221781810766.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/no-sad-songs/1572878538?i=1572878547&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c8/31/01/c83101d6-d951-e351-4f84-94194cf3a8a6/mzaf_8238791456665706095.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/49/bb/9349bb3b-317d-57c3-966a-71fa25247dc2/19UMGIM41705.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/8a/c8/958ac89a-ae1e-3c6f-f25b-11664f84ae09/886449291632.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-05 05:39:59 (UTC)
+⏳ 업데이트 시간: 2026-06-05 07:41:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
