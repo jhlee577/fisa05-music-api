@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Jazz BGM  
-> 아티스트: **Cafe Music BGM channel**  
-> 앨범: _Morning Relax ~Chill Out Cafe Music~_  
+## 🎧 Piano Jazz Sad Rain  
+> 아티스트: **Jazz Café Bar**  
+> 앨범: _Jazz Cafe Music_  
 
-🔍 검색 키워드: `jazz+happy`  
+🔍 검색 키워드: `jazz+sad`  
 🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy-jazz-bgm/1434796514?i=1434796843&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/9e/c3/919ec332-33d2-3128-7138-c100ea37ca19/mzaf_12972400728958793040.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/piano-jazz-sad-rain/1509504763?i=1509504771&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b6/a7/34/b6a734bf-21e3-05df-e24b-4d2653b1b9b6/mzaf_10601588203209266414.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ca/a3/c1/caa3c1c2-58f0-dc0c-fd6a-fb08bb726f4d/859754424415_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d3/69/96/d369963d-6baa-1840-7c1d-46a9be01e288/10798.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-07 03:18:45 (UTC)
+⏳ 업데이트 시간: 2026-06-07 05:39:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
