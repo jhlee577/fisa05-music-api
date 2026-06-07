@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (Live At Madison Square Garden, USA / 2003)  
-> 아티스트: **The Rolling Stones**  
-> 앨범: _Live Licks_  
+## 🎧 Acoustic Dream  
+> 아티스트: **Antonio Nasca & Davide Mottola**  
+> 앨범: _Just the Best Lounge, Vol. 5_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-live-at-madison-square-garden-usa-2003/1440916919?i=1440923355&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/c9/d1/39c9d10a-ae2c-879c-c9e8-eac7457fe388/mzaf_12582236540771432471.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-dream/1466729580?i=1466729652&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/08/26/05/082605af-4688-2781-5243-48063a92afca/mzaf_3025239317637244078.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/ea/51/9fea512c-6c89-d372-b5bd-6976c311408b/13UMGIM60671.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2d/3e/db/2d3edb44-687e-8838-44f0-32df7aca09cd/8718857244028.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-07 18:35:24 (UTC)
+⏳ 업데이트 시간: 2026-06-07 19:35:24 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
