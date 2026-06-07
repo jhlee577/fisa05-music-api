@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Night (Solo Piano in C Major)  
-> 아티스트: **Kara Walker**  
-> 앨범: _Soulful Mellow Evening, Vol. 04_  
+## 🎧 Healing Rain  
+> 아티스트: **Pop Rain**  
+> 앨범: _Rain and Nature Sounds for Relaxation, Meditation, Sleep, Study, Yoga, Serenity, Harmony and Therapy._  
 
-🔍 검색 키워드: `ballad+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/ballad-night-solo-piano-in-c-major/1637612699?i=1637612838&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3e/e8/be/3ee8be0d-266d-cd3e-8361-df9810a601cc/mzaf_14571679472416523117.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/healing-rain/1038504469?i=1038504557&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/21/86/552186f3-1923-e8cd-57ea-d2b44d1cddbf/mzaf_4262435715319292851.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/17/0e/e5170e3d-da24-2326-a2e1-3a8592268a88/709401747438_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/42/b6/4142b67d-d058-7e02-e7b3-ba445a320e39/mzm.eblmhqec.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-07 13:38:03 (UTC)
+⏳ 업데이트 시간: 2026-06-07 14:41:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
