@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (From "Despicable Me 2")  
-> 아티스트: **Pharrell Williams**  
-> 앨범: _Unknown Album_  
+## 🎧 Kill Bill  
+> 아티스트: **SZA**  
+> 앨범: _SOS_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/happy-from-despicable-me-2/793299815?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/kill-bill/1657869377?i=1657869393&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/2b/ea/452bead6-c7f5-82d4-f5f7-ec876014b4cc/mzaf_2905911853279084717.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-08 09:48:11 (UTC)
+⏳ 업데이트 시간: 2026-06-08 11:43:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
