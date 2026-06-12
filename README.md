@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Calvin Harris**  
-> 앨범: _Pop Summer Hits 2024_  
+## 🎧 Maybe One Day  
+> 아티스트: **Nature Sounds Unplugged**  
+> 앨범: _Acoustic Rain_  
 
-🔍 검색 키워드: `pop+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+rain`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer/1737552675?i=1737552676&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/3a/7a/473a7a79-f6bf-e471-bca1-cd71f84a13da/mzaf_17619962159399797778.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/maybe-one-day/1451608821?i=1451608825&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/ce/12/6cce12bc-ef57-008e-67b1-0f389b730da4/mzaf_11021752259828425469.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/fc/e6/02fce6bf-9b24-8176-ff1b-25b7e46d78ff/196871959421.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/1f/5c/8a1f5c23-8a29-609d-ba99-5fe23329eea1/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-12 03:19:07 (UTC)
+⏳ 업데이트 시간: 2026-06-12 05:42:30 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
