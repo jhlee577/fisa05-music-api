@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **방탄소년단**  
-> 앨범: _DARK&WILD_  
+## 🎧 오늘보다 내일의 너를 더 좋아하겠지  
+> 아티스트: **소각소각**  
+> 앨범: _오늘보다 내일의 너를 더 좋아하겠지 - Single_  
 
-🔍 검색 키워드: `pop+rain`  
+🔍 검색 키워드: `acoustic+hope`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1597016856?i=1597017220&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/8f/1f/788f1f30-4ef1-6636-254d-eeb4d8c410b7/mzaf_10455926999264557055.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EC%98%A4%EB%8A%98%EB%B3%B4%EB%8B%A4-%EB%82%B4%EC%9D%BC%EC%9D%98-%EB%84%88%EB%A5%BC-%EB%8D%94-%EC%A2%8B%EC%95%84%ED%95%98%EA%B2%A0%EC%A7%80/1513848105?i=1513848106&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/37/e7/c937e772-2184-2107-b518-cca7cf20641f/mzaf_4276344530579640517.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/39/97/f2399713-b036-7ef2-fb4f-8c1454569c66/8804775056895_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9e/ca/82/9eca8231-070a-c36c-040d-33273abe465e/81412888.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-13 16:37:28 (UTC)
+⏳ 업데이트 시간: 2026-06-13 17:34:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
