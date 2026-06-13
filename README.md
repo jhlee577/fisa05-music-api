@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 ロックな夢  
-> 아티스트: **Future Change Consciousness**  
-> 앨범: _暗い未来_  
+## 🎧 Happy (From "Despicable Me 2")  
+> 아티스트: **Pharrell Williams**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `rock+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rock+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AA%E5%A4%A2/1596347367?i=1596347706&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/75/dd/f675dd50-cad1-7477-b169-af60f328b9f4/mzaf_2221870735626637991.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/music-video/happy-from-despicable-me-2/793299815?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fe/55/3e/fe553eb7-aa96-196e-2d2b-12c389a06664/bigup13292809.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-13 09:12:12 (UTC)
+⏳ 업데이트 시간: 2026-06-13 10:53:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
