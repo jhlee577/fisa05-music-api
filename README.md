@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Casanova  
-> 아티스트: **Soolking & Gazo**  
-> 앨범: _Casanova - Single_  
+## 🎧 Rain  
+> 아티스트: **방탄소년단**  
+> 앨범: _DARK&WILD_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/casanova/1695579038?i=1695579109&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/de/61/f2de6185-06f0-0b24-e31d-638388548a74/mzaf_978111458217636083.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1597016856?i=1597017220&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/8f/1f/788f1f30-4ef1-6636-254d-eeb4d8c410b7/mzaf_10455926999264557055.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/10/19/83/10198394-5f8a-228d-3915-680821fb9427/23UMGIM76651.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/39/97/f2399713-b036-7ef2-fb4f-8c1454569c66/8804775056895_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-13 15:38:18 (UTC)
+⏳ 업데이트 시간: 2026-06-13 16:37:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
