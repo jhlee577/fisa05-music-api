@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Christmas Paul**  
-> 앨범: _Christmas Spirit - The Most Relaxing Holiday Tunes, Traditional Holiday Music, Venerated Carols, Ancient Hymns_  
+## 🎧 DREAM  
+> 아티스트: **SEVENTEEN**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `instrumental+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/instrumental-night/1318772509?i=1318773088&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/d9/f4/08/d9f408c4-b5ef-5c04-bc58-fc1fe69970b0/mzaf_2511361059748393074.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/dream/1652052237?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/d5/f3/d3/d5f3d3e7-2b26-5318-72ab-6fb9c93ce467/mzvf_18431944048556971312.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/8b/ab/4b8bab8c-5620-1459-38b0-9d026af39777/8033772908788.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-14 11:03:44 (UTC)
+⏳ 업데이트 시간: 2026-06-14 12:49:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
