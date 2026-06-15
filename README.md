@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **LISA**  
-> 앨범: _Alter Ego_  
+## 🎧 Happy  
+> 아티스트: **Bukahara**  
+> 앨범: _Canaries in a Coal Mine_  
 
-🔍 검색 키워드: `pop+dream`  
+🔍 검색 키워드: `pop+happy`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/dream/1798585113?i=1798585533&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/af/80/65af80c1-f6ba-1fc2-c9c0-7e119f20afda/mzaf_15862813715917904983.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1695707435?i=1695707439&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/32/25/0b/32250bd9-9f8d-6402-6f03-56682fa1e800/mzaf_12287636897299095553.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/fe/34/33fe34b4-f45e-fc6c-eec2-163f3633e106/196872806434.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/c0/50/3bc05089-1e32-20ac-ed59-ee8959b36889/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-15 01:18:11 (UTC)
+⏳ 업데이트 시간: 2026-06-15 03:20:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
