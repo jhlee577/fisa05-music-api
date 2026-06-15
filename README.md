@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Rain (loopable)  
-> 아티스트: **Rain Vibes**  
-> 앨범: _Lofi Rain Sounds_  
+## 🎧 Piano That Will Make You Cry  
+> 아티스트: **Sad Instrumental Piano Music Zone**  
+> 앨범: _Sentimental Piano Mood: Most Emotional & Sad Jazz for Broken Heart, 30 Shades of Nostalgic Piano_  
 
-🔍 검색 키워드: `lofi+rain`  
+🔍 검색 키워드: `jazz+sad`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-rain-loopable/1731941301?i=1731941302&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/75/71/14/7571142e-207c-1bbf-1596-0f43ba70d97c/mzaf_1659329367556614684.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/piano-that-will-make-you-cry/1373890553?i=1373891030&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e6/74/09/e6740917-a0f7-3697-cbb0-bd9b096c68d3/mzaf_2452763369512029744.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/47/e5/4047e55c-b830-3bb2-981c-4894d4691752/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/54/37/a6/5437a6f6-fe2b-56d6-edc5-c8ca32c77800/8134130670436.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-15 14:18:06 (UTC)
+⏳ 업데이트 시간: 2026-06-15 16:42:16 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
