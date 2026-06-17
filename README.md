@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Nerdy Love (feat. Yerin Baek)  
-> 아티스트: **pH-1**  
-> 앨범: _Nerdy Love (feat. Yerin Baek) - Single_  
+## 🎧 Where Is My Love (I Got a Fear, In My Blood)  
+> 아티스트: **lofi.sad**  
+> 앨범: _Where Is My Love (I Got a Fear, In My Blood) - Single_  
 
-🔍 검색 키워드: `hiphop+night`  
+🔍 검색 키워드: `lofi+sad`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/nerdy-love-feat-yerin-baek/1604901909?i=1604901923&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d7/99/50/d79950c0-88d2-3e52-c137-c2c98816c436/mzaf_17990301071940464880.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/where-is-my-love-i-got-a-fear-in-my-blood/1596731184?i=1596731185&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ae/64/44/ae644462-27fb-00d4-1e80-3e401f811420/mzaf_13105301470363254385.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/b8/ea/deb8eaf6-0e44-8286-37a4-a7ffe60e6d7e/8809704411707_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/b7/de/c4b7de5c-beec-1e31-0cfa-626d5f7311e5/196513605181_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-17 20:49:27 (UTC)
+⏳ 업데이트 시간: 2026-06-17 21:42:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
