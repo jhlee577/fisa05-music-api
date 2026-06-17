@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HaPpY (HAN)  
-> 아티스트: **Stray Kids & HAN**  
-> 앨범: _SKZ-REPLAY_  
+## 🎧 Nerdy Love (feat. Yerin Baek)  
+> 아티스트: **pH-1**  
+> 앨범: _Nerdy Love (feat. Yerin Baek) - Single_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-han/1657537947?i=1657539388&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/57/8f/ec/578fece6-8baf-ae9a-177e-4259d9e287ac/mzaf_4087856100540560397.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/nerdy-love-feat-yerin-baek/1604901909?i=1604901923&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d7/99/50/d79950c0-88d2-3e52-c137-c2c98816c436/mzaf_17990301071940464880.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b8/74/c0/b874c02b-4014-56cd-8a6c-ba456bd7cba7/738676860429_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/b8/ea/deb8eaf6-0e44-8286-37a4-a7ffe60e6d7e/8809704411707_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-17 19:01:23 (UTC)
+⏳ 업데이트 시간: 2026-06-17 20:49:27 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
