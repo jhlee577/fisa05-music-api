@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Do for Love (Mixed)  
-> 아티스트: **2Pac**  
-> 앨범: _Pure Throwback Radio: Hip-Hop Love Songs (DJ Mix)_  
+## 🎧 HaPpY (HAN)  
+> 아티스트: **Stray Kids & HAN**  
+> 앨범: _SKZ-REPLAY_  
 
-🔍 검색 키워드: `hiphop+love`  
+🔍 검색 키워드: `rock+happy`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/do-for-love-mixed/1697418681?i=1697418693&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/04/ce/6f/04ce6f3a-288a-ba97-991b-10b63ef5b0f6/mzaf_12334028342978053858.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-han/1657537947?i=1657539388&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/57/8f/ec/578fece6-8baf-ae9a-177e-4259d9e287ac/mzaf_4087856100540560397.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/c9/e7/25c9e791-5e1e-5bac-27eb-07ed5f5f5b3c/7b110011-bd2e-454c-935c-d3199dde8d8b.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b8/74/c0/b874c02b-4014-56cd-8a6c-ba456bd7cba7/738676860429_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-17 17:56:20 (UTC)
+⏳ 업데이트 시간: 2026-06-17 19:01:23 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
