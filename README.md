@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM (Korean Ver.)  
-> 아티스트: **SEVENTEEN**  
-> 앨범: _SEVENTEEN BEST ALBUM ‘17 IS RIGHT HERE’_  
+## 🎧 Jazz (Emotional Songs)  
+> 아티스트: **Relaxing Summer Piano Collection**  
+> 앨범: _Relaxing Smooth Jazz Summer - Bossa Nova Lounge Music 2016_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `jazz+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream-korean-ver/1742910872?i=1742911021&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/8b/da/fb8bdac5-e6b1-cb27-be87-3c68dedea18f/mzaf_12404635054603181338.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-emotional-songs/1118376604?i=1118376753&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/6d/31/cc/6d31cc91-af01-6c25-90ab-c17968111cee/mzaf_2425493342754502892.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/fa/b9/a7fab907-4f64-45e8-076a-96bbb305a901/24UMGIM43598.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/e8/d4/22/e8d4228d-f6cf-8048-8570-6745aa21c188/8134130311711.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-17 03:18:51 (UTC)
+⏳ 업데이트 시간: 2026-06-17 05:47:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
