@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz (Emotional Songs)  
-> 아티스트: **Relaxing Summer Piano Collection**  
-> 앨범: _Relaxing Smooth Jazz Summer - Bossa Nova Lounge Music 2016_  
+## 🎧 Natural Rain  
+> 아티스트: **Pop Rain**  
+> 앨범: _Rain and Nature Sounds for Relaxation, Meditation, Sleep, Study, Yoga, Serenity, Harmony and Therapy._  
 
-🔍 검색 키워드: `jazz+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `pop+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-emotional-songs/1118376604?i=1118376753&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/6d/31/cc/6d31cc91-af01-6c25-90ab-c17968111cee/mzaf_2425493342754502892.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/natural-rain/1038504469?i=1038504566&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4b/fd/49/4bfd493f-0d5d-f060-d14d-03c2e1c59856/mzaf_9296951853192500149.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/e8/d4/22/e8d4228d-f6cf-8048-8570-6745aa21c188/8134130311711.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/42/b6/4142b67d-d058-7e02-e7b3-ba445a320e39/mzm.eblmhqec.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-17 05:47:57 (UTC)
+⏳ 업데이트 시간: 2026-06-17 08:04:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
