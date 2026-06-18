@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Summer  
-> 아티스트: **Gustavo Fidelli**  
-> 앨범: _Oriental Lunar_  
+## 🎧 Lofi Rain (Slowed + Reverb)  
+> 아티스트: **Nowyouknow**  
+> 앨범: _lofi rain (Slowed + Reverb) - Single_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-summer/1806287769?i=1806287770&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/e6/69/6be669c0-bc01-4448-f38d-5face0a0af77/mzaf_16052418216629958274.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-rain-slowed-reverb/1664605402?i=1664605404&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/64/d9/90/64d99042-699c-9dcc-a258-9292c3713594/mzaf_16770636043733753998.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/c5/ef/6bc5efa0-6857-64c5-c0aa-462a2dd2f9a3/4065328645353.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bf/cb/96/bfcb9643-cc89-78dc-a0c7-c1e080d96199/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-18 18:56:32 (UTC)
+⏳ 업데이트 시간: 2026-06-18 19:48:24 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
