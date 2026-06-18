@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Descendents**  
-> 앨범: _Milo Goes to College_  
+## 🎧 Promiscuous (feat. Timbaland)  
+> 아티스트: **Nelly Furtado**  
+> 앨범: _Loose_  
 
-🔍 검색 키워드: `rock+hope`  
+🔍 검색 키워드: `rock+night`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/117620243?i=117620194&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/53/a8/fc53a85a-13a1-1559-eb81-3cdadafc884f/mzaf_1291809918362361044.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/promiscuous-feat-timbaland/1442463545?i=1442463848&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/a9/0c/eca90caa-eafb-ecd2-e81f-474ef65b827b/mzaf_17866378336261677147.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/96/af/7b/96af7b2b-effe-a906-5bc9-16c6b7d87c42/669910745755.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/f2/be/20f2be1f-716d-a2df-913e-1aff99c08619/06UMGIM31170.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-18 20:56:22 (UTC)
+⏳ 업데이트 시간: 2026-06-18 21:46:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
