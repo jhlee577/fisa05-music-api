@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad of the Band  
-> 아티스트: **Felt**  
-> 앨범: _Bubblegum Perfume_  
+## 🎧 Hope  
+> 아티스트: **Harold Lopez-Nussa**  
+> 앨범: _Timba a la Americana_  
 
-🔍 검색 키워드: `ballad+dream`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `jazz+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/ballad-of-the-band/1496657422?i=1496657562&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/48/fd/f2/48fdf2b6-30b6-337f-75d2-a8fa28d6c7cd/mzaf_903390501644052947.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1689333711?i=1689333860&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/1b/96/7c1b968a-655e-9318-46b0-cf4589cea742/mzaf_845661085968977990.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fb/7d/3f/fb7d3f16-1276-bcdf-0fb3-f31de5080949/5013929140028.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/78/a0/dc78a0db-c3bf-53ab-4a84-2487703003f3/22UM1IM24594.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-19 01:19:47 (UTC)
+⏳ 업데이트 시간: 2026-06-19 03:19:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
