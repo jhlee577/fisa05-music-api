@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (Live)  
-> 아티스트: **베티 버클리**  
-> 앨범: _Hope_  
+## 🎧 Hope (feat. Prince Mydas)  
+> 아티스트: **Shaggy**  
+> 앨범: _Hot Shot_  
 
-🔍 검색 키워드: `jazz+hope`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope-live/1363530631?i=1363530766&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/13/3a/93/133a93dd-19a5-6708-1fbe-e8e9851a9908/mzaf_8071629748155731299.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope-feat-prince-mydas/1449315854?i=1449316050&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/91/38/05913873-7db5-b44c-9af2-6b112c52a6ce/mzaf_1128843631149732300.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5a/ae/5e/5aae5ed1-450e-502a-875f-a02c17edb915/192562334089.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/78/c0/5b78c053-c5d5-5414-6d95-2a9ab3d3c7a6/06UMGIM55575.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-19 14:08:09 (UTC)
+⏳ 업데이트 시간: 2026-06-19 16:03:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
