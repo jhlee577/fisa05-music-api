@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (From "Despicable Me 2")  
-> 아티스트: **Pharrell Williams**  
-> 앨범: _Unknown Album_  
+## 🎧 Happy  
+> 아티스트: **LoFi Hip Hop**  
+> 앨범: _Chill Study Beats_  
 
-🔍 검색 키워드: `instrumental+happy`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `lofi+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/music-video/happy-from-despicable-me-2/793299815?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1487875150?i=1487875159&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9e/83/d1/9e83d155-37f3-6eb0-c757-334cc1443a98/mzaf_815913555218092660.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/10/80/6d1080b9-f527-8b44-b84a-e6ee33eb729d/7243.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-19 20:37:06 (UTC)
+⏳ 업데이트 시간: 2026-06-19 21:30:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
