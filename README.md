@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **LoFi Hip Hop**  
-> 앨범: _Chill Study Beats_  
+## 🎧 Love  
+> 아티스트: **Musiq Soulchild**  
+> 앨범: _Aijuswanaseing_  
 
-🔍 검색 키워드: `lofi+happy`  
+🔍 검색 키워드: `rnb+love`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1487875150?i=1487875159&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9e/83/d1/9e83d155-37f3-6eb0-c757-334cc1443a98/mzaf_815913555218092660.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/love/1440921030?i=1440921200&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/f9/15/2bf915f2-821c-6816-bf66-fd763568b340/mzaf_3727640818341949948.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/10/80/6d1080b9-f527-8b44-b84a-e6ee33eb729d/7243.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/43/32/fe433231-b094-83d7-63e4-0507e8b11b5e/06UMGIM08895.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-19 21:30:36 (UTC)
+⏳ 업데이트 시간: 2026-06-19 22:25:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
