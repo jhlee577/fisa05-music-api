@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HaPpY (한)  
-> 아티스트: **Stray Kids & 한**  
-> 앨범: _SKZ-REPLAY_  
+## 🎧 toxic till the end  
+> 아티스트: **ROSÉ**  
+> 앨범: _rosie_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/happy-%ED%95%9C/1658007364?i=1658007807&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c5/68/83/c568832b-3dfe-6aac-8d83-ba247cc3f0c9/mzaf_16702000248058098028.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/toxic-till-the-end/1771105914?i=1771105929&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/15/49/451549d8-ddd7-dad4-0f3d-588a0c9d1b98/mzaf_17766988925119316702.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/cb/ef/85cbef02-60b4-8663-6f4f-951a74aca646/SKZ_REPLAY_Album_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-20 03:16:47 (UTC)
+⏳ 업데이트 시간: 2026-06-20 05:37:24 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
