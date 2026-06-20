@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 ballad of a homeschooled girl  
-> 아티스트: **Olivia Rodrigo**  
-> 앨범: _GUTS (spilled)_  
+## 🎧 Love  
+> 아티스트: **Nancy Adams**  
+> 앨범: _Robin Hood (Motion Picture Soundtrack) [Walt Disney Records: The Legacy Collection]_  
 
-🔍 검색 키워드: `ballad+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `instrumental+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad-of-a-homeschooled-girl/1736994915?i=1736995395&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/81/42/9e8142a3-8319-3fe0-ad2b-84cedc3d02cc/mzaf_15566270659322861589.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love/1440788655?i=1440788848&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/23/cd/7723cde3-e1ce-cc2e-da2c-31f43d9ce9bd/mzaf_2986081853566225584.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/4c/6a/5a4c6aac-318a-b5a6-a481-15141d65fddc/24UMGIM30484.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d5/13/31/d51331cc-c10c-cebc-28c9-15cac519b9ff/00050087373252.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-20 13:38:36 (UTC)
+⏳ 업데이트 시간: 2026-06-20 14:51:20 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
