@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Keyshia Cole**  
-> 앨범: _The Way It Is_  
+## 🎧 Dallas Rain  
+> 아티스트: **Rain Sounds Lab & Rain**  
+> 앨범: _City Rain_  
 
-🔍 검색 키워드: `rnb+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `ballad+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love/1440667549?i=1440667557&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/ea/73/4aea7383-6b05-4a03-526f-f6555a270075/mzaf_4042681555460665550.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/dallas-rain/1452898254?i=1452898821&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b9/08/08/b908083e-c7ca-8722-9357-956eeae1606f/mzaf_11032417656289873435.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/8a/1e/b38a1ee4-c75f-26cd-ce84-6419cdbc819c/06UMGIM24715.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fa/32/6c/fa326c63-eb70-1724-418d-8b6e950c1732/0885014169260.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-20 11:42:30 (UTC)
+⏳ 업데이트 시간: 2026-06-20 12:46:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
