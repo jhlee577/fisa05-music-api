@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Made For Me  
-> 아티스트: **The Colleagues & ラヒーム・デヴォーン**  
-> 앨범: _Sincerely Yours: Songs in the key of Love_  
+## 🎧 Sweet Dreams  
+> 아티스트: **j-hope & Miguel**  
+> 앨범: _Sweet Dreams - Single_  
 
-🔍 검색 키워드: `rnb+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `kpop+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/made-for-me/6768982355?i=6768982461&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/a9/cb/2ea9cbc6-6c90-05f3-2a97-6147dac171b1/mzaf_12231799151463915893.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sweet-dreams/1798229712?i=1798229715&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/8c/2f/178c2fe8-217d-2891-c6e1-6b2f4626e155/mzaf_2754014981083497866.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/a7/f0/6fa7f0ae-2eb5-198d-8400-5ef12db1dfd7/17072.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/9d/61/069d612b-4cfc-1868-5ec8-3abb515f1266/198704353512_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-21 14:52:21 (UTC)
+⏳ 업데이트 시간: 2026-06-21 15:39:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
