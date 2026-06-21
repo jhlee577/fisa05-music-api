@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **The Volunteers**  
-> 앨범: _The Volunteers_  
+## 🎧 Lofi Dream  
+> 아티스트: **Relaxation Rewind**  
+> 앨범: _Mind Concentration Music for Study_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer/1569294418?i=1569294608&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/e6/e0/f3e6e096-6e4c-cb5b-a827-553b035aaad3/mzaf_13407501163592848995.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-dream/1707846323?i=1707846694&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/eb/8e/76/eb8e767c-cc9f-35ab-5236-20c8bddda66c/mzaf_3027290545324675168.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/28/8c/f9288c73-c42a-11d1-a4aa-83a7ce6e3c46/TheVolunteers_3000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/3d/4d/803d4d07-5cb1-5a51-1b38-a40cb183f520/23UMGIM78088.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-21 22:31:40 (UTC)
+⏳ 업데이트 시간: 2026-06-21 23:34:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
