@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **BTS**  
-> 앨범: _DARK&WILD_  
+## 🎧 Please Don't Say You Love Me (Piano Version)  
+> 아티스트: **Gabrielle Aplin**  
+> 앨범: _Acoustic Night_  
 
-🔍 검색 키워드: `kpop+rain`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/rain/1597016856?i=1597017220&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/8f/1f/788f1f30-4ef1-6636-254d-eeb4d8c410b7/mzaf_10455926999264557055.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/please-dont-say-you-love-me-piano-version/1398992610?i=1398993088&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/84/c5/4d/84c54d49-ec1e-0fab-b035-6f5987b434f0/mzaf_14229117333806161199.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/39/97/f2399713-b036-7ef2-fb4f-8c1454569c66/8804775056895_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/ea/4e/1eea4e48-205e-9631-8f14-2f985cd2e93c/842474181065.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-21 17:36:34 (UTC)
+⏳ 업데이트 시간: 2026-06-21 18:40:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
