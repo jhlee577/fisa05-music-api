@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 hope  
-> 아티스트: **altered sigh**  
-> 앨범: _all i need_  
+## 🎧 Jazz Night  
+> 아티스트: **Sanellix**  
+> 앨범: _Jazz Night - Single_  
 
-🔍 검색 키워드: `instrumental+hope`  
+🔍 검색 키워드: `jazz+night`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/hope/1819944815?i=1819944827&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/06/80/ce068064-9d99-a1c9-2f23-732b7b150f77/mzaf_15796817230527904282.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/jazz-night/1616024811?i=1616024812&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ae/a7/09/aea70973-efc5-2bbc-34c6-6cf78f6e041d/mzaf_13035001609284265268.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/6c/eb/726ceb46-5d86-bc91-a47a-a4b6def5d452/79560de1-be6c-435d-9c80-3ac2c004c9bc.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/22/26/5d/22265d6d-dd30-cf41-d178-2de41a2cf494/1963620732708_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-22 03:20:40 (UTC)
+⏳ 업데이트 시간: 2026-06-22 05:59:00 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
