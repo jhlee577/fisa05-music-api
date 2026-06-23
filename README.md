@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 If I Ain’t Got You  
-> 아티스트: **Laura Fygi**  
-> 앨범: _Jazz Love_  
+## 🎧 lofi night  
+> 아티스트: **Lo-Fi Study Music**  
+> 앨범: _lofi night - Single_  
 
-🔍 검색 키워드: `jazz+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `lofi+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/if-i-aint-got-you/1443202285?i=1443202389&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/56/b5/5f/56b55f52-9d78-33a3-1824-a86dd6de0108/mzaf_13831559277508882496.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-night/1663978467?i=1663978468&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/b3/a4/33/b3a4336e-a3b8-a596-81b6-b2961b278b91/mzaf_3742629885228348457.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/88/ff/23/88ff23eb-7e4b-6d36-0531-1b8ba934be94/00602557190823.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/d2/83/9ad28392-85a6-4e44-b2da-7c51782b63b2/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-22 23:35:28 (UTC)
+⏳ 업데이트 시간: 2026-06-23 01:03:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
