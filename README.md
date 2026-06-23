@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 lofi night  
-> 아티스트: **Lo-Fi Study Music**  
-> 앨범: _lofi night - Single_  
+## 🎧 DREAM  
+> 아티스트: **SEVENTEEN**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-night/1663978467?i=1663978468&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/b3/a4/33/b3a4336e-a3b8-a596-81b6-b2961b278b91/mzaf_3742629885228348457.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/dream/1652052237?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/d5/f3/d3/d5f3d3e7-2b26-5318-72ab-6fb9c93ce467/mzvf_18431944048556971312.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/d2/83/9ad28392-85a6-4e44-b2da-7c51782b63b2/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-23 01:03:19 (UTC)
+⏳ 업데이트 시간: 2026-06-23 03:16:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
