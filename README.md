@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Calm Summer Dream Blanket  
-> 아티스트: **Mozart Brahms Lullaby**  
-> 앨범: _Sleep Therapy - Peaceful Dreams & River Sounds_  
+## 🎧 아픈 나를  
+> 아티스트: **성시경**  
+> 앨범: _나얼 <Ballad Pop City> - Single_  
 
-🔍 검색 키워드: `instrumental+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+sad`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/calm-summer-dream-blanket/6776113815?i=6776114288&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/d8/cf/a8d8cf62-36c3-2525-dfcd-759fc585afed/mzaf_13652515355017887614.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EC%95%84%ED%94%88-%EB%82%98%EB%A5%BC/1661509210?i=1661509212&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/06/98/99/06989966-184a-ec3f-87c8-5cef51f15fd6/mzaf_13393671339089900588.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/92/bf/9592bf62-524a-2b3a-7be2-b82d2d37c223/4550757261804_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/41/6c/01/416c0130-3f9d-fd34-867e-f8faff36687b/cover_KM0016685_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-24 20:40:04 (UTC)
+⏳ 업데이트 시간: 2026-06-24 21:34:37 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
