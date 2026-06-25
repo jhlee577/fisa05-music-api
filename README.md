@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 ANTIFRAGILE  
-> 아티스트: **르세라핌**  
-> 앨범: _ANTIFRAGILE - EP_  
+## 🎧 Sad Jazz (Instrumental)  
+> 아티스트: **Jazz Hop Nation**  
+> 앨범: _Jazzhop Chill Mix_  
 
-🔍 검색 키워드: `kpop+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `jazz+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/antifragile/1647830231?i=1647830390&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/5b/33/9c5b33cb-f6c0-1cf5-61c4-ac465bce2b7b/mzaf_16974808219393622487.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-jazz-instrumental/1531940846?i=1531940847&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/0f/e3/450fe3aa-8e5a-8c07-bc5c-f225b5fe72ff/mzaf_11096241928727864227.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/79/da/c879dadf-db1e-95a5-caf5-b18c7c81d2b6/192641874413_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/f4/20/bff4201c-aeca-b816-3263-841abd8d2fbc/13119.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-25 21:37:27 (UTC)
+⏳ 업데이트 시간: 2026-06-25 22:36:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
