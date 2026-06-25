@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 LOVE  
-> 아티스트: **Mr.Children**  
-> 앨범: _Versus_  
+## 🎧 Riptide  
+> 아티스트: **Vance Joy**  
+> 앨범: _Dream Your Life Away_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love/1374948201?i=1374948710&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/be/0e/a0/be0ea03d-35ec-3443-0312-9643bc5bec8b/mzaf_6771541963998657224.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/riptide/897562470?i=897562538&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/5c/b9/dc5cb983-90bc-1f1d-fa4a-9034e86925e3/mzaf_6951973673123082051.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/19/b1/4719b101-cf28-3fee-5d84-a877ccdab1d5/dj.wnorhsli.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/ee/e3/67/eee36739-abf2-c7f9-e419-1ae0640da0b7/075679936264.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-25 16:52:45 (UTC)
+⏳ 업데이트 시간: 2026-06-25 17:50:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
