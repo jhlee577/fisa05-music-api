@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (From "Despicable Me 2")  
-> 아티스트: **Pharrell Williams**  
-> 앨범: _Unknown Album_  
+## 🎧 LOVE  
+> 아티스트: **Mr.Children**  
+> 앨범: _Versus_  
 
-🔍 검색 키워드: `pop+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/music-video/happy-from-despicable-me-2/793299815?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love/1374948201?i=1374948710&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/be/0e/a0/be0ea03d-35ec-3443-0312-9643bc5bec8b/mzaf_6771541963998657224.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/19/b1/4719b101-cf28-3fee-5d84-a877ccdab1d5/dj.wnorhsli.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-25 15:05:11 (UTC)
+⏳ 업데이트 시간: 2026-06-25 16:52:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
