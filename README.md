@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad Jazz (Instrumental)  
-> 아티스트: **Jazz Hop Nation**  
-> 앨범: _Jazzhop Chill Mix_  
+## 🎧 Dream  
+> 아티스트: **LISA**  
+> 앨범: _Alter Ego_  
 
-🔍 검색 키워드: `jazz+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad-jazz-instrumental/1531940846?i=1531940847&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/0f/e3/450fe3aa-8e5a-8c07-bc5c-f225b5fe72ff/mzaf_11096241928727864227.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/dream/1798585113?i=1798585533&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/af/80/65af80c1-f6ba-1fc2-c9c0-7e119f20afda/mzaf_15862813715917904983.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/f4/20/bff4201c-aeca-b816-3263-841abd8d2fbc/13119.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/fe/34/33fe34b4-f45e-fc6c-eec2-163f3633e106/196872806434.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-25 22:36:05 (UTC)
+⏳ 업데이트 시간: 2026-06-25 23:34:12 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
