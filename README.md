@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 SUMMER!  
-> 아티스트: **PENTAGON**  
-> 앨범: _SUM(ME:R) - EP_  
+## 🎧 Happy Lofi  
+> 아티스트: **LoFi Hip Hop**  
+> 앨범: _Lo-fi Beats (Lo-Fi Study & Chill Beats)_  
 
-🔍 검색 키워드: `pop+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/summer/1473089223?i=1473089226&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bd/aa/bb/bdaabb45-96c0-5510-f1dc-69268605c657/mzaf_9285859850331116827.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy-lofi/1707859072?i=1707860441&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/27/89/89/2789895a-334a-0bdf-fd7b-f881b6c78209/mzaf_11287450908587090441.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/c4/cc/0cc4cc7a-c65f-f436-832c-53be2030f448/19UMGIM64685.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/81/92/29/81922931-16a5-01ef-4d44-5e6846f77ca7/509.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-26 11:06:57 (UTC)
+⏳ 업데이트 시간: 2026-06-26 12:53:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
