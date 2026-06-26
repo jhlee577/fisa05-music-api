@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **LISA**  
-> 앨범: _Alter Ego_  
+## 🎧 Love  
+> 아티스트: **Cassette Tapes**  
+> 앨범: _Love - Single_  
 
-🔍 검색 키워드: `kpop+dream`  
+🔍 검색 키워드: `pop+love`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/dream/1798585113?i=1798585533&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/af/80/65af80c1-f6ba-1fc2-c9c0-7e119f20afda/mzaf_15862813715917904983.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love/1458551566?i=1458551574&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/70/cb/2f/70cb2f5b-89b4-acbf-83db-93febca0019c/mzaf_15957781398391866022.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/fe/34/33fe34b4-f45e-fc6c-eec2-163f3633e106/196872806434.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/7e/bf/a37ebff2-27b0-c1c5-b47c-b43ffd35e0ff/5054526363205_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-25 23:34:12 (UTC)
+⏳ 업데이트 시간: 2026-06-26 01:08:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
