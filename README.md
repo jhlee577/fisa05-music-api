@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Before You Go  
-> 아티스트: **Lewis Capaldi**  
-> 앨범: _Divinely Uninspired To a Hellish Extent (Extended Edition)_  
+## 🎧 Please Don't Say You Love Me (Piano Version)  
+> 아티스트: **Gabrielle Aplin**  
+> 앨범: _Acoustic Night_  
 
-🔍 검색 키워드: `acoustic+sad`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/before-you-go/1485383702?i=1485384412&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/b9/cc/60b9cc69-2e37-f867-bc15-91e2ce767b4a/mzaf_18421692819209045993.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/please-dont-say-you-love-me-piano-version/1398992610?i=1398993088&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/84/c5/4d/84c54d49-ec1e-0fab-b035-6f5987b434f0/mzaf_14229117333806161199.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/58/7c/9f587c97-f0e9-e335-d8e2-60b8e2d62bad/19UMGIM90850.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/ea/4e/1eea4e48-205e-9631-8f14-2f985cd2e93c/842474181065.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-27 18:32:26 (UTC)
+⏳ 업데이트 시간: 2026-06-27 19:33:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
