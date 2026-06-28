@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Dream  
-> 아티스트: **JAZZ RIVER LIGHT**  
-> 앨범: _Pieces for the Best Sleep_  
+## 🎧 Back In Black  
+> 아티스트: **AC/DC**  
+> 앨범: _Back In Black_  
 
-🔍 검색 키워드: `ballad+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rock+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/ballad-dream/1750418307?i=1750418309&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/5f/d9/475fd9b8-448a-325e-bb49-ffdd79a01822/mzaf_4683454702135363521.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/back-in-black/574050396?i=574050602&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b5/14/aa/b514aa08-4772-93db-c69f-420fbe0bb24c/mzaf_17779796508174317776.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/ce/4f/dfce4f13-8844-c870-1c38-21c96b069035/2403630165.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/14/58/1e145814-281a-58e0-3ab1-145f5d1af421/886443673441.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-28 15:32:45 (UTC)
+⏳ 업데이트 시간: 2026-06-28 16:32:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
