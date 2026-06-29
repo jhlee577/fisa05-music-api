@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 예뻤어  
-> 아티스트: **데이식스**  
-> 앨범: _Every Day6 February - Single_  
+## 🎧 Summer  
+> 아티스트: **The Volunteers**  
+> 앨범: _The Volunteers_  
 
-🔍 검색 키워드: `rock+sad`  
+🔍 검색 키워드: `kpop+summer`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EC%98%88%EB%BB%A4%EC%96%B4/1202720713?i=1202720718&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/ec/20/acec2028-4204-424d-38fd-45570fc4d9e5/mzaf_6740982396122445980.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer/1569294418?i=1569294608&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/e6/e0/f3e6e096-6e4c-cb5b-a827-553b035aaad3/mzaf_13407501163592848995.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/be/b6/6f/beb66f68-dd13-462b-13ab-1ff308248c53/Every_DAY6_February_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/28/8c/f9288c73-c42a-11d1-a4aa-83a7ce6e3c46/TheVolunteers_3000.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-29 15:16:29 (UTC)
+⏳ 업데이트 시간: 2026-06-29 17:07:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
