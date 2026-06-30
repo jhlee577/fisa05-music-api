@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 バラード  
-> 아티스트: **ケツメイシ**  
-> 앨범: _Unknown Album_  
+## 🎧 Lover  
+> 아티스트: **Taylor Swift**  
+> 앨범: _Lover_  
 
-🔍 검색 키워드: `ballad+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89/1694477170?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/c9/15/5e/c9155efb-ba7a-f8f4-7e7f-56e771ba1e21/mzvf_2084583514473928518.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lover/1468058165?i=1468058173&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/db/47/e0db47b0-7f70-0631-0414-cd4777d2fb3e/mzaf_6362891154838442638.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/5b/67/79/5b677982-1d73-5444-6c2f-9818ff457d32/859759890666.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-30 12:51:18 (UTC)
+⏳ 업데이트 시간: 2026-06-30 13:42:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
