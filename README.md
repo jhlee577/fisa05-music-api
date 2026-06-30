@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **2NE1**  
-> 앨범: _Crush_  
+## 🎧 99 Steps (feat. Kohjiya & Hana Hope)  
+> 아티스트: **STUTS**  
+> 앨범: _99 Steps - Single_  
 
-🔍 검색 키워드: `kpop+happy`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `hiphop+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy/1317764593?i=1317765253&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/a1/d0/d4a1d07c-9473-cc5f-8093-efa96da2a3f5/mzaf_2935952554729768470.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/99-steps-feat-kohjiya-hana-hope/1807914002?i=1807914003&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/76/3e/b7763e27-c3ac-1bf8-1e6d-8986115b4e01/mzaf_17741016358263588594.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/90/c0/d4/90c0d401-f1d2-6540-ea9a-e2ada5ce25e5/2NE1_NEW_ALBUM_Digital_Single.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/be/39/e7be393f-238e-32ba-3abf-421bc99d4311/4580789707360.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-30 20:44:32 (UTC)
+⏳ 업데이트 시간: 2026-06-30 21:36:50 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
