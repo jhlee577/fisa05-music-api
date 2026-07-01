@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sunrise  
-> 아티스트: **Norah Jones**  
-> 앨범: _Feels Like Home_  
+## 🎧 Summer  
+> 아티스트: **브라이언 크레인**  
+> 앨범: _Piano Opus (Bonus Track Version)_  
 
-🔍 검색 키워드: `jazz+sad`  
+🔍 검색 키워드: `instrumental+summer`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/sunrise/721258539?i=721258700&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/40/e6/3b40e66c-157c-2f7e-f783-6a9f640d352f/mzaf_14944651481988462391.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/summer/1084539593?i=1084539654&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/28/a3/f3/28a3f328-ac5b-4e72-8500-f4062d6144b5/mzaf_6104303383411575687.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/16/bf/bd/16bfbd53-3e83-c840-bdf6-053326af381b/05099946404855.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/91/7b/67917ba6-890e-8a1d-952a-447b246c86f6/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-06-30 23:33:03 (UTC)
+⏳ 업데이트 시간: 2026-07-01 01:10:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
