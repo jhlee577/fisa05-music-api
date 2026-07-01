@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Dream  
-> 아티스트: **Jazz River Light**  
-> 앨범: _Pieces for the Best Sleep_  
+## 🎧 I Love Rock & Roll  
+> 아티스트: **Britney Spears**  
+> 앨범: _Britney (Deluxe Version)_  
 
-🔍 검색 키워드: `ballad+dream`  
+🔍 검색 키워드: `rock+love`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/ballad-dream/1750418307?i=1750418309&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/5f/d9/475fd9b8-448a-325e-bb49-ffdd79a01822/mzaf_4683454702135363521.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/i-love-rock-roll/273143821?i=273143838&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/3e/78/083e78ef-5fe0-1282-0262-2a9fe5a76b8a/mzaf_6106814024292377323.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/ce/4f/dfce4f13-8844-c870-1c38-21c96b069035/2403630165.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/6a/22/a36a227f-584e-b951-d494-2576b6eab2db/888880447609.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-01 07:42:12 (UTC)
+⏳ 업데이트 시간: 2026-07-01 09:17:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
