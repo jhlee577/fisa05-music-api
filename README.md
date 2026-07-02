@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad Summer  
-> 아티스트: **Gustavo Fidelli**  
-> 앨범: _Oriental Lunar_  
+## 🎧 Unstoppable  
+> 아티스트: **Sia**  
+> 앨범: _This Is Acting_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/ballad-summer/1806287769?i=1806287770&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/e6/69/6be669c0-bc01-4448-f38d-5face0a0af77/mzaf_16052418216629958274.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/unstoppable/1055074478?i=1055074639&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/dd/6a/bbdd6a92-b322-1c35-8dc7-8eb7d84f72b8/mzaf_14355345747730153074.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/c5/ef/6bc5efa0-6857-64c5-c0aa-462a2dd2f9a3/4065328645353.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bc/13/27/bc13275c-8b26-802d-771b-d15ae00fb530/mzm.hvpwjsvi.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-01 23:34:43 (UTC)
+⏳ 업데이트 시간: 2026-07-02 01:06:27 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
