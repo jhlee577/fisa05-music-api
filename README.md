@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Yiruma**  
-> 앨범: _Yiruma Official Album 'The First Special Moment with Your Baby' (The Original Compilation)_  
+## 🎧 Love  
+> 아티스트: **릴러말즈**  
+> 앨범: _(L) [Deluxe]_  
 
-🔍 검색 키워드: `kpop+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `hiphop+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1442478289?i=1442478386&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/85/ed/34/85ed34a9-70d0-5904-40a0-268361f91acf/mzaf_7598230515521935367.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love/1617259542?i=1617259738&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/df/30/74/df3074f9-90bb-0bd2-6b62-b4fd49b52619/mzaf_8605608110880838269.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f7/e1/2a/f7e12af4-5f3b-b977-618c-23b13c332caf/3000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c7/0b/df/c70bdf22-6c7a-7e2b-e306-4100243b7df4/888272074802_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-04 16:07:25 (UTC)
+⏳ 업데이트 시간: 2026-07-04 18:05:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
