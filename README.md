@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Imagine Dragons**  
-> 앨범: _Origins (Deluxe Edition)_  
+## 🎧 Rain  
+> 아티스트: **DIVINE**  
+> 앨범: _Rain - Single_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/love/1437948883?i=1437949216&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/a0/12/64a012c2-449a-af07-f963-cdc41f135257/mzaf_14085435222783907243.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/1834722134?i=1834722135&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/86/4b/ed864b21-fc23-379b-6094-e81907889026/mzaf_12357506388596705484.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/80/a8/3f80a8ef-5409-42ac-c126-c7354698c7fc/18UMGIM65849.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/bb/74/babb7468-9f01-8131-0f4b-2f20ee09fe15/25UM1IM23583.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-04 07:49:50 (UTC)
+⏳ 업데이트 시간: 2026-07-04 10:15:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
