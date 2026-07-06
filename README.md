@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Running Up That Hill (A Deal With God) [2018 Remaster]  
-> 아티스트: **Kate Bush**  
-> 앨범: _Hounds of Love (2018 Remaster)_  
+## 🎧 Happy  
+> 아티스트: **The Rolling Stones**  
+> 앨범: _Exile On Main St. (Deluxe Edition with Bonus Videos) [2010 Remaster]_  
 
-🔍 검색 키워드: `kpop+sad`  
+🔍 검색 키워드: `rock+happy`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/running-up-that-hill-a-deal-with-god-2018-remaster/1675560565?i=1675560578&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e5/ba/20/e5ba201c-8940-86d1-0541-520079b6c916/mzaf_13026886145802029834.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy/1441153546?i=1441153749&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/b4/b8/f0b4b844-9415-0eb4-a37f-500a448ca3e7/mzaf_13731028803793604493.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/62/97/32/62973286-5bb3-0de7-c051-8b2de8d95472/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/da/fc/7c/dafc7c44-02df-7a48-b133-f021d0eff709/10UMGIM10406.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-06 04:03:56 (UTC)
+⏳ 업데이트 시간: 2026-07-06 09:02:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
