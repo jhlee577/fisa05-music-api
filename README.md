@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Cleansing Rain  
-> 아티스트: **Nature Sounds Unplugged**  
-> 앨범: _Acoustic Rain_  
+## 🎧 Queen of Rain  
+> 아티스트: **Roxette**  
+> 앨범: _The Ballad Hits_  
 
-🔍 검색 키워드: `acoustic+rain`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/cleansing-rain/1451608821?i=1451608824&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/34/90/b1/3490b13c-68f9-ade7-eb4f-51d2bc0f80c5/mzaf_12727446469338692019.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/queen-of-rain/697409230?i=697409458&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/f3/7c/83f37c67-8ec3-adb6-56b1-41d350046d0d/mzaf_5874586924165611148.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/1f/5c/8a1f5c23-8a29-609d-ba99-5fe23329eea1/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/5c/80/2f/5c802fa2-a600-5b85-2ecc-fe00cdf6d010/dj.wllrpyre.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-06 22:19:33 (UTC)
+⏳ 업데이트 시간: 2026-07-07 00:13:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
