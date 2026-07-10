@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **SIRUP**  
-> 앨범: _FEEL GOOD_  
+## 🎧 Gangsta's Paradise (feat. L.V.)  
+> 아티스트: **Coolio**  
+> 앨범: _Gangsta's Paradise_  
 
-🔍 검색 키워드: `kpop+rain`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+night`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/rain/1459412495?i=1459412507&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/87/cb/b487cb5d-04a4-97d8-f58d-1c2a59474238/mzaf_15420988721003935755.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/gangstas-paradise-feat-l-v/1604645496?i=1604645502&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/8f/60/918f605a-f8a9-e976-f43a-1bb5f0a8199d/mzaf_11718273018999451377.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/3e/53/203e53d0-da9d-2a6b-a57a-45b18b07f8a0/ANTCD-31757.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/f7/88/92f7884b-d115-5d5f-1eb5-85128af2d58f/081227882365.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-09 22:26:03 (UTC)
+⏳ 업데이트 시간: 2026-07-10 00:09:31 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
