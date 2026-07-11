@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lonely Loop  
-> 아티스트: **LoFi Night**  
-> 앨범: _Lonely Loop - Single_  
+## 🎧 Hope  
+> 아티스트: **Yiruma**  
+> 앨범: _Yiruma 6th Album 'P.N.O.N.I' (The Original & the Very First Recording)_  
 
-🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lonely-loop/1841220423?i=1841220427&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/60/97/65609760-3817-c21a-aaf3-365569f2eac4/mzaf_12229715920329681654.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope/1437484981?i=1437485292&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fc/e8/f6/fce8f66b-2d38-fe40-4613-f1669d7eeb34/mzaf_7774366209976249589.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/0c/83/3c0c834e-1856-ad3d-f90f-dcbcb3a2483f/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/59/37/3b/59373bc1-1330-4819-30d9-d1a407d7b6e7/pioni_3000.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-11 06:18:06 (UTC)
+⏳ 업데이트 시간: 2026-07-11 08:50:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
