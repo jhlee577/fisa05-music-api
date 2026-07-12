@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **릴러말즈**  
-> 앨범: _(L) [Deluxe]_  
+## 🎧 Lofi Night  
+> 아티스트: **Lofi DreamHop**  
+> 앨범: _Midnight Murmurs: Lounge Lofi Mix_  
 
-🔍 검색 키워드: `hiphop+love`  
+🔍 검색 키워드: `lofi+night`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love/1617259542?i=1617259738&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/df/30/74/df3074f9-90bb-0bd2-6b62-b4fd49b52619/mzaf_8605608110880838269.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-night/1777881459?i=1777881730&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/5a/c0/8b5ac001-27b8-08b6-3bdd-f83fa8a59b89/mzaf_4331610600140003006.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c7/0b/df/c70bdf22-6c7a-7e2b-e306-4100243b7df4/888272074802_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/40/2a/50402a97-9c7a-600d-cc42-1816ecce1044/cover_10323627.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-12 13:38:17 (UTC)
+⏳ 업데이트 시간: 2026-07-12 15:01:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
