@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Holistic World & Relaxation Guru**  
-> 앨범: _Fantastic Dreams: Relaxing Sleep Music, Relaxing Ambient Music, Songs for Sleep, Quiet Night, Sleep Aid_  
+## 🎧 Say Goodbye  
+> 아티스트: **Chris Brown**  
+> 앨범: _Chris Brown (Expanded Edition)_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rnb+hope`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/instrumental-night/1316076909?i=1316077985&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/69/39/cc/6939cc03-746e-da0f-2014-7258691ae9c2/mzaf_7322432554703047198.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/say-goodbye/323098604?i=323098618&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/d1/58/a3d1588d-450b-fbd1-44f2-60e79396d57d/mzaf_1850190787960782359.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/8c/99/998c99ae-86d7-c17a-119e-e2f4a08a6071/8033772907378.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/2f/a7/a62fa746-9e76-0789-76b6-919019807d8a/828768451052.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-13 21:01:15 (UTC)
+⏳ 업데이트 시간: 2026-07-13 22:58:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
