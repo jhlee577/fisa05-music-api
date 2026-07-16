@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Not Giving Up (JRMX WeLovePop Radio Edit)  
-> 아티스트: **The Saturdays**  
-> 앨범: _Living For the Weekend (Deluxe Edition)_  
+## 🎧 Rain  
+> 아티스트: **SWV**  
+> 앨범: _Release Some Tension_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rock+rain`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/not-giving-up-jrmx-welovepop-radio-edit/1445750699?i=1445750922&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/62/29/cf/6229cf47-3f86-1322-fd14-13345283cb92/mzaf_4542256424349075755.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/rain/253640878?i=253641178&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/eb/bd/9aebbde2-69a8-849b-5094-5da5bcc8ad77/mzaf_1970400377488638097.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f8/4d/bd/f84dbd6c-797d-cb62-44b0-535cfed065c2/13UAAIM81456.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-16 03:12:21 (UTC)
+⏳ 업데이트 시간: 2026-07-16 06:22:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
