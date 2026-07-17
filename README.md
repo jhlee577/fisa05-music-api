@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 SAD! (Instrumental)  
-> 아티스트: **XXXTENTACION**  
-> 앨범: _? (Deluxe)_  
+## 🎧 DREAM  
+> 아티스트: **SEVENTEEN**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `pop+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad-instrumental/1474891456?i=1474891815&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/9a/f1/519af1f2-0c4b-c91c-ffca-c01b04b3b891/mzaf_12227570221781810766.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/dream/1652052237?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/d5/f3/d3/d5f3d3e7-2b26-5318-72ab-6fb9c93ce467/mzvf_18431944048556971312.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/49/bb/9349bb3b-317d-57c3-966a-71fa25247dc2/19UMGIM41705.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-17 18:09:27 (UTC)
+⏳ 업데이트 시간: 2026-07-17 20:08:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
