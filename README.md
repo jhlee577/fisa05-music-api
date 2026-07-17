@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 バラード  
-> 아티스트: **ケツメイシ**  
-> 앨범: _Unknown Album_  
+## 🎧 Jazz (Emotional Songs)  
+> 아티스트: **Relaxing Summer Piano Collection**  
+> 앨범: _Relaxing Smooth Jazz Summer - Bossa Nova Lounge Music 2016_  
 
-🔍 검색 키워드: `ballad+hope`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `jazz+summer`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89/1694477170?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/c9/15/5e/c9155efb-ba7a-f8f4-7e7f-56e771ba1e21/mzvf_2084583514473928518.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-emotional-songs/1118376604?i=1118376753&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/6d/31/cc/6d31cc91-af01-6c25-90ab-c17968111cee/mzaf_2425493342754502892.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/5b/67/79/5b677982-1d73-5444-6c2f-9818ff457d32/859759890666.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/e8/d4/22/e8d4228d-f6cf-8048-8570-6745aa21c188/8134130311711.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-17 04:10:28 (UTC)
+⏳ 업데이트 시간: 2026-07-17 07:20:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
