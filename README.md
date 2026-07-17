@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Summer  
-> 아티스트: **Arkei**  
-> 앨범: _Lofi Summer - Single_  
+## 🎧 Hip-Hop Happy Birthday  
+> 아티스트: **Ruben Martinez**  
+> 앨범: _Mickey's Dance Party_  
 
-🔍 검색 키워드: `lofi+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `hiphop+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/lofi-summer/1631973213?i=1631973467&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/32/4d/91/324d9138-8fa0-2a56-385e-f1af30690d61/mzaf_6462183193459204320.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/hip-hop-happy-birthday/1444156959?i=1444157227&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c2/d8/11/c2d811fd-6a51-1876-d0f2-08c68ae4d31b/mzaf_15594325317145089455.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/07/fb/6e/07fb6ec5-cf74-f2c9-ba43-6aec25892491/15606cac-0707-4e60-8d04-4a9bc5fc0652.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/da/f6/2a/daf62a66-05a3-f8a8-501f-fef20935e98b/00050086072774.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-16 22:06:15 (UTC)
+⏳ 업데이트 시간: 2026-07-17 00:01:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
