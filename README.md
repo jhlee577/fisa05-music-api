@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Love  
-> 아티스트: **キム・ヒョンジョン**  
-> 앨범: _I Love Soul_  
+## 🎧 Sad  
+> 아티스트: **Maroon 5**  
+> 앨범: _Overexposed (Deluxe Version)_  
 
-🔍 검색 키워드: `acoustic+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+sad`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/acoustic-love/1578477538?i=1578477938&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bd/e3/12/bde31226-9c29-b49e-17c5-f35bd0366470/mzaf_2971147197218638255.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/sad/1440713304?i=1440713319&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/18/81/391881fc-b97f-d804-0693-b0c5fea68fe7/mzaf_10880578103677608077.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5d/79/17/5d791792-ca9f-6a4f-1d31-ab0b52c20216/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/89/dd/e389ddf4-ac74-590a-85d4-88aee5b3bf57/12UMGIM20010.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-18 14:58:32 (UTC)
+⏳ 업데이트 시간: 2026-07-18 16:03:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
