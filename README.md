@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (From "Despicable Me 2")  
-> 아티스트: **Pharrell Williams**  
-> 앨범: _Unknown Album_  
+## 🎧 Acoustic Love  
+> 아티스트: **キム・ヒョンジョン**  
+> 앨범: _I Love Soul_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/music-video/happy-from-despicable-me-2/793299815?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/acoustic-love/1578477538?i=1578477938&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bd/e3/12/bde31226-9c29-b49e-17c5-f35bd0366470/mzaf_2971147197218638255.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5d/79/17/5d791792-ca9f-6a4f-1d31-ab0b52c20216/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-18 13:37:18 (UTC)
+⏳ 업데이트 시간: 2026-07-18 14:58:32 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
