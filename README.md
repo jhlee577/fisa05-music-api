@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Nerdy Love (feat. Yerin Baek)  
-> 아티스트: **pH-1**  
-> 앨범: _Nerdy Love (feat. Yerin Baek) - Single_  
+## 🎧 Summer  
+> 아티스트: **Kenya Vaun**  
+> 앨범: _The Honeymoon Phase_  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/nerdy-love-feat-yerin-baek/1604901909?i=1604901923&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d7/99/50/d79950c0-88d2-3e52-c137-c2c98816c436/mzaf_17990301071940464880.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer/1736539363?i=1736539790&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/09/9f/40099f1d-5abb-962a-1a09-bcf2a241bab6/mzaf_446918260268992569.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/b8/ea/deb8eaf6-0e44-8286-37a4-a7ffe60e6d7e/8809704411707_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/f8/c7/9ff8c792-ecae-e5dd-adfa-2dac7f184986/075679660275.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-19 09:07:26 (UTC)
+⏳ 업데이트 시간: 2026-07-19 11:12:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
