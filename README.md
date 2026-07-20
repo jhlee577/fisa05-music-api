@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Baby Lullaby Music  
-> 아티스트: **Baby Lullaby Academy**  
-> 앨범: _Baby Lullaby: Relaxing Piano Lullabies and Natural Sleep Aid for Baby Sleep Music_  
+## 🎧 Sad! (Piano Version) [Cover]  
+> 아티스트: **Piano Peace**  
+> 앨범: _Relaxing Piano Covers: Best of 2018 - EP_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `instrumental+sad`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/baby-lullaby-music/1065946325?i=1065946783&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/28/56/72285685-610f-b579-30bc-5e73dd1423b1/mzaf_11931835042988172342.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/sad-piano-version-cover/1448792918?i=1448793053&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fc/5a/0c/fc5a0c02-8904-e061-d999-bd225cf10d45/mzaf_5393209892460141301.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/cb/17/abcb1725-a2e0-c4bc-8666-136f5782635a/859714545211_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/69/6a/44/696a440a-b34d-1bdc-f8e4-541efda21636/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-20 03:37:55 (UTC)
+⏳ 업데이트 시간: 2026-07-20 06:52:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
