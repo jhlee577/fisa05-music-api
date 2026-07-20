@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Night (Part 3: Minstrels)  
-> 아티스트: **ジョージ・ウィンストン**  
-> 앨범: _December_  
+## 🎧 Massage Rain  
+> 아티스트: **Pop Rain**  
+> 앨범: _Rain and Nature Sounds for Relaxation, Meditation, Sleep, Study, Yoga, Serenity, Harmony and Therapy._  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `pop+rain`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/night-part-3-minstrels/1491090471?i=1491090479&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/90/68/0c9068a4-9f39-a28e-ab87-31e8d5a0c375/mzaf_3431523060116904771.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/massage-rain/1038504469?i=1038504545&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/d1/3d/9dd13d74-ed01-848e-4ad9-e4311840a00e/mzaf_5961048125330283309.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/79/639d7990-dd61-4f1c-e732-d7eb62abd69f/George_Winston_-_December.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/42/b6/4142b67d-d058-7e02-e7b3-ba445a320e39/mzm.eblmhqec.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-20 15:54:10 (UTC)
+⏳ 업데이트 시간: 2026-07-20 18:08:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
