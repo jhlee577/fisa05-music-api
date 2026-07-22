@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **이적**  
-> 앨범: _Dead End_  
+## 🎧 Jazz Night  
+> 아티스트: **Vylom**  
+> 앨범: _Jazz Night - Single_  
 
-🔍 검색 키워드: `instrumental+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `jazz+night`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1804609616?i=1804609628&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/4f/69/a94f6998-4a2e-daf9-c97e-283c5719814c/mzaf_15503465036686049330.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/jazz-night/1496460493?i=1496460494&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/49/70/f4/4970f4c0-3405-92d9-e941-0871e7d4cd4e/mzaf_10626706563674715325.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/56/73/38567369-7e34-985f-1cb3-cb5504057f4c/cover_KM0020994_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/af/4f/20/af4f2078-dd40-241f-21f5-224c0c25127b/194660707253.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-22 03:34:10 (UTC)
+⏳ 업데이트 시간: 2026-07-22 06:33:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
