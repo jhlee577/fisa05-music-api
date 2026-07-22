@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Madonna**  
-> 앨범: _Erotica_  
+## 🎧 HEARTBREAK ANNIVERSARY  
+> 아티스트: **GIVĒON**  
+> 앨범: _HEARTBREAK ANNIVERSARY - Single_  
 
-🔍 검색 키워드: `rock+rain`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/80814761?i=80814651&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d5/bf/44/d5bf4473-a92f-dab5-0fd8-43f67d73e53a/mzaf_14238482513083239805.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/heartbreak-anniversary/1499127836?i=1499127838&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/60/33/94603392-2593-5774-0130-f874074fdd6e/mzaf_11055143639753501022.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/da/07/aeda0763-09a6-9245-f710-6425f1dc7b80/mzi.jqoxkukr.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/89/1b/51891b63-e1cd-bda7-9473-31fb6b473040/886448298816.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-22 18:11:10 (UTC)
+⏳ 업데이트 시간: 2026-07-22 20:13:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
