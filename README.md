@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Musiq Soulchild**  
-> 앨범: _Aijuswanaseing_  
+## 🎧 Happy (feat. Fourty & Leland)  
+> 아티스트: **felix jaehn & Miksu / Macloud**  
+> 앨범: _BREATHE_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+happy`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love/1442380458?i=1442380470&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/66/0d/a2660d5f-12e9-276f-dace-fcf52f133e82/mzaf_3328129664685710498.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy-feat-fourty-leland/1581647342?i=1581648017&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/a5/71/f7a571be-c159-009f-0819-9c75b66098ea/mzaf_16244402283509073933.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/40/af/4b40af29-c564-f11c-ee1a-f46666480604/06UMGIM26795.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/c2/0e/35c20eda-c4e2-eaa4-243e-14e288beefc2/21UMGIM61983.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-23 07:35:35 (UTC)
+⏳ 업데이트 시간: 2026-07-23 10:27:29 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
