@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **LISA**  
-> 앨범: _Alter Ego_  
+## 🎧 Lofi Dream  
+> 아티스트: **Relaxation Rewind**  
+> 앨범: _Mind Concentration Music for Study_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/1798585113?i=1798585533&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/af/80/65af80c1-f6ba-1fc2-c9c0-7e119f20afda/mzaf_15862813715917904983.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-dream/1707846323?i=1707846694&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/eb/8e/76/eb8e767c-cc9f-35ab-5236-20c8bddda66c/mzaf_3027290545324675168.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/fe/34/33fe34b4-f45e-fc6c-eec2-163f3633e106/196872806434.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/3d/4d/803d4d07-5cb1-5a51-1b38-a40cb183f520/23UMGIM78088.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-24 23:05:15 (UTC)
+⏳ 업데이트 시간: 2026-07-25 03:15:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
