@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rock Love  
-> 아티스트: **Utopia**  
-> 앨범: _Adventures In Utopia_  
+## 🎧 Acoustic Dream  
+> 아티스트: **Minoru Mukaiya**  
+> 앨범: _Tickle the Ivory_  
 
-🔍 검색 키워드: `rock+love`  
+🔍 검색 키워드: `acoustic+dream`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rock-love/129641134?i=129641090&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c8/10/a6/c810a6f9-a5cd-e79a-4bfe-b9b5f75f5a2e/mzaf_665098296620962879.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/acoustic-dream/1535035245?i=1535035727&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c8/7c/4b/c87c4bbc-05c1-f438-3d74-d50c995acf6e/mzaf_9918772770625236421.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/3e/e1/40/mzi.kmlszsip.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/bb/08/04bb0837-591e-dbc6-5222-c3a3ded6630b/4560427431048.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-25 09:02:27 (UTC)
+⏳ 업데이트 시간: 2026-07-25 11:14:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
