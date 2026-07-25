@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Dream  
-> 아티스트: **Relaxation Rewind**  
-> 앨범: _Mind Concentration Music for Study_  
+## 🎧 Hope (Acoustic Live at Attica)  
+> 아티스트: **Little Hours**  
+> 앨범: _Hope (Acoustic Live at Attica) - Single_  
 
-🔍 검색 키워드: `lofi+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-dream/1707846323?i=1707846694&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/eb/8e/76/eb8e767c-cc9f-35ab-5236-20c8bddda66c/mzaf_3027290545324675168.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/hope-acoustic-live-at-attica/1780935412?i=1780935413&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/14/40/2614406a-19ad-a115-98c4-2a40bd9f1705/mzaf_14478387458390881773.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/3d/4d/803d4d07-5cb1-5a51-1b38-a40cb183f520/23UMGIM78088.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/e7/d7/c0e7d7b9-1ce0-f69d-3227-6d98c94796bc/192562628430.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-25 03:15:40 (UTC)
+⏳ 업데이트 시간: 2026-07-25 06:21:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
