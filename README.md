@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Kill Bill  
-> 아티스트: **SZA**  
-> 앨범: _SOS_  
+## 🎧 Just the Two of Us  
+> 아티스트: **Bill Withers & Grover Washington, Jr.**  
+> 앨범: _Winelight_  
 
-🔍 검색 키워드: `rnb+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/kill-bill/1657869377?i=1657869393&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/2b/ea/452bead6-c7f5-82d4-f5f7-ec876014b4cc/mzaf_2905911853279084717.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/just-the-two-of-us/321974938?i=321975002&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/b7/06/eeb706c1-c8ef-bc2f-b1e7-9e7932230e79/mzaf_8132450407454153842.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/2b/74/812b74f7-060b-7386-bb02-967cd2cdd78c/mzi.yfyaqhnz.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-26 20:12:55 (UTC)
+⏳ 업데이트 시간: 2026-07-26 22:02:20 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
