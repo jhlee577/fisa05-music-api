@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Dream  
-> 아티스트: **Dyalla**  
-> 앨범: _Video Music, Mega Mix, Vol. 2_  
+## 🎧 Lofi Summer Evening  
+> 아티스트: **Coffe Lofi, Lo-Fi Beats & Chill Hip-Hop Beats**  
+> 앨범: _Lofi Chill Beats, Vol. 2_  
 
-🔍 검색 키워드: `lofi+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `lofi+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-dream/1818268629?i=1818268888&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/34/a9/d634a9c3-61e8-b5ac-7519-c7ea287fa9c3/mzaf_902426845281990804.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/lofi-summer-evening/1506628960?i=1506628966&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c7/45/47/c745476b-05c5-02e6-587d-a92d5f2cc761/mzaf_11931113844546387333.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c7/69/f9c7691a-18f7-df47-88c6-1579404ce1c3/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7a/d1/56/7ad1563f-218b-dbaa-786f-2d290543e8e1/10475.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-26 12:07:30 (UTC)
+⏳ 업데이트 시간: 2026-07-26 14:39:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
