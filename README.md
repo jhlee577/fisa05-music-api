@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hell At Night  
-> 아티스트: **BigXthaPlug & Ella Langley**  
-> 앨범: _Hell At Night - Single_  
+## 🎧 Wind of Change  
+> 아티스트: **Scorpions**  
+> 앨범: _Crazy World_  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hell-at-night/1828244895?i=1828244896&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/dc/7f/d6dc7fb0-55e7-69fd-59b9-3c11b7b4434d/mzaf_1821227612055270665.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/wind-of-change/1440761157?i=1440761801&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/f2/b7/5cf2b755-8c52-23eb-b3c2-0102158b1f5f/mzaf_1703631569254655176.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/f0/76/5df07610-c24f-e25d-34ae-5398fcdbd6db/199479627785_JJdFbic-copy-117c85a3.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/91/8b/82918b5d-2388-d8ea-ae9e-45c8222baf25/06UMGIM03503.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-29 23:01:31 (UTC)
+⏳ 업데이트 시간: 2026-07-30 02:46:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
