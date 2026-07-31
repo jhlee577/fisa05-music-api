@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **BTS**  
-> 앨범: _DARK&WILD_  
+## 🎧 luther  
+> 아티스트: **Kendrick Lamar**  
+> 앨범: _GNX_  
 
-🔍 검색 키워드: `kpop+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/1597016856?i=1597017220&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/78/8f/1f/788f1f30-4ef1-6636-254d-eeb4d8c410b7/mzaf_10455926999264557055.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/luther/1781270319?i=1781270323&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/1d/98/e01d9881-0953-f0ed-b03d-3a4bd6f3c769/mzaf_8283505998481315852.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/39/97/f2399713-b036-7ef2-fb4f-8c1454569c66/8804775056895_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-31 21:11:26 (UTC)
+⏳ 업데이트 시간: 2026-07-31 23:06:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
