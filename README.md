@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **TAEMIN**  
-> 앨범: _MOVE - The 2nd Album_  
+## 🎧 Rain  
+> 아티스트: **マドンナ**  
+> 앨범: _Erotica_  
 
-🔍 검색 키워드: `kpop+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rock+rain`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/love/1296637194?i=1296637200&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4b/f6/6c/4bf66c71-d1fd-b30e-1107-bc37c0f91360/mzaf_15862465114888926341.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/rain/80814761?i=80814651&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d5/bf/44/d5bf4473-a92f-dab5-0fd8-43f67d73e53a/mzaf_14238482513083239805.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/69/e4/0b/69e40bc2-95b8-696c-69c7-edd9445380a7/4000px.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/da/07/aeda0763-09a6-9245-f710-6425f1dc7b80/mzi.jqoxkukr.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-07-31 04:25:55 (UTC)
+⏳ 업데이트 시간: 2026-07-31 07:53:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
