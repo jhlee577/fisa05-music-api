@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Summer  
-> 아티스트: **Envidia**  
-> 앨범: _La Voz Mala_  
+## 🎧 Love  
+> 아티스트: **Brown Eyed Girls**  
+> 앨범: _With L.O.V.E Brown Eyed Girls_  
 
-🔍 검색 키워드: `instrumental+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/instrumental-summer/1127793338?i=1127793808&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview60/v4/7c/49/5d/7c495dbb-b35f-3c1e-6cd6-56bbb5fe9f1f/mzaf_2053477248726111185.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love/365430104?i=365430197&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ed/22/58/ed22584a-5d72-00ed-0dd8-505b3e837e28/mzaf_16342566057704934623.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e8/f8/bc/e8f8bccf-103e-b5d3-0893-d12bfa78ce4a/190374890526.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/64/f8/b9/64f8b962-8d45-919e-fbf9-929162445679/mzi.otpsqmhh.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-01 17:05:04 (UTC)
+⏳ 업데이트 시간: 2026-08-01 19:16:23 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
