@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer Afternoon Bossa  
-> 아티스트: **Cafe Music BGM Channel**  
-> 앨범: _Summer Jazz_  
+## 🎧 Midnight Coffee  
+> 아티스트: **Lofi Watermelon, LoFi Study Music & Lofi Chill and Study**  
+> 앨범: _Lofi Night - EP_  
 
-🔍 검색 키워드: `instrumental+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `lofi+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer-afternoon-bossa/1519876736?i=1519876989&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0d/8b/be/0d8bbec9-68ea-c8e7-f8d4-3c5e644914b6/mzaf_16694445670057211629.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/midnight-coffee/1683296801?i=1683296803&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/24/a4/f2/24a4f2de-5c29-aff8-4685-a111c984eb34/mzaf_11858274126764389502.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/06/02/37/06023709-f4cb-e836-0926-c890d068c4ea/859740211548_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/6b/95/786b958f-dd13-cf71-6234-05c784208658/4066004554143_3000.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-02 14:37:53 (UTC)
+⏳ 업데이트 시간: 2026-08-02 16:03:14 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
