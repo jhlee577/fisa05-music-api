@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Midnight Coffee  
-> 아티스트: **Lofi Watermelon, LoFi Study Music & Lofi Chill and Study**  
-> 앨범: _Lofi Night - EP_  
+## 🎧 Cleansing Rain  
+> 아티스트: **Nature Sounds Unplugged**  
+> 앨범: _Acoustic Rain_  
 
-🔍 검색 키워드: `lofi+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/midnight-coffee/1683296801?i=1683296803&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/24/a4/f2/24a4f2de-5c29-aff8-4685-a111c984eb34/mzaf_11858274126764389502.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/cleansing-rain/1451608821?i=1451608824&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/34/90/b1/3490b13c-68f9-ade7-eb4f-51d2bc0f80c5/mzaf_12727446469338692019.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/6b/95/786b958f-dd13-cf71-6234-05c784208658/4066004554143_3000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/1f/5c/8a1f5c23-8a29-609d-ba99-5fe23329eea1/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-02 16:03:14 (UTC)
+⏳ 업데이트 시간: 2026-08-02 18:01:51 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
