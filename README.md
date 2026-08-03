@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Emeli Sandé**  
-> 앨범: _Our Version of Events (Special Edition)_  
+## 🎧 Deeper Sleep  
+> 아티스트: **Pop Rain**  
+> 앨범: _Rain and Nature Sounds for Relaxation, Meditation, Sleep, Study, Yoga, Serenity, Harmony and Therapy._  
 
-🔍 검색 키워드: `rock+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `pop+rain`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/724605000?i=724605960&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/6f/62/bf6f62d4-6c95-84c3-c47a-358cd95bac6d/mzaf_9019584817412231486.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/deeper-sleep/1038504469?i=1038504479&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d1/4c/3a/d14c3ae4-d497-a546-58b3-0e0a4d20cf27/mzaf_3831101119921559025.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/96/25/f796253e-839b-79b4-a2a0-67fa78e029c9/13ULAIM77159.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/42/b6/4142b67d-d058-7e02-e7b3-ba445a320e39/mzm.eblmhqec.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-03 17:11:41 (UTC)
+⏳ 업데이트 시간: 2026-08-03 19:44:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
