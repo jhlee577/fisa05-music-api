@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 ラブポップ  
-> 아티스트: **SIX LOUNGE**  
-> 앨범: _THE BULB_  
+## 🎧 SAD!  
+> 아티스트: **Lofi Fruits Music & Chill Fruits Music**  
+> 앨범: _Lofi Sad Mood - EP_  
 
-🔍 검색 키워드: `pop+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%83%A9%E3%83%96%E3%83%9D%E3%83%83%E3%83%97/1487400760?i=1487400783&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/14/1a/f0/141af082-43b3-1d86-1899-643804293786/mzaf_13441869077156161843.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sad/1576880137?i=1576880155&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/b1/8c/31b18caa-2dce-5099-0b25-2c351be753a7/mzaf_7976599371796151651.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1c/f3/49/1cf349da-471a-f882-3a51-b9ff3e1bd8a7/19UM1IM00227.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3b/72/dc/3b72dcea-8ae0-691f-7098-b40f2206d5b3/190296578038.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-03 21:09:09 (UTC)
+⏳ 업데이트 시간: 2026-08-03 23:07:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
