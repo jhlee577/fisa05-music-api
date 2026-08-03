@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Seigfried  
-> 아티스트: **Frank Ocean**  
-> 앨범: _Blonde_  
+## 🎧 Hope  
+> 아티스트: **Emeli Sandé**  
+> 앨범: _Our Version of Events (Special Edition)_  
 
-🔍 검색 키워드: `ballad+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rock+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/seigfried/1146195596?i=1146195726&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/94/85/0b94851e-6e4f-e392-376d-68e7b4d0f3f1/mzaf_6343847557151544443.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hope/724605000?i=724605960&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/6f/62/bf6f62d4-6c95-84c3-c47a-358cd95bac6d/mzaf_9019584817412231486.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/96/25/f796253e-839b-79b4-a2a0-67fa78e029c9/13ULAIM77159.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-03 14:50:00 (UTC)
+⏳ 업데이트 시간: 2026-08-03 17:11:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
