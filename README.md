@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **mikah**  
-> 앨범: _Homesick - Single_  
+## 🎧 Acoustic Summer  
+> 아티스트: **midkeys & Ladina Viva**  
+> 앨범: _Acoustic Summer - Single_  
 
-🔍 검색 키워드: `rnb+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `acoustic+summer`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/dream/1849857706?i=1849857709&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/92/05/a1920587-41a6-2d32-fffd-c30d1f4d95e1/mzaf_13489133652601052264.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-summer/1675147718?i=1675147719&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/85/c1/17/85c11754-cc39-4d2a-5eaa-61243fba10d9/mzaf_4628673323744376129.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/18/07/cc1807d1-74c0-1a77-b3d6-4490f455634c/ANTCD-A0000018571.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/e7/81/1ce7816e-2463-4194-9577-c76a5c2d57ae/197368426303_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-05 02:53:54 (UTC)
+⏳ 업데이트 시간: 2026-08-05 05:49:47 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
