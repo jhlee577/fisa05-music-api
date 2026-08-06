@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Kenya Vaun**  
-> 앨범: _Summer - Single_  
+## 🎧 Happy  
+> 아티스트: **アシャンティ**  
+> 앨범: _Ashanti_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer/1678796056?i=1678796058&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/25/72/992572fd-1ba3-35b0-813f-845f4611ebd8/mzaf_4940392419240947479.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy/1444119785?i=1444119835&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/95/b3/3f/95b33f9b-a048-5f0c-07ee-566bcba00668/mzaf_6999857285878931481.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/1f/04/771f0419-8108-4497-0e85-f30cb21b3cd8/075679690920.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/6d/7c/f66d7c88-329a-29c1-d756-11a6ea134d38/06UMGIM11498.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-06 07:42:30 (UTC)
+⏳ 업데이트 시간: 2026-08-06 10:43:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
