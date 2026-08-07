@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Someone You Loved  
-> 아티스트: **Lewis Capaldi**  
-> 앨범: _Divinely Uninspired To A Hellish Extent_  
+## 🎧 Free  
+> 아티스트: **Rumi, JINU, EJAE, Andrew Choi & KPop Demon Hunters Cast**  
+> 앨범: _KPop Demon Hunters (Soundtrack from the Netflix Film)_  
 
-🔍 검색 키워드: `acoustic+sad`  
+🔍 검색 키워드: `kpop+hope`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/someone-you-loved/1452618876?i=1452619054&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/c8/17/e5c817e2-7830-091f-8686-d6276d5beaeb/mzaf_5586826958480073790.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/free/1820264137?i=1820264339&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/81/f7/b181f733-01ce-32ce-4844-a89be963c758/mzaf_1213739716850540710.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/d7/8f/92d78fb1-df3d-049e-c81d-7022808b151f/19UMGIM02973.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-07 21:43:33 (UTC)
+⏳ 업데이트 시간: 2026-08-07 22:41:17 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
