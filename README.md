@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 아픈 나를  
-> 아티스트: **성시경**  
-> 앨범: _나얼 <Ballad Pop City> - Single_  
+## 🎧 Rain  
+> 아티스트: **SOYOU & BAEKHYUN**  
+> 앨범: _Rain - Single_  
 
-🔍 검색 키워드: `ballad+hope`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `kpop+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/%EC%95%84%ED%94%88-%EB%82%98%EB%A5%BC/1661509210?i=1661509212&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/06/98/99/06989966-184a-ec3f-87c8-5cef51f15fd6/mzaf_13393671339089900588.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/1205766582?i=1205766718&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/77/3b/09/773b099f-26a8-b7b9-cb59-52e08669212c/mzaf_10725572726064579124.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/41/6c/01/416c0130-3f9d-fd34-867e-f8faff36687b/cover_KM0016685_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/7b/ff/367bff2b-85cf-cda1-a4c5-4bd61ffd0ac6/cover-_DS.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-08 10:38:05 (UTC)
+⏳ 업데이트 시간: 2026-08-08 11:33:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
