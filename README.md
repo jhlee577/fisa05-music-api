@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ending Scene  
-> 아티스트: **IU**  
-> 앨범: _Palette_  
+## 🎧 Love  
+> 아티스트: **Keyshia Cole**  
+> 앨범: _The Way It Is_  
 
-🔍 검색 키워드: `kpop+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/ending-scene/1229073300?i=1229073401&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/51/82/d95182d2-5e9c-a590-1913-783b613d3434/mzaf_17869156694979925324.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love/1440667549?i=1440667557&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/ea/73/4aea7383-6b05-4a03-526f-f6555a270075/mzaf_4042681555460665550.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/94/ec/24/94ec2442-5add-d1ca-5eba-37f1298abfbc/cover_KM0005225_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/8a/1e/b38a1ee4-c75f-26cd-ce84-6419cdbc819c/06UMGIM24715.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-08 20:35:19 (UTC)
+⏳ 업데이트 시간: 2026-08-08 21:34:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
