@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hot Summer  
-> 아티스트: **f(x)**  
-> 앨범: _Hot Summer_  
+## 🎧 Hope  
+> 아티스트: **Zayvo**  
+> 앨범: _Share Your Heart - Single_  
 
-🔍 검색 키워드: `kpop+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `hiphop+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/hot-summer/854892762?i=854892830&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/dd/5d/ffdd5dd7-46ae-855d-0712-e82e94cb3610/mzaf_9942619231494113460.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1701795434?i=1701795435&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9b/a5/0f/9ba50f9e-967f-f673-584d-a3b0cd01a260/mzaf_18186752347845984563.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/53/05/165305c5-1b91-4fec-47cd-e8683c168115/asset.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/97/46/6e9746ff-cd90-b2c8-05e7-d96cb162ead1/2062269.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-11 17:01:09 (UTC)
+⏳ 업데이트 시간: 2026-08-11 19:08:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
