@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 HaPpY (HAN)  
-> 아티스트: **Stray Kids & HAN**  
-> 앨범: _SKZ-REPLAY_  
+## 🎧 Here Without You  
+> 아티스트: **3 Doors Down**  
+> 앨범: _The Greatest Hits_  
 
-🔍 검색 키워드: `rock+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `ballad+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy-han/1657537947?i=1657539388&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/57/8f/ec/578fece6-8baf-ae9a-177e-4259d9e287ac/mzaf_4087856100540560397.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/here-without-you/1440830798?i=1440831121&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/92/83/ba9283e1-eca3-32fe-ee0e-40efb1784ed8/mzaf_6633723536355717712.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b8/74/c0/b874c02b-4014-56cd-8a6c-ba456bd7cba7/738676860429_Cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/c1/03/0bc10342-a863-560f-15ef-0348f49d23e6/12UMGIM57106.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-12 04:50:29 (UTC)
+⏳ 업데이트 시간: 2026-08-12 06:17:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
