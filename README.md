@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Wave Sea Tropical Vacation  
-> 아티스트: **Lofi Jazz Terrace**  
-> 앨범: _Lo-Fi Hip-Hop Background Music to Accompany Your Summer café Time._  
+## 🎧 빛  
+> 아티스트: **H.O.T.**  
+> 앨범: _Resurretion - The 3rd Album_  
 
-🔍 검색 키워드: `hiphop+summer`  
+🔍 검색 키워드: `kpop+hope`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/wave-sea-tropical-vacation/6797463279?i=6797463580&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7a/d1/7c/7ad17c91-9466-371b-e4f5-ff4f5dcacd7f/mzaf_13320513849430870758.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/%EB%B9%9B/1060407199?i=1060407446&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/6a/71/eb6a7123-12be-402c-b9be-7e53336bbaac/mzaf_12725283332344095609.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/85/4a/a0854aba-3373-272a-3c83-3cb94238dd9b/4550759193233_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/e1/56/c1/e156c126-7de0-6062-0c6b-00ae19e6cda3/hot_resurrection.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-13 21:51:35 (UTC)
+⏳ 업데이트 시간: 2026-08-13 22:48:39 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
