@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **2NE1**  
-> 앨범: _Crush_  
+## 🎧 La Diabla  
+> 아티스트: **Xavi**  
+> 앨범: _La Diabla - Single_  
 
-🔍 검색 키워드: `kpop+happy`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1317764593?i=1317765253&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/a1/d0/d4a1d07c-9473-cc5f-8093-efa96da2a3f5/mzaf_2935952554729768470.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/la-diabla/1717441506?i=1717441510&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/48/19/3f4819e9-a158-a0ab-a281-2758fedbf1a5/mzaf_9713360141782464156.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/90/c0/d4/90c0d401-f1d2-6540-ea9a-e2ada5ce25e5/2NE1_NEW_ALBUM_Digital_Single.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/ea/1a/4eea1a32-181f-eb3f-5253-ea405b1cf030/196922729812_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-13 06:19:42 (UTC)
+⏳ 업데이트 시간: 2026-08-13 08:24:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
