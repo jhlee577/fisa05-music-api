@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Natural Harmony  
-> 아티스트: **Nature Sounds Unplugged**  
-> 앨범: _Acoustic Rain_  
+## 🎧 Hope  
+> 아티스트: **Kissamilé**  
+> 앨범: _Chillhop Essentials Winter 2021_  
 
-🔍 검색 키워드: `acoustic+rain`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `instrumental+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/natural-harmony/1451608821?i=1451608947&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fd/62/5a/fd625a04-9d04-24e6-5707-99adb0041598/mzaf_17685483844754168438.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1588879005?i=1588879018&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/86/ff/9f86ffc3-f153-6f40-b91e-2fa8f3e72321/mzaf_14114426644810863252.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/1f/5c/8a1f5c23-8a29-609d-ba99-5fe23329eea1/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/5c/40/c45c4093-b4d2-0000-5951-3c3df5712165/745051300951.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-13 11:51:34 (UTC)
+⏳ 업데이트 시간: 2026-08-13 13:22:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
