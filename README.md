@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 빛  
-> 아티스트: **H.O.T.**  
-> 앨범: _Resurretion - The 3rd Album_  
+## 🎧 LOVE  
+> 아티스트: **ZO ZAZZ**  
+> 앨범: _LOVE - Single_  
 
-🔍 검색 키워드: `kpop+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/%EB%B9%9B/1060407199?i=1060407446&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/6a/71/eb6a7123-12be-402c-b9be-7e53336bbaac/mzaf_12725283332344095609.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love/1816620177?i=1816620178&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/9c/99/6b9c9942-a540-6b12-046d-c112d55353b7/mzaf_10695681799894021998.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/e1/56/c1/e156c126-7de0-6062-0c6b-00ae19e6cda3/hot_resurrection.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/f9/bd/d7f9bdec-f75b-9fc7-7940-98854caae498/cover_KM0022863_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-13 22:48:39 (UTC)
+⏳ 업데이트 시간: 2026-08-13 23:47:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
