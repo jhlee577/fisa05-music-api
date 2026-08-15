@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 You're Still the One  
-> 아티스트: **Shania Twain**  
-> 앨범: _Come On Over_  
+## 🎧 DREAM  
+> 아티스트: **SEVENTEEN**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `ballad+hope`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rock+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/youre-still-the-one/1445668706?i=1445669197&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/0a/20/3c0a20c5-7fce-adf6-cb4e-95c76f3f13b9/mzaf_8666447038678467880.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/music-video/dream/1652052237?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/d5/f3/d3/d5f3d3e7-2b26-5318-72ab-6fb9c93ce467/mzvf_18431944048556971312.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/2f/98/1e2f98c2-3fa6-9601-9825-6a6d19a99cf3/06UMGIM07033.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-15 05:29:00 (UTC)
+⏳ 업데이트 시간: 2026-08-15 06:45:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
