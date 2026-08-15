@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Ballad of Sister Sue  
-> 아티스트: **Slowdive**  
-> 앨범: _Just for a Day_  
+## 🎧 LOVE. (feat. Zacari)  
+> 아티스트: **Kendrick Lamar**  
+> 앨범: _DAMN._  
 
-🔍 검색 키워드: `ballad+dream`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/ballad-of-sister-sue/399186360?i=399186401&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a1/63/cc/a163cc81-ab4d-a8ca-9fac-bf934c742751/mzaf_16175240765095712063.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/love-feat-zacari/1440881047?i=1440881708&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/71/89/72718957-3475-8f6f-3685-aedd470ddc20/mzaf_4044691450436775386.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/51/5e/6b/mzi.ibzmksuk.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-15 13:33:34 (UTC)
+⏳ 업데이트 시간: 2026-08-15 14:27:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
