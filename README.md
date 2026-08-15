@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love's Just a Feeling (feat. RuthAnne)  
-> 아티스트: **Lindsey Stirling**  
-> 앨범: _Brave Enough_  
+## 🎧 Rain  
+> 아티스트: **Sleep Token**  
+> 앨범: _Take Me Back To Eden_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rock+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/loves-just-a-feeling-feat-ruthanne/6800384946?i=6800384959&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/33/65/d333658e-adb1-f0ff-9473-8d98e75dee20/mzaf_3271760486497504107.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/1669567703?i=1669569829&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4a/2c/cb/4a2ccb96-2b7f-1fa5-1f5e-090086bf54f2/mzaf_5717728084859552048.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/27/46/442746f6-1300-00b4-bf89-7d2c5e31535f/0.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e2/c6/0f/e2c60f68-7cec-fa08-6dd3-891aa72c247e/5401148000849_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-15 20:27:30 (UTC)
+⏳ 업데이트 시간: 2026-08-15 21:24:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
