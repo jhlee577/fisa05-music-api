@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hiphop Dream  
-> 아티스트: **Dongurizu**  
-> 앨범: _Love_  
+## 🎧 JAZZ DREAM  
+> 아티스트: **DJ NAGASHIMA**  
+> 앨범: _HIHATT5TH - EP_  
 
-🔍 검색 키워드: `hiphop+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hiphop-dream/1471782597?i=1471782766&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/46/4f/93464f56-26fe-8e64-1631-6cd9486f11dd/mzaf_3652334134015137.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/jazz-dream/1535828480?i=1535828902&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2b/ed/9a/2bed9ac0-4723-ddd5-5630-cd612143becf/mzaf_14251571589561942766.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/f0/43/2af043af-cce1-9925-9093-155148180595/859754990668_cover.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a3/55/72/a35572c1-2ff0-db7f-37cb-4744df12c6d6/195497408412.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-16 16:30:24 (UTC)
+⏳ 업데이트 시간: 2026-08-16 17:23:19 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
