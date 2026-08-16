@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Dream  
-> 아티스트: **Minoru Mukaiya**  
-> 앨범: _Tickle the Ivory_  
+## 🎧 Die On This Hill  
+> 아티스트: **SIENNA SPIRO**  
+> 앨범: _Die On This Hill - Single_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-dream/1535035245?i=1535035727&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c8/7c/4b/c87c4bbc-05c1-f438-3d74-d50c995acf6e/mzaf_9918772770625236421.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/die-on-this-hill/1841769601?i=1841769602&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/52/cf/2352cf4b-ba6b-093d-4e93-87e0c93fa85f/mzaf_8444733662699596132.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/bb/08/04bb0837-591e-dbc6-5222-c3a3ded6630b/4560427431048.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/53/d1/f053d15c-e4b0-7577-dc4d-2ab7d192e1b9/25UM1IM42518.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-16 11:23:40 (UTC)
+⏳ 업데이트 시간: 2026-08-16 12:48:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
