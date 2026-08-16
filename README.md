@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 PRISM  
-> 아티스트: **Friday Night Plans, JJJ, STUTS**  
-> 앨범: _PRISM - Single_  
+## 🎧 Jazz Dream  
+> 아티스트: **Belladonna**  
+> 앨범: _Soulful Architechtures_  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `jazz+dream`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/prism/1455808333?i=1455808335&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/c4/a4/d4c4a468-9fcb-27f9-282e-385d1a1e8604/mzaf_4325488295133115125.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/jazz-dream/1472927256?i=1472927268&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/77/d1/a077d193-5441-a930-36ea-44f0f1b7ca36/mzaf_4624281112927666089.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/32/b8/6532b8e7-a548-67cb-5a9b-dc1a684bd6eb/4538182812662_cov.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2e/94/d0/2e94d0b2-d103-6299-1729-44a9c6b201a8/8033237765178.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-16 20:27:49 (UTC)
+⏳ 업데이트 시간: 2026-08-16 21:24:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
