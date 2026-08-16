@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Still Into You  
-> 아티스트: **Paramore**  
-> 앨범: _Paramore_  
+## 🎧 Ballad Dream  
+> 아티스트: **Mauro Rawn**  
+> 앨범: _60 Seconds of Ballads_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/still-into-you/593146366?i=593148441&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/db/60/13/db6013f7-510d-ef12-878b-16feaac842fb/mzaf_7662707399072425562.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/ballad-dream/1842792438?i=1842792469&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/af/ec/edafeca9-2c18-4a77-db6c-9ff6245aea60/mzaf_5624148315064902126.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/cb/9d/32cb9d04-ef0f-93bb-fd2f-19b395785025/075679956187.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/a8/19/31a81963-6f8e-0103-1809-3586af200ad6/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-16 06:47:47 (UTC)
+⏳ 업데이트 시간: 2026-08-16 07:34:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
