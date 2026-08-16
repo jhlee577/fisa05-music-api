@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **The Rolling Stones**  
-> 앨범: _Exile On Main St. (Deluxe Edition with Bonus Videos) [2010 Remaster]_  
+## 🎧 Sad (Instrumental)  
+> 아티스트: **Sonnet**  
+> 앨범: _The World of the Married, Pt. 3 (Original Television Soundtrack) - Single_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `instrumental+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/1441153546?i=1441153749&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/b4/b8/f0b4b844-9415-0eb4-a37f-500a448ca3e7/mzaf_13731028803793604493.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/sad-instrumental/1721099463?i=1721099470&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7b/4c/63/7b4c6372-72b4-b414-3286-f4e44a18ddca/mzaf_17118444037998559737.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/da/fc/7c/dafc7c44-02df-7a48-b133-f021d0eff709/10UMGIM10406.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/3c/40/943c4071-9daa-c289-56e7-5ce49c0379d9/8720205027825.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-16 01:40:40 (UTC)
+⏳ 업데이트 시간: 2026-08-16 03:04:13 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
