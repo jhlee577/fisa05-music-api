@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 PAIN IS BEAUTY  
-> 아티스트: **ちゃんみな**  
-> 앨범: _PAIN IS BEAUTY - Single_  
+## 🎧 Waiting for the Miracle  
+> 아티스트: **Piano Jazz Calming Music Academy**  
+> 앨범: _Romantic Instrumental Piano Songs: Soft Backround, Sad Jazz Music, Dinner for Two in Romantic Restaurant & Sexy Nights_  
 
-🔍 검색 키워드: `hiphop+sad`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `jazz+sad`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/pain-is-beauty/1441463039?i=1441463040&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/76/2f/6f/762f6f41-582f-ef9d-c1b2-079f00c8fa06/mzaf_13054048114755403847.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/waiting-for-the-miracle/1235058222?i=1235058238&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/28/a5/e1/28a5e109-a008-4129-7838-8312c7afa53d/mzaf_14163438174508691446.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/cc/c9/de/ccc9de94-7dc4-ac12-ed1a-65d26ebce5f0/190295510084.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/16/c8/c216c8d6-fff7-3cae-5978-12d714fe2e8a/8134130516864.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-17 16:32:29 (UTC)
+⏳ 업데이트 시간: 2026-08-17 17:30:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
