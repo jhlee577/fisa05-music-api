@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Religiously  
-> 아티스트: **Bailey Zimmerman**  
-> 앨범: _Religiously. The Album._  
+## 🎧 Summer  
+> 아티스트: **久石譲**  
+> 앨범: _ENCORE_  
 
-🔍 검색 키워드: `ballad+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `kpop+summer`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/religiously/1676694377?i=1676694379&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/f0/40/9ff0403d-65dc-bd8d-bb40-817814f6385d/mzaf_3156707630688489563.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/summer/1498699296?i=1498699298&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/b8/91/8eb8910c-236e-fc27-009e-b2903a1f906f/mzaf_9287264986648513327.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/a3/55/1da35509-ea85-d568-d29d-83e464f53ff9/093624856498.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/bc/a9/99bca93c-16f6-6258-d1dd-7ea99f9a57b5/20UMGIM04154.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-17 07:04:13 (UTC)
+⏳ 업데이트 시간: 2026-08-17 08:49:11 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
