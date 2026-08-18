@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love,Dream&Happiness (EXILE BALLAD BEST)  
-> 아티스트: **EXILES**  
-> 앨범: _EXILE BALLAD BEST_  
+## 🎧 sad  
+> 아티스트: **LANY**  
+> 앨범: _mama's boy_  
 
-🔍 검색 키워드: `ballad+dream`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rock+sad`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love-dream-happiness-exile-ballad-best/296503504?i=296503568&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/75/85/ab758521-8b49-7b72-5353-f855be24c1f8/mzaf_6184119987715007443.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad/1525736397?i=1525737082&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9b/9c/12/9b9c1201-243c-9b1e-fc79-57dea2509c8a/mzaf_6876033558164776608.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/6d/ee/d5/mzi.nkfrsdzs.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/d2/ff/96d2ff2e-7e8d-384e-1ee2-14c06f6835e9/20UMGIM33837.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-18 14:37:41 (UTC)
+⏳ 업데이트 시간: 2026-08-18 15:36:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
