@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **We Came As Romans**  
-> 앨범: _Tracing Back Roots_  
+## 🎧 Love,Dream&Happiness (EXILE BALLAD BEST)  
+> 아티스트: **EXILES**  
+> 앨범: _EXILE BALLAD BEST_  
 
-🔍 검색 키워드: `rock+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `ballad+dream`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/663114135?i=663114142&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/de/13/c3de13bb-fca4-1b33-6248-b3ccc7ce9103/mzaf_12422163016959775952.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love-dream-happiness-exile-ballad-best/296503504?i=296503568&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/75/85/ab758521-8b49-7b72-5353-f855be24c1f8/mzaf_6184119987715007443.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/6a/23/3a6a233e-ef85-a6e8-964d-3850f070fdba/886444042383.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/6d/ee/d5/mzi.nkfrsdzs.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-18 13:46:27 (UTC)
+⏳ 업데이트 시간: 2026-08-18 14:37:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
