@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sad  
-> 아티스트: **Maroon 5**  
-> 앨범: _Overexposed (Deluxe Version)_  
+## 🎧 Get A Guitar  
+> 아티스트: **RIIZE**  
+> 앨범: _Get A Guitar - Single_  
 
-🔍 검색 키워드: `hiphop+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+night`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad/1440808308?i=1440808326&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/7a/14/3f7a1451-fdb7-c88f-d84d-531d1e84ec89/mzaf_11288990799415231121.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/get-a-guitar/1702800317?i=1702800318&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/11/a0/ff11a013-8cbf-1aa2-50fc-8b0ef84d9061/mzaf_15511379780054688958.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/5b/95/1b5b95d1-b7f2-f2e9-acb2-22f558017056/12UMGIM26178.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/5d/f4/f05df46a-3490-6b6e-19b7-64ca0d33448a/888735944888.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-19 13:48:36 (UTC)
+⏳ 업데이트 시간: 2026-08-19 14:38:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
