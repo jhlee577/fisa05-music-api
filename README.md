@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **Andy Mineo**  
-> 앨범: _Uncomfortable_  
+## 🎧 Feel It Still  
+> 아티스트: **Portugal. The Man**  
+> 앨범: _Woodstock_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/love/1533118622?i=1533119181&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/41/bf/7841bf60-7fb5-ed2a-4119-4216a7cd419a/mzaf_7656920640593440163.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/feel-it-still/1229315038?i=1229315050&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/7c/dd/637cdd7a-3000-0784-28c7-dcbfe99209c8/mzaf_2191237013429360837.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5a/cf/e5/5acfe5cc-6c0e-7f14-5887-78e12a2e1029/195497137800.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/76/fc/2d/76fc2dba-69ea-2718-012d-962dcb661bf1/075679896933.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-19 22:28:53 (UTC)
+⏳ 업데이트 시간: 2026-08-19 23:26:27 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
