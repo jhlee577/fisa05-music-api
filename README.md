@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 BREAK MY SOUL  
-> 아티스트: **Beyoncé**  
-> 앨범: _RENAISSANCE_  
+## 🎧 Arch & Point  
+> 아티스트: **Miguel**  
+> 앨범: _Kaleidoscope Dream_  
 
 🔍 검색 키워드: `rnb+dream`  
-🌎 국가 스토어: `FR`
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/break-my-soul/1630005298?i=1630005854&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/60/b4/fa60b48b-5906-0a64-6853-92b5c648c953/mzaf_1241862116086704234.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/arch-point/561709112?i=561709122&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/53/d5/3b/53d53b6a-e822-dd6b-1b91-e3891fa496ef/mzaf_4126621140602855921.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/05/05/f3/0505f338-9873-feb4-af7f-27a470405e5f/196589246974.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/56/ac/a156acb2-068e-a616-3e56-86ca656c14ce/886443632943.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-20 19:34:52 (UTC)
+⏳ 업데이트 시간: 2026-08-20 20:38:35 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
