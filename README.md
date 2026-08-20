@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (Oktoberfest Mix)  
-> 아티스트: **Pharrell Williams**  
-> 앨범: _Happy (Oktoberfest Mix) - Single_  
+## 🎧 Rock Dream  
+> 아티스트: **Swear Jar**  
+> 앨범: _How Does It Feel When You Look Up ?_  
 
-🔍 검색 키워드: `pop+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rock+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/happy-oktoberfest-mix/919628184?i=919628212&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/46/5b/82/465b82ee-f7b1-fd5d-366a-eb164d809cb6/mzaf_6521804329652378308.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/rock-dream/1739494501?i=1739494514&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/b4/52/83b452ef-7b6b-80f8-e244-4db233bb32e8/mzaf_10119455795849820529.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/4f/d5/c94fd5a0-8a7e-2d09-6496-9d6198d29998/886444853156.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/35/7b/05357b6e-106c-f2ac-3b91-650d3e9216a3/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-20 01:34:44 (UTC)
+⏳ 업데이트 시간: 2026-08-20 03:00:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
