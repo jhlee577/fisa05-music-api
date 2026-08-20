@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Maybe One Day  
-> 아티스트: **Nature Sounds Unplugged**  
-> 앨범: _Acoustic Rain_  
+## 🎧 Summer  
+> 아티스트: **Marshmello**  
+> 앨범: _Joytime_  
 
-🔍 검색 키워드: `acoustic+rain`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `hiphop+summer`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/maybe-one-day/1451608821?i=1451608825&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/ce/12/6cce12bc-ef57-008e-67b1-0f389b730da4/mzaf_11021752259828425469.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer/1072189405?i=1072189411&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bc/38/22/bc382203-d971-0a38-affe-135db79350bc/mzaf_5944074797487779607.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/1f/5c/8a1f5c23-8a29-609d-ba99-5fe23329eea1/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/8e/f8/668ef8f0-53f1-56b8-9396-7923094b55f4/859716236469_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-20 14:40:08 (UTC)
+⏳ 업데이트 시간: 2026-08-20 15:37:40 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
