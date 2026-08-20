@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Natural Sleep Blue Oasis**  
-> 앨범: _Prime New Age Music - Delta Sleep Isochronic Solutions 432 Hz_  
+## 🎧 ラヴ  
+> 아티스트: **ミュージック・ソウルチャイルド**  
+> 앨범: _Aijuswanaseing_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `rnb+love`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/instrumental-night/1360310978?i=1360312031&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e0/e5/6b/e0e56b39-eb1d-2bdb-3ca4-faf363a8ebda/mzaf_6955493010572880834.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%83%A9%E3%83%B4/1440921030?i=1440921200&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/f9/15/2bf915f2-821c-6816-bf66-fd763568b340/mzaf_3727640818341949948.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/99/b0/49/99b049c1-d6e9-a5f8-b591-eed8e3018b3c/8033772914918.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/43/32/fe433231-b094-83d7-63e4-0507e8b11b5e/06UMGIM08895.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-20 10:35:12 (UTC)
+⏳ 업데이트 시간: 2026-08-20 11:30:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
