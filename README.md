@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **f(x)**  
-> 앨범: _Pinocchio - The 1st Album_  
+## 🎧 BREAK MY SOUL  
+> 아티스트: **Beyoncé**  
+> 앨범: _RENAISSANCE_  
 
-🔍 검색 키워드: `kpop+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rnb+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love/854892507?i=854892546&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/83/60/698360cb-20d2-a3ef-929e-32ccf65784b3/mzaf_13790479094996739331.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/break-my-soul/1630005298?i=1630005854&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/60/b4/fa60b48b-5906-0a64-6853-92b5c648c953/mzaf_1241862116086704234.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/e3/00/b6/e300b69b-da35-47c5-2dbd-84713ac9b209/asset.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/05/05/f3/0505f338-9873-feb4-af7f-27a470405e5f/196589246974.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-20 18:46:46 (UTC)
+⏳ 업데이트 시간: 2026-08-20 19:34:52 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
