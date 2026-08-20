@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 ラヴ  
-> 아티스트: **ミュージック・ソウルチャイルド**  
-> 앨범: _Aijuswanaseing_  
+## 🎧 Lofi Dream  
+> 아티스트: **City Lofi Club**  
+> 앨범: _Eternal Sunshine of the Spotless Mind_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `lofi+dream`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%83%A9%E3%83%B4/1440921030?i=1440921200&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/f9/15/2bf915f2-821c-6816-bf66-fd763568b340/mzaf_3727640818341949948.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/lofi-dream/1664130199?i=1664130206&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/77/a7/06/77a70693-cb21-760a-7444-1ffe2e7d883b/mzaf_15316040945789108388.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/43/32/fe433231-b094-83d7-63e4-0507e8b11b5e/06UMGIM08895.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/ae/9b/9cae9bc8-2883-701b-afa2-bb97e94f3a91/S_A7316217103407.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-20 11:30:56 (UTC)
+⏳ 업데이트 시간: 2026-08-20 12:57:41 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
