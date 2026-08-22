@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 ただ・・・逢いたくて (EXILE BALLAD BEST)  
-> 아티스트: **EXILE**  
-> 앨범: _EXILE BALLAD BEST_  
+## 🎧 Everything Is In Order  
+> 아티스트: **Eric Bellinger**  
+> 앨범: _Eric Bellinger_  
 
-🔍 검색 키워드: `ballad+happy`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rnb+dream`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E3%81%9F%E3%81%A0-%E9%80%A2%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6-exile-ballad-best/296503504?i=296503589&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/23/c5/4b/23c54b8d-db7d-64c0-c990-5e2922f0b600/mzaf_6833822060869314733.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/everything-is-in-order/6776700986?i=6776701107&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f1/ea/29/f1ea29cf-dd7a-aeb2-0a53-0369b79ba191/mzaf_18123403006229371093.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/6d/ee/d5/mzi.nkfrsdzs.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/1e/f4/f51ef488-2d0d-6c1b-451a-287617c81813/26UMGIM65588.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-22 17:24:41 (UTC)
+⏳ 업데이트 시간: 2026-08-22 18:36:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
