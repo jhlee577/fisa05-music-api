@@ -7,7 +7,7 @@
 > 아티스트: **Jain**  
 > 앨범: _Souldier_  
 
-🔍 검색 키워드: `pop+dream`  
+🔍 검색 키워드: `kpop+dream`  
 🌎 국가 스토어: `FR`
 
 [🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/1402698958?i=1402698964&uo=4)  
@@ -15,7 +15,7 @@
 
 ![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/49/10/ec/4910ec03-06cd-2d55-591a-23a2b9827390/886447178133.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-22 15:25:49 (UTC)
+⏳ 업데이트 시간: 2026-08-22 16:29:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
