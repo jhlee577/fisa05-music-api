@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Lofi Rain  
-> 아티스트: **Pixelchill**  
-> 앨범: _Lofi Rain - EP_  
+## 🎧 Yummy Soft Tune  
+> 아티스트: **Soft Instrumental Jazz Cafe**  
+> 앨범: _Instrumental Happy Jazz_  
 
-🔍 검색 키워드: `lofi+rain`  
+🔍 검색 키워드: `instrumental+happy`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/lofi-rain/1779695792?i=1779695793&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/b3/b9/cdb3b9f8-835c-6eb6-d868-75c8693c1854/mzaf_4757447712496245426.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/yummy-soft-tune/1545946972?i=1545946977&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/71/a4/35/71a4355b-3f65-80e0-9b94-44ffd7f15977/mzaf_13993535145371113519.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/99/13/52991325-a096-42a8-d8b0-860fd01f6b75/4582649384025.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/b9/3c/71b93cdd-02e6-2994-015a-1c77ee3e1a20/5059741026331_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-22 02:58:17 (UTC)
+⏳ 업데이트 시간: 2026-08-22 03:49:01 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
