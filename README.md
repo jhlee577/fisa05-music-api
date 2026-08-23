@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope (Hoffnung)  
-> 아티스트: **Johannes Oerding**  
-> 앨범: _Sing meinen Song: Das Tauschkonzert, Vol. 6 (Deluxe Edition)_  
+## 🎧 LOVE. (FEAT. ZACARI.)  
+> 아티스트: **Kendrick Lamar**  
+> 앨범: _DAMN. COLLECTORS EDITION._  
 
-🔍 검색 키워드: `pop+hope`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `hiphop+love`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope-hoffnung/1458611512?i=1458613118&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/be/13/fcbe13d9-0b1b-f6a4-153c-af0a07db70de/mzaf_1115650355433958993.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/love-feat-zacari/1403517283?i=1403517299&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/5e/02/3d5e02a9-7801-4a64-e1cf-5e9d3b2fb564/mzaf_18389264934706920426.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/84/36/8e/84368ef1-2585-7509-cd54-f397e7a83a54/4251513982642_3000.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/33/13/773313da-f23e-b15e-e110-886f1d8ec0ec/17UM1IM55473.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-23 09:31:59 (UTC)
+⏳ 업데이트 시간: 2026-08-23 10:28:27 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
