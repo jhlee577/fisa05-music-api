@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Sweet Thing  
-> 아티스트: **Cleo Sol**  
-> 앨범: _Gentlewoman_  
+## 🎧 Perfect  
+> 아티스트: **ワン・ダイレクション**  
+> 앨범: _Made In The A.M. (Deluxe Edition)_  
 
-🔍 검색 키워드: `rnb+hope`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `ballad+happy`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sweet-thing/6799813734?i=6799814010&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/40/b7/5540b738-ebbd-12d7-29e9-bdb5b7638c34/mzaf_6799231033475011616.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/perfect/1040170924?i=1040171617&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7c/f2/28/7cf228eb-3d7e-63b6-866e-02046ac0287b/mzaf_6967391765231745117.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/4b/08/424b084b-8779-45f7-7cad-602926bbdb82/859743823069_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/45/ac/db/45acdb3d-1a85-52e3-43d5-195f8f58067d/mzm.qyfviqnb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-24 14:50:52 (UTC)
+⏳ 업데이트 시간: 2026-08-24 15:43:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
