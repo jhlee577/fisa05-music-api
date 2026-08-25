@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy Lofi  
-> 아티스트: **lofi hip hop radio**  
-> 앨범: _Lofi Beats To Chill To_  
+## 🎧 Night  
+> 아티스트: **TAEYEON**  
+> 앨범: _Why - The 2nd Mini Album_  
 
-🔍 검색 키워드: `lofi+happy`  
+🔍 검색 키워드: `kpop+night`  
 🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/happy-lofi/1591846962?i=1591846980&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/c0/ba/79c0ba52-e160-8532-f638-25aeff051464/mzaf_3696969232518199902.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/night/1127320872?i=1127321955&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/23/84/3623841f-f69f-228a-5677-a3c539b9fe3f/mzaf_734102819450166503.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/91/e8/6d/91e86d19-8e63-bb27-fc44-a33a28c8e37b/23431.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/59/d1/d4/59d1d4a5-ea6f-4a6a-0336-1f3f9509686a/ty-digital-cover_w_-web_fix.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-25 10:37:10 (UTC)
+⏳ 업데이트 시간: 2026-08-25 11:32:21 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
