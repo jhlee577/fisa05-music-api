@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Numb  
-> 아티스트: **LINKIN PARK**  
-> 앨범: _Meteora_  
+## 🎧 Lofi Rain (Instrumental)  
+> 아티스트: **LoFi Hip Hop**  
+> 앨범: _Lo-Fi Beats & Treats - Volume 1_  
 
-🔍 검색 키워드: `rock+night`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `lofi+rain`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/numb/528435845?i=528437514&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9f/dd/b3/9fddb3a2-8ae0-b559-5870-b5a1d8bd5946/mzaf_11927911132157428556.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/lofi-rain-instrumental/1458425011?i=1458425239&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/82/c5/d382c52e-cf1f-9bce-c0ed-5f8275b4502a/mzaf_17042829496390090352.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/dd/7d/72/dd7d7259-d27f-5b3e-ce64-9e304d2cb40f/dj.rxzrauer.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/36/a1/78/36a17861-b6af-2945-5a92-4a957da88ebe/3122.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-25 19:35:16 (UTC)
+⏳ 업데이트 시간: 2026-08-25 20:33:48 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
