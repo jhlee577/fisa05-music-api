@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (From "Despicable Me 2")  
-> 아티스트: **Pharrell Williams**  
-> 앨범: _Unknown Album_  
+## 🎧 Chill Lo-fi Hip-Hop Sad Music  
+> 아티스트: **Lesfm & Chillmore**  
+> 앨범: _Chill Lo-fi Hip-Hop Sad Music - Single_  
 
-🔍 검색 키워드: `jazz+happy`  
+🔍 검색 키워드: `hiphop+sad`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/music-video/happy-from-despicable-me-2/793299815?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/chill-lo-fi-hip-hop-sad-music/1558321011?i=1558321012&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/e8/3b/73/e83b73d8-2431-8f13-6911-9d5b9a16b84d/mzaf_16561323019599162401.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cf/c1/c0/cfc1c005-26f7-9b4b-312c-6f503b44bd40/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-26 11:33:33 (UTC)
+⏳ 업데이트 시간: 2026-08-26 13:01:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
