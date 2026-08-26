@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 RnB Love  
-> 아티스트: **Tomeka Williams**  
-> 앨범: _Beautifully Complicated - EP_  
+## 🎧 Hope  
+> 아티스트: **Elijah Hopkins**  
+> 앨범: _Hope - EP_  
 
-🔍 검색 키워드: `rnb+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `instrumental+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rnb-love/1568994212?i=1568994344&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/b5/f8/39b5f8b3-c48e-178d-da47-5a44d6848dd1/mzaf_6881924906818479093.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope/1800328357?i=1800328358&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/ab/fe/d8abfe22-83d5-95f4-6ad7-5ddcb48fc808/mzaf_6024432641113348997.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/30/2a/67302a59-6022-a32a-e8b8-abc514e9b87f/859747992969_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/96/16/9a961603-0c32-f318-98a6-73f59f520577/5059449212920.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-26 16:21:22 (UTC)
+⏳ 업데이트 시간: 2026-08-26 19:06:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
