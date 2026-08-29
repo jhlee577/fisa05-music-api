@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Music for a Good Night's Sleep (Healing Rain Sound)  
-> 아티스트: **Sleepy Nuts**  
-> 앨범: _Music to Regulate the Autonomic Nervous System; Natural Sounds to Induce Sleep. Sleep-Inducing Background Music for Inducing Sleep; Piano Music That Stimulates Alpha Waves for Deep Sleep; Sleep Music That Promotes Relaxation and Restful Sleep._  
+## 🎧 Dream (Instrumental)  
+> 아티스트: **폴킴**  
+> 앨범: _더 킹 : 영원의 군주, Pt. 8 (Original Television Soundtrack) - Single_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `instrumental+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/music-for-a-good-nights-sleep-healing-rain-sound/6801001092?i=6801001264&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/85/9a/5c859a0b-7d15-1d72-6d42-bc7ed36e08cb/mzaf_12481746359854223312.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/dream-instrumental/1619787048?i=1619787308&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e6/1b/94/e61b9457-8b7d-e387-7268-09cc55a24fa7/mzaf_1300173098086460358.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/ff/57/b9ff5721-587a-5ea0-4a92-96127011a947/4550759579884_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/53/da/35/53da355d-8726-ff53-b530-7c708657b99a/8809704415088_Cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-29 14:17:14 (UTC)
+⏳ 업데이트 시간: 2026-08-29 18:14:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
