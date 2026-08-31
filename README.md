@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **SWV**  
-> 앨범: _Release Some Tension_  
+## 🎧 LOVE  
+> 아티스트: **몬스타엑스**  
+> 앨범: _SHAPE of LOVE - EP_  
 
-🔍 검색 키워드: `hiphop+rain`  
+🔍 검색 키워드: `pop+love`  
 🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/album/rain/253640878?i=253641178&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/01/d3/c001d38d-9f82-fe84-c288-54bef5f89706/mzaf_1103427796862771134.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/album/love/1620105010?i=1620105012&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/7c/ca/ae7cca05-1aa5-06b4-c5b5-737337f9e7c5/mzaf_17241601088355172713.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ef/4f/ca/ef4fca9e-0fa0-c40e-9134-1760f2e01119/cover_KM0015103_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-08-31 16:56:10 (UTC)
+⏳ 업데이트 시간: 2026-08-31 21:51:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
