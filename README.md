@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Sleep Token**  
-> 앨범: _Take Me Back To Eden_  
+## 🎧 Happy (From "Despicable Me 2")  
+> 아티스트: **Pharrell Williams**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `rock+rain`  
+🔍 검색 키워드: `lofi+happy`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/rain/1669567703?i=1669569829&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/47/61/ff47612d-4196-016a-7af3-bc13265d8ea3/mzaf_17671108214412699644.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/music-video/happy-from-despicable-me-2/793299815?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e2/c6/0f/e2c60f68-7cec-fa08-6dd3-891aa72c247e/5401148000849_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-09-03 17:42:44 (UTC)
+⏳ 업데이트 시간: 2026-09-03 20:47:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
