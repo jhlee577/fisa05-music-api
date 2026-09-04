@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Karma  
-> 아티스트: **Summer Walker**  
-> 앨범: _Last Day of Summer_  
+## 🎧 Massage Rain  
+> 아티스트: **Pop Rain**  
+> 앨범: _Rain and Nature Sounds for Relaxation, Meditation, Sleep, Study, Yoga, Serenity, Harmony and Therapy._  
 
-🔍 검색 키워드: `rnb+sad`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/karma/1438765128?i=1438765304&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/89/6d/97896d6d-1e08-b831-e685-a61faa0cdae6/mzaf_14303216261588655727.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/massage-rain/1038504469?i=1038504545&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/d1/3d/9dd13d74-ed01-848e-4ad9-e4311840a00e/mzaf_5961048125330283309.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/42/b6/4142b67d-d058-7e02-e7b3-ba445a320e39/mzm.eblmhqec.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-09-04 20:35:18 (UTC)
+⏳ 업데이트 시간: 2026-09-04 22:54:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
