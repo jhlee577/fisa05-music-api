@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy (Acoustic Version) [From the Movie "Despicable Me 2"]  
-> 아티스트: **Phil Bolton**  
-> 앨범: _Happy (Acoustic Version) [From the Movie "Despicable Me 2"] - Single_  
+## 🎧 Happy (From "Despicable Me 2")  
+> 아티스트: **Pharrell Williams**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `acoustic+happy`  
+🔍 검색 키워드: `kpop+happy`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy-acoustic-version-from-the-movie-despicable-me-2/970367671?i=970368607&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/de/70/e0de706f-0fb9-2da0-dca3-889d525cc557/mzaf_14851701208071690232.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/music-video/happy-from-despicable-me-2/793299815?uo=4)  
+[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/4a/3d/05/4a3d05ed-c135-e21a-f3ed-2a928637dcdf/mzvf_7937826429000002276.1920w.h264lc.U.p.m4v)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/d8/22/87/d8228723-5764-41b5-7847-38dedd8b9c58/cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video20/v4/b5/e5/de/b5e5de20-c631-1eca-cda6-308317932185/dj.nrzjmbii.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-09-07 15:39:40 (UTC)
+⏳ 업데이트 시간: 2026-09-07 19:44:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
