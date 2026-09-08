@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 All That Meat and No Potatoes  
-> 아티스트: **Fats Waller**  
-> 앨범: _Happy Jazz_  
+## 🎧 Eyes Closed  
+> 아티스트: **エド・シーラン**  
+> 앨범: _- (Deluxe)_  
 
-🔍 검색 키워드: `jazz+happy`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `acoustic+sad`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/all-that-meat-and-no-potatoes/1378360070?i=1378361180&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/b2/9d/92b29d0a-ec83-78bd-36bd-07822bbd0c56/mzaf_10674892703677082859.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/eyes-closed/1673804537?i=1673804556&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/ea/17/15ea171d-169b-7ac9-a388-868f68b93a03/mzaf_18169731938001158680.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b2/2a/f9/b22af9e9-41a5-d102-56af-297b2e76b359/9782278091027_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c2/4c/36/c24c3631-08b8-b576-345a-259b395f8dbd/5054197591464.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-09-08 20:57:38 (UTC)
+⏳ 업데이트 시간: 2026-09-08 23:18:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
