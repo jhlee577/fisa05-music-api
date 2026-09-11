@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM  
-> 아티스트: **SEVENTEEN**  
-> 앨범: _Unknown Album_  
+## 🎧 Sunrise  
+> 아티스트: **The Lofi Christian**  
+> 앨범: _Lofi Summer: For Everything There is a Season_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `lofi+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/music-video/dream/1652052237?uo=4)  
-[▶️ 미리 듣기](https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/d5/f3/d3/d5f3d3e7-2b26-5318-72ab-6fb9c93ce467/mzvf_18431944048556971312.1920w.h264lc.U.p.m4v)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sunrise/1626563920?i=1626563922&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/77/87/05/77870578-0be2-f9ff-9c21-bc14277c50ca/mzaf_5840840724470958113.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/cb/fe/2e/cbfe2ecd-ac0b-8672-95c0-490ad2f8f000/22UM1IM23415.crop.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/b7/a3/7ab7a331-c34f-58a9-1af4-7e19b44f29ce/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-09-11 20:45:53 (UTC)
+⏳ 업데이트 시간: 2026-09-11 23:06:22 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
