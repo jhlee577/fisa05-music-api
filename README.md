@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **Beatsteaks**  
-> 앨범: _23 Singles_  
+## 🎧 Acoustic Night  
+> 아티스트: **Ocean Bay Jazz**  
+> 앨범: _Rain Sounds Relaxing Guitar for Sleeping_  
 
-🔍 검색 키워드: `rock+summer`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/summer/1021975106?i=1021975300&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/59/9b/6c599b14-c96c-aa9e-cca8-74ab354176de/mzaf_15551398388245218515.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-night/1564959542?i=1564959797&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b7/25/0c/b7250c4a-d723-073b-36b1-25ef5f0774cc/mzaf_12667805912525725848.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/3a/62/6f/3a626fcf-8f0a-bb5d-7eb4-158bd16ba0e9/825646033591.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/e2/1e/1be21e52-cc4b-f186-0101-ce9bf7b18961/5059805709668_cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-09-13 18:42:59 (UTC)
+⏳ 업데이트 시간: 2026-09-13 21:18:54 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
