@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Hope  
-> 아티스트: **Emeli Sandé**  
-> 앨범: _Our Version of Events (Deluxe Edition)_  
+## 🎧 Butter  
+> 아티스트: **방탄소년단**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `rock+hope`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/hope/1440859230?i=1440860033&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/a5/02/0da502ae-d009-4c65-0c8b-0305b8fe81c3/mzaf_2432670329417737558.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/butter/1626559837?uo=4)  
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/b5/3a/98b53a1d-07f2-072c-3722-a03b9b7e00b4/13UABIM58773.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-09-14 10:27:43 (UTC)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/ad/ed/78/aded788f-8ca6-3d8a-6481-078b6afe49df/Job01b63321-76db-42d8-aee4-2fe1d7b3c903-132333403-PreviewImage_preview_image_26300_video_sdr-Time1653692432303.png/100x100bb.jpg)
+
+⏳ 업데이트 시간: 2026-09-14 16:53:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
