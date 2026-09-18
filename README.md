@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Doop-Do-De-Doop  
-> 아티스트: **Blossom Dearie**  
-> 앨범: _Happy Jazz_  
+## 🎧 Wonderwall (Remastered)  
+> 아티스트: **Oasis**  
+> 앨범: _(What's The Story) Morning Glory? [Deluxe Remastered Edition]_  
 
-🔍 검색 키워드: `jazz+happy`  
+🔍 검색 키워드: `ballad+summer`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/doop-do-de-doop/1378360070?i=1378361174&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0b/c8/ab/0bc8ab5c-46e3-d7ce-57c8-96f7a8bc1595/mzaf_18035427355453887070.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/wonderwall-remastered/1525933483?i=1525933490&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/3c/97/863c9741-2dbd-7ca2-3c88-67e87d504343/mzaf_13259566290948941960.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b2/2a/f9/b22af9e9-41a5-d102-56af-297b2e76b359/9782278091027_cover.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/2e/cb/342ecb17-ef19-816a-4ce5-e60b9ceec161/5051961073164.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-09-17 23:27:16 (UTC)
+⏳ 업데이트 시간: 2026-09-18 04:06:20 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
