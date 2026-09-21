@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Iris  
-> 아티스트: **The Goo Goo Dolls**  
-> 앨범: _Dizzy Up the Girl_  
+## 🎧 Sad  
+> 아티스트: **Sonnet**  
+> 앨범: _The World of the Married Special (Original Television Soundtrack)_  
 
-🔍 검색 키워드: `ballad+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `kpop+sad`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/iris/1109658139?i=1109658204&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/17/35/60173512-3d5c-1d6f-549e-d8ddafa93e07/mzaf_5281658494050788067.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/sad/1721294911?i=1721295187&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a0/52/b7/a052b764-189a-5fb5-0a1f-1ce2d2261e97/mzaf_8751524595692674428.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/ba/49/35ba4966-1714-76b3-9f5e-7f9b0c579c61/8720205028297.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-09-21 04:46:13 (UTC)
+⏳ 업데이트 시간: 2026-09-21 10:32:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
