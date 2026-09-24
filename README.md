@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 夏  
-> 아티스트: **さユり**  
-> 앨범: _ミカヅキの航海_  
+## 🎧 BOSS  
+> 아티스트: **NCT U**  
+> 앨범: _NCT 2018 EMPATHY_  
 
-🔍 검색 키워드: `hiphop+summer`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/%E5%A4%8F/1538114023?i=1538114037&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/c7/ac/59c7ac6c-705f-abc4-1f4c-addcad158748/mzaf_1101721088350527011.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/boss/1358690306?i=1358690826&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/3f/aa/fe3faad3-a34e-e416-d4b4-aba6721a9f70/mzaf_2351369938822571289.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/8c/51/7a8c519d-4042-5d06-ad23-61e7fe154781/jacket_BVCL00795B00Z_550.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/3c/67/4b3c67ba-2721-19ce-424d-6742f420e800/NCT2018_EMPATHY_COVER_4000x4000px_1.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-09-24 18:55:28 (UTC)
+⏳ 업데이트 시간: 2026-09-24 22:09:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
