@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": III. Presto  
-> 아티스트: **르노 카퓌송 & 로잔 체임버 오케스트라**  
-> 앨범: _Unknown Album_  
+## 🎧 Hope (Hoffnung) (aus "Sing meinen Song - die Weihnachtsparty, Vol. 6")  
+> 아티스트: **Michael Patrick Kelly & Johannes Oerding**  
+> 앨범: _Sing meinen Song - Die Weihnachtsparty, Vol. 6_  
 
-🔍 검색 키워드: `rnb+summer`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `pop+hope`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/vivaldi-the-four-seasons-violin-concerto-in-g-minor/1643203716?uo=4)  
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/hope-hoffnung-aus-sing-meinen-song-die-weihnachtsparty/1485560492?i=1485560741&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/99/d4/85/99d4851b-114b-1dc0-d308-ec784edd0afa/mzaf_15581868198658928614.plus.aac.p.m4a)
 
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/34/21/e3/3421e386-2994-0d83-411c-c899bc52d5ac/4251625948482_3000.jpg/100x100bb.jpg)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/4e/27/6a/4e276a10-e42a-11aa-d9af-a4cd97910638/GBAYC2202429.sca1.jpg/100x100bb.jpg)
-
-⏳ 업데이트 시간: 2026-10-02 01:28:05 (UTC)
+⏳ 업데이트 시간: 2026-10-02 08:13:49 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
