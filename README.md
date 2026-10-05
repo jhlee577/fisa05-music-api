@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 midsummer pipe dream  
-> 아티스트: **Guitarricadelafuente & Troye Sivan**  
-> 앨범: _Unknown Album_  
+## 🎧 Rain  
+> 아티스트: **Somnolent**  
+> 앨범: _Allure_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `instrumental+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/midsummer-pipe-dream-video-oficial/1828393642?uo=4)  
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/1714150926?i=1714150927&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/e3/ae/ffe3ae9c-1551-9445-83fe-c94a7b472fba/mzaf_16789739515046797016.plus.aac.p.m4a)
 
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/f5/9d/19f59dcb-b1a1-7706-8dbb-08d02fef259a/artwork.jpg/100x100bb.jpg)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/41/10/6b/41106b63-f1dd-9ec2-00eb-a50ac247b9eb/1968734073190101.jpg/100x100bb.jpg)
-
-⏳ 업데이트 시간: 2026-10-05 15:44:47 (UTC)
+⏳ 업데이트 시간: 2026-10-05 22:25:25 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
