@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Somnolent**  
-> 앨범: _Allure_  
+## 🎧 Happy Jazz  
+> 아티스트: **HitsLab**  
+> 앨범: _Jazz Elevator Music_  
 
-🔍 검색 키워드: `instrumental+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `jazz+happy`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/1714150926?i=1714150927&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/e3/ae/ffe3ae9c-1551-9445-83fe-c94a7b472fba/mzaf_16789739515046797016.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy-jazz/1717186451?i=1717186733&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ef/64/5a/ef645afa-9d05-31fb-6457-e1efeee230b9/mzaf_11317766422031508159.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/f5/9d/19f59dcb-b1a1-7706-8dbb-08d02fef259a/artwork.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/d3/a7/18d3a7cd-96ae-14bd-dd84-7d448b00a703/198026465610.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-05 22:25:25 (UTC)
+⏳ 업데이트 시간: 2026-10-06 02:48:04 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
