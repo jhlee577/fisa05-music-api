@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer  
-> 아티스트: **JANNABI**  
-> 앨범: _Monkey Hotel_  
+## 🎧 Golden  
+> 아티스트: **HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast**  
+> 앨범: _Golden (from the Netflix film KPop Demon Hunters) - Single_  
 
-🔍 검색 키워드: `rock+summer`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `instrumental+rain`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/summer/1140706507?i=1140706729&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/43/de/c343def8-e0d9-a2db-2bea-7b466de9a89f/mzaf_17903610261490262800.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/golden-lyric-video/1824325143?uo=4)  
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/d9/0b/30d90b00-84b7-4e9b-1452-823049e36d09/COVER-_JANNABI.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-06 21:30:33 (UTC)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f5/14/9d/f5149d1b-a20b-a20d-633c-a2429c212e2e/25UMGIM87599.crop.jpg/100x100bb.jpg)
+
+⏳ 업데이트 시간: 2026-10-07 01:18:59 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
