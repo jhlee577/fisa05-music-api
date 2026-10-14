@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **Roy Orbison**  
-> 앨범: _In Dreams_  
+## 🎧 Hope  
+> 아티스트: **ジェイムス・ベイ**  
+> 앨범: _Changes All The Time (Deluxe)_  
 
-🔍 검색 키워드: `rock+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `acoustic+hope`  
+🌎 국가 스토어: `JP`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/997480285?i=997480292&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/60/09/c4600984-d62a-b714-c427-9fa28fc138b3/mzaf_13459372464698492456.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/jp/album/hope/1806682435?i=1806682444&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/53/f1/a053f116-24db-12c9-32e6-5fa3240999b8/mzaf_10755617084495911717.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1d/2e/15/1d2e1524-a3d1-0cf6-15b9-b1917e3fcdce/dj.moxbkdjv.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/2d/67/0b2d67e4-754e-1fdd-3c35-d05ea410c1d1/25UMGIM49834.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-14 01:00:33 (UTC)
+⏳ 업데이트 시간: 2026-10-14 07:19:58 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
