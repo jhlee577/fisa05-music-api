@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 DREAM  
-> 아티스트: **BABYMONSTER**  
-> 앨범: _BABYMONS7ER - EP_  
+## 🎧 Sad  
+> 아티스트: **Maroon 5**  
+> 앨범: _Overexposed_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+sad`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/dream/1737962888?i=1737962895&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/b8/5a/61b85a39-cbc9-05bc-d45a-6604ba46b8c3/mzaf_3408650905793289330.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/sad/1440751484?i=1440751509&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/f8/1b/ebf81b57-1b29-bf47-238c-78b24778bd79/mzaf_3905235181812891692.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8a/a6/b0/8aa6b03c-44c9-0b41-b9b2-7e8d5bb32f70/12UMGIM20010.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-17 19:07:59 (UTC)
+⏳ 업데이트 시간: 2026-10-17 22:04:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
