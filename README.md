@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 ポプサマ  
-> 아티스트: **3JUICY**  
-> 앨범: _ポプサマ - Single_  
+## 🎧 Nobody (feat. Athena Cage)  
+> 아티스트: **Keith Sweat**  
+> 앨범: _Keith Sweat_  
 
-🔍 검색 키워드: `pop+summer`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `rnb+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/%E3%83%9D%E3%83%97%E3%82%B5%E3%83%9E/1731977426?i=1731977427&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/56/15/d7/5615d7f0-9f26-bb6e-87a6-1f6fc6e0543c/mzaf_16077095420132362885.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/nobody-feat-athena-cage/30372370?i=30372603&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/91/09/2a910953-b54f-90df-d627-24e7ea2b48c9/mzaf_12832111096797788418.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/b2/0f/43b20fda-fc06-e553-e267-18c609ed70c0/bigup13775275.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/0a/04/6d0a0471-a0b8-b143-428d-449e600b5516/s06.snrfggjm.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-18 14:23:27 (UTC)
+⏳ 업데이트 시간: 2026-10-18 17:55:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
