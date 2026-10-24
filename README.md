@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Sananda Maitreya**  
-> 앨범: _Introducing The Hardline According To Sananda Maitreya_  
+## 🎧 Instrumental Night  
+> 아티스트: **Jazz Club**  
+> 앨범: _Smooth Sax 26 - Sexy Soft Jazz Relaxation for Romantic Nights_  
 
-🔍 검색 키워드: `rock+rain`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `instrumental+night`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/rain/250551726?i=250551885&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/c9/ec/8ac9ec19-7861-956b-dbc0-c60a4b4c468b/mzaf_6070542832381830133.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/instrumental-night/1449831023?i=1449831169&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/d0/d9/5b/d0d95b51-ea64-fbc4-c431-4f08bb359294/mzaf_984820676218200640.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/39/2a/7e392a35-b671-5bf0-3b6a-b1557677fe78/5099745091126.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/30/41/a93041cc-5b22-d151-9823-1af9da93f05e/8033773007299.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-24 14:22:50 (UTC)
+⏳ 업데이트 시간: 2026-10-24 17:59:44 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
