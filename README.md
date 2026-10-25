@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Instrumental Night  
-> 아티스트: **Yoga for Children Zone**  
-> 앨범: _Yoga Music for Kids & Beginners - Background Music_  
+## 🎧 Love  
+> 아티스트: **MONSTA X**  
+> 앨범: _Shape of Love - EP_  
 
-🔍 검색 키워드: `instrumental+night`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/instrumental-night/1356323136?i=1356323639&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/e0/0f/6e/e00f6e6c-176c-bbe5-3f94-24d4e032a6d6/mzaf_4599560446171695912.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/love/1710210257?i=1710210263&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/73/fa/6873fad8-1576-c9d6-c8e0-e6703df1f8f9/mzaf_14998048776799714210.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a0/89/8d/a0898d94-cb2e-6e56-ba12-8fbb5193c56d/8033772913126.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/a2/57/8fa257ac-764c-04a6-6414-0eddc4f394db/4050538765977.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-25 14:11:57 (UTC)
+⏳ 업데이트 시간: 2026-10-25 18:16:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
