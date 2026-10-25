@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love  
-> 아티스트: **MONSTA X**  
-> 앨범: _Shape of Love - EP_  
+## 🎧 Dream. (좋은 분위기)  
+> 아티스트: **will hyde, Yented & 윤마치**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `kpop+love`  
-🌎 국가 스토어: `FR`
+🔍 검색 키워드: `pop+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/love/1710210257?i=1710210263&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/73/fa/6873fad8-1576-c9d6-c8e0-e6703df1f8f9/mzaf_14998048776799714210.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/dream-%EC%A2%8B%EC%9D%80-%EB%B6%84%EC%9C%84%EA%B8%B0/1826034659?uo=4)  
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/a2/57/8fa257ac-764c-04a6-6414-0eddc4f394db/4050538765977.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-25 18:16:45 (UTC)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/5c/dd/b7/5cddb7af-3f07-2c58-3f47-9fe7857cbf89/Job0a2e1658-f9a0-4c45-a3ef-98f061efabb1-197151233-PreviewImage_preview_image_70000_video_sdr-Time1752220339426.png/100x100bb.jpg)
+
+⏳ 업데이트 시간: 2026-10-25 21:33:45 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
