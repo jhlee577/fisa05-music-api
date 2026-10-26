@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 ARMYRANG²  
-> 아티스트: **방탄소년단**  
-> 앨범: _ARIRANG_  
+## 🎧 Acoustic Summer  
+> 아티스트: **Eliot Vaughan**  
+> 앨범: _Summer Night_  
 
-🔍 검색 키워드: `kpop+sad`  
-🌎 국가 스토어: `KR`
+🔍 검색 키워드: `acoustic+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/armyrang/1868862608?uo=4)  
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/acoustic-summer/1626981745?i=1626982088&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/7a/5a/e37a5a83-88fa-9fc2-76d4-b12d24323eab/mzaf_14763325587686585985.plus.aac.p.m4a)
 
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/61/cb/cf61cb4f-9dc3-472f-e150-573c9adeed86/5904195641961.png/100x100bb.jpg)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a5/57/70/a5577093-bcd8-700e-2c74-f793d2a81bc7/Job1d038e96-962f-43b2-8591-4e1f35d0236e-214073447-PreviewImage_preview_image_45000_video_sdr-Time1768358006611.png/100x100bb.jpg)
-
-⏳ 업데이트 시간: 2026-10-25 23:59:01 (UTC)
+⏳ 업데이트 시간: 2026-10-26 04:32:34 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
