@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain (Instrumental)  
-> 아티스트: **Issues**  
-> 앨범: _Beautiful Oblivion (Instrumental)_  
+## 🎧 Drops of Jupiter (Tell Me)  
+> 아티스트: **Train**  
+> 앨범: _Drops of Jupiter_  
 
-🔍 검색 키워드: `instrumental+rain`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `ballad+hope`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/rain-instrumental/1539393791?i=1539393799&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/56/28/43/562843ae-bc34-41ed-9235-f491a171a384/mzaf_3907057258354327571.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/drops-of-jupiter-tell-me/311629490?i=311629509&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/ac/9d/66ac9dde-e1b8-0f0e-f62c-d1da58197639/mzaf_3991580136101746704.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/47/f2/0a47f2b7-8cf1-a695-d57a-c3128b82e288/4050538658491.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/22/ae/1c22ae8d-a7e7-cfc5-c2c8-ef5b38c9fa03/5099706988823.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-26 17:12:16 (UTC)
+⏳ 업데이트 시간: 2026-10-26 22:29:28 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
