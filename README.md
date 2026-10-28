@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Love (Jazz Hip Hop Instrumental)  
-> 아티스트: **Jazz Hop Nation**  
-> 앨범: _Morning Coffee Commute_  
+## 🎧 Happy  
+> 아티스트: **Tundra Beats**  
+> 앨범: _Good Vibes_  
 
-🔍 검색 키워드: `jazz+love`  
+🔍 검색 키워드: `jazz+happy`  
 🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/jazz-love-jazz-hip-hop-instrumental/1531948892?i=1531949512&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/4e/24/bd4e24d1-4ead-5937-0fd2-db504f7a97a6/mzaf_10627178022987105237.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/happy/1560048586?i=1560048592&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/6a/66/98/6a6698a7-780e-78c8-32d3-2982db2541d0/mzaf_17146663601179456803.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/9d/1e/1a9d1e28-54a5-6de8-76fa-df2117f18a1e/13139.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/53/e6/93/53e69358-5a3a-6020-ad82-0e4a2b3c43bf/artwork.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-28 18:10:57 (UTC)
+⏳ 업데이트 시간: 2026-10-28 23:02:10 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
