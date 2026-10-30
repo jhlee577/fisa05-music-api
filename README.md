@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Love Like This  
-> 아티스트: **Faith Evans**  
-> 앨범: _Keep the Faith_  
+## 🎧 Who  
+> 아티스트: **지민**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `kpop+love`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/love-like-this/80979591?i=80979120&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/af/32/7aaf328d-3775-ec97-7dd9-9dd8c4bdc2a2/mzaf_7422386269629757091.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/who/1758804992?uo=4)  
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/08/b6/b508b6ce-8f07-6672-2a21-1c4746bc3a3d/mzi.izckjnxv.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-30 05:11:29 (UTC)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8c/26/33/8c263385-de09-04f8-54a5-3b8fe3355ae1/Jobd1b35e81-ab70-40c8-8612-d5a303ab13eb-172329721-PreviewImage_preview_image_36500_video_sdr-Time1721678835280.png/100x100bb.jpg)
+
+⏳ 업데이트 시간: 2026-10-30 12:30:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
