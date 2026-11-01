@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **Shawn Mendes**  
-> 앨범: _Wonder_  
+## 🎧 Instrumental Love  
+> 아티스트: **Level 42**  
+> 앨범: _B-Sides_  
 
-🔍 검색 키워드: `pop+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `instrumental+love`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/dream/1533345318?i=1533345330&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/d8/4f/5ad84f8d-66a5-38d4-37ad-5e357c708390/mzaf_7117380236325818650.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/instrumental-love/1631471029?i=1631471321&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/71/c5/fb/71c5fb59-0724-99cc-a6fa-873ed2f9b0d5/mzaf_16270745172035357250.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d5/f0/d2/d5f0d270-fc16-5691-d83e-917c067a6561/20UMGIM83351.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/51/0f/7a510f78-9734-1e86-5e3c-44801846e09c/21UM1IM24575.rgb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-10-31 23:13:33 (UTC)
+⏳ 업데이트 시간: 2026-11-01 05:25:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
