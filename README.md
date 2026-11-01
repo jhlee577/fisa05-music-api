@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Rain  
-> 아티스트: **Perfext**  
-> 앨범: _Nobody's Perfect - EP_  
+## 🎧 Give Me Love (Cover)  
+> 아티스트: **Acoustic Hope**  
+> 앨범: _Acoustic Hope - EP_  
 
-🔍 검색 키워드: `rnb+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `acoustic+hope`  
+🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/1862932508?i=1862932510&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/3c/1d/c73c1d74-dca2-b796-3b92-3219642f3a81/mzaf_13758253551252533057.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/give-me-love-cover/1506943854?i=1506943931&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b5/85/60/b58560ba-59c7-0b4a-270a-9f5ce6e139ac/mzaf_14863544288624455373.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/df/c4/57dfc4f3-8483-a69e-5c7f-86efb45462cc/NOBODYs_PERFECT_FRONT_00001_00001.png/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/31/a2/80/31a280c3-8c93-7d2d-49e2-b9484f39b065/rls00092917.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-11-01 18:22:20 (UTC)
+⏳ 업데이트 시간: 2026-11-01 22:38:38 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
