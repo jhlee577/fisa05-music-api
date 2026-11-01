@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 LOVE. (feat. Zacari)  
-> 아티스트: **ケンドリック・ラマー**  
-> 앨범: _DAMN._  
+## 🎧 Rain  
+> 아티스트: **Perfext**  
+> 앨범: _Nobody's Perfect - EP_  
 
-🔍 검색 키워드: `hiphop+love`  
-🌎 국가 스토어: `JP`
+🔍 검색 키워드: `rnb+rain`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/jp/album/love-feat-zacari/1440881047?i=1440881708&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/71/89/72718957-3475-8f6f-3685-aedd470ddc20/mzaf_4044691450436775386.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/rain/1862932508?i=1862932510&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/3c/1d/c73c1d74-dca2-b796-3b92-3219642f3a81/mzaf_13758253551252533057.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/df/c4/57dfc4f3-8483-a69e-5c7f-86efb45462cc/NOBODYs_PERFECT_FRONT_00001_00001.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-11-01 12:58:07 (UTC)
+⏳ 업데이트 시간: 2026-11-01 18:22:20 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
