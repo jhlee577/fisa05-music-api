@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Pain in My Heart  
-> 아티스트: **Sad Instrumental Piano Music Zone**  
-> 앨범: _Sentimental Piano Mood: Most Emotional & Sad Jazz for Broken Heart, 30 Shades of Nostalgic Piano_  
+## 🎧 꿈  
+> 아티스트: **태연**  
+> 앨범: _Unknown Album_  
 
-🔍 검색 키워드: `jazz+sad`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `kpop+dream`  
+🌎 국가 스토어: `KR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/pain-in-my-heart/1373890553?i=1373891050&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/14/37/361437e1-9b47-3e30-5f4e-acaf58aa7b9c/mzaf_7647044227537281128.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/kr/music-video/%EA%BF%88/1721481381?uo=4)  
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/54/37/a6/5437a6f6-fe2b-56d6-edc5-c8ca32c77800/8134130670436.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-11-03 10:38:25 (UTC)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/10/4d/b8/104db822-32f0-76f2-7f0a-64dafc61a5ac/191953324685.jpg/100x100bb.jpg)
+
+⏳ 업데이트 시간: 2026-11-03 18:18:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
