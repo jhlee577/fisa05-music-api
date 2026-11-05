@@ -1,10 +1,21 @@
 
-# 🎵 Daily Music Recommendation
+# 🎵 Music Recommendation
 
-죄송합니다. 추천 곡을 가져오는 데 실패했습니다.  
-조합: `jazz+hope` | 국가: `KR`
+추천 곡은...
 
-⏳ 업데이트 시간: 2026-11-04 21:09:30 (UTC)
+## 🎧 SAD! (Instrumental)  
+> 아티스트: **XXXTENTACION**  
+> 앨범: _? (Deluxe)_  
+
+🔍 검색 키워드: `pop+sad`  
+🌎 국가 스토어: `DE`
+
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/sad-instrumental/1474891456?i=1474891815&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/9a/f1/519af1f2-0c4b-c91c-ffca-c01b04b3b891/mzaf_12227570221781810766.plus.aac.p.m4a)
+
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/49/bb/9349bb3b-317d-57c3-966a-71fa25247dc2/19UMGIM41705.rgb.jpg/100x100bb.jpg)
+
+⏳ 업데이트 시간: 2026-11-05 02:05:08 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
