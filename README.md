@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Jazz Rain  
-> 아티스트: **Yusei Lofi**  
-> 앨범: _Jazzy & Jazz Lofi_  
+## 🎧 Rain  
+> 아티스트: **SWV**  
+> 앨범: _Release Some Tension_  
 
-🔍 검색 키워드: `jazz+rain`  
-🌎 국가 스토어: `DE`
+🔍 검색 키워드: `rnb+rain`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/jazz-rain/1817096700?i=1817096710&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/eb/63/66eb6348-655d-481f-9a06-614caa39592c/mzaf_6020163966310436294.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/rain/253640878?i=253641178&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/01/d3/c001d38d-9f82-fe84-c288-54bef5f89706/mzaf_1103427796862771134.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/94/b6/2e94b699-d0e2-9e53-cf3d-a2b24b6d1ccc/4573694704883.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/f3/b8/47f3b873-57dc-479e-dc71-34b12f082348/mzi.kpgncrjx.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-11-08 16:57:26 (UTC)
+⏳ 업데이트 시간: 2026-11-08 21:02:26 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
