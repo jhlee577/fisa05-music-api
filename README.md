@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Acoustic Dream  
-> 아티스트: **Sweet Babycane**  
-> 앨범: _Acoustic Dream - Sensual Acoustic Guitar to Relax Your Mind_  
+## 🎧 Acoustic Summer  
+> 아티스트: **Phil Larson**  
+> 앨범: _Acoustic Instrumentals_  
 
-🔍 검색 키워드: `acoustic+dream`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `acoustic+summer`  
+🌎 국가 스토어: `GB`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-dream/1705230853?i=1705230854&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ba/17/17/ba171705-c0d7-5ad1-9e7b-9f1dd5c556fd/mzaf_6724650649430522735.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/gb/album/acoustic-summer/1590780404?i=1590780406&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3c/f3/00/3cf30056-a6b9-9fcb-5228-a33f92c5ff36/mzaf_7578102424867959086.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/c5/d7/3bc5d755-8192-a9e4-7e96-ac7de21139e9/8052869221272.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/de/1d/26/de1d265d-f54d-a0a1-9760-e6fca2aea465/198001524998.png/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-11-12 17:27:56 (UTC)
+⏳ 업데이트 시간: 2026-11-12 23:23:43 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
