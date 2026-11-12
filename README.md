@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Dream  
-> 아티스트: **Apink**  
-> 앨범: _HORN_  
+## 🎧 Acoustic Dream  
+> 아티스트: **Sweet Babycane**  
+> 앨범: _Acoustic Dream - Sensual Acoustic Guitar to Relax Your Mind_  
 
-🔍 검색 키워드: `kpop+dream`  
-🌎 국가 스토어: `GB`
+🔍 검색 키워드: `acoustic+dream`  
+🌎 국가 스토어: `US`
 
-[🔗 iTunes에서 보기](https://music.apple.com/gb/album/dream/1609044867?i=1609045027&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/dc/6a/d7dc6a9e-c6c5-62e3-e038-347d8479442e/mzaf_2750355704225138604.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/us/album/acoustic-dream/1705230853?i=1705230854&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ba/17/17/ba171705-c0d7-5ad1-9e7b-9f1dd5c556fd/mzaf_6724650649430522735.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/3f/45/953f45be-4721-d022-e61c-992da252bc7f/cover_KM0014752_1.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/c5/d7/3bc5d755-8192-a9e4-7e96-ac7de21139e9/8052869221272.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-11-12 08:04:30 (UTC)
+⏳ 업데이트 시간: 2026-11-12 17:27:56 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
