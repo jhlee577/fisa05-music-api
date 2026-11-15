@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Get Busy  
-> 아티스트: **Sean Paul**  
-> 앨범: _Dutty Rock (20th Anniversary)_  
+## 🎧 The Power of Love  
+> 아티스트: **Jennifer Rush**  
+> 앨범: _The Power of Love: The Best of Jennifer Rush_  
 
-🔍 검색 키워드: `hiphop+night`  
-🌎 국가 스토어: `US`
+🔍 검색 키워드: `rnb+night`  
+🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/us/album/get-busy/1652781992?i=1652782418&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/b0/f3/65b0f3d9-9882-b43c-bb57-463b0849bf83/mzaf_10506361393973474378.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/the-power-of-love/250561986?i=250562022&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/1b/e1/5c1be11a-6b79-09be-ebd8-16605cb7cda7/mzaf_12880151456289041833.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/82/94/158294c4-e26c-ec66-6cd0-1f017db4359e/603497833917.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music/84/73/57/mzi.vzrgunmp.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-11-14 21:13:48 (UTC)
+⏳ 업데이트 시간: 2026-11-15 01:37:42 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
