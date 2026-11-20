@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Summer (Live)  
-> 아티스트: **Kenya Vaun**  
-> 앨범: _Summer (Live) - Single_  
+## 🎧 Happy  
+> 아티스트: **Tracy Chapman**  
+> 앨범: _Let It Rain_  
 
-🔍 검색 키워드: `rnb+summer`  
+🔍 검색 키워드: `rock+happy`  
 🌎 국가 스토어: `FR`
 
-[🔗 iTunes에서 보기](https://music.apple.com/fr/album/summer-live/1710302393?i=1710302399&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/f6/35/aef635c0-d74b-105b-304f-7e01d6993662/mzaf_16822522468501471686.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/fr/album/happy/293102735?i=293102896&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/1b/68/091b6881-dfa1-6007-14a2-4ee5fcdbcc7d/mzaf_14257614315265118530.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/ef/88/bcef887d-3fb3-8e76-b3c4-3a234b99685e/075679666680.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/57/30/61/573061c6-ce4c-04d3-2853-348df40812e2/mzi.boteiqvb.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-11-20 02:53:52 (UTC)
+⏳ 업데이트 시간: 2026-11-20 11:09:03 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
