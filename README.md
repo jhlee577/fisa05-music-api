@@ -3,19 +3,19 @@
 
 추천 곡은...
 
-## 🎧 Happy  
-> 아티스트: **Ashanti**  
-> 앨범: _Ashanti_  
+## 🎧 Ballad Dream  
+> 아티스트: **Mauro Rawn**  
+> 앨범: _60 Seconds of Ballads_  
 
-🔍 검색 키워드: `rnb+happy`  
+🔍 검색 키워드: `ballad+dream`  
 🌎 국가 스토어: `DE`
 
-[🔗 iTunes에서 보기](https://music.apple.com/de/album/happy/1444119785?i=1444119835&uo=4)  
-[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/fb/7e/c1fb7e9c-17ac-1c36-c6aa-9b633a637eff/mzaf_9227108919817589120.plus.aac.p.m4a)
+[🔗 iTunes에서 보기](https://music.apple.com/de/album/ballad-dream/1842792438?i=1842792469&uo=4)  
+[▶️ 미리 듣기](https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/af/ec/edafeca9-2c18-4a77-db6c-9ff6245aea60/mzaf_5624148315064902126.plus.aac.p.m4a)
 
-![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/6d/7c/f66d7c88-329a-29c1-d756-11a6ea134d38/06UMGIM11498.rgb.jpg/100x100bb.jpg)
+![앨범 아트워크](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/a8/19/31a81963-6f8e-0103-1809-3586af200ad6/cover.jpg/100x100bb.jpg)
 
-⏳ 업데이트 시간: 2026-11-20 19:49:54 (UTC)
+⏳ 업데이트 시간: 2026-11-21 01:14:27 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
